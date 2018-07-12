@@ -11,7 +11,25 @@ public object CommandParameter { get;  set; }
 
 ## -description
 
+Gets or sets the parameter to pass to the Command property.
+
+## -xaml-syntax
+
+```xaml
+<SwipeItem>
+  <SwipeItem.CommandParameter>
+    object
+  </SwipeItem.CommandParameter>
+</SwipeItem>
+```
+
+```xaml
+<SwipeItem CommandParameter="objectAsString"/>
+```
+
 ## -property-value
+
+The parameter to pass to the Command property. The default is **null**.
 
 ## -remarks
 

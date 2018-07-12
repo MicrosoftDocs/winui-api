@@ -11,7 +11,11 @@ public DependencyProperty MaxValueProperty { get; }
 
 ## -description
 
+Identifies the MaxValue dependency property.
+
 ## -property-value
+
+The identifier for the MaxValue dependency property.
 
 ## -remarks
 

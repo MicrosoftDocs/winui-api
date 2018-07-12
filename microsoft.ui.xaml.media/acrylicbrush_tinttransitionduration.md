@@ -11,7 +11,11 @@ public TimeSpan TintTransitionDuration { get;  set; }
 
 ## -description
 
+Gets or sets the length of the automatic transition animation used when the TintColor changes.
+
 ## -property-value
+
+The length of the automatic transition animation used when the TintColor changes.
 
 ## -remarks
 

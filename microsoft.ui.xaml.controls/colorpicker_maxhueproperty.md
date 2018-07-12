@@ -11,7 +11,11 @@ public DependencyProperty MaxHueProperty { get; }
 
 ## -description
 
+Identifies the MaxHue dependency property.
+
 ## -property-value
+
+The identifier for the MaxHue dependency property.
 
 ## -remarks
 

@@ -11,7 +11,11 @@ public DependencyProperty ComponentsProperty { get; }
 
 ## -description
 
+Identifies the Components dependency property.
+
 ## -property-value
+
+The identifier for the Components dependency property.
 
 ## -remarks
 

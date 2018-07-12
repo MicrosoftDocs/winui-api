@@ -11,6 +11,8 @@ public class NavigationViewItemHeader : NavigationViewItemBase, NavigationViewIt
 
 ## -description
 
+Represents a header for a group of menu items in a NavigationMenu.
+
 ## -remarks
 
 ## -see-also

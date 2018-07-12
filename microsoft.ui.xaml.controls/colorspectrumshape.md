@@ -11,10 +11,17 @@ public enum ColorSpectrumShape : int
 
 ## -description
 
+Defines constants that specify how the [ColorSpectrum](colorspectrum.md) control is shown.
+
 ## -enum-fields
+
 ### -field Ring:1
 
+The [ColorSpectrum](colorspectrum.md) control is shown as a circle.
+
 ### -field Box:0
+
+The [ColorSpectrum](colorspectrum.md) control is shown as a square.
 
 ## -remarks
 

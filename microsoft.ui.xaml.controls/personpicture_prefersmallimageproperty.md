@@ -11,7 +11,11 @@ public DependencyProperty PreferSmallImageProperty { get; }
 
 ## -description
 
+Identifies the PreferSmallImage dependency property.
+
 ## -property-value
+
+The identifier for the PreferSmallImage dependency property.
 
 ## -remarks
 

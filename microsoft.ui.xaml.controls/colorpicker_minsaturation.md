@@ -11,9 +11,21 @@ public int MinSaturation { get;  set; }
 
 ## -description
 
+Gets or sets the minimum Saturation value in the range 0-100.
+
+## -xaml-syntax
+
+```xaml
+<ColorPicker MinSaturation="int" .../>
+```
+
 ## -property-value
 
+The minimum Saturation value in the range 0-100. The default is 100.
+
 ## -remarks
+
+The valid range for Saturation values is 0-100. Setting a value outside of this range will cause an exception.
 
 ## -see-also
 

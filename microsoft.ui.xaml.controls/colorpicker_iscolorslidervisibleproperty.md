@@ -11,7 +11,11 @@ public DependencyProperty IsColorSliderVisibleProperty { get; }
 
 ## -description
 
+Identifies the IsColorSliderVisible dependency property.
+
 ## -property-value
+
+The identifier for the IsColorSliderVisible dependency property.
 
 ## -remarks
 

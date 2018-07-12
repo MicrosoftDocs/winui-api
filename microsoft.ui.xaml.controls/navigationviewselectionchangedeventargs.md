@@ -11,6 +11,8 @@ public class NavigationViewSelectionChangedEventArgs
 
 ## -description
 
+Provides data for the [NavigationView.SelectionChanged](navigationview_selectionchanged.md) event.
+
 ## -remarks
 
 ## -see-also

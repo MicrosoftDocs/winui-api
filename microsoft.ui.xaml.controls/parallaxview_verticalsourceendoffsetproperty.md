@@ -11,7 +11,11 @@ public DependencyProperty VerticalSourceEndOffsetProperty { get; }
 
 ## -description
 
+Identifies the VerticalSourceEndOffset dependency property.
+
 ## -property-value
+
+The identifier for the VerticalSourceEndOffset dependency property.
 
 ## -remarks
 

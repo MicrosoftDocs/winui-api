@@ -11,7 +11,11 @@ public DependencyProperty FontWeightProperty { get; }
 
 ## -description
 
+Gets the identifier for the FontWeight dependency property.
+
 ## -property-value
+
+The identifier for the FontWeight dependency property.
 
 ## -remarks
 

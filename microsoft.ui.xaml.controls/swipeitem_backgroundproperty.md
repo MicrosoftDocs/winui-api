@@ -11,7 +11,11 @@ public DependencyProperty BackgroundProperty { get; }
 
 ## -description
 
+Identifies the Background dependency property.
+
 ## -property-value
+
+The identifier for the Background dependency property.
 
 ## -remarks
 

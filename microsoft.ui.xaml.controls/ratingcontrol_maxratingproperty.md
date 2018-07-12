@@ -11,7 +11,11 @@ public DependencyProperty MaxRatingProperty { get; }
 
 ## -description
 
+Identifies the MaxRating dependency property.
+
 ## -property-value
+
+The identifier for MaxRating dependency property.
 
 ## -remarks
 

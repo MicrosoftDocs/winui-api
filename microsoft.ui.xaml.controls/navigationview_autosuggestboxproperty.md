@@ -11,7 +11,11 @@ public DependencyProperty AutoSuggestBoxProperty { get; }
 
 ## -description
 
+Identifies the AutoSuggestBox dependency property.
+
 ## -property-value
+
+The identifier for the AutoSuggestBox dependency property.
 
 ## -remarks
 

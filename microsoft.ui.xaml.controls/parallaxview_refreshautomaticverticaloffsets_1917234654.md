@@ -11,6 +11,8 @@ public void ParallaxView.RefreshAutomaticVerticalOffsets()
 
 ## -description
 
+Forces the automatically computed vertical offsets to be recomputed.
+
 ## -remarks
 
 ## -see-also

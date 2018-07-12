@@ -11,7 +11,11 @@ public DependencyProperty DataProperty { get; }
 
 ## -description
 
+Identifies the Data dependency property.
+
 ## -property-value
+
+The identifier for the Data dependency property.
 
 ## -remarks
 

@@ -11,7 +11,11 @@ public DependencyProperty UnsetGlyphProperty { get; }
 
 ## -description
 
+Identifies the UnsetGlyph dependency property.
+
 ## -property-value
+
+The identifier for UnsetGlyph dependency property.
 
 ## -remarks
 

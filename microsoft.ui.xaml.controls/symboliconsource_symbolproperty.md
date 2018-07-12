@@ -11,7 +11,11 @@ public DependencyProperty SymbolProperty { get; }
 
 ## -description
 
+Identifies the Symbol dependency property.
+
 ## -property-value
+
+The identifier for the Symbol dependency property.
 
 ## -remarks
 

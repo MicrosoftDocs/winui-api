@@ -11,6 +11,8 @@ public PathIconSource.PathIconSource()
 
 ## -description
 
+Initializes a new instance of the PathIconSource class.
+
 ## -remarks
 
 ## -see-also

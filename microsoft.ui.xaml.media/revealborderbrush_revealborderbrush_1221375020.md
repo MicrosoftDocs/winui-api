@@ -11,6 +11,8 @@ public RevealBorderBrush.RevealBorderBrush()
 
 ## -description
 
+Initializes a new instance of the RevealBorderBrush class.
+
 ## -remarks
 
 ## -see-also

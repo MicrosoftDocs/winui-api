@@ -11,9 +11,18 @@ public event TypedEventHandler BackRequested<NavigationView, NavigationViewBackR
 
 ## -description
 
+Occurs when the back button receives an interaction such as a click or tap.
+
+## -xaml-syntax
+
+```xaml
+<NavigationView BackRequested="eventhandler" />
+```
+
 ## -remarks
 
 ## -see-also
 
-## -examples
+[NavigationViewBackRequestedEventArgs](navigationviewbackrequestedeventargs.md)
 
+## -examples

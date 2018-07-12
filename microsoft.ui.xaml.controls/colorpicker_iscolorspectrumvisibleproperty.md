@@ -11,7 +11,11 @@ public DependencyProperty IsColorSpectrumVisibleProperty { get; }
 
 ## -description
 
+Identifies the IsColorSpectrumVisible dependency property.
+
 ## -property-value
+
+The identifier for the IsColorSpectrumVisible dependency property.
 
 ## -remarks
 

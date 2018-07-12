@@ -11,7 +11,11 @@ public DependencyProperty ImageProperty { get; }
 
 ## -description
 
+Identifies the Image dependency property.
+
 ## -property-value
+
+The identifier for Image dependency property.
 
 ## -remarks
 

@@ -11,7 +11,11 @@ public DependencyProperty BadgeTextProperty { get; }
 
 ## -description
 
+Identifies the BadgeText dependency property.
+
 ## -property-value
+
+The identifier for the BadgeText dependency property.
 
 ## -remarks
 

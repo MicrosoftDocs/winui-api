@@ -11,6 +11,8 @@ public NavigationViewItem.NavigationViewItem()
 
 ## -description
 
+Initializes a new instance of the NavigationViewItem class.
+
 ## -remarks
 
 ## -see-also

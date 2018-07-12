@@ -11,6 +11,14 @@ public event TypedEventHandler ItemInvoked<NavigationView, NavigationViewItemInv
 
 ## -description
 
+Occurs when an item in the menu receives an interaction such a a click or tap.
+
+## -xaml-syntax
+
+```xaml
+<NavigationView ItemInvoked="eventhandler" />
+```
+
 ## -remarks
 
 ## -see-also

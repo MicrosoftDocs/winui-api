@@ -11,7 +11,11 @@ public DependencyProperty ContactProperty { get; }
 
 ## -description
 
+Identifies the Contact dependency property.
+
 ## -property-value
+
+The identifier for the Contact dependency property.
 
 ## -remarks
 

@@ -11,7 +11,11 @@ public DependencyProperty HsvColorProperty { get; }
 
 ## -description
 
+Identifies the HsvColor dependency property.
+
 ## -property-value
+
+The identifier for the HsvColor dependency property.
 
 ## -remarks
 

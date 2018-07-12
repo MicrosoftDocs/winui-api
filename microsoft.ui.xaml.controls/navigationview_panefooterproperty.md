@@ -11,7 +11,11 @@ public DependencyProperty PaneFooterProperty { get; }
 
 ## -description
 
+Identifies the PaneFooter dependency property.
+
 ## -property-value
+
+The identifier for the PaneFooter dependency property.
 
 ## -remarks
 

@@ -11,7 +11,11 @@ public DependencyProperty TintColorProperty { get; }
 
 ## -description
 
+Identifies the TintColor dependency property.
+
 ## -property-value
+
+The identifier for the TintColor dependency property.
 
 ## -remarks
 

@@ -11,7 +11,11 @@ public DependencyProperty IsPaneOpenProperty { get; }
 
 ## -description
 
+Identifies the IsPaneOpen dependency property.
+
 ## -property-value
+
+The identifier for the IsPaneOpen dependency property.
 
 ## -remarks
 

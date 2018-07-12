@@ -11,7 +11,11 @@ public bool IsSettingsSelected { get; }
 
 ## -description
 
+Gets a value that indicates whether the **SelectedItem** is the menu item for Settings.
+
 ## -property-value
+
+**true** if the **SelectedItem** is the menu item for Settings; otherwise, **false**.
 
 ## -remarks
 

@@ -11,7 +11,11 @@ public object SettingsItem { get; }
 
 ## -description
 
+Gets the navigation item that represents the entry point to app settings.
+
 ## -property-value
+
+The item that represents the entry point to app settings.
 
 ## -remarks
 

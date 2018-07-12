@@ -11,7 +11,11 @@ public DependencyProperty IsColorChannelTextInputVisibleProperty { get; }
 
 ## -description
 
+Identifies the IsColorChannelTextInputVisible dependency property.
+
 ## -property-value
+
+The identifier for the IsColorChannelTextInputVisible dependency property.
 
 ## -remarks
 

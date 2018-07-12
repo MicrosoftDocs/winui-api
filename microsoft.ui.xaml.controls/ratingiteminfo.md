@@ -11,6 +11,8 @@ public class RatingItemInfo : DependencyObject, DependencyObject
 
 ## -description
 
+Represents information about the visual states of the elements that represent a rating.
+
 ## -remarks
 
 ## -see-also

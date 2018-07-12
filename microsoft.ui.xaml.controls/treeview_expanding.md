@@ -11,6 +11,8 @@ public event TypedEventHandler Expanding<TreeView, TreeViewExpandingEventArgs>
 
 ## -description
 
+Occurs when a node in the tree starts to expand.
+
 ## -remarks
 
 ## -see-also

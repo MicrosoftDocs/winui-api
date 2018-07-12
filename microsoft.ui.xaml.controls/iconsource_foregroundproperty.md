@@ -11,7 +11,11 @@ public DependencyProperty ForegroundProperty { get; }
 
 ## -description
 
+Identifies the Foreground dependency property.
+
 ## -property-value
+
+The identifier for the Foreground dependency property.
 
 ## -remarks
 

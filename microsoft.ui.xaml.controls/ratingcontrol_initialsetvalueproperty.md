@@ -11,7 +11,11 @@ public DependencyProperty InitialSetValueProperty { get; }
 
 ## -description
 
+Identifies the InitialSetValue dependency property.
+
 ## -property-value
+
+The identifier for InitialSetValue dependency property.
 
 ## -remarks
 

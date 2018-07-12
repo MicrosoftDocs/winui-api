@@ -11,9 +11,21 @@ public bool IsAlphaSliderVisible { get;  set; }
 
 ## -description
 
+Gets or sets a value that indicates whether the slider control for the alpha channel is shown.
+
+## -xaml-syntax
+
+```xaml
+<ColorPicker IsAlphaSliderVisible="bool" .../>
+```
+
 ## -property-value
 
+**true** if the alpha channel slider is shown; otherwise, **false**. The default is **true**.
+
 ## -remarks
+
+The **IsAlphaSliderVisible** and **IsAlphaTextInputVisible** properties are ignored if IsAlphaEnabled is **false**.
 
 ## -see-also
 

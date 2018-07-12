@@ -11,7 +11,17 @@ public bool IsColorChannelTextInputVisible { get;  set; }
 
 ## -description
 
+Gets or sets a value that indicates whether the text input boxes for the color channels are shown.
+
+## -xaml-syntax
+
+```xaml
+<ColorPicker IsColorChannelTextInputVisible="bool" .../>
+```
+
 ## -property-value
+
+**true** if the color channel text input boxes are shown; otherwise, **false**. The default is **true**.
 
 ## -remarks
 

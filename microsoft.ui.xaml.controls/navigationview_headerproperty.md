@@ -11,7 +11,11 @@ public DependencyProperty HeaderProperty { get; }
 
 ## -description
 
+Identifies the Header dependency property.
+
 ## -property-value
+
+The identifier for the Header dependency property.
 
 ## -remarks
 

@@ -11,7 +11,11 @@ public DependencyProperty PreviousColorProperty { get; }
 
 ## -description
 
+Identifies the PreviousColor dependency property.
+
 ## -property-value
+
+The identifier for the PreviousColor dependency property.
 
 ## -remarks
 

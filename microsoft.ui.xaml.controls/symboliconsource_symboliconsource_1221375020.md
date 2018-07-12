@@ -11,6 +11,8 @@ public SymbolIconSource.SymbolIconSource()
 
 ## -description
 
+Initializes a new instance of the SymbolIconSource class.
+
 ## -remarks
 
 ## -see-also

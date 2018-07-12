@@ -11,6 +11,8 @@ public TreeViewList.TreeViewList()
 
 ## -description
 
+Initializes a new instance of the TreeViewList control.
+
 ## -remarks
 
 ## -see-also

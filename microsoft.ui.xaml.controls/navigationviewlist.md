@@ -11,6 +11,8 @@ public class NavigationViewList : ListView, ListView
 
 ## -description
 
+Represents a control that displays menu items in a [NavigationView](navigationview.md) control.
+
 ## -remarks
 
 ## -see-also

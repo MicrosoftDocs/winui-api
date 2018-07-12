@@ -11,6 +11,8 @@ public TreeViewNode.TreeViewNode()
 
 ## -description
 
+Initializes a new instance of the TreeViewNode class.
+
 ## -remarks
 
 ## -see-also

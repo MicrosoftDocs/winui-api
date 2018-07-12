@@ -11,7 +11,11 @@ public ColorPickerHsvChannel ColorChannel { get;  set; }
 
 ## -description
 
+Gets or sets a value that indicates which color channel the slider modifies.
+
 ## -property-value
+
+A value of the enumeration that indicates which color channel the slider modifies.
 
 ## -remarks
 

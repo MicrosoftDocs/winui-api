@@ -11,6 +11,8 @@ public RatingControl.RatingControl()
 
 ## -description
 
+Initializes a new instance of the RatingControl class.
+
 ## -remarks
 
 ## -see-also

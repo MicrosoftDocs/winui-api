@@ -11,7 +11,11 @@ public DependencyProperty MaxSaturationProperty { get; }
 
 ## -description
 
+Identifies the MaxSaturation dependency property.
+
 ## -property-value
+
+The identifier for the MaxSaturation dependency property.
 
 ## -remarks
 

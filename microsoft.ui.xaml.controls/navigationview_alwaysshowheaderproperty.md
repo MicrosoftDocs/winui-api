@@ -11,7 +11,11 @@ public DependencyProperty AlwaysShowHeaderProperty { get; }
 
 ## -description
 
+Identifies the AlwaysShowHeader dependency property.
+
 ## -property-value
+
+The identifier for the AlwaysShowHeader dependency property.
 
 ## -remarks
 

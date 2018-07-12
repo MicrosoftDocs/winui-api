@@ -11,7 +11,17 @@ public int InitialSetValue { get;  set; }
 
 ## -description
 
+Gets or sets the initial set rating value.
+
+## -xaml-syntax
+
+```xaml
+<RatingControl InitialSetValue="int"/>
+```
+
 ## -property-value
+
+The initial set rating value. The default is 1.
 
 ## -remarks
 

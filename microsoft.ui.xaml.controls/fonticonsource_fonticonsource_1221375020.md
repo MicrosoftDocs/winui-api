@@ -11,6 +11,8 @@ public FontIconSource.FontIconSource()
 
 ## -description
 
+Initializes a new instance of the FontIconSource class.
+
 ## -remarks
 
 ## -see-also

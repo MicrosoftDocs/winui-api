@@ -11,7 +11,11 @@ public DependencyProperty PaneToggleButtonStyleProperty { get; }
 
 ## -description
 
+Identifies the PaneToggleButtonStyle dependency property.
+
 ## -property-value
+
+The identifier for the PaneToggleButtonStyle dependency property.
 
 ## -remarks
 

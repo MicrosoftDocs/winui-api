@@ -11,6 +11,14 @@ public class RatingItemImageInfo : RatingItemInfo, RatingItemInfo
 
 ## -description
 
+Represents information about the visual states of image elements that represent a rating.
+
+## -xaml-syntax
+
+```xaml
+<RatingItemImageInfo/>
+```
+
 ## -remarks
 
 ## -see-also

@@ -11,6 +11,8 @@ public ColorPickerSlider.ColorPickerSlider()
 
 ## -description
 
+Initializes a new instance of the ColorPickerSlider class.
+
 ## -remarks
 
 ## -see-also

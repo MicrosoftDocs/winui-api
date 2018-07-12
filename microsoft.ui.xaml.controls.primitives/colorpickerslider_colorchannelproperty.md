@@ -11,7 +11,11 @@ public DependencyProperty ColorChannelProperty { get; }
 
 ## -description
 
+Identifies the ColorChannel dependency property.
+
 ## -property-value
+
+The identifier for the ColorChannel dependency property.
 
 ## -remarks
 

@@ -11,7 +11,11 @@ public DependencyProperty IsReadOnlyProperty { get; }
 
 ## -description
 
+Identifies the IsReadOnly dependency property.
+
 ## -property-value
+
+The identifier for IsReadOnly dependency property.
 
 ## -remarks
 

@@ -11,6 +11,8 @@ public BitmapIconSource.BitmapIconSource()
 
 ## -description
 
+Initializes a new instance of the BitmapIconSource class.
+
 ## -remarks
 
 ## -see-also

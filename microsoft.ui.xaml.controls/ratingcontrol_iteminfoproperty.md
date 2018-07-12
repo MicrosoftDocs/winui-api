@@ -11,7 +11,11 @@ public DependencyProperty ItemInfoProperty { get; }
 
 ## -description
 
+Identifies the ItemInfo dependency property.
+
 ## -property-value
+
+The identifier for ItemInfo dependency property.
 
 ## -remarks
 

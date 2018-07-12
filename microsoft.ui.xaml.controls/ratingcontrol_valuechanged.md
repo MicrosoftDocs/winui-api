@@ -11,6 +11,14 @@ public event TypedEventHandler ValueChanged<RatingControl,  object>
 
 ## -description
 
+Occurs when the Value property has changed.
+
+## -xaml-syntax
+
+```xaml
+<RatingControl ValueChanged="eventhandler"/>
+```
+
 ## -remarks
 
 ## -see-also

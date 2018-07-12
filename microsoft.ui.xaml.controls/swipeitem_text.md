@@ -11,7 +11,17 @@ public string Text { get;  set; }
 
 ## -description
 
+Gets or sets the text description displayed on the item.
+
+## -xaml-syntax
+
+```xaml
+<SwipeItem Text="string"/>
+```
+
 ## -property-value
+
+The text description displayed on the item. The default is an empty string.
 
 ## -remarks
 

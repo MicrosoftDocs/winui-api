@@ -11,6 +11,18 @@ public class SwipeItem : DependencyObject, DependencyObject
 
 ## -description
 
+Represents an individual command in a SwipeControl.
+
+## -xaml-syntax
+
+```xaml
+<SwipeItem .../>
+-or-
+<SwipeItem ...>
+  content
+</SwipeItem>
+```
+
 ## -remarks
 
 ## -see-also

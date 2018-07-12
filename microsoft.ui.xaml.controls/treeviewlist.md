@@ -11,6 +11,8 @@ public class TreeViewList : ListView, ListView
 
 ## -description
 
+Represents a flattened list of tree view items so that operations such as keyboard navigation and drag-and-drop can be inherited from ListView.
+
 ## -remarks
 
 ## -see-also

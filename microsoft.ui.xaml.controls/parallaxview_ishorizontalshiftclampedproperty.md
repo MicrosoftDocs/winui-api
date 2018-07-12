@@ -11,7 +11,11 @@ public DependencyProperty IsHorizontalShiftClampedProperty { get; }
 
 ## -description
 
+Identifies the IsHorizontalShiftClamped dependency property.
+
 ## -property-value
+
+The identifier for the IsHorizontalShiftClamped dependency property.
 
 ## -remarks
 

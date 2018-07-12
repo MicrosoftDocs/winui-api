@@ -11,7 +11,11 @@ public DependencyProperty SourceProperty { get; }
 
 ## -description
 
+Identifies the Source dependency property.
+
 ## -property-value
+
+The identifier for the Source dependency property.
 
 ## -remarks
 

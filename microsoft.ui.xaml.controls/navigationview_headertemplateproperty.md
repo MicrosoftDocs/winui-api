@@ -11,7 +11,11 @@ public DependencyProperty HeaderTemplateProperty { get; }
 
 ## -description
 
+Identifies the HeaderTemplate dependency property.
+
 ## -property-value
+
+The identifier for the HeaderTemplate dependency property.
 
 ## -remarks
 

@@ -11,7 +11,11 @@ public DependencyProperty MenuItemTemplateProperty { get; }
 
 ## -description
 
+Identifies the MenuItemTemplate dependency property.
+
 ## -property-value
+
+The identifier for the MenuItemTemplate dependency property.
 
 ## -remarks
 

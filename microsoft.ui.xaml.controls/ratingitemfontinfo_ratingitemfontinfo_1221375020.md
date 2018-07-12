@@ -11,6 +11,8 @@ public RatingItemFontInfo.RatingItemFontInfo()
 
 ## -description
 
+Initializes a new instance of the RatingItemFontInfo class.
+
 ## -remarks
 
 ## -see-also

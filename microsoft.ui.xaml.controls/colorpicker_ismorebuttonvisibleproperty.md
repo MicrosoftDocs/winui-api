@@ -11,7 +11,11 @@ public DependencyProperty IsMoreButtonVisibleProperty { get; }
 
 ## -description
 
+Identifies the IsMoreButtonVisible dependency property.
+
 ## -property-value
+
+The identifier for the IsMoreButtonVisible dependency property.
 
 ## -remarks
 

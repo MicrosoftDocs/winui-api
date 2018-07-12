@@ -11,7 +11,11 @@ public double CompactPaneLength { get; }
 
 ## -description
 
+Gets the [CompactPaneLength](navigationview_compactpanelength.md) of the NavigationView that hosts this item.
+
 ## -property-value
+
+The [CompactPaneLength](navigationview_compactpanelength.md) of the NavigationView that hosts this item.
 
 ## -remarks
 

@@ -11,7 +11,11 @@ public ColorSpectrumComponents Components { get;  set; }
 
 ## -description
 
+Gets or sets a value that indicates how the Hue-Saturation-Value (HSV) color components are mapped onto the [ColorSpectrum](colorspectrum.md).
+
 ## -property-value
+
+A value of the enumeration. The default is **HueSaturation**.
 
 ## -remarks
 

@@ -11,7 +11,11 @@ public DependencyProperty DisplayNameProperty { get; }
 
 ## -description
 
+Identifies the DisplayName dependency property.
+
 ## -property-value
+
+The identifier for the DisplayName dependency property.
 
 ## -remarks
 

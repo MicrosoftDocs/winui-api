@@ -11,7 +11,11 @@ public DependencyProperty BehaviorOnInvokedProperty { get; }
 
 ## -description
 
+Identifies the BehaviorOnInvoked dependency property.
+
 ## -property-value
+
+The identifier for the BehaviorOnInvoked dependency property.
 
 ## -remarks
 

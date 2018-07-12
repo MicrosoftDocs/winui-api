@@ -11,6 +11,8 @@ public NavigationViewItemInvokedEventArgs.NavigationViewItemInvokedEventArgs()
 
 ## -description
 
+Initializes a new instance of the NavigationViewItemInvokedEventArgs class.
+
 ## -remarks
 
 ## -see-also

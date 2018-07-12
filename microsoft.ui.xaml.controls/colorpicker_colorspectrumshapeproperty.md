@@ -11,7 +11,11 @@ public DependencyProperty ColorSpectrumShapeProperty { get; }
 
 ## -description
 
+Identifies the ColorSpectrumShape dependency property.
+
 ## -property-value
+
+The identifier for the ColorSpectrumShape dependency property.
 
 ## -remarks
 

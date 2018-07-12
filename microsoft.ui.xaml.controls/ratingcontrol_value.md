@@ -11,7 +11,17 @@ public double Value { get;  set; }
 
 ## -description
 
+Gets or sets the rating value.
+
+## -xaml-syntax
+
+```xaml
+<RatingControl Value="double"/>
+```
+
 ## -property-value
+
+The rating value. The default is **null**.
 
 ## -remarks
 

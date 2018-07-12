@@ -11,9 +11,13 @@ public class NavigationViewItemInvokedEventArgs
 
 ## -description
 
+Provides event data for the [NavigationView.ItemInvoked](navigationview_iteminvoked.md) event.
+
 ## -remarks
 
 ## -see-also
+
+[RoutedEventArgs](../windows.ui.xaml/routedeventargs.md)
 
 ## -examples
 

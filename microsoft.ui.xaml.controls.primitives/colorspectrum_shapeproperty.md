@@ -11,7 +11,11 @@ public DependencyProperty ShapeProperty { get; }
 
 ## -description
 
+Identifies the Shape dependency property.
+
 ## -property-value
+
+The identifier for the Shape dependency property.
 
 ## -remarks
 

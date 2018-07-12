@@ -11,7 +11,11 @@ public DependencyProperty IsAlphaEnabledProperty { get; }
 
 ## -description
 
+Identifies the IsAlphaEnabled dependency property.
+
 ## -property-value
+
+The identifier for the IsAlphaEnabled dependency property.
 
 ## -remarks
 

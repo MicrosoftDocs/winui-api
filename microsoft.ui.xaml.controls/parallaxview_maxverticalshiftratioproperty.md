@@ -11,7 +11,11 @@ public DependencyProperty MaxVerticalShiftRatioProperty { get; }
 
 ## -description
 
+Identifies the MaxVerticalShiftRatio dependency property.
+
 ## -property-value
+
+The identifier for the MaxVerticalShiftRatio dependency property.
 
 ## -remarks
 

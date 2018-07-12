@@ -11,7 +11,22 @@ public SwipeBehaviorOnInvoked BehaviorOnInvoked { get;  set; }
 
 ## -description
 
+ Gets or sets a value that indicates how a [SwipeControl](swipecontrol.md) behaves after this item is invoked.
+ 
+## -xaml-syntax
+
+```xaml
+<SwipeItem BehaviorOnInvoked="swipeBehaviorOnInvokedMemberName" />
+```
+
+g## -xaml-values
+
+<dl><dt>swipeBehaviorOnInvokedMemberName</dt><dd>swipeBehaviorOnInvokedMemberNameA named constant of the SwipeBehaviorOnInvoked enumeration.</dd>
+</dl>
+
 ## -property-value
+
+A value that indicates how a [SwipeControl](swipecontrol.md) behaves after this item is invoked. The default is **Auto**.
 
 ## -remarks
 

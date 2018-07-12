@@ -11,7 +11,11 @@ public DependencyProperty TopItemsProperty { get; }
 
 ## -description
 
+Identifies the TopItems dependency property.
+
 ## -property-value
+
+The identifier for the TopItems dependency property.
 
 ## -remarks
 

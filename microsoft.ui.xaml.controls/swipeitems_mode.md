@@ -11,7 +11,11 @@ public SwipeMode Mode { get;  set; }
 
 ## -description
 
+Gets or sets a value that indicates the effect of a swipe interaction.
+
 ## -property-value
+
+A value of the enumeration that indicates the effect of a swipe interaction. The default is **Reveal**.
 
 ## -remarks
 

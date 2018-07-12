@@ -11,7 +11,11 @@ public DependencyProperty BadgeImageSourceProperty { get; }
 
 ## -description
 
+Identifies the BadgeImageSource dependency property.
+
 ## -property-value
+
+The identifier for the BadgeImageSource dependency property.
 
 ## -remarks
 

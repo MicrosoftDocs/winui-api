@@ -11,7 +11,11 @@ public DependencyProperty ColorSpectrumComponentsProperty { get; }
 
 ## -description
 
+Identifies the ColorSpectrumComponents dependency property.
+
 ## -property-value
+
+The identifier for the ColorSpectrumComponents dependency property.
 
 ## -remarks
 

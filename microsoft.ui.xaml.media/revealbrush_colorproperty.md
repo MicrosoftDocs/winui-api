@@ -11,7 +11,11 @@ public DependencyProperty ColorProperty { get; }
 
 ## -description
 
+Identifies the Color dependency property.
+
 ## -property-value
+
+The identifier for the Color dependency property.
 
 ## -remarks
 

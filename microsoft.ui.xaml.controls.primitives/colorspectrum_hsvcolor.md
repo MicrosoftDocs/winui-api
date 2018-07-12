@@ -11,7 +11,11 @@ public Vector4 HsvColor { get;  set; }
 
 ## -description
 
+Gets or sets the current color value as a Vector4.
+
 ## -property-value
+
+The current HSV color value.
 
 ## -remarks
 

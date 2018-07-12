@@ -11,7 +11,11 @@ public DependencyProperty BottomItemsProperty { get; }
 
 ## -description
 
+Identifies the BottomItems dependency property.
+
 ## -property-value
+
+The identifier for the BottomItems dependency property.
 
 ## -remarks
 

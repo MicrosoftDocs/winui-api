@@ -11,9 +11,16 @@ public event TypedEventHandler PaneOpened<NavigationView,  object>
 
 ## -description
 
+Occurs when the NavigationView pane is opened.
+
+## -xaml-syntax
+
+```xaml
+<NavigationView PaneOpened="eventhandler" />
+```
+
 ## -remarks
 
 ## -see-also
 
 ## -examples
-

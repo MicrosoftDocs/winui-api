@@ -11,7 +11,11 @@ public object InvokedItem { get; }
 
 ## -description
 
+Gets a reference to the invoked item.
+
 ## -property-value
+
+The invoked item.
 
 ## -remarks
 

@@ -11,7 +11,11 @@ public DependencyProperty SettingsItemProperty { get; }
 
 ## -description
 
+Identifies the SettingsItem dependency property.
+
 ## -property-value
+
+The identifier for the SettingsItem dependency property.
 
 ## -remarks
 

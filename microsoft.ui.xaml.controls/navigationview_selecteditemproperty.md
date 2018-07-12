@@ -11,7 +11,11 @@ public DependencyProperty SelectedItemProperty { get; }
 
 ## -description
 
+Identifies the SelectedItem dependency property.
+
 ## -property-value
+
+The identifier for the SelectedItem dependency property.
 
 ## -remarks
 

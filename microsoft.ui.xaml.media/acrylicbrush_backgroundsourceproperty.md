@@ -11,7 +11,11 @@ public DependencyProperty BackgroundSourceProperty { get; }
 
 ## -description
 
+Identifies the BackgroundSource dependency property.
+
 ## -property-value
+
+The identifier for the BackgroundSource dependency property.
 
 ## -remarks
 

@@ -11,7 +11,11 @@ public int Depth { get; }
 
 ## -description
 
+Gets a value that indicates how far the current node is from the root node of the tree.
+
 ## -property-value
+
+The depth of the current node from the root node of the tree.
 
 ## -remarks
 

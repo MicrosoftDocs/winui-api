@@ -11,7 +11,11 @@ public Color OldColor { get; }
 
 ## -description
 
+Gets the color that was previously selected in the control.
+
 ## -property-value
+
+The color that was previously selected in the control.
 
 ## -remarks
 

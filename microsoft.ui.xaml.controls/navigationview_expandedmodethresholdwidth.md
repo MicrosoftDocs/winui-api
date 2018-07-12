@@ -11,7 +11,17 @@ public double ExpandedModeThresholdWidth { get;  set; }
 
 ## -description
 
+Gets or sets the minimum window width at which the NavigationView enters **Expanded** display mode.
+
+## -xaml-syntax
+
+```xaml
+<NavigationView ExpandedModeThresholdWidth="double" .../>
+```
+
 ## -property-value
+
+The minimum window width at which the NavigationView enters **Expanded** display mode. The default is 1008 pixels.
 
 ## -remarks
 

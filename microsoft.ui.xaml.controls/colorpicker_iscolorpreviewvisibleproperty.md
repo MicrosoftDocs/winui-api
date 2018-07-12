@@ -11,7 +11,11 @@ public DependencyProperty IsColorPreviewVisibleProperty { get; }
 
 ## -description
 
+Identifies the IsColorPreviewVisible dependency property.
+
 ## -property-value
+
+The identifier for the IsColorPreviewVisible dependency property.
 
 ## -remarks
 

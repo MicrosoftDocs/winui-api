@@ -11,6 +11,8 @@ public class TreeView : Control, Control
 
 ## -description
 
+Represents a hierarchical list with expanding and collapsing nodes that contain nested items. 
+
 ## -remarks
 
 ## -see-also

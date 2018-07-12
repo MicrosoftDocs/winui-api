@@ -11,7 +11,11 @@ public DependencyProperty HorizontalSourceEndOffsetProperty { get; }
 
 ## -description
 
+Identifies the HorizontalSourceEndOffset dependency property.
+
 ## -property-value
+
+The identifier for the HorizontalSourceEndOffset dependency property.
 
 ## -remarks
 

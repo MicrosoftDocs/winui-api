@@ -11,7 +11,11 @@ public DependencyProperty PointerOverPlaceholderImageProperty { get; }
 
 ## -description
 
+Identifies the PointerOverPlaceholderImage dependency property.
+
 ## -property-value
+
+The identifier for PointerOverPlaceholderImage dependency property.
 
 ## -remarks
 

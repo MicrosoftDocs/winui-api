@@ -11,7 +11,11 @@ public DependencyProperty HorizontalSourceStartOffsetProperty { get; }
 
 ## -description
 
+Identifies the HorizontalSourceStartOffset dependency property.
+
 ## -property-value
+
+The identifier for the HorizontalSourceStartOffset dependency property.
 
 ## -remarks
 

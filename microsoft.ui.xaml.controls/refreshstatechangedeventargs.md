@@ -11,6 +11,8 @@ public class RefreshStateChangedEventArgs
 
 ## -description
 
+Provides event data for the [RefreshVisualizer.RefreshStateChanged](refreshvisualizer_refreshstatechanged.md) event.
+
 ## -remarks
 
 ## -see-also

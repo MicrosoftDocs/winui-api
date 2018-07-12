@@ -11,7 +11,11 @@ public DependencyProperty IsAlphaSliderVisibleProperty { get; }
 
 ## -description
 
+Identifies the IsAlphaSliderVisible dependency property.
+
 ## -property-value
+
+The identifier for the IsAlphaSliderVisible dependency property.
 
 ## -remarks
 

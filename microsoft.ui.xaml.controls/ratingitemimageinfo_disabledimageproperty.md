@@ -11,7 +11,11 @@ public DependencyProperty DisabledImageProperty { get; }
 
 ## -description
 
+Identifies the DisabledImage dependency property.
+
 ## -property-value
+
+The identifier for DisabledImage dependency property.
 
 ## -remarks
 

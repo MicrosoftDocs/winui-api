@@ -11,7 +11,17 @@ public int MaxRating { get;  set; }
 
 ## -description
 
+Gets or sets the maximum allowed rating value.
+
+## -xaml-syntax
+
+```xaml
+<RatingControl MaxRating="int"/>
+```
+
 ## -property-value
+
+The maximum allowed rating value. The default is 5.
 
 ## -remarks
 

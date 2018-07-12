@@ -11,7 +11,11 @@ public DependencyProperty TargetThemeProperty { get; }
 
 ## -description
 
+Identifies the TargetTheme dependency property.
+
 ## -property-value
+
+The identifier for the TargetTheme dependency property.
 
 ## -remarks
 

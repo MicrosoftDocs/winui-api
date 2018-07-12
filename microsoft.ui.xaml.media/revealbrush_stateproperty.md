@@ -11,7 +11,11 @@ public DependencyProperty StateProperty { get; }
 
 ## -description
 
+Identifies the RevealBrush.State attached property
+
 ## -property-value
+
+The identifier for the RevealBrush.State attached property.
 
 ## -remarks
 

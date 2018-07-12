@@ -11,7 +11,11 @@ public DependencyProperty DisplayModeProperty { get; }
 
 ## -description
 
+Identifies the DisplayMode dependency property.
+
 ## -property-value
+
+The identifier for the DisplayMode dependency property.
 
 ## -remarks
 

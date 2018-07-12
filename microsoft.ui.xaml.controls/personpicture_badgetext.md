@@ -11,7 +11,17 @@ public string BadgeText { get;  set; }
 
 ## -description
 
+Gets or sets the contact text to display on the badge.
+
+## -xaml-syntax
+
+```xaml
+<PersonPicture BadgeText="string"/>
+```
+
 ## -property-value
+
+The contact text to display on the badge.
 
 ## -remarks
 

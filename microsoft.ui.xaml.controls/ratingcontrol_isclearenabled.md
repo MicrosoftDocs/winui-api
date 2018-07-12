@@ -11,7 +11,17 @@ public bool IsClearEnabled { get;  set; }
 
 ## -description
 
+Gets or sets the value that determines if the user can remove the rating.
+
+## -xaml-syntax
+
+```xaml
+<RatingControl IsClearEnabled="bool"/>
+```
+
 ## -property-value
+
+**true** if the user can remove the rating; otherwise, **false**. The default is **true**.
 
 ## -remarks
 

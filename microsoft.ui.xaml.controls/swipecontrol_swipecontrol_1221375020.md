@@ -11,6 +11,8 @@ public SwipeControl.SwipeControl()
 
 ## -description
 
+Initializes a new instance of the SwipeControl class.
+
 ## -remarks
 
 ## -see-also

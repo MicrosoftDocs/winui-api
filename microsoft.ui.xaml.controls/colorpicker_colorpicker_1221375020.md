@@ -11,6 +11,8 @@ public ColorPicker.ColorPicker()
 
 ## -description
 
+Initializes a new instance of the ColorPicker class.
+
 ## -remarks
 
 ## -see-also

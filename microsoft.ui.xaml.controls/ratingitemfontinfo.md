@@ -11,6 +11,14 @@ public class RatingItemFontInfo : RatingItemInfo, RatingItemInfo
 
 ## -description
 
+Represents information about the visual states of font elements that represent a rating.
+
+## -xaml-syntax
+
+```xaml
+<RatingItemFontInfo/>
+```
+
 ## -remarks
 
 ## -see-also

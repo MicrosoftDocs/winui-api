@@ -11,7 +11,11 @@ public DependencyProperty IsVerticalShiftClampedProperty { get; }
 
 ## -description
 
+Identifies the IsVerticalShiftClamped dependency property.
+
 ## -property-value
+
+The identifier for the IsVerticalShiftClamped dependency property.
 
 ## -remarks
 

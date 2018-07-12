@@ -11,7 +11,11 @@ public DependencyProperty DisabledGlyphProperty { get; }
 
 ## -description
 
+Identifies the DisabledGlyph dependency property.
+
 ## -property-value
+
+The identifier for DisabledGlyph dependency property.
 
 ## -remarks
 

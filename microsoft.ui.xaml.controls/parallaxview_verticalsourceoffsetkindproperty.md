@@ -11,7 +11,11 @@ public DependencyProperty VerticalSourceOffsetKindProperty { get; }
 
 ## -description
 
+Identifies the VerticalSourceOffsetKind dependency property.
+
 ## -property-value
+
+The identifier for the VerticalSourceOffsetKind dependency property.
 
 ## -remarks
 

@@ -11,9 +11,21 @@ public double FontSize { get;  set; }
 
 ## -description
 
+Gets or sets the size of the icon glyph.
+
+## -xaml-syntax
+
+```xaml
+<FontIconSource FontSize="double" .../>
+```
+
 ## -property-value
 
+A non-negative value that specifies the font size, measured in pixels.
+
 ## -remarks
+
+The unit measure for [FontSize](control_fontsize.md) is pixels, measuring the line height of the characters in the font. The apparent size of text in the UI can vary based on the current scaling. If you want to use different [FontSize](control_fontsize.md) values for different scalings, you can do this using the resources system.
 
 ## -see-also
 

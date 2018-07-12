@@ -11,7 +11,11 @@ public DependencyProperty GlyphProperty { get; }
 
 ## -description
 
+Identifies the Glyph dependency property.
+
 ## -property-value
+
+The identifier for Glyph dependency property.
 
 ## -remarks
 

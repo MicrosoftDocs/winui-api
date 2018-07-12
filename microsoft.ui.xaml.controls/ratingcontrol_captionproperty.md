@@ -11,7 +11,11 @@ public DependencyProperty CaptionProperty { get; }
 
 ## -description
 
+Identifies the Caption dependency property.
+
 ## -property-value
+
+The identifier for Caption dependency property.
 
 ## -remarks
 

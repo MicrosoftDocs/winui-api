@@ -11,6 +11,8 @@ public class TreeViewExpandingEventArgs
 
 ## -description
 
+Provides event data for the [TreeView.Expanding](treeview_expanding.md) event.
+
 ## -remarks
 
 ## -see-also

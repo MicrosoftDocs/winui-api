@@ -11,7 +11,11 @@ public DependencyProperty ValueProperty { get; }
 
 ## -description
 
+Identifies the Value dependency property.
+
 ## -property-value
+
+The identifier for Value dependency property.
 
 ## -remarks
 

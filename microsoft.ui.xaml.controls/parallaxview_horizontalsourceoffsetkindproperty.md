@@ -11,7 +11,11 @@ public DependencyProperty HorizontalSourceOffsetKindProperty { get; }
 
 ## -description
 
+Identifies the HorizontalSourceOffsetKind dependency property.
+
 ## -property-value
+
+The identifier for the HorizontalSourceOffsetKind dependency property.
 
 ## -remarks
 

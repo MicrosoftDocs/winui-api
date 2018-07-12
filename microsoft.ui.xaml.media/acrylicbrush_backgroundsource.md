@@ -11,7 +11,11 @@ public AcrylicBackgroundSource BackgroundSource { get;  set; }
 
 ## -description
 
+Gets or sets a value that specifies whether the brush samples from the app content or from the content behind the app window.
+
 ## -property-value
+
+A value of the enumeration that specifies whether the brush samples from the app content or from the content behind the app window.
 
 ## -remarks
 

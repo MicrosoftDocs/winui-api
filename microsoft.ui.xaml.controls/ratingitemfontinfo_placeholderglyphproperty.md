@@ -11,7 +11,11 @@ public DependencyProperty PlaceholderGlyphProperty { get; }
 
 ## -description
 
+Identifies the PlaceholderGlyph dependency property.
+
 ## -property-value
+
+The identifier for PlaceholderGlyph dependency property.
 
 ## -remarks
 

@@ -11,7 +11,11 @@ public DependencyProperty CompactPaneLengthProperty { get; }
 
 ## -description
 
+Identifies the CompactPaneLength dependency property.
+
 ## -property-value
+
+The identifier for the CompactPaneLength dependency property.
 
 ## -remarks
 

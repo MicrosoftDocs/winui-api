@@ -11,6 +11,8 @@ public class NavigationViewItemBase : ListViewItem, ListViewItem
 
 ## -description
 
+Base class for [NavigationView](navigationview.md) menu items.
+
 ## -remarks
 
 ## -see-also

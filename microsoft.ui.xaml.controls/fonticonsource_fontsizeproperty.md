@@ -11,7 +11,11 @@ public DependencyProperty FontSizeProperty { get; }
 
 ## -description
 
+Gets the identifier for the FontSize dependency property.
+
 ## -property-value
+
+The identifier for the FontSize dependency property.
 
 ## -remarks
 

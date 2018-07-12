@@ -11,6 +11,8 @@ public RefreshContainer.RefreshContainer()
 
 ## -description
 
+Initializes a new instance of the RefreshContainer control.
+
 ## -remarks
 
 ## -see-also

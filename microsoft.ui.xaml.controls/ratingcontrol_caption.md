@@ -11,7 +11,17 @@ public string Caption { get;  set; }
 
 ## -description
 
+Gets or sets the text label for the control.
+
+## -xaml-syntax
+
+```xaml
+<RatingControl Caption="string"/>
+```
+
 ## -property-value
+
+The text label for the control. The default is an empty string.
 
 ## -remarks
 

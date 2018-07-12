@@ -11,7 +11,11 @@ public Color TintColor { get;  set; }
 
 ## -description
 
+Gets or sets the color tint for the semi-transparent acrylic material.
+
 ## -property-value
+
+The color tint for the semi-transparent acrylic material.
 
 ## -remarks
 

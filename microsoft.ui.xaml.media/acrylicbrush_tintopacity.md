@@ -11,7 +11,17 @@ public double TintOpacity { get;  set; }
 
 ## -description
 
+Gets or sets the degree of opacity of the color tint.
+
+## -xaml-syntax
+
+```xaml
+<acrylicBrush TintOpacity="double"/>
+```
+
 ## -property-value
+
+The opacity expressed as a value between 0 and 1.0. The default value is 1.0, which is full opacity. 0 is transparent opacity.
 
 ## -remarks
 

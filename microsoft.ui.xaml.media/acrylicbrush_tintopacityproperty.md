@@ -11,7 +11,11 @@ public DependencyProperty TintOpacityProperty { get; }
 
 ## -description
 
+Identifies the TintOpacity dependency property.
+
 ## -property-value
+
+The identifier for the TintOpacity dependency property.
 
 ## -remarks
 

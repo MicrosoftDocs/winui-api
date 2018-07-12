@@ -11,7 +11,31 @@ public object Header { get;  set; }
 
 ## -description
 
+Gets or sets the header content.
+
+## -xaml-syntax
+
+```xaml
+<NavigationView Header="headerString"/>
+```
+
+```xaml
+<NavigationView>
+  <NavigationView.Header>
+    headerObject
+  </NavigationView.Header>
+</NavigationView>
+```
+
+## -xaml-values
+
+<dl><dt>headerString</dt><dd>headerStringA text string that serves as header content.</dd>
+<dt>headerObject</dt><dd>headerObjectAn single object element that serves as header content. Use discretion when using objects as header content; not all objects are suitable for use within the limited presentation surface that appears for headers.</dd>
+</dl>
+
 ## -property-value
+
+The header content for the NavigationView.
 
 ## -remarks
 

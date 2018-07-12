@@ -11,7 +11,11 @@ public DependencyProperty MenuItemsSourceProperty { get; }
 
 ## -description
 
+Identifies the MenuItemsSource dependency property.
+
 ## -property-value
+
+The identifier for the MenuItemsSource dependency property.
 
 ## -remarks
 

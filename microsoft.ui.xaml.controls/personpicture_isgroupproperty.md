@@ -11,7 +11,11 @@ public DependencyProperty IsGroupProperty { get; }
 
 ## -description
 
+Identifies the IsGroup dependency property.
+
 ## -property-value
+
+The identifier for the IsGroup dependency property.
 
 ## -remarks
 

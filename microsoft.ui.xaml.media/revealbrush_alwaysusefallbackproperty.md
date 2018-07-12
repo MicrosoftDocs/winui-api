@@ -11,7 +11,11 @@ public DependencyProperty AlwaysUseFallbackProperty { get; }
 
 ## -description
 
+Identifies the AlwaysUseFallback dependency property.
+
 ## -property-value
+
+The identifier for the AlwaysUseFallback dependency property.
 
 ## -remarks
 

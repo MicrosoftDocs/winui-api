@@ -11,6 +11,8 @@ public NavigationViewItemSeparator.NavigationViewItemSeparator()
 
 ## -description
 
+Initializes a new instance of the NavigationViewItemSeparator class.
+
 ## -remarks
 
 ## -see-also

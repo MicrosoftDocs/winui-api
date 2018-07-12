@@ -11,7 +11,11 @@ public DependencyProperty TintTransitionDurationProperty { get; }
 
 ## -description
 
+Identifies the TintTransitionDuration dependency property.
+
 ## -property-value
+
+The identifier for the TintTransitionDuration dependency property.
 
 ## -remarks
 

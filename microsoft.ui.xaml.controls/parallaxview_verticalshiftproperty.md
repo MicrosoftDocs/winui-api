@@ -11,7 +11,11 @@ public DependencyProperty VerticalShiftProperty { get; }
 
 ## -description
 
+Identifies the VerticalShift dependency property.
+
 ## -property-value
+
+The identifier for the VerticalShift dependency property.
 
 ## -remarks
 

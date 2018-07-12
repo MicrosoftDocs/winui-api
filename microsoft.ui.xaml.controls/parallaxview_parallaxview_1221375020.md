@@ -11,6 +11,8 @@ public ParallaxView.ParallaxView()
 
 ## -description
 
+Initializes a new instance of the ParallaxView class.
+
 ## -remarks
 
 ## -see-also

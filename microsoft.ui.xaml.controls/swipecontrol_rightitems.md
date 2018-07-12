@@ -11,7 +11,26 @@ public SwipeItems RightItems { get;  set; }
 
 ## -description
 
+Gets or sets the items that can be invoked when the control is swiped from the right side.
+
+## -xaml-syntax
+
+```xaml
+<SwipeControl>
+  <SwipeControl.RightItems>
+    oneOrMoreSwipeItemDefinitions
+  </SwipeControl.RightItems>
+</SwipeControl>
+```
+
+## -xaml-values
+
+<dl><dt>oneOrMoreSwipeItemDefinitions</dt><dd>oneOrMoreSwipeItemDefinitionsOne or more SwipeItem elements.</dd>
+</dl>
+
 ## -property-value
+
+The items that can be invoked when the control is swiped from the right side.
 
 ## -remarks
 

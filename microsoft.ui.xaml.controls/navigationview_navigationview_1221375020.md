@@ -11,6 +11,8 @@ public NavigationView.NavigationView()
 
 ## -description
 
+Initializes a new instance of the NavigationView class.
+
 ## -remarks
 
 ## -see-also

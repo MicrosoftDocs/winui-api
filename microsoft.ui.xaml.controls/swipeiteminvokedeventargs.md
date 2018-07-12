@@ -11,6 +11,8 @@ public class SwipeItemInvokedEventArgs
 
 ## -description
 
+Provides event data for the [SwipeItem.Invoked](swipeitem_invoked.md) event.
+
 ## -remarks
 
 ## -see-also

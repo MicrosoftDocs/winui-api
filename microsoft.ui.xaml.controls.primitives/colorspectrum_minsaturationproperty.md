@@ -11,7 +11,11 @@ public DependencyProperty MinSaturationProperty { get; }
 
 ## -description
 
+Identifies the MinSaturation dependency property.
+
 ## -property-value
+
+The identifier for the MinSaturation dependency property.
 
 ## -remarks
 

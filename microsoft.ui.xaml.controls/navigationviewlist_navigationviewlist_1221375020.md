@@ -11,6 +11,8 @@ public NavigationViewList.NavigationViewList()
 
 ## -description
 
+Initializes a new instance of the NavigationViewList class.
+
 ## -remarks
 
 ## -see-also

@@ -11,7 +11,11 @@ public Color NewColor { get; }
 
 ## -description
 
+Gets the color that is currently selected in the control.
+
 ## -property-value
+
+The color that is currently selected in the control.
 
 ## -remarks
 

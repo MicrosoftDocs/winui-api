@@ -11,7 +11,11 @@ public DependencyProperty ModeProperty { get; }
 
 ## -description
 
+Identifies the Mode dependency property.
+
 ## -property-value
+
+The identifier for the Mode dependency property.
 
 ## -remarks
 

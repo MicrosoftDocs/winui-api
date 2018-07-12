@@ -11,7 +11,11 @@ public DependencyProperty VerticalSourceStartOffsetProperty { get; }
 
 ## -description
 
+Identifies the VerticalSourceStartOffset dependency property.
+
 ## -property-value
+
+The identifier for the VerticalSourceStartOffset dependency property.
 
 ## -remarks
 

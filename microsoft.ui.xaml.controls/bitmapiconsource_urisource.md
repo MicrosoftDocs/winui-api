@@ -11,7 +11,17 @@ public Uri UriSource { get;  set; }
 
 ## -description
 
+Gets or sets the Uniform Resource Identifier (URI) of the bitmap to use as the icon content.
+
+## -xaml-syntax
+
+```xaml
+<BitmapIconSource UriSource="uriString"/>
+```
+
 ## -property-value
+
+The [Uri](../windows.foundation/uri.md) of the bitmap to use as the icon content. The default is **null**.
 
 ## -remarks
 

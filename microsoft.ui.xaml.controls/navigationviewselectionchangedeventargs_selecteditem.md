@@ -11,7 +11,11 @@ public object SelectedItem { get; }
 
 ## -description
 
+Gets the newly selected menu item.
+
 ## -property-value
+
+The newly selected menu item.
 
 ## -remarks
 

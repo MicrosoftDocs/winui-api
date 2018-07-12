@@ -11,7 +11,11 @@ public DependencyProperty MinHueProperty { get; }
 
 ## -description
 
+Identifies the MinHue dependency property.
+
 ## -property-value
+
+The identifier for the MinHue dependency property.
 
 ## -remarks
 

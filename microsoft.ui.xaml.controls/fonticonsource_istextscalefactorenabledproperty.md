@@ -11,7 +11,11 @@ public DependencyProperty IsTextScaleFactorEnabledProperty { get; }
 
 ## -description
 
+Gets the identifier for the IsTextScaleFactorEnabled dependency property.
+
 ## -property-value
+
+The identifier for the IsTextScaleFactorEnabled dependency property.
 
 ## -remarks
 

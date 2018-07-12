@@ -11,7 +11,11 @@ public DependencyProperty FontStyleProperty { get; }
 
 ## -description
 
+Gets the identifier for the FontStyle dependency property.
+
 ## -property-value
+
+The identifier for the FontStyle dependency property.
 
 ## -remarks
 

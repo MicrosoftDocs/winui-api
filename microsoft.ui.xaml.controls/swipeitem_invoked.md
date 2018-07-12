@@ -11,6 +11,14 @@ public event TypedEventHandler Invoked<SwipeItem, SwipeItemInvokedEventArgs>
 
 ## -description
 
+Occurs when user interaction indicates that the command represented by this item should execute.
+
+## -xaml-syntax
+
+```xaml
+<SwipeItem Invoked="eventhandler"/>
+```
+
 ## -remarks
 
 ## -see-also

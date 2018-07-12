@@ -11,7 +11,11 @@ public DependencyProperty IsSettingsVisibleProperty { get; }
 
 ## -description
 
+Identifies the IsSettingsVisible dependency property.
+
 ## -property-value
+
+The identifier for the IsSettingsVisible dependency property.
 
 ## -remarks
 

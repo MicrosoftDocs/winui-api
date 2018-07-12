@@ -11,7 +11,11 @@ public DependencyProperty IsAlphaTextInputVisibleProperty { get; }
 
 ## -description
 
+Identifies the IsAlphaTextInputVisible dependency property.
+
 ## -property-value
+
+The identifier for the IsAlphaTextInputVisible dependency property.
 
 ## -remarks
 

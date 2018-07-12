@@ -11,7 +11,11 @@ public DependencyProperty ExpandedModeThresholdWidthProperty { get; }
 
 ## -description
 
+Identifies the ExpandedModeThresholdWidth dependency property.
+
 ## -property-value
+
+The identifier for the ExpandedModeThresholdWidth dependency property.
 
 ## -remarks
 

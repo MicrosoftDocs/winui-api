@@ -11,6 +11,8 @@ public class TreeViewItem : ListViewItem, ListViewItem
 
 ## -description
 
+Represents the container for an item in a [TreeView](treeview.md) control.
+
 ## -remarks
 
 ## -see-also

@@ -11,7 +11,17 @@ public string DisplayName { get;  set; }
 
 ## -description
 
+Gets or sets the contact's display name.
+
+## -xaml-syntax
+
+```xaml
+<PersonPicture DisplayName="string"/>
+```
+
 ## -property-value
+
+The contact's display name.
 
 ## -remarks
 

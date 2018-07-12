@@ -11,6 +11,14 @@ public class FontIconSource : IconSource, IconSource
 
 ## -description
 
+Represents an icon source that uses a glyph from the specified font.
+
+## -xaml-syntax
+
+```xaml
+<FontIconSource .../>
+```
+
 ## -remarks
 
 ## -see-also

@@ -11,6 +11,8 @@ protected RevealBrush.RevealBrush()
 
 ## -description
 
+Provides base class initialization behavior for RevealBrush-derived classes.
+
 ## -remarks
 
 ## -see-also

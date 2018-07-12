@@ -11,7 +11,11 @@ public TreeViewNode Node { get; }
 
 ## -description
 
+Gets the tree view node that is expanding.
+
 ## -property-value
+
+The tree view node that is expanding.
 
 ## -remarks
 

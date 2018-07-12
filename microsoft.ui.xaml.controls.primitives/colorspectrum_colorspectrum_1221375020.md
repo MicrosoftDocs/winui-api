@@ -11,6 +11,8 @@ public ColorSpectrum.ColorSpectrum()
 
 ## -description
 
+Initializes a new instance of the ColorSpectrum class.
+
 ## -remarks
 
 ## -see-also

@@ -11,6 +11,8 @@ public void SwipeControl.Close()
 
 ## -description
 
+Closes the swipe control.
+
 ## -remarks
 
 ## -see-also

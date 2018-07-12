@@ -11,7 +11,11 @@ public DependencyProperty BadgeGlyphProperty { get; }
 
 ## -description
 
+Identifies the BadgeGlyph dependency property.
+
 ## -property-value
+
+The identifier for the BadgeGlyph dependency property.
 
 ## -remarks
 

@@ -11,7 +11,11 @@ public DependencyProperty IsClearEnabledProperty { get; }
 
 ## -description
 
+Identifies the IsClearEnabled dependency property.
+
 ## -property-value
+
+The identifier for IsClearEnabled dependency property.
 
 ## -remarks
 

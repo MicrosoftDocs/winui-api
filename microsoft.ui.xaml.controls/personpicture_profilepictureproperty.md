@@ -11,7 +11,11 @@ public DependencyProperty ProfilePictureProperty { get; }
 
 ## -description
 
+Identifies the ProfilePicture dependency property.
+
 ## -property-value
+
+The identifier for the ProfilePicture dependency property.
 
 ## -remarks
 

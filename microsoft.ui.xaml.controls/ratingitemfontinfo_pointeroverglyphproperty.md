@@ -11,7 +11,11 @@ public DependencyProperty PointerOverGlyphProperty { get; }
 
 ## -description
 
+Identifies the PointerOverGlyph dependency property.
+
 ## -property-value
+
+The identifier for PointerOverGlyph dependency property.
 
 ## -remarks
 

@@ -11,6 +11,8 @@ public class NavigationViewItemSeparator : NavigationViewItemBase, NavigationVie
 
 ## -description
 
+Represents a line that separates menu items in a NavigationMenu.
+
 ## -remarks
 
 ## -see-also

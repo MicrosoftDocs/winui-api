@@ -11,7 +11,17 @@ public bool IsTextScaleFactorEnabled { get;  set; }
 
 ## -description
 
+Gets or sets a value that indicates whether automatic text enlargement, to reflect the system text size setting, is enabled.
+
+## -xaml-syntax
+
+```xaml
+<FontIconSource IsTextScaleFactorEnabled="bool"/>
+```
+
 ## -property-value
+
+**true** if automatic text enlargement is enabled; otherwise, **false**.
 
 ## -remarks
 

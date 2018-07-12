@@ -11,7 +11,11 @@ public DependencyProperty MirroredWhenRightToLeftProperty { get; }
 
 ## -description
 
+Gets the identifier for the MirroredWhenRightToLeft dependency property.
+
 ## -property-value
+
+The identifier for the MirroredWhenRightToLeft dependency property.
 
 ## -remarks
 

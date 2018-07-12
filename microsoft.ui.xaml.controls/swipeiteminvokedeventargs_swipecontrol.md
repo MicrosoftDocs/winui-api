@@ -11,7 +11,11 @@ public SwipeControl SwipeControl { get; }
 
 ## -description
 
+Gets the [SwipeControl](swipecontrol.md) that owns the invoked item.
+
 ## -property-value
+
+The SwipeControl that owns the invoked item.
 
 ## -remarks
 

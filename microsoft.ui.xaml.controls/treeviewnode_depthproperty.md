@@ -11,7 +11,11 @@ public DependencyProperty DepthProperty { get; }
 
 ## -description
 
+Identifies the Depth dependency property.
+
 ## -property-value
+
+The identifier for the Depth dependency property.
 
 ## -remarks
 

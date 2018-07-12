@@ -11,7 +11,11 @@ public DependencyProperty UnsetImageProperty { get; }
 
 ## -description
 
+Identifies the UnsetImage dependency property.
+
 ## -property-value
+
+The identifier for UnsetImage dependency property.
 
 ## -remarks
 

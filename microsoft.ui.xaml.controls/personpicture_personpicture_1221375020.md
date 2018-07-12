@@ -11,6 +11,8 @@ public PersonPicture.PersonPicture()
 
 ## -description
 
+Initializes a new instance of the PersonPicture class.
+
 ## -remarks
 
 ## -see-also

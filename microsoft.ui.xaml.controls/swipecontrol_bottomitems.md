@@ -11,7 +11,26 @@ public SwipeItems BottomItems { get;  set; }
 
 ## -description
 
+Gets or sets the items that can be invoked when the control is swiped from the bottom up.
+
+## -xaml-syntax
+
+```xaml
+<SwipeControl>
+  <SwipeControl.BottomItems>
+    oneOrMoreSwipeItemDefinitions
+  </SwipeControl.BottomItems>
+</SwipeControl>
+```
+
+## -xaml-values
+
+<dl><dt>oneOrMoreSwipeItemDefinitions</dt><dd>oneOrMoreSwipeItemDefinitionsOne or more SwipeItem elements.</dd>
+</dl>
+
 ## -property-value
+
+The items that can be invoked when the control is swiped from the bottom up.
 
 ## -remarks
 

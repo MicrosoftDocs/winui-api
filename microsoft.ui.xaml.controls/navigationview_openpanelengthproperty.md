@@ -11,7 +11,11 @@ public DependencyProperty OpenPaneLengthProperty { get; }
 
 ## -description
 
+Identifies the OpenPaneLength dependency property.
+
 ## -property-value
+
+The identifier for the OpenPaneLength dependency property.
 
 ## -remarks
 

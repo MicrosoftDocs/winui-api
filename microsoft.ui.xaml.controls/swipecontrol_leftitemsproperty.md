@@ -11,7 +11,11 @@ public DependencyProperty LeftItemsProperty { get; }
 
 ## -description
 
+Identifies the LeftItems dependency property.
+
 ## -property-value
+
+The identifier for the LeftItems dependency property.
 
 ## -remarks
 

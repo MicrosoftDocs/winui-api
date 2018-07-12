@@ -11,6 +11,8 @@ public AcrylicBrush.AcrylicBrush()
 
 ## -description
 
+Initializes a new instance of the AcrylicBrush class.
+
 ## -remarks
 
 ## -see-also

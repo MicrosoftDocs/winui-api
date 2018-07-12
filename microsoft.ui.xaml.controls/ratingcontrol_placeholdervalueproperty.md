@@ -11,7 +11,11 @@ public DependencyProperty PlaceholderValueProperty { get; }
 
 ## -description
 
+Identifies the PlaceholderValue dependency property.
+
 ## -property-value
+
+The identifier for PlaceholderValue dependency property.
 
 ## -remarks
 

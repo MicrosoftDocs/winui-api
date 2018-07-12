@@ -11,7 +11,11 @@ public DependencyProperty MenuItemContainerStyleProperty { get; }
 
 ## -description
 
+Identifies the MenuItemContainerStyle dependency property.
+
 ## -property-value
+
+The identifier for the MenuItemContainerStyle dependency property.
 
 ## -remarks
 

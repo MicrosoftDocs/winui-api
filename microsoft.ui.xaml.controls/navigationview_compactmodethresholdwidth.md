@@ -11,7 +11,17 @@ public double CompactModeThresholdWidth { get;  set; }
 
 ## -description
 
+Gets or sets the minimum window width at which the NavigationView enters Compact display mode.
+
+## -xaml-syntax
+
+```xaml
+<NavigationView CompactModeThresholdWidth="double" .../>
+```
+
 ## -property-value
+
+The minimum window width at which the NavigationView enters Compact display mode. The default is 641 pixels.
 
 ## -remarks
 

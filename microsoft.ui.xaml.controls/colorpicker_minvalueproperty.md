@@ -11,7 +11,11 @@ public DependencyProperty MinValueProperty { get; }
 
 ## -description
 
+Identifies the MinValue dependency property.
+
 ## -property-value
+
+The identifier for the MinValue dependency property.
 
 ## -remarks
 

@@ -11,6 +11,8 @@ public SwipeItem.SwipeItem()
 
 ## -description
 
+Initializes a new instance of the SwipeItem class.
+
 ## -remarks
 
 ## -see-also

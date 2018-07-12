@@ -11,6 +11,8 @@ public RatingItemInfo.RatingItemInfo()
 
 ## -description
 
+Initializes a new instance of the RatingItemInfo class.
+
 ## -remarks
 
 ## -see-also

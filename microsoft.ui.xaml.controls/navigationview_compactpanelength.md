@@ -11,9 +11,21 @@ public double CompactPaneLength { get;  set; }
 
 ## -description
 
+Gets or sets the width of the NavigationView pane in its compact display mode.
+
+## -xaml-syntax
+
+```xaml
+<NavigationView CompactPaneLength="double" .../>
+```
+
 ## -property-value
 
+The width of the pane in its compact display mode. The default is 48 device-independent pixel (DIP).
+
 ## -remarks
+
+This property specifies the width of the pane when DisplayMode is Compact and IsPaneOpen is **false**.
 
 ## -see-also
 

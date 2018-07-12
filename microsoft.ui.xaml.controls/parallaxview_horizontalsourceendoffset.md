@@ -11,7 +11,17 @@ public double HorizontalSourceEndOffset { get;  set; }
 
 ## -description
 
+Represents the horizontal scroll offset at which the parallax motion ends.
+
+## -xaml-syntax
+
+```xaml
+<ParallaxView HorizontalSourceEndOffset="double" .../>
+```
+
 ## -property-value
+
+The horizontal scroll offset at which parallax motion ends. The default is 0.
 
 ## -remarks
 

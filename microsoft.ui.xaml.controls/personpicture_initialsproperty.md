@@ -11,7 +11,11 @@ public DependencyProperty InitialsProperty { get; }
 
 ## -description
 
+Identifies the Initials dependency property.
+
 ## -property-value
+
+The identifier for the Initials dependency property.
 
 ## -remarks
 

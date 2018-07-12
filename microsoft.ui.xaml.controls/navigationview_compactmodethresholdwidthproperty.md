@@ -11,7 +11,11 @@ public DependencyProperty CompactModeThresholdWidthProperty { get; }
 
 ## -description
 
+Identifies the CompactModeThresholdWidth dependency property.
+
 ## -property-value
+
+The identifier for the CompactModeThresholdWidth dependency property.
 
 ## -remarks
 

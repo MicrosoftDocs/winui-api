@@ -11,7 +11,11 @@ public DependencyProperty BadgeNumberProperty { get; }
 
 ## -description
 
+Identifies the BadgeNumber dependency property.
+
 ## -property-value
+
+The identifier for the BadgeNumber dependency property.
 
 ## -remarks
 

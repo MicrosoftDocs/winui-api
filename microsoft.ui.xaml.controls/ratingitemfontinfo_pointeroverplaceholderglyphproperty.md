@@ -11,7 +11,11 @@ public DependencyProperty PointerOverPlaceholderGlyphProperty { get; }
 
 ## -description
 
+Identifies the PointerOverPlaceholderGlyph dependency property.
+
 ## -property-value
+
+The identifier for PointerOverPlaceholderGlyph dependency property.
 
 ## -remarks
 

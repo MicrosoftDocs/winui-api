@@ -11,7 +11,11 @@ public DependencyProperty IsHexInputVisibleProperty { get; }
 
 ## -description
 
+Identifies the IsHexInputVisible dependency property.
+
 ## -property-value
+
+The identifier for the IsHexInputVisible dependency property.
 
 ## -remarks
 

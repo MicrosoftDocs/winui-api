@@ -11,6 +11,8 @@ public RevealBackgroundBrush.RevealBackgroundBrush()
 
 ## -description
 
+Initializes a new instance of the RevealBackgroundBrush class.
+
 ## -remarks
 
 ## -see-also

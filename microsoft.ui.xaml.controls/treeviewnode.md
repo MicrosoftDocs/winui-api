@@ -11,6 +11,8 @@ public class TreeViewNode : DependencyObject, DependencyObject
 
 ## -description
 
+Represents a node in a [TreeView](treeview.md) control.
+
 ## -remarks
 
 ## -see-also

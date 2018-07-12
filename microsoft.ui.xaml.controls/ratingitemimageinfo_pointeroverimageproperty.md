@@ -11,8 +11,11 @@ public DependencyProperty PointerOverImageProperty { get; }
 
 ## -description
 
+Identifies the PointerOverImage dependency property.
+
 ## -property-value
 
+The identifier for PointerOverImage dependency property.
 ## -remarks
 
 ## -see-also

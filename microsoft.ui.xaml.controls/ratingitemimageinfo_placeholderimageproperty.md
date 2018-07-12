@@ -11,7 +11,11 @@ public DependencyProperty PlaceholderImageProperty { get; }
 
 ## -description
 
+Identifies the PlaceholderImage dependency property.
+
 ## -property-value
+
+The identifier for PlaceholderImage dependency property.
 
 ## -remarks
 

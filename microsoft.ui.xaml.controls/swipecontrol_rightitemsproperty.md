@@ -11,7 +11,11 @@ public DependencyProperty RightItemsProperty { get; }
 
 ## -description
 
+Identifies the RightItems dependency property.
+
 ## -property-value
+
+The identifier for the RightItems dependency property.
 
 ## -remarks
 

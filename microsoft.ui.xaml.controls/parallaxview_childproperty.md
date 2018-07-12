@@ -11,7 +11,11 @@ public DependencyProperty ChildProperty { get; }
 
 ## -description
 
+Identifies the Child dependency property.
+
 ## -property-value
+
+The identifier for the Child dependency property.
 
 ## -remarks
 

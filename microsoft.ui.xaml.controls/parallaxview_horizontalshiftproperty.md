@@ -11,7 +11,11 @@ public DependencyProperty HorizontalShiftProperty { get; }
 
 ## -description
 
+Identifies the HorizontalShift dependency property.
+
 ## -property-value
+
+The identifier for the HorizontalShift dependency property.
 
 ## -remarks
 

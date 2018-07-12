@@ -11,7 +11,11 @@ public bool IsSettingsInvoked { get; }
 
 ## -description
 
+Gets a value that indicates whether the **InvokedItem** is the menu item for Settings.
+
 ## -property-value
+
+**true** if the **InvokedItem** is the menu item for Settings; otherwise, **false**.
 
 ## -remarks
 

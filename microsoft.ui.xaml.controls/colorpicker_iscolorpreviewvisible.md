@@ -11,7 +11,17 @@ public bool IsColorPreviewVisible { get;  set; }
 
 ## -description
 
+Gets or sets a value that indicates whether the color preview bar is shown.
+
+## -xaml-syntax
+
+```xaml
+<ColorPicker IsColorPreviewVisible="bool" .../>
+```
+
 ## -property-value
+
+**true** if the color preview bar is shown; otherwise, **false**. The default is **true**.
 
 ## -remarks
 

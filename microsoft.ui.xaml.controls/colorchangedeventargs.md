@@ -11,9 +11,14 @@ public class ColorChangedEventArgs
 
 ## -description
 
+Provides event data for the ColorChanged event.
+
 ## -remarks
 
 ## -see-also
+
+[ColorPicker.ColorChanged](colorpicker_colorchanged.md)
+[ColorSpectrum.ColorChanged](colorspectrum_colorchanged.md)
 
 ## -examples
 

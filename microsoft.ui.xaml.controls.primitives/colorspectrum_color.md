@@ -11,7 +11,11 @@ public Color Color { get;  set; }
 
 ## -description
 
+Gets or sets the current color value.
+
 ## -property-value
+
+The current color value.
 
 ## -remarks
 

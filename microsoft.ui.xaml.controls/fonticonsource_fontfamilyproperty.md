@@ -11,7 +11,11 @@ public DependencyProperty FontFamilyProperty { get; }
 
 ## -description
 
+Gets the identifier for the FontFamily dependency property.
+
 ## -property-value
+
+The identifier for the FontFamily dependency property.
 
 ## -remarks
 

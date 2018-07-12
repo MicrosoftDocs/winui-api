@@ -11,7 +11,11 @@ public IVector<object> MenuItems { get; }
 
 ## -description
 
+Gets the collection of menu items displayed in the NavigationMenu.
+
 ## -property-value
+
+The collection of menu items displayed in the NavigationMenu. The default is an empty collection.
 
 ## -remarks
 
