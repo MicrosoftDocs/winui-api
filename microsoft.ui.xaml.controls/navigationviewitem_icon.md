@@ -39,7 +39,7 @@ The icon to show next to the menu item text. The default in **null**.
 
 ## -remarks
 
-You can assign a value from the [Symbol](symbol.md) enumeration, or a Unicode string that references a glyph in the Segoe MDL2 Assets font.
+You can assign a value from the [Symbol](/uwp/api/windows.ui.xaml.controls.symbol) enumeration, or a Unicode string that references a glyph in the Segoe MDL2 Assets font.
 
 You can use the Character Map application that comes with Windows to browse the font's glyphs and find their Unicode values. Then, use the format **"&#x/_(UNICODE)_;"** in XAML, or the format **"\u/_(UNICODE)_"** in code, where **_(UNICODE)_** is the value of the glyph that indicates the location in the font file. 
 

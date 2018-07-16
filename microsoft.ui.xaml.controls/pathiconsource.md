@@ -21,7 +21,7 @@ Represents an icon source that uses a vector path as its content.
 
 ## -remarks
 
-**PathIconSource** is similar to [PathIcon](pathicon.md). However, because it is not a [FrameworkElement](/uwp/api/windows.ui.xaml.frameworkelement), it can be shared.
+**PathIconSource** is similar to [PathIcon](/uwp/api/windows.ui.xaml.controls.pathicon). However, because it is not a [FrameworkElement](/uwp/api/windows.ui.xaml.frameworkelement), it can be shared.
 
 ## -see-also
 

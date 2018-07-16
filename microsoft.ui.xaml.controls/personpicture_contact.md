@@ -11,7 +11,7 @@ public Contact Contact { get;  set; }
 
 ## -description
 
-Gets or sets a [Contact](../windows.applicationmodel.contacts/contact.md) object that contains information about the person.
+Gets or sets a [Contact](/uwp/api/windows.applicationmodel.contacts.contact) object that contains information about the person.
 
 ## -xaml-syntax
 
@@ -21,7 +21,7 @@ Gets or sets a [Contact](../windows.applicationmodel.contacts/contact.md) object
 
 ## -property-value
 
-A [Contact](../windows.applicationmodel.contacts/contact.md) object that contains information about the person.
+A [Contact](/uwp/api/windows.applicationmodel.contacts.contact) object that contains information about the person.
 
 ## -remarks
 

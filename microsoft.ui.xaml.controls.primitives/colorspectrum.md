@@ -15,7 +15,7 @@ Represents a control that lets a user choose a color from a visual spectrum.
 
 ## -remarks
 
-ColorSpectrum is a component of the [ColorPicker](../windows.ui.xaml.controls/colorpicker.md) control. Use ColorPicker for a complete color picking experience.
+ColorSpectrum is a component of the [ColorPicker](/uwp/api/windows.ui.xaml.controls.colorpicker) control. Use ColorPicker for a complete color picking experience.
 
 ## -see-also
 

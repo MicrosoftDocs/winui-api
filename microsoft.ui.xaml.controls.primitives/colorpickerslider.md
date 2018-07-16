@@ -11,7 +11,7 @@ public class ColorPickerSlider : Slider, Slider
 
 ## -description
 
-Represents a slider in a [ColorPicker](../windows.ui.xaml.controls/colorpicker.md) control.
+Represents a slider in a [ColorPicker](/uwp/api/windows.ui.xaml.controls.colorpicker) control.
 
 ## -remarks
 

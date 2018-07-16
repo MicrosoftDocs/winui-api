@@ -17,7 +17,7 @@ Provides event data for the [NavigationView.ItemInvoked](navigationview_iteminvo
 
 ## -see-also
 
-[RoutedEventArgs](../windows.ui.xaml/routedeventargs.md)
+[RoutedEventArgs](/uwp/api/windows.ui.xaml.routedeventargs)
 
 ## -examples
 
