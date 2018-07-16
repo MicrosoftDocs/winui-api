@@ -11,7 +11,7 @@ public DataTemplate MenuItemTemplate { get;  set; }
 
 ## -description
 
-Gets or sets the [DataTemplate](../windows.ui.xaml/datatemplate.md) used to display each menu item.
+Gets or sets the [DataTemplate](/uwp/api/windows.ui.xaml.datatemplate) used to display each menu item.
 
 ## -xaml-syntax
 

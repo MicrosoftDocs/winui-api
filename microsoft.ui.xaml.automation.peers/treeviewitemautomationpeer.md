@@ -10,7 +10,7 @@ public class TreeViewItemAutomationPeer : ListViewItemAutomationPeer, ListViewIt
 # Microsoft.UI.Xaml.Automation.Peers.TreeViewItemAutomationPeer
 
 ## -description
-Exposes **[TreeViewItem](../windows.ui.xaml.controls/treeviewitem.md)** types to Microsoft UI Automation.
+Exposes **[TreeViewItem](../microsoft.ui.xaml.controls/treeviewitem.md)** types to Microsoft UI Automation.
 
 ## -remarks
 

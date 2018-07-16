@@ -21,7 +21,7 @@ Gets or sets the Uniform Resource Identifier (URI) of the bitmap to use as the i
 
 ## -property-value
 
-The [Uri](../windows.foundation/uri.md) of the bitmap to use as the icon content. The default is **null**.
+The [Uri](/uwp/api/windows.foundation.uri) of the bitmap to use as the icon content. The default is **null**.
 
 ## -remarks
 

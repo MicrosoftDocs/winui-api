@@ -21,7 +21,7 @@ Represents an icon source that uses a bitmap as its content.
 
 ## -remarks
 
-**BitmapIconSource** is similar to [BitmapIcon](bitmapicon.md). However, because it is not a [FrameworkElement](../windows.ui.xaml/frameworkelement.md), it can be shared.
+**BitmapIconSource** is similar to [BitmapIcon](/uwp/api/windows.ui.xaml.controls.bitmapicon). However, because it is not a [FrameworkElement](/uwp/api/windows.ui.xaml.frameworkelement), it can be shared.
 
 ## -see-also
 

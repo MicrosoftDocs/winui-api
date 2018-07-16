@@ -11,7 +11,7 @@ public AutoSuggestBox AutoSuggestBox { get;  set; }
 
 ## -description
 
-Gets or sets an [AutoSuggestBox](autosuggestbox.md) to be displayed in the NavigationView.
+Gets or sets an [AutoSuggestBox](/uwp/api/windows.ui.xaml.controls.autosuggestbox) to be displayed in the NavigationView.
 
 ## -xaml-syntax
 
@@ -34,7 +34,7 @@ Gets or sets an [AutoSuggestBox](autosuggestbox.md) to be displayed in the Navig
 
 ## -property-value
 
-An [AutoSuggestBox](autosuggestbox.md) box to be displayed in the NavigationView.
+An [AutoSuggestBox](/uwp/api/windows.ui.xaml.controls.autosuggestbox) box to be displayed in the NavigationView.
 
 ## -remarks
 

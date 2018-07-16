@@ -21,7 +21,7 @@ Represents an icon source that uses a glyph from the Segoe MDL2 Assets font as i
 
 ## -remarks
 
-**SymbolIconSource** is similar to [SymbolIcon](symbolicon.md). However, because it is not a [FrameworkElement](../windows.ui.xaml/frameworkelement.md), it can be shared.
+**SymbolIconSource** is similar to [SymbolIcon](symbolicon.md). However, because it is not a [FrameworkElement](/uwp/api/windows.ui.xaml.frameworkelement), it can be shared.
 
 ## -see-also
 

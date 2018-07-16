@@ -17,7 +17,7 @@ Returns the item that corresponds to the specified, generated container.
 
 ### -param container
 
-The [DependencyObject](../windows.ui.xaml/dependencyobject.md) that corresponds to the item to be returned.
+The [DependencyObject](/uwp/api/windows.ui.xaml.dependencyobject) that corresponds to the item to be returned.
 
 ## -returns
 

@@ -10,7 +10,7 @@ public class RatingControlAutomationPeer : FrameworkElementAutomationPeer, Frame
 # Microsoft.UI.Xaml.Automation.Peers.RatingControlAutomationPeer
 
 ## -description
-Exposes **[RatingControl](../windows.ui.xaml.controls/ratingcontrol.md)** types to Microsoft UI Automation.
+Exposes **[RatingControl](../microsoft.ui.xaml.controls/ratingcontrol.md)** types to Microsoft UI Automation.
 
 ## -remarks
 

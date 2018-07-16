@@ -11,7 +11,7 @@ public StyleSelector MenuItemContainerStyleSelector { get;  set; }
 
 ## -description
 
-Gets or sets a reference to a custom [StyleSelector](styleselector.md) logic class. The [StyleSelector](styleselector.md) returns different [Style](../windows.ui.xaml/style.md) values to use for the item container based on characteristics of the object being displayed.
+Gets or sets a reference to a custom [StyleSelector](/uwp/api/windows.ui.xaml.controls.styleselector) logic class. The [StyleSelector](/uwp/api/windows.ui.xaml.controls.styleselector) returns different [Style](/uwp/api/windows.ui.xaml.style) values to use for the item container based on characteristics of the object being displayed.
 
 ## -xaml-syntax
 
@@ -26,7 +26,7 @@ Gets or sets a reference to a custom [StyleSelector](styleselector.md) logic cla
 
 ## -property-value
 
-A custom [StyleSelector](styleselector.md) logic class.
+A custom [StyleSelector](/uwp/api/windows.ui.xaml.controls.styleselector) logic class.
 
 ## -remarks
 
