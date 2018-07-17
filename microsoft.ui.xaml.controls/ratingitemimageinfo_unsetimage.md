@@ -32,7 +32,7 @@ An object that represents the image source file for the drawn image. Typically y
 
 ## -see-also
 
-[Image.Source](image_source.md)
+[Image.Source](/uwp/api/windows.ui.xaml.controls.image.source)
 
 ## -examples
 

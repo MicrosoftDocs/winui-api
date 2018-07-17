@@ -30,7 +30,7 @@ Gets or sets a brush that describes the foreground color.
 
 ## -property-value
 
-The brush that paints the foreground of the control. The default is **null**, (a null brush) which is evaluated as [Transparent](../windows.ui/colors_transparent.md) for rendering. However, this value is typically set by a default system resource at runtime, which is tied to the active theme and other settings.
+The brush that paints the foreground of the control. The default is **null**, (a null brush) which is evaluated as [Transparent](/uwp/api/windows.ui.colors.transparent) for rendering. However, this value is typically set by a default system resource at runtime, which is tied to the active theme and other settings.
 
 ## -remarks
 

@@ -25,7 +25,7 @@ Gets or sets a value that indicates whether the icon is mirrored when its contai
 
 ## -remarks
 
-You can set the [MirroredWhenRightToLeft](/uwp/api/windows.ui.xaml.controls.fonticon.mirroredwhenrighttoleft) property to have the glyph appear mirrored when its containing element's [FlowDirection](/uwp/api/windows.ui.xaml.frameworkelement.flowdirection) is [RightToLeft](/uwp/api/windows.ui.xaml.flowdirection). You typically use this property when a [FontIcon](fonticon) is used to display an icon as part of a control template and the icon needs to be mirrored along with the rest of the control.
+You can set the [MirroredWhenRightToLeft](/uwp/api/windows.ui.xaml.controls.fonticon.mirroredwhenrighttoleft) property to have the glyph appear mirrored when its containing element's [FlowDirection](/uwp/api/windows.ui.xaml.frameworkelement.flowdirection) is [RightToLeft](/uwp/api/windows.ui.xaml.flowdirection). You typically use this property when a [FontIcon](/uwp/api/windows.ui.xaml.controls.fonticon) is used to display an icon as part of a control template and the icon needs to be mirrored along with the rest of the control.
 
 ## -see-also
 
