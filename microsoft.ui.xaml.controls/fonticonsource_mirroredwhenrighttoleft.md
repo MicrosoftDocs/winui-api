@@ -11,7 +11,7 @@ public bool MirroredWhenRightToLeft { get;  set; }
 
 ## -description
 
-Gets or sets a value that indicates whether the icon is mirrored when its containing element's [FlowDirection](../windows.ui.xaml/frameworkelement_flowdirection.md) is **RightToLeft**.
+Gets or sets a value that indicates whether the icon is mirrored when its containing element's [FlowDirection](/uwp/api/windows.ui.xaml.frameworkelement.flowdirection) is **RightToLeft**.
 
 ## -xaml-syntax
 
