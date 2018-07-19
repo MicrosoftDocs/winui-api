@@ -10,6 +10,7 @@ namespace Microsoft.UI.Xaml.Core.Direct
 # Microsoft.UI.Xaml.Core.Direct
 
 ## -description
+Requires the [Microsoft Windows UI Library](https://aka.ms/winui-docs).
 
 ## -remarks
 
