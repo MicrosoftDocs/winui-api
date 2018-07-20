@@ -10,7 +10,7 @@ namespace Microsoft.UI.Xaml.Media
 # Microsoft.UI.Xaml.Media
 
 ## -description
-Requires the [Microsoft Windows UI Library](https://aka.ms/winui-docs).
+Requires the **Microsoft.UI.Xaml.Controls** NuGet package, a part of the [Microsoft Windows UI Library](https://aka.ms/winui-docs).
 
 ## -remarks
 
