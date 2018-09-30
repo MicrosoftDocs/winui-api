@@ -1,17 +1,33 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.SwipeControl.RightItems
 -api-type: winrt property
----
 
+---
 <!-- Property syntax.
 public SwipeItems RightItems { get;  set; }
 -->
 
 # Microsoft.UI.Xaml.Controls.SwipeControl.RightItems
 
+
 ## -description
 
 Gets or sets the items that can be invoked when the control is swiped from the right side.
+
+
+## -property-value
+
+The items that can be invoked when the control is swiped from the right side.
+
+
+## -remarks
+
+
+## -see-also
+
+
+## -examples
+
 
 ## -xaml-syntax
 
@@ -23,18 +39,10 @@ Gets or sets the items that can be invoked when the control is swiped from the r
 </SwipeControl>
 ```
 
+
 ## -xaml-values
 
 <dl><dt>oneOrMoreSwipeItemDefinitions</dt><dd>oneOrMoreSwipeItemDefinitionsOne or more SwipeItem elements.</dd>
 </dl>
 
-## -property-value
-
-The items that can be invoked when the control is swiped from the right side.
-
-## -remarks
-
-## -see-also
-
-## -examples
 

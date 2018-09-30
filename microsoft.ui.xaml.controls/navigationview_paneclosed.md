@@ -1,17 +1,28 @@
 ---
 -api-id: E:Microsoft.UI.Xaml.Controls.NavigationView.PaneClosed
 -api-type: winrt event
----
 
+---
 <!-- Event syntax.
 public event TypedEventHandler PaneClosed<NavigationView,  object>
 -->
 
 # Microsoft.UI.Xaml.Controls.NavigationView.PaneClosed
 
+
 ## -description
 
 Occurs when the NavigationView pane is closed.
+
+
+## -remarks
+
+
+## -see-also
+
+
+## -examples
+
 
 ## -xaml-syntax
 
@@ -19,8 +30,4 @@ Occurs when the NavigationView pane is closed.
 <NavigationView PaneClosed="eventhandler" />
 ```
 
-## -remarks
 
-## -see-also
-
-## -examples

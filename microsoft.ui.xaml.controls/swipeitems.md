@@ -1,17 +1,28 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Controls.SwipeItems
 -api-type: winrt class
----
 
+---
 <!-- Class syntax.
 public class SwipeItems : DependencyObject, DependencyObject, IIterable<SwipeItem>, IVector<SwipeItem>
 -->
 
 # Microsoft.UI.Xaml.Controls.SwipeItems
 
+
 ## -description
 
 Represents a collection of [SwipeItem](swipeitem.md) objects.
+
+
+## -remarks
+
+
+## -see-also
+
+
+## -examples
+
 
 ## -xaml-syntax
 
@@ -23,14 +34,10 @@ Represents a collection of [SwipeItem](swipeitem.md) objects.
 </SwipeControl>
 ```
 
+
 ## -xaml-values
 
 <dl><dt>oneOrMoreSwipeItemDefinitions</dt><dd>oneOrMoreSwipeItemDefinitionsOne or more SwipeItem elements.</dd>
 </dl>
 
-## -remarks
-
-## -see-also
-
-## -examples
 
