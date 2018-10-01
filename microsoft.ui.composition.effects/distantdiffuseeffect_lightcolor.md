@@ -10,6 +10,7 @@ public Color LightColor { get;  set; }
 # Microsoft.UI.Composition.Effects.DistantDiffuseEffect.LightColor
 
 ## -description
+Color of the incoming light. Default value white.
 
 ## -property-value
 

@@ -10,8 +10,10 @@ public Matrix5x4 ColorMatrix { get;  set; }
 # Microsoft.UI.Composition.Effects.ColorMatrixEffect.ColorMatrix
 
 ## -description
+Gets or sets the color transform matrix.
 
 ## -property-value
+The color transform matrix.
 
 ## -remarks
 

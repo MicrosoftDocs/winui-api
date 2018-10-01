@@ -10,8 +10,10 @@ public Color Color { get;  set; }
 # Microsoft.UI.Composition.Effects.ColorSourceEffect.Color
 
 ## -description
+Gets or sets the color to be generated.
 
 ## -property-value
+The color to be generated.
 
 ## -remarks
 

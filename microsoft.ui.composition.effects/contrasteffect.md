@@ -10,6 +10,7 @@ public class ContrastEffect : IGraphicsEffect, IGraphicsEffectSource
 # Microsoft.UI.Composition.Effects.ContrastEffect
 
 ## -description
+Increases or decreases the contrast of an image.
 
 ## -remarks
 

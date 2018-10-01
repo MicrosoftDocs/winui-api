@@ -10,8 +10,10 @@ public IGraphicsEffectSource Source { get;  set; }
 # Microsoft.UI.Composition.Effects.ContrastEffect.Source
 
 ## -description
+Gets or sets the input source for the effect.
 
 ## -property-value
+The input source for the effect.
 
 ## -remarks
 

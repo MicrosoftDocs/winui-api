@@ -10,8 +10,10 @@ public CanvasComposite Mode { get;  set; }
 # Microsoft.UI.Composition.Effects.CompositeStepEffect.Mode
 
 ## -description
+Gets or sets how the two images are combined. 
 
 ## -property-value
+A value that specifies how the two images are combined. 
 
 ## -remarks
 

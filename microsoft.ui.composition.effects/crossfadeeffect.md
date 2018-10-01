@@ -10,6 +10,7 @@ public class CrossFadeEffect : IGraphicsEffect, IGraphicsEffectSource
 # Microsoft.UI.Composition.Effects.CrossFadeEffect
 
 ## -description
+Cross-fades (interpolates) between two images.
 
 ## -remarks
 

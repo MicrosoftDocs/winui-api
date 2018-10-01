@@ -10,6 +10,7 @@ public class GammaTransferEffect : IGraphicsEffect, IGraphicsEffectSource
 # Microsoft.UI.Composition.Effects.GammaTransferEffect
 
 ## -description
+Alters the colors of an image by applying a per-channel gamma transfer function.
 
 ## -remarks
 

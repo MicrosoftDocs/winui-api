@@ -10,6 +10,7 @@ public float BlueAmplitude { get;  set; }
 # Microsoft.UI.Composition.Effects.GammaTransferEffect.BlueAmplitude
 
 ## -description
+Scales the blue channel. Default value 1.
 
 ## -property-value
 

@@ -10,6 +10,7 @@ public bool AlphaDisable { get;  set; }
 # Microsoft.UI.Composition.Effects.GammaTransferEffect.AlphaDisable
 
 ## -description
+Disables the alpha channel transfer function. Default value false.
 
 ## -property-value
 

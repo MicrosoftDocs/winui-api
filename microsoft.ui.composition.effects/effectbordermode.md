@@ -9,12 +9,15 @@ public enum EffectBorderMode : int
 
 # Microsoft.UI.Composition.Effects.EffectBorderMode
 
-## -description
+## -descriptio
+Specifies how to process pixels that fall outside the input image.
 
 ## -enum-fields
 ### -field Soft:0
+Pixels outside the input image are treated as transparent black, resulting in a soft edge after processing.
 
 ### -field Hard:1
+The effect clamps to the size of the input image.
 
 ## -remarks
 

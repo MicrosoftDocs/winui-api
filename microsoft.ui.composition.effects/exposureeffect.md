@@ -10,6 +10,7 @@ public class ExposureEffect : IGraphicsEffect, IGraphicsEffectSource
 # Microsoft.UI.Composition.Effects.ExposureEffect
 
 ## -description
+Increases or decreases the exposure of an image.
 
 ## -remarks
 

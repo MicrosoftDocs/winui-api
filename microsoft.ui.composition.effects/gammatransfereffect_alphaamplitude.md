@@ -10,6 +10,7 @@ public float AlphaAmplitude { get;  set; }
 # Microsoft.UI.Composition.Effects.GammaTransferEffect.AlphaAmplitude
 
 ## -description
+Scales the alpha channel. Default value 1.
 
 ## -property-value
 

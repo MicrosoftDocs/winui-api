@@ -10,8 +10,10 @@ public IGraphicsEffectSource Source { get;  set; }
 # Microsoft.UI.Composition.Effects.CompositeStepEffect.Source
 
 ## -description
+Gets or sets the image to blend with the destination image.
 
 ## -property-value
+The image to blend with the destination image.
 
 ## -remarks
 

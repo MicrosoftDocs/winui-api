@@ -10,6 +10,7 @@ public float DiffuseAmount { get;  set; }
 # Microsoft.UI.Composition.Effects.DistantDiffuseEffect.DiffuseAmount
 
 ## -description
+Intensity of the diffuse light. Default value 1.
 
 ## -property-value
 

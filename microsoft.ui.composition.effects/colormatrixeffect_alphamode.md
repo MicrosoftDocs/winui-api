@@ -10,8 +10,10 @@ public CanvasAlphaMode AlphaMode { get;  set; }
 # Microsoft.UI.Composition.Effects.ColorMatrixEffect.AlphaMode
 
 ## -description
+Gets or sets how the alpha channel is treated.  
 
 ## -property-value
+How the alpha value is treated. The default value is **Premultiplied**.
 
 ## -remarks
 

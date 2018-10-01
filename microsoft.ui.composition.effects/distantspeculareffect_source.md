@@ -9,7 +9,8 @@ public IGraphicsEffectSource Source { get;  set; }
 
 # Microsoft.UI.Composition.Effects.DistantSpecularEffect.Source
 
-## -description
+## -description	
+Gets or sets the input source for the effect.
 
 ## -property-value
 
