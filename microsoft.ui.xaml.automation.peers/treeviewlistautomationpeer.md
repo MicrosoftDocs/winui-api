@@ -10,16 +10,21 @@ public class TreeViewListAutomationPeer : SelectorAutomationPeer, SelectorAutoma
 # Microsoft.UI.Xaml.Automation.Peers.TreeViewListAutomationPeer
 
 
+
 ## -description
-Exposes **[TreeViewList](../windows.ui.xaml.controls/treeviewlist.md)** types to Microsoft UI Automation.
+Exposes **[TreeViewList](../microsoft.ui.xaml.controls/treeviewlist.md)** types to Microsoft UI Automation.
+
 
 
 ## -remarks
 
 
+
 ## -see-also
 
 
+
 ## -examples
+
 
 

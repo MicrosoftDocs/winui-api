@@ -10,1017 +10,1272 @@ public enum XamlTypeIndex : int
 # Microsoft.UI.Xaml.Core.Direct.XamlTypeIndex
 
 
+
 ## -description
-Enum that lists all the supported types in [XamlDirect](windows_ui_xaml_core_direct.md). 
+Enum that lists all the supported types in [XamlDirect](/uwp/api/windows.ui.xaml.core.direct.windows.ui.xaml.core.direct). 
+
 
 
 ## -enum-fields
 
+
 ### -field XamlUICommand:969
-The [XamlUICommand](../windows.ui.xaml.input/xamluicommand.md) type.
+The [XamlUICommand](/uwp/api/windows.ui.xaml.input.xamluicommand) type.
+
 
 
 ### -field XamlLight:855
-The [XamlLight](../windows.ui.xaml.media/xamllight.md) type.
+The [XamlLight](/uwp/api/windows.ui.xaml.media.xamllight) type.
+
 
 
 ### -field WrapGrid:556
-The [WrapGrid](../windows.ui.xaml.controls/wrapgrid.md) type.
+The [WrapGrid](/uwp/api/windows.ui.xaml.controls.wrapgrid) type.
+
 
 
 ### -field WebViewBrush:423
-The [WebViewBrush](../windows.ui.xaml.controls/webviewbrush.md) type.
+The [WebViewBrush](/uwp/api/windows.ui.xaml.controls.webviewbrush) type.
+
 
 
 ### -field WebView:494
-The [WebView](../windows.ui.xaml.controls/webview.md) type.
+The [WebView](/uwp/api/windows.ui.xaml.controls.webview) type.
+
 
 
 ### -field VisualTransition:140
-The [VisualTransition](../windows.ui.xaml/visualtransition.md) type.
+The [VisualTransition](/uwp/api/windows.ui.xaml.visualtransition) type.
+
 
 
 ### -field VisualStateManager:139
-The [VisualStateManager](../windows.ui.xaml/visualstatemanager.md) type.
+The [VisualStateManager](/uwp/api/windows.ui.xaml.visualstatemanager) type.
+
 
 
 ### -field VisualStateGroup:138
-The [VisualStateGroup](../windows.ui.xaml/visualstategroup.md) type.
+The [VisualStateGroup](/uwp/api/windows.ui.xaml.visualstategroup) type.
+
 
 
 ### -field VisualState:137
-The [VisualState](../windows.ui.xaml/visualstate.md) type.
+The [VisualState](/uwp/api/windows.ui.xaml.visualstate) type.
+
 
 
 ### -field VirtualizingStackPanel:555
-The [VirtualizingStackPanel](../windows.ui.xaml.controls/virtualizingstackpanel.md) type.
+The [VirtualizingStackPanel](/uwp/api/windows.ui.xaml.controls.virtualizingstackpanel) type.
+
 
 
 ### -field Viewbox:417
-The [Viewbox](../windows.ui.xaml.controls/viewbox.md) type.
+The [Viewbox](/uwp/api/windows.ui.xaml.controls.viewbox) type.
+
 
 
 ### -field VariableSizedWrapGrid:492
-The [VariableSizedWrapGrid](../windows.ui.xaml.controls/variablesizedwrapgrid.md) type.
+The [VariableSizedWrapGrid](/uwp/api/windows.ui.xaml.controls.variablesizedwrapgrid) type.
+
 
 
 ### -field UserControl:491
-The [UserControl](../windows.ui.xaml.controls/usercontrol.md) type.
+The [UserControl](/uwp/api/windows.ui.xaml.controls.usercontrol) type.
+
 
 
 ### -field Underline:490
-The [Underline](../windows.ui.xaml.documents/underline.md) type.
+The [Underline](/uwp/api/windows.ui.xaml.documents.underline) type.
+
 
 
 ### -field TranslateTransform:413
-The [TranslateTransform](../windows.ui.xaml.media/translatetransform.md) type.
+The [TranslateTransform](/uwp/api/windows.ui.xaml.media.translatetransform) type.
+
 
 
 ### -field TransformGroup:411
-The [TransformGroup](../windows.ui.xaml.media/transformgroup.md) type.
+The [TransformGroup](/uwp/api/windows.ui.xaml.media.transformgroup) type.
+
 
 
 ### -field ToolTip:538
-The [ToolTip](../windows.ui.xaml.controls/tooltip.md) type.
+The [ToolTip](/uwp/api/windows.ui.xaml.controls.tooltip) type.
+
 
 
 ### -field ToggleSwitch:489
-The [ToggleSwitch](../windows.ui.xaml.controls/toggleswitch.md) type.
+The [ToggleSwitch](/uwp/api/windows.ui.xaml.controls.toggleswitch) type.
+
 
 
 ### -field ToggleMenuFlyoutItem:554
-The [ToggleMenuFlyoutItem](../windows.ui.xaml.controls/togglemenuflyoutitem.md) type.
+The [ToggleMenuFlyoutItem](/uwp/api/windows.ui.xaml.controls.togglemenuflyoutitem) type.
+
 
 
 ### -field ToggleButton:553
-The [ToggleButton](../windows.ui.xaml.controls.primitives/togglebutton.md) type.
+The [ToggleButton](/uwp/api/windows.ui.xaml.controls.primitives.togglebutton) type.
+
 
 
 ### -field TimePicker:487
-The [TimePicker](../windows.ui.xaml.controls/timepicker.md) type.
+The [TimePicker](/uwp/api/windows.ui.xaml.controls.timepicker) type.
+
 
 
 ### -field TimelineMarker:126
-The [TimelineMarker](../windows.ui.xaml.media/timelinemarker.md) type.
+The [TimelineMarker](/uwp/api/windows.ui.xaml.media.timelinemarker) type.
+
 
 
 ### -field TickBar:486
-The [TickBar](../windows.ui.xaml.controls.primitives/tickbar.md) type.
+The [TickBar](/uwp/api/windows.ui.xaml.controls.primitives.tickbar) type.
+
 
 
 ### -field Thumb:485
-The [Thumb](../windows.ui.xaml.controls.primitives/thumb.md) type.
+The [Thumb](/uwp/api/windows.ui.xaml.controls.primitives.thumb) type.
+
 
 
 ### -field TextBox:483
-The [TextBox](../windows.ui.xaml.controls/textbox.md) type.
+The [TextBox](/uwp/api/windows.ui.xaml.controls.textbox) type.
+
 
 
 ### -field TextBlock:396
-The [TextBlock](../windows.ui.xaml.controls/textblock.md) type.
+The [TextBlock](/uwp/api/windows.ui.xaml.controls.textblock) type.
+
 
 
 ### -field SymbolIconSource:933
-The [SymbolIconSource](../windows.ui.xaml.controls/symboliconsource.md) type.
+The [SymbolIconSource](../microsoft.ui.xaml.controls/symboliconsource.md) type.
+
 
 
 ### -field SymbolIcon:482
-The [SymbolIcon](../windows.ui.xaml.controls/symbolicon.md) type.
+The [SymbolIcon](/uwp/api/windows.ui.xaml.controls.symbolicon) type.
+
 
 
 ### -field SwipeHintThemeAnimation:395
-The [SwipeHintThemeAnimation](../windows.ui.xaml.media.animation/swipehintthemeanimation.md) type.
+The [SwipeHintThemeAnimation](/uwp/api/windows.ui.xaml.media.animation.swipehintthemeanimation) type.
+
 
 
 ### -field SwipeBackThemeAnimation:394
-The [SwipeBackThemeAnimation](../windows.ui.xaml.media.animation/swipebackthemeanimation.md) type.
+The [SwipeBackThemeAnimation](/uwp/api/windows.ui.xaml.media.animation.swipebackthemeanimation) type.
+
 
 
 ### -field SwapChainPanel:536
-The [SwapChainPanel](../windows.ui.xaml.controls/swapchainpanel.md) type.
+The [SwapChainPanel](/uwp/api/windows.ui.xaml.controls.swapchainpanel) type.
+
 
 
 ### -field SwapChainBackgroundPanel:535
-The [SwapChainBackgroundPanel](../windows.ui.xaml.controls/swapchainbackgroundpanel.md) type.
+The [SwapChainBackgroundPanel](/uwp/api/windows.ui.xaml.controls.swapchainbackgroundpanel) type.
+
 
 
 ### -field SvgImageSource:860
-The [SvgImageSource](../windows.ui.xaml.media.imaging/svgimagesource.md) type.
+The [SvgImageSource](/uwp/api/windows.ui.xaml.media.imaging.svgimagesource) type.
+
 
 
 ### -field Style:114
-The [Style](../windows.ui.xaml/style.md) type.
+The [Style](/uwp/api/windows.ui.xaml.style) type.
+
 
 
 ### -field Storyboard:393
-The [Storyboard](../windows.ui.xaml.media.animation/storyboard.md) type.
+The [Storyboard](/uwp/api/windows.ui.xaml.media.animation.storyboard) type.
+
 
 
 ### -field StateTrigger:767
-The [StateTrigger](../windows.ui.xaml/statetrigger.md) type.
+The [StateTrigger](/uwp/api/windows.ui.xaml.statetrigger) type.
+
 
 
 ### -field StandardUICommand:961
-The [StandardUICommand](../windows.ui.xaml.input/standarduicommand.md) type.
+The [StandardUICommand](/uwp/api/windows.ui.xaml.input.standarduicommand) type.
+
 
 
 ### -field StackPanel:481
-The [StackPanel](../windows.ui.xaml.controls/stackpanel.md) type.
+The [StackPanel](/uwp/api/windows.ui.xaml.controls.stackpanel) type.
+
 
 
 ### -field SplitView:728
-The [SplitView](../windows.ui.xaml.controls/splitview.md) type.
+The [SplitView](/uwp/api/windows.ui.xaml.controls.splitview) type.
+
 
 
 ### -field SplitOpenThemeAnimation:392
-The [SplitOpenThemeAnimation](../windows.ui.xaml.media.animation/splitopenthemeanimation.md) type.
+The [SplitOpenThemeAnimation](/uwp/api/windows.ui.xaml.media.animation.splitopenthemeanimation) type.
+
 
 
 ### -field SplitCloseThemeAnimation:391
-The [SplitCloseThemeAnimation](../windows.ui.xaml.media.animation/splitclosethemeanimation.md) type.
+The [SplitCloseThemeAnimation](/uwp/api/windows.ui.xaml.media.animation.splitclosethemeanimation) type.
+
 
 
 ### -field SplinePointKeyFrame:268
-The [SplinePointKeyFrame](../windows.ui.xaml.media.animation/splinepointkeyframe.md) type.
+The [SplinePointKeyFrame](/uwp/api/windows.ui.xaml.media.animation.splinepointkeyframe) type.
+
 
 
 ### -field SplineDoubleKeyFrame:267
-The [SplineDoubleKeyFrame](../windows.ui.xaml.media.animation/splinedoublekeyframe.md) type.
+The [SplineDoubleKeyFrame](/uwp/api/windows.ui.xaml.media.animation.splinedoublekeyframe) type.
+
 
 
 ### -field SplineColorKeyFrame:266
-The [SplineColorKeyFrame](../windows.ui.xaml.media.animation/splinecolorkeyframe.md) type.
+The [SplineColorKeyFrame](/uwp/api/windows.ui.xaml.media.animation.splinecolorkeyframe) type.
+
 
 
 ### -field Span:390
-The [Span](../windows.ui.xaml.documents/span.md) type.
+The [Span](/uwp/api/windows.ui.xaml.documents.span) type.
+
 
 
 ### -field SolidColorBrush:265
-The [SolidColorBrush](../windows.ui.xaml.media/solidcolorbrush.md) type.
+The [SolidColorBrush](/uwp/api/windows.ui.xaml.media.solidcolorbrush) type.
+
 
 
 ### -field SoftwareBitmapSource:761
-The [SoftwareBitmapSource](../windows.ui.xaml.media.imaging/softwarebitmapsource.md) type.
+The [SoftwareBitmapSource](/uwp/api/windows.ui.xaml.media.imaging.softwarebitmapsource) type.
+
 
 
 ### -field Slider:534
-The [Slider](../windows.ui.xaml.controls/slider.md) type.
+The [Slider](/uwp/api/windows.ui.xaml.controls.slider) type.
+
 
 
 ### -field SkewTransform:389
-The [SkewTransform](../windows.ui.xaml.media/skewtransform.md) type.
+The [SkewTransform](/uwp/api/windows.ui.xaml.media.skewtransform) type.
+
 
 
 ### -field SineEase:264
-The [SineEase](../windows.ui.xaml.media.animation/sineease.md) type.
+The [SineEase](/uwp/api/windows.ui.xaml.media.animation.sineease) type.
+
 
 
 ### -field SettingsFlyout:533
-The [SettingsFlyout](../windows.ui.xaml.controls/settingsflyout.md) type.
+The [SettingsFlyout](/uwp/api/windows.ui.xaml.controls.settingsflyout) type.
+
 
 
 ### -field Setter:263
-The [Setter](../windows.ui.xaml/setter.md) type.
+The [Setter](/uwp/api/windows.ui.xaml.setter) type.
+
 
 
 ### -field SemanticZoom:479
-The [SemanticZoom](../windows.ui.xaml.controls/semanticzoom.md) type.
+The [SemanticZoom](/uwp/api/windows.ui.xaml.controls.semanticzoom) type.
+
 
 
 ### -field SearchBox:477
-The [SearchBox](../windows.ui.xaml.controls/searchbox.md) type.
+The [SearchBox](/uwp/api/windows.ui.xaml.controls.searchbox) type.
+
 
 
 ### -field ScrollViewer:552
-The [ScrollViewer](../windows.ui.xaml.controls/scrollviewer.md) type.
+The [ScrollViewer](/uwp/api/windows.ui.xaml.controls.scrollviewer) type.
+
 
 
 ### -field ScrollContentPresenter:476
-The [ScrollContentPresenter](../windows.ui.xaml.controls/scrollcontentpresenter.md) type.
+The [ScrollContentPresenter](/uwp/api/windows.ui.xaml.controls.scrollcontentpresenter) type.
+
 
 
 ### -field ScrollBar:530
-The [ScrollBar](../windows.ui.xaml.controls.primitives/scrollbar.md) type.
+The [ScrollBar](/uwp/api/windows.ui.xaml.controls.primitives.scrollbar) type.
+
 
 
 ### -field ScaleTransform:381
-The [ScaleTransform](../windows.ui.xaml.media/scaletransform.md) type.
+The [ScaleTransform](/uwp/api/windows.ui.xaml.media.scaletransform) type.
+
 
 
 ### -field Run:380
-The [Run](../windows.ui.xaml.documents/run.md) type.
+The [Run](/uwp/api/windows.ui.xaml.documents.run) type.
+
 
 
 ### -field RowDefinition:106
-The [RowDefinition](../windows.ui.xaml.controls/rowdefinition.md) type.
+The [RowDefinition](/uwp/api/windows.ui.xaml.controls.rowdefinition) type.
+
 
 
 ### -field RotateTransform:378
-The [RotateTransform](../windows.ui.xaml.media/rotatetransform.md) type.
+The [RotateTransform](/uwp/api/windows.ui.xaml.media.rotatetransform) type.
+
 
 
 ### -field RichTextBlockOverflow:376
-The [RichTextBlockOverflow](../windows.ui.xaml.controls/richtextblockoverflow.md) type.
+The [RichTextBlockOverflow](/uwp/api/windows.ui.xaml.controls.richtextblockoverflow) type.
+
 
 
 ### -field RichTextBlock:374
-The [RichTextBlock](../windows.ui.xaml.controls/richtextblock.md) type.
+The [RichTextBlock](/uwp/api/windows.ui.xaml.controls.richtextblock) type.
+
 
 
 ### -field RichEditBox:473
-The [RichEditBox](../windows.ui.xaml.controls/richeditbox.md) type.
+The [RichEditBox](/uwp/api/windows.ui.xaml.controls.richeditbox) type.
+
 
 
 ### -field ResourceDictionary:371
-The [ResourceDictionary](../windows.ui.xaml/resourcedictionary.md) type.
+The [ResourceDictionary](/uwp/api/windows.ui.xaml.resourcedictionary) type.
+
 
 
 ### -field RepositionThemeTransition:262
-The [RepositionThemeTransition](../windows.ui.xaml.media.animation/repositionthemetransition.md) type.
+The [RepositionThemeTransition](/uwp/api/windows.ui.xaml.media.animation.repositionthemetransition) type.
+
 
 
 ### -field RepositionThemeAnimation:370
-The [RepositionThemeAnimation](../windows.ui.xaml.media.animation/repositionthemeanimation.md) type.
+The [RepositionThemeAnimation](/uwp/api/windows.ui.xaml.media.animation.repositionthemeanimation) type.
+
 
 
 ### -field RepeatButton:551
-The [RepeatButton](../windows.ui.xaml.controls.primitives/repeatbutton.md) type.
+The [RepeatButton](/uwp/api/windows.ui.xaml.controls.primitives.repeatbutton) type.
+
 
 
 ### -field ReorderThemeTransition:261
-The [ReorderThemeTransition](../windows.ui.xaml.media.animation/reorderthemetransition.md) type.
+The [ReorderThemeTransition](/uwp/api/windows.ui.xaml.media.animation.reorderthemetransition) type.
+
 
 
 ### -field RenderTargetBitmap:260
-The [RenderTargetBitmap](../windows.ui.xaml.media.imaging/rendertargetbitmap.md) type.
+The [RenderTargetBitmap](/uwp/api/windows.ui.xaml.media.imaging.rendertargetbitmap) type.
+
 
 
 ### -field RelativeSource:259
-The [RelativeSource](../windows.ui.xaml.data/relativesource.md) type.
+The [RelativeSource](/uwp/api/windows.ui.xaml.data.relativesource) type.
+
 
 
 ### -field RelativePanel:744
-The [RelativePanel](../windows.ui.xaml.controls/relativepanel.md) type.
+The [RelativePanel](/uwp/api/windows.ui.xaml.controls.relativepanel) type.
+
 
 
 ### -field RectangleGeometry:258
-The [RectangleGeometry](../windows.ui.xaml.media/rectanglegeometry.md) type.
+The [RectangleGeometry](/uwp/api/windows.ui.xaml.media.rectanglegeometry) type.
+
 
 
 ### -field Rectangle:470
-The [Rectangle](../windows.ui.xaml.shapes/rectangle.md) type.
+The [Rectangle](/uwp/api/windows.ui.xaml.shapes.rectangle) type.
+
 
 
 ### -field RadioButton:562
-The [RadioButton](../windows.ui.xaml.controls/radiobutton.md) type.
+The [RadioButton](/uwp/api/windows.ui.xaml.controls.radiobutton) type.
+
 
 
 ### -field QuinticEase:257
-The [QuinticEase](../windows.ui.xaml.media.animation/quinticease.md) type.
+The [QuinticEase](/uwp/api/windows.ui.xaml.media.animation.quinticease) type.
+
 
 
 ### -field QuarticEase:256
-The [QuarticEase](../windows.ui.xaml.media.animation/quarticease.md) type.
+The [QuarticEase](/uwp/api/windows.ui.xaml.media.animation.quarticease) type.
+
 
 
 ### -field QuadraticEase:255
-The [QuadraticEase](../windows.ui.xaml.media.animation/quadraticease.md) type.
+The [QuadraticEase](/uwp/api/windows.ui.xaml.media.animation.quadraticease) type.
+
 
 
 ### -field QuadraticBezierSegment:254
-The [QuadraticBezierSegment](../windows.ui.xaml.media/quadraticbeziersegment.md) type.
+The [QuadraticBezierSegment](/uwp/api/windows.ui.xaml.media.quadraticbeziersegment) type.
+
 
 
 ### -field ProgressRing:468
-The [ProgressRing](../windows.ui.xaml.controls/progressring.md) type.
+The [ProgressRing](/uwp/api/windows.ui.xaml.controls.progressring) type.
+
 
 
 ### -field ProgressBar:528
-The [ProgressBar](../windows.ui.xaml.controls/progressbar.md) type.
+The [ProgressBar](/uwp/api/windows.ui.xaml.controls.progressbar) type.
+
 
 
 ### -field PrintDocument:100
-The [PrintDocument](../windows.ui.xaml.printing/printdocument.md) type.
+The [PrintDocument](/uwp/api/windows.ui.xaml.printing.printdocument) type.
+
 
 
 ### -field PowerEase:252
-The [PowerEase](../windows.ui.xaml.media.animation/powerease.md) type.
+The [PowerEase](/uwp/api/windows.ui.xaml.media.animation.powerease) type.
+
 
 
 ### -field PopupThemeTransition:251
-The [PopupThemeTransition](../windows.ui.xaml.media.animation/popupthemetransition.md) type.
+The [PopupThemeTransition](/uwp/api/windows.ui.xaml.media.animation.popupthemetransition) type.
+
 
 
 ### -field Popup:363
-The [Popup](../windows.ui.xaml.controls.primitives/popup.md) type.
+The [Popup](/uwp/api/windows.ui.xaml.controls.primitives.popup) type.
+
 
 
 ### -field PopOutThemeAnimation:362
-The [PopOutThemeAnimation](../windows.ui.xaml.media.animation/popoutthemeanimation.md) type.
+The [PopOutThemeAnimation](/uwp/api/windows.ui.xaml.media.animation.popoutthemeanimation) type.
+
 
 
 ### -field PopInThemeAnimation:361
-The [PopInThemeAnimation](../windows.ui.xaml.media.animation/popinthemeanimation.md) type.
+The [PopInThemeAnimation](/uwp/api/windows.ui.xaml.media.animation.popinthemeanimation) type.
+
 
 
 ### -field PolyQuadraticBezierSegment:250
-The [PolyQuadraticBezierSegment](../windows.ui.xaml.media/polyquadraticbeziersegment.md) type.
+The [PolyQuadraticBezierSegment](/uwp/api/windows.ui.xaml.media.polyquadraticbeziersegment) type.
+
 
 
 ### -field PolyLineSegment:249
-The [PolyLineSegment](../windows.ui.xaml.media/polylinesegment.md) type.
+The [PolyLineSegment](/uwp/api/windows.ui.xaml.media.polylinesegment) type.
+
 
 
 ### -field Polyline:466
-The [Polyline](../windows.ui.xaml.shapes/polyline.md) type.
+The [Polyline](/uwp/api/windows.ui.xaml.shapes.polyline) type.
+
 
 
 ### -field Polygon:465
-The [Polygon](../windows.ui.xaml.shapes/polygon.md) type.
+The [Polygon](/uwp/api/windows.ui.xaml.shapes.polygon) type.
+
 
 
 ### -field PolyBezierSegment:248
-The [PolyBezierSegment](../windows.ui.xaml.media/polybeziersegment.md) type.
+The [PolyBezierSegment](/uwp/api/windows.ui.xaml.media.polybeziersegment) type.
+
 
 
 ### -field PointerUpThemeAnimation:359
-The [PointerUpThemeAnimation](../windows.ui.xaml.media.animation/pointerupthemeanimation.md) type.
+The [PointerUpThemeAnimation](/uwp/api/windows.ui.xaml.media.animation.pointerupthemeanimation) type.
+
 
 
 ### -field PointerDownThemeAnimation:357
-The [PointerDownThemeAnimation](../windows.ui.xaml.media.animation/pointerdownthemeanimation.md) type.
+The [PointerDownThemeAnimation](/uwp/api/windows.ui.xaml.media.animation.pointerdownthemeanimation) type.
+
 
 
 ### -field PointAnimationUsingKeyFrames:246
-The [PointAnimationUsingKeyFrames](../windows.ui.xaml.media.animation/pointanimationusingkeyframes.md) type.
+The [PointAnimationUsingKeyFrames](/uwp/api/windows.ui.xaml.media.animation.pointanimationusingkeyframes) type.
+
 
 
 ### -field PointAnimation:245
-The [PointAnimation](../windows.ui.xaml.media.animation/pointanimation.md) type.
+The [PointAnimation](/uwp/api/windows.ui.xaml.media.animation.pointanimation) type.
+
 
 
 ### -field PlaneProjection:244
-The [PlaneProjection](../windows.ui.xaml.media/planeprojection.md) type.
+The [PlaneProjection](/uwp/api/windows.ui.xaml.media.planeprojection) type.
+
 
 
 ### -field PerspectiveTransform3D:733
-The [PerspectiveTransform3D](../windows.ui.xaml.media.media3d/perspectivetransform3d.md) type.
+The [PerspectiveTransform3D](/uwp/api/windows.ui.xaml.media.media3d.perspectivetransform3d) type.
+
 
 
 ### -field PathIconSource:931
-The [PathIconSource](../windows.ui.xaml.controls/pathiconsource.md) type.
+The [PathIconSource](../microsoft.ui.xaml.controls/pathiconsource.md) type.
+
 
 
 ### -field PathIcon:464
-The [PathIcon](../windows.ui.xaml.controls/pathicon.md) type.
+The [PathIcon](/uwp/api/windows.ui.xaml.controls.pathicon) type.
+
 
 
 ### -field PathGeometry:243
-The [PathGeometry](../windows.ui.xaml.media/pathgeometry.md) type.
+The [PathGeometry](/uwp/api/windows.ui.xaml.media.pathgeometry) type.
+
 
 
 ### -field PathFigure:93
-The [PathFigure](../windows.ui.xaml.media/pathfigure.md) type.
+The [PathFigure](/uwp/api/windows.ui.xaml.media.pathfigure) type.
+
 
 
 ### -field Path:463
-The [Path](../windows.ui.xaml.shapes/path.md) type.
+The [Path](/uwp/api/windows.ui.xaml.shapes.path) type.
+
 
 
 ### -field PasswordBox:462
-The [PasswordBox](../windows.ui.xaml.controls/passwordbox.md) type.
+The [PasswordBox](/uwp/api/windows.ui.xaml.controls.passwordbox) type.
+
 
 
 ### -field Paragraph:349
-The [Paragraph](../windows.ui.xaml.documents/paragraph.md) type.
+The [Paragraph](/uwp/api/windows.ui.xaml.documents.paragraph) type.
+
 
 
 ### -field PaneThemeTransition:241
-The [PaneThemeTransition](../windows.ui.xaml.media.animation/panethemetransition.md) type.
+The [PaneThemeTransition](/uwp/api/windows.ui.xaml.media.animation.panethemetransition) type.
+
 
 
 ### -field Page:525
-The [Page](../windows.ui.xaml.controls/page.md) type.
+The [Page](/uwp/api/windows.ui.xaml.controls.page) type.
+
 
 
 ### -field ObjectAnimationUsingKeyFrames:240
-The [ObjectAnimationUsingKeyFrames](../windows.ui.xaml.media.animation/objectanimationusingkeyframes.md) type.
+The [ObjectAnimationUsingKeyFrames](/uwp/api/windows.ui.xaml.media.animation.objectanimationusingkeyframes) type.
+
 
 
 ### -field MenuFlyoutSubItem:749
-The [MenuFlyoutSubItem](../windows.ui.xaml.controls/menuflyoutsubitem.md) type.
+The [MenuFlyoutSubItem](/uwp/api/windows.ui.xaml.controls.menuflyoutsubitem) type.
+
 
 
 ### -field MenuFlyoutSeparator:523
-The [MenuFlyoutSeparator](../windows.ui.xaml.controls/menuflyoutseparator.md) type.
+The [MenuFlyoutSeparator](/uwp/api/windows.ui.xaml.controls.menuflyoutseparator) type.
+
 
 
 ### -field MenuFlyoutPresenter:522
-The [MenuFlyoutPresenter](../windows.ui.xaml.controls/menuflyoutpresenter.md) type.
+The [MenuFlyoutPresenter](/uwp/api/windows.ui.xaml.controls.menuflyoutpresenter) type.
+
 
 
 ### -field MenuFlyoutItem:521
-The [MenuFlyoutItem](../windows.ui.xaml.controls/menuflyoutitem.md) type.
+The [MenuFlyoutItem](/uwp/api/windows.ui.xaml.controls.menuflyoutitem) type.
+
 
 
 ### -field MenuFlyout:238
-The [MenuFlyout](../windows.ui.xaml.controls/menuflyout.md) type.
+The [MenuFlyout](/uwp/api/windows.ui.xaml.controls.menuflyout) type.
+
 
 
 ### -field MediaTransportControls:458
-The [MediaTransportControls](../windows.ui.xaml.controls/mediatransportcontrols.md) type.
+The [MediaTransportControls](/uwp/api/windows.ui.xaml.controls.mediatransportcontrols) type.
+
 
 
 ### -field MediaPlayerPresenter:828
-The [MediaPlayerPresenter](../windows.ui.xaml.controls/mediaplayerpresenter.md) type.
+The [MediaPlayerPresenter](/uwp/api/windows.ui.xaml.controls.mediaplayerpresenter) type.
+
 
 
 ### -field MediaPlayerElement:829
-The [MediaPlayerElement](../windows.ui.xaml.controls/mediaplayerelement.md) type.
+The [MediaPlayerElement](/uwp/api/windows.ui.xaml.controls.mediaplayerelement) type.
+
 
 
 ### -field MediaElement:342
-The [MediaElement](../windows.ui.xaml.controls/mediaelement.md) type.
+The [MediaElement](/uwp/api/windows.ui.xaml.controls.mediaelement) type.
+
 
 
 ### -field MatrixTransform:340
-The [MatrixTransform](../windows.ui.xaml.media/matrixtransform.md) type.
+The [MatrixTransform](/uwp/api/windows.ui.xaml.media.matrixtransform) type.
+
 
 
 ### -field Matrix3DProjection:236
-The [Matrix3DProjection](../windows.ui.xaml.media/matrix3dprojection.md) type.
+The [Matrix3DProjection](/uwp/api/windows.ui.xaml.media.matrix3dprojection) type.
+
 
 
 ### -field ListViewItemPresenter:520
-The [ListViewItemPresenter](../windows.ui.xaml.controls.primitives/listviewitempresenter.md) type.
+The [ListViewItemPresenter](/uwp/api/windows.ui.xaml.controls.primitives.listviewitempresenter) type.
+
 
 
 ### -field ListViewItem:561
-The [ListViewItem](../windows.ui.xaml.controls/listviewitem.md) type.
+The [ListViewItem](/uwp/api/windows.ui.xaml.controls.listviewitem) type.
+
 
 
 ### -field ListViewHeaderItem:550
-The [ListViewHeaderItem](../windows.ui.xaml.controls/listviewheaderitem.md) type.
+The [ListViewHeaderItem](/uwp/api/windows.ui.xaml.controls.listviewheaderitem) type.
+
 
 
 ### -field ListView:571
-The [ListView](../windows.ui.xaml.controls/listview.md) type.
+The [ListView](/uwp/api/windows.ui.xaml.controls.listview) type.
+
 
 
 ### -field ListBoxItem:547
-The [ListBoxItem](../windows.ui.xaml.controls/listboxitem.md) type.
+The [ListBoxItem](/uwp/api/windows.ui.xaml.controls.listboxitem) type.
+
 
 
 ### -field ListBox:568
-The [ListBox](../windows.ui.xaml.controls/listbox.md) type.
+The [ListBox](/uwp/api/windows.ui.xaml.controls.listbox) type.
+
 
 
 ### -field LineSegment:234
-The [LineSegment](../windows.ui.xaml.media/linesegment.md) type.
+The [LineSegment](/uwp/api/windows.ui.xaml.media.linesegment) type.
+
 
 
 ### -field LineGeometry:233
-The [LineGeometry](../windows.ui.xaml.media/linegeometry.md) type.
+The [LineGeometry](/uwp/api/windows.ui.xaml.media.linegeometry) type.
+
 
 
 ### -field LineBreak:335
-The [LineBreak](../windows.ui.xaml.documents/linebreak.md) type.
+The [LineBreak](/uwp/api/windows.ui.xaml.documents.linebreak) type.
+
 
 
 ### -field LinearPointKeyFrame:232
-The [LinearPointKeyFrame](../windows.ui.xaml.media.animation/linearpointkeyframe.md) type.
+The [LinearPointKeyFrame](/uwp/api/windows.ui.xaml.media.animation.linearpointkeyframe) type.
+
 
 
 ### -field LinearGradientBrush:334
-The [LinearGradientBrush](../windows.ui.xaml.media/lineargradientbrush.md) type.
+The [LinearGradientBrush](/uwp/api/windows.ui.xaml.media.lineargradientbrush) type.
+
 
 
 ### -field LinearDoubleKeyFrame:231
-The [LinearDoubleKeyFrame](../windows.ui.xaml.media.animation/lineardoublekeyframe.md) type.
+The [LinearDoubleKeyFrame](/uwp/api/windows.ui.xaml.media.animation.lineardoublekeyframe) type.
+
 
 
 ### -field LinearColorKeyFrame:230
-The [LinearColorKeyFrame](../windows.ui.xaml.media.animation/linearcolorkeyframe.md) type.
+The [LinearColorKeyFrame](/uwp/api/windows.ui.xaml.media.animation.linearcolorkeyframe) type.
+
 
 
 ### -field Line:452
-The [Line](../windows.ui.xaml.shapes/line.md) type.
+The [Line](/uwp/api/windows.ui.xaml.shapes.line) type.
+
 
 
 ### -field KeySpline:78
-The [KeySpline](../windows.ui.xaml.media.animation/keyspline.md) type.
+The [KeySpline](/uwp/api/windows.ui.xaml.media.animation.keyspline) type.
+
 
 
 ### -field KeyboardAccelerator:897
-The [KeyboardAccelerator](../windows.ui.xaml.input/keyboardaccelerator.md) type.
+The [KeyboardAccelerator](/uwp/api/windows.ui.xaml.input.keyboardaccelerator) type.
+
 
 
 ### -field ItemsWrapGrid:515
-The [ItemsWrapGrid](../windows.ui.xaml.controls/itemswrapgrid.md) type.
+The [ItemsWrapGrid](/uwp/api/windows.ui.xaml.controls.itemswrapgrid) type.
+
 
 
 ### -field ItemsStackPanel:514
-The [ItemsStackPanel](../windows.ui.xaml.controls/itemsstackpanel.md) type.
+The [ItemsStackPanel](/uwp/api/windows.ui.xaml.controls.itemsstackpanel) type.
+
 
 
 ### -field ItemsPresenter:332
-The [ItemsPresenter](../windows.ui.xaml.controls/itemspresenter.md) type.
+The [ItemsPresenter](/uwp/api/windows.ui.xaml.controls.itemspresenter) type.
+
 
 
 ### -field ItemsPanelTemplate:227
-The [ItemsPanelTemplate](../windows.ui.xaml.controls/itemspaneltemplate.md) type.
+The [ItemsPanelTemplate](/uwp/api/windows.ui.xaml.controls.itemspaneltemplate) type.
+
 
 
 ### -field ItemsControl:451
-The [ItemsControl](../windows.ui.xaml.controls/itemscontrol.md) type.
+The [ItemsControl](/uwp/api/windows.ui.xaml.controls.itemscontrol) type.
+
 
 
 ### -field Italic:449
-The [Italic](../windows.ui.xaml.documents/italic.md) type.
+The [Italic](/uwp/api/windows.ui.xaml.documents.italic) type.
+
 
 
 ### -field InputScopeName:75
-The [InputScopeName](../windows.ui.xaml.input/inputscopename.md) type.
+The [InputScopeName](/uwp/api/windows.ui.xaml.input.inputscopename) type.
+
 
 
 ### -field InputScope:74
-The [InputScope](../windows.ui.xaml.input/inputscope.md) type.
+The [InputScope](/uwp/api/windows.ui.xaml.input.inputscope) type.
+
 
 
 ### -field InlineUIContainer:329
-The [InlineUIContainer](../windows.ui.xaml.documents/inlineuicontainer.md) type.
+The [InlineUIContainer](/uwp/api/windows.ui.xaml.documents.inlineuicontainer) type.
+
 
 
 ### -field InkCanvas:748
-The [InkCanvas](../windows.ui.xaml.controls/inkcanvas.md) type.
+The [InkCanvas](/uwp/api/windows.ui.xaml.controls.inkcanvas) type.
+
 
 
 ### -field ImageBrush:328
-The [ImageBrush](../windows.ui.xaml.media/imagebrush.md) type.
+The [ImageBrush](/uwp/api/windows.ui.xaml.media.imagebrush) type.
+
 
 
 ### -field Image:326
-The [Image](../windows.ui.xaml.controls/image.md) type.
+The [Image](/uwp/api/windows.ui.xaml.controls.image) type.
+
 
 
 ### -field IconSourceElement:939
-The [IconSourceElement](../windows.ui.xaml.controls/iconsourceelement.md) type.
+The [IconSourceElement](/uwp/api/windows.ui.xaml.controls.iconsourceelement) type.
+
 
 
 ### -field HyperlinkButton:546
-The [HyperlinkButton](../windows.ui.xaml.controls/hyperlinkbutton.md) type.
+The [HyperlinkButton](/uwp/api/windows.ui.xaml.controls.hyperlinkbutton) type.
+
 
 
 ### -field Hyperlink:447
-The [Hyperlink](../windows.ui.xaml.documents/hyperlink.md) type.
+The [Hyperlink](/uwp/api/windows.ui.xaml.documents.hyperlink) type.
+
 
 
 ### -field HubSection:446
-The [HubSection](../windows.ui.xaml.controls/hubsection.md) type.
+The [HubSection](/uwp/api/windows.ui.xaml.controls.hubsection) type.
+
 
 
 ### -field Hub:445
-The [Hub](../windows.ui.xaml.controls/hub.md) type.
+The [Hub](/uwp/api/windows.ui.xaml.controls.hub) type.
+
 
 
 ### -field HandwritingView:920
-The [HandwritingView](../windows.ui.xaml.controls/handwritingview.md) type.
+The [HandwritingView](/uwp/api/windows.ui.xaml.controls.handwritingview) type.
+
 
 
 ### -field GroupItem:512
-The [GroupItem](../windows.ui.xaml.controls/groupitem.md) type.
+The [GroupItem](/uwp/api/windows.ui.xaml.controls.groupitem) type.
+
 
 
 ### -field GridViewItemPresenter:511
-The [GridViewItemPresenter](../windows.ui.xaml.controls.primitives/gridviewitempresenter.md) type.
+The [GridViewItemPresenter](/uwp/api/windows.ui.xaml.controls.primitives.gridviewitempresenter) type.
+
 
 
 ### -field GridViewItem:560
-The [GridViewItem](../windows.ui.xaml.controls/gridviewitem.md) type.
+The [GridViewItem](/uwp/api/windows.ui.xaml.controls.gridviewitem) type.
+
 
 
 ### -field GridViewHeaderItem:545
-The [GridViewHeaderItem](../windows.ui.xaml.controls/gridviewheaderitem.md) type.
+The [GridViewHeaderItem](/uwp/api/windows.ui.xaml.controls.gridviewheaderitem) type.
+
 
 
 ### -field GridView:570
-The [GridView](../windows.ui.xaml.controls/gridview.md) type.
+The [GridView](/uwp/api/windows.ui.xaml.controls.gridview) type.
+
 
 
 ### -field Grid:442
-The [Grid](../windows.ui.xaml.controls/grid.md) type.
+The [Grid](/uwp/api/windows.ui.xaml.controls.grid) type.
+
 
 
 ### -field GradientStop:64
-The [GradientStop](../windows.ui.xaml.media/gradientstop.md) type.
+The [GradientStop](/uwp/api/windows.ui.xaml.media.gradientstop) type.
+
 
 
 ### -field Glyphs:312
-The [Glyphs](../windows.ui.xaml.documents/glyphs.md) type.
+The [Glyphs](/uwp/api/windows.ui.xaml.documents.glyphs) type.
+
 
 
 ### -field GeometryGroup:216
-The [GeometryGroup](../windows.ui.xaml.media/geometrygroup.md) type.
+The [GeometryGroup](/uwp/api/windows.ui.xaml.media.geometrygroup) type.
+
 
 
 ### -field Frame:509
-The [Frame](../windows.ui.xaml.controls/frame.md) type.
+The [Frame](/uwp/api/windows.ui.xaml.controls.frame) type.
+
 
 
 ### -field FontIconSource:930
-The [FontIconSource](../windows.ui.xaml.controls/fonticonsource.md) type.
+The [FontIconSource](../microsoft.ui.xaml.controls/fonticonsource.md) type.
+
 
 
 ### -field FontIcon:440
-The [FontIcon](../windows.ui.xaml.controls/fonticon.md) type.
+The [FontIcon](/uwp/api/windows.ui.xaml.controls.fonticon) type.
+
 
 
 ### -field FlyoutPresenter:508
-The [FlyoutPresenter](../windows.ui.xaml.controls/flyoutpresenter.md) type.
+The [FlyoutPresenter](/uwp/api/windows.ui.xaml.controls.flyoutpresenter) type.
+
 
 
 ### -field Flyout:213
-The [Flyout](../windows.ui.xaml.controls/flyout.md) type.
+The [Flyout](/uwp/api/windows.ui.xaml.controls.flyout) type.
+
 
 
 ### -field FlipViewItem:543
-The [FlipViewItem](../windows.ui.xaml.controls/flipviewitem.md) type.
+The [FlipViewItem](/uwp/api/windows.ui.xaml.controls.flipviewitem) type.
+
 
 
 ### -field FlipView:567
-The [FlipView](../windows.ui.xaml.controls/flipview.md) type.
+The [FlipView](/uwp/api/windows.ui.xaml.controls.flipview) type.
+
 
 
 ### -field FadeOutThemeAnimation:307
-The [FadeOutThemeAnimation](../windows.ui.xaml.media.animation/fadeoutthemeanimation.md) type.
+The [FadeOutThemeAnimation](/uwp/api/windows.ui.xaml.media.animation.fadeoutthemeanimation) type.
+
 
 
 ### -field FadeInThemeAnimation:306
-The [FadeInThemeAnimation](../windows.ui.xaml.media.animation/fadeinthemeanimation.md) type.
+The [FadeInThemeAnimation](/uwp/api/windows.ui.xaml.media.animation.fadeinthemeanimation) type.
+
 
 
 ### -field ExponentialEase:212
-The [ExponentialEase](../windows.ui.xaml.media.animation/exponentialease.md) type.
+The [ExponentialEase](/uwp/api/windows.ui.xaml.media.animation.exponentialease) type.
+
 
 
 ### -field EventTrigger:211
-The [EventTrigger](../windows.ui.xaml/eventtrigger.md) type.
+The [EventTrigger](/uwp/api/windows.ui.xaml.eventtrigger) type.
+
 
 
 ### -field EntranceThemeTransition:210
-The [EntranceThemeTransition](../windows.ui.xaml.media.animation/entrancethemetransition.md) type.
+The [EntranceThemeTransition](/uwp/api/windows.ui.xaml.media.animation.entrancethemetransition) type.
+
 
 
 ### -field EllipseGeometry:209
-The [EllipseGeometry](../windows.ui.xaml.media/ellipsegeometry.md) type.
+The [EllipseGeometry](/uwp/api/windows.ui.xaml.media.ellipsegeometry) type.
+
 
 
 ### -field Ellipse:438
-The [Ellipse](../windows.ui.xaml.shapes/ellipse.md) type.
+The [Ellipse](/uwp/api/windows.ui.xaml.shapes.ellipse) type.
+
 
 
 ### -field ElasticEase:208
-The [ElasticEase](../windows.ui.xaml.media.animation/elasticease.md) type.
+The [ElasticEase](/uwp/api/windows.ui.xaml.media.animation.elasticease) type.
+
 
 
 ### -field EdgeUIThemeTransition:207
-The [EdgeUIThemeTransition](../windows.ui.xaml.media.animation/edgeuithemetransition.md) type.
+The [EdgeUIThemeTransition](/uwp/api/windows.ui.xaml.media.animation.edgeuithemetransition) type.
+
 
 
 ### -field EasingPointKeyFrame:206
-The [EasingPointKeyFrame](../windows.ui.xaml.media.animation/easingpointkeyframe.md) type.
+The [EasingPointKeyFrame](/uwp/api/windows.ui.xaml.media.animation.easingpointkeyframe) type.
+
 
 
 ### -field EasingDoubleKeyFrame:205
-The [EasingDoubleKeyFrame](../windows.ui.xaml.media.animation/easingdoublekeyframe.md) type.
+The [EasingDoubleKeyFrame](/uwp/api/windows.ui.xaml.media.animation.easingdoublekeyframe) type.
+
 
 
 ### -field EasingColorKeyFrame:204
-The [EasingColorKeyFrame](../windows.ui.xaml.media.animation/easingcolorkeyframe.md) type.
+The [EasingColorKeyFrame](/uwp/api/windows.ui.xaml.media.animation.easingcolorkeyframe) type.
+
 
 
 ### -field DropTargetItemThemeAnimation:304
-The [DropTargetItemThemeAnimation](../windows.ui.xaml.media.animation/droptargetitemthemeanimation.md) type.
+The [DropTargetItemThemeAnimation](/uwp/api/windows.ui.xaml.media.animation.droptargetitemthemeanimation) type.
+
 
 
 ### -field DrillOutThemeAnimation:783
-The [DrillOutThemeAnimation](../windows.ui.xaml.media.animation/drilloutthemeanimation.md) type.
+The [DrillOutThemeAnimation](/uwp/api/windows.ui.xaml.media.animation.drilloutthemeanimation) type.
+
 
 
 ### -field DrillInThemeAnimation:782
-The [DrillInThemeAnimation](../windows.ui.xaml.media.animation/drillinthemeanimation.md) type.
+The [DrillInThemeAnimation](/uwp/api/windows.ui.xaml.media.animation.drillinthemeanimation) type.
+
 
 
 ### -field DragOverThemeAnimation:303
-The [DragOverThemeAnimation](../windows.ui.xaml.media.animation/dragoverthemeanimation.md) type.
+The [DragOverThemeAnimation](/uwp/api/windows.ui.xaml.media.animation.dragoverthemeanimation) type.
+
 
 
 ### -field DragItemThemeAnimation:302
-The [DragItemThemeAnimation](../windows.ui.xaml.media.animation/dragitemthemeanimation.md) type.
+The [DragItemThemeAnimation](/uwp/api/windows.ui.xaml.media.animation.dragitemthemeanimation) type.
+
 
 
 ### -field DoubleAnimationUsingKeyFrames:201
-The [DoubleAnimationUsingKeyFrames](../windows.ui.xaml.media.animation/doubleanimationusingkeyframes.md) type.
+The [DoubleAnimationUsingKeyFrames](/uwp/api/windows.ui.xaml.media.animation.doubleanimationusingkeyframes) type.
+
 
 
 ### -field DoubleAnimation:200
-The [DoubleAnimation](../windows.ui.xaml.media.animation/doubleanimation.md) type.
+The [DoubleAnimation](/uwp/api/windows.ui.xaml.media.animation.doubleanimation) type.
+
 
 
 ### -field DiscretePointKeyFrame:198
-The [DiscretePointKeyFrame](../windows.ui.xaml.media.animation/discretepointkeyframe.md) type.
+The [DiscretePointKeyFrame](/uwp/api/windows.ui.xaml.media.animation.discretepointkeyframe) type.
+
 
 
 ### -field DiscreteObjectKeyFrame:197
-The [DiscreteObjectKeyFrame](../windows.ui.xaml.media.animation/discreteobjectkeyframe.md) type.
+The [DiscreteObjectKeyFrame](/uwp/api/windows.ui.xaml.media.animation.discreteobjectkeyframe) type.
+
 
 
 ### -field DiscreteDoubleKeyFrame:196
-The [DiscreteDoubleKeyFrame](../windows.ui.xaml.media.animation/discretedoublekeyframe.md) type.
+The [DiscreteDoubleKeyFrame](/uwp/api/windows.ui.xaml.media.animation.discretedoublekeyframe) type.
+
 
 
 ### -field DiscreteColorKeyFrame:195
-The [DiscreteColorKeyFrame](../windows.ui.xaml.media.animation/discretecolorkeyframe.md) type.
+The [DiscreteColorKeyFrame](/uwp/api/windows.ui.xaml.media.animation.discretecolorkeyframe) type.
+
 
 
 ### -field DependencyObjectCollection:437
-The [DependencyObjectCollection](../windows.ui.xaml/dependencyobjectcollection.md) type.
+The [DependencyObjectCollection](/uwp/api/windows.ui.xaml.dependencyobjectcollection) type.
+
 
 
 ### -field DatePicker:436
-The [DatePicker](../windows.ui.xaml.controls/datepicker.md) type.
+The [DatePicker](/uwp/api/windows.ui.xaml.controls.datepicker) type.
+
 
 
 ### -field DataTemplate:194
-The [DataTemplate](../windows.ui.xaml/datatemplate.md) type.
+The [DataTemplate](/uwp/api/windows.ui.xaml.datatemplate) type.
+
 
 
 ### -field CubicEase:192
-The [CubicEase](../windows.ui.xaml.media.animation/cubicease.md) type.
+The [CubicEase](/uwp/api/windows.ui.xaml.media.animation.cubicease) type.
+
 
 
 ### -field ControlTemplate:191
-The [ControlTemplate](../windows.ui.xaml.controls/controltemplate.md) type.
+The [ControlTemplate](/uwp/api/windows.ui.xaml.controls.controltemplate) type.
+
 
 
 ### -field ContentThemeTransition:190
-The [ContentThemeTransition](../windows.ui.xaml.media.animation/contentthemetransition.md) type.
+The [ContentThemeTransition](/uwp/api/windows.ui.xaml.media.animation.contentthemetransition) type.
+
 
 
 ### -field ContentPresenter:296
-The [ContentPresenter](../windows.ui.xaml.controls/contentpresenter.md) type.
+The [ContentPresenter](/uwp/api/windows.ui.xaml.controls.contentpresenter) type.
+
 
 
 ### -field ContentLink:925
-The [ContentLink](../windows.ui.xaml.documents/contentlink.md) type.
+The [ContentLink](/uwp/api/windows.ui.xaml.documents.contentlink) type.
+
 
 
 ### -field ContentDialog:506
-The [ContentDialog](../windows.ui.xaml.controls/contentdialog.md) type.
+The [ContentDialog](/uwp/api/windows.ui.xaml.controls.contentdialog) type.
+
 
 
 ### -field ContentControl:435
-The [ContentControl](../windows.ui.xaml.controls/contentcontrol.md) type.
+The [ContentControl](/uwp/api/windows.ui.xaml.controls.contentcontrol) type.
+
 
 
 ### -field CompositeTransform3D:732
-The [CompositeTransform3D](../windows.ui.xaml.media.media3d/compositetransform3d.md) type.
+The [CompositeTransform3D](/uwp/api/windows.ui.xaml.media.media3d.compositetransform3d) type.
+
 
 
 ### -field CompositeTransform:295
-The [CompositeTransform](../windows.ui.xaml.media/compositetransform.md) type.
+The [CompositeTransform](/uwp/api/windows.ui.xaml.media.compositetransform) type.
+
 
 
 ### -field CommandBarOverflowPresenter:781
-The [CommandBarOverflowPresenter](../windows.ui.xaml.controls/commandbaroverflowpresenter.md) type.
+The [CommandBarOverflowPresenter](/uwp/api/windows.ui.xaml.controls.commandbaroverflowpresenter) type.
+
 
 
 ### -field CommandBar:542
-The [CommandBar](../windows.ui.xaml.controls/commandbar.md) type.
+The [CommandBar](/uwp/api/windows.ui.xaml.controls.commandbar) type.
+
 
 
 ### -field ComboBoxItem:541
-The [ComboBoxItem](../windows.ui.xaml.controls/comboboxitem.md) type.
+The [ComboBoxItem](/uwp/api/windows.ui.xaml.controls.comboboxitem) type.
+
 
 
 ### -field ComboBox:566
-The [ComboBox](../windows.ui.xaml.controls/combobox.md) type.
+The [ComboBox](/uwp/api/windows.ui.xaml.controls.combobox) type.
+
 
 
 ### -field ColumnDefinition:44
-The [ColumnDefinition](../windows.ui.xaml.controls/columndefinition.md) type.
+The [ColumnDefinition](/uwp/api/windows.ui.xaml.controls.columndefinition) type.
+
 
 
 ### -field ColorPaletteResources:952
-The [ColorPaletteResources](../windows.ui.xaml/colorpaletteresources.md) type.
+The [ColorPaletteResources](/uwp/api/windows.ui.xaml.colorpaletteresources) type.
+
 
 
 ### -field ColorAnimationUsingKeyFrames:189
-The [ColorAnimationUsingKeyFrames](../windows.ui.xaml.media.animation/coloranimationusingkeyframes.md) type.
+The [ColorAnimationUsingKeyFrames](/uwp/api/windows.ui.xaml.media.animation.coloranimationusingkeyframes) type.
+
 
 
 ### -field ColorAnimation:188
-The [ColorAnimation](../windows.ui.xaml.media.animation/coloranimation.md) type.
+The [ColorAnimation](/uwp/api/windows.ui.xaml.media.animation.coloranimation) type.
+
 
 
 ### -field CollectionViewSource:41
-The [CollectionViewSource](../windows.ui.xaml.data/collectionviewsource.md) type.
+The [CollectionViewSource](/uwp/api/windows.ui.xaml.data.collectionviewsource) type.
+
 
 
 ### -field CircleEase:187
-The [CircleEase](../windows.ui.xaml.media.animation/circleease.md) type.
+The [CircleEase](/uwp/api/windows.ui.xaml.media.animation.circleease) type.
+
 
 
 ### -field CheckBox:559
-The [CheckBox](../windows.ui.xaml.controls/checkbox.md) type.
+The [CheckBox](/uwp/api/windows.ui.xaml.controls.checkbox) type.
+
 
 
 ### -field CarouselPanel:502
-The [CarouselPanel](../windows.ui.xaml.controls.primitives/carouselpanel.md) type.
+The [CarouselPanel](/uwp/api/windows.ui.xaml.controls.primitives.carouselpanel) type.
+
 
 
 ### -field CaptureElement:288
-The [CaptureElement](../windows.ui.xaml.controls/captureelement.md) type.
+The [CaptureElement](/uwp/api/windows.ui.xaml.controls.captureelement) type.
+
 
 
 ### -field Canvas:432
-The [Canvas](../windows.ui.xaml.controls/canvas.md) type.
+The [Canvas](/uwp/api/windows.ui.xaml.controls.canvas) type.
+
 
 
 ### -field CalendarViewDayItem:709
-The [CalendarViewDayItem](../windows.ui.xaml.controls/calendarviewdayitem.md) type.
+The [CalendarViewDayItem](/uwp/api/windows.ui.xaml.controls.calendarviewdayitem) type.
+
 
 
 ### -field CalendarView:707
-The [CalendarView](../windows.ui.xaml.controls/calendarview.md) type.
+The [CalendarView](/uwp/api/windows.ui.xaml.controls.calendarview) type.
+
 
 
 ### -field CalendarPanel:723
-The [CalendarPanel](../windows.ui.xaml.controls.primitives/calendarpanel.md) type.
+The [CalendarPanel](/uwp/api/windows.ui.xaml.controls.primitives.calendarpanel) type.
+
 
 
 ### -field CalendarDatePicker:774
-The [CalendarDatePicker](../windows.ui.xaml.controls/calendardatepicker.md) type.
+The [CalendarDatePicker](/uwp/api/windows.ui.xaml.controls.calendardatepicker) type.
+
 
 
 ### -field Button:540
-The [Button](../windows.ui.xaml.controls/button.md) type.
+The [Button](/uwp/api/windows.ui.xaml.controls.button) type.
+
 
 
 ### -field BounceEase:186
-The [BounceEase](../windows.ui.xaml.media.animation/bounceease.md) type.
+The [BounceEase](/uwp/api/windows.ui.xaml.media.animation.bounceease) type.
+
 
 
 ### -field Border:286
-The [Border](../windows.ui.xaml.controls/border.md) type.
+The [Border](/uwp/api/windows.ui.xaml.controls.border) type.
+
 
 
 ### -field Bold:430
-The [Bold](../windows.ui.xaml.documents/bold.md) type.
+The [Bold](/uwp/api/windows.ui.xaml.documents.bold) type.
+
 
 
 ### -field BitmapImage:285
-The [BitmapImage](../windows.ui.xaml.media.imaging/bitmapimage.md) type.
+The [BitmapImage](/uwp/api/windows.ui.xaml.media.imaging.bitmapimage) type.
+
 
 
 ### -field BitmapIconSource:929
-The [BitmapIconSource](../windows.ui.xaml.controls/bitmapiconsource.md) type.
+The [BitmapIconSource](../microsoft.ui.xaml.controls/bitmapiconsource.md) type.
+
 
 
 ### -field BitmapIcon:429
-The [BitmapIcon](../windows.ui.xaml.controls/bitmapicon.md) type.
+The [BitmapIcon](/uwp/api/windows.ui.xaml.controls.bitmapicon) type.
+
 
 
 ### -field BitmapCache:183
-The [BitmapCache](../windows.ui.xaml.media/bitmapcache.md) type.
+The [BitmapCache](/uwp/api/windows.ui.xaml.media.bitmapcache) type.
+
 
 
 ### -field BindingBase:182
-The [BindingBase](../windows.ui.xaml.data/bindingbase.md) type.
+The [BindingBase](/uwp/api/windows.ui.xaml.data.bindingbase) type.
+
 
 
 ### -field Binding:564
-The [Binding](../windows.ui.xaml.data/binding.md) type.
+The [Binding](/uwp/api/windows.ui.xaml.data.binding) type.
+
 
 
 ### -field BezierSegment:181
-The [BezierSegment](../windows.ui.xaml.media/beziersegment.md) type.
+The [BezierSegment](/uwp/api/windows.ui.xaml.media.beziersegment) type.
+
 
 
 ### -field BeginStoryboard:180
-The [BeginStoryboard](../windows.ui.xaml.media.animation/beginstoryboard.md) type.
+The [BeginStoryboard](/uwp/api/windows.ui.xaml.media.animation.beginstoryboard) type.
+
 
 
 ### -field BackEase:179
-The [BackEase](../windows.ui.xaml.media.animation/backease.md) type.
+The [BackEase](/uwp/api/windows.ui.xaml.media.animation.backease) type.
+
 
 
 ### -field AutoSuggestBoxTextChangedEventArgs:35
-The [AutoSuggestBoxTextChangedEventArgs](../windows.ui.xaml.controls/autosuggestboxtextchangedeventargs.md) type.
+The [AutoSuggestBoxTextChangedEventArgs](/uwp/api/windows.ui.xaml.controls.autosuggestboxtextchangedeventargs) type.
+
 
 
 ### -field AutoSuggestBoxSuggestionChosenEventArgs:34
-The [AutoSuggestBoxSuggestionChosenEventArgs](../windows.ui.xaml.controls/autosuggestboxsuggestionchoseneventargs.md) type.
+The [AutoSuggestBoxSuggestionChosenEventArgs](/uwp/api/windows.ui.xaml.controls.autosuggestboxsuggestionchoseneventargs) type.
+
 
 
 ### -field AutoSuggestBoxQuerySubmittedEventArgs:778
-The [AutoSuggestBoxQuerySubmittedEventArgs](../windows.ui.xaml.controls/autosuggestboxquerysubmittedeventargs.md) type.
+The [AutoSuggestBoxQuerySubmittedEventArgs](/uwp/api/windows.ui.xaml.controls.autosuggestboxquerysubmittedeventargs) type.
+
 
 
 ### -field AutoSuggestBox:499
-The [AutoSuggestBox](../windows.ui.xaml.controls/autosuggestbox.md) type.
+The [AutoSuggestBox](/uwp/api/windows.ui.xaml.controls.autosuggestbox) type.
+
 
 
 ### -field AutomationPeerAnnotation:790
-The [AutomationPeerAnnotation](../windows.ui.xaml.automation.peers/automationpeerannotation.md) type.
+The [AutomationPeerAnnotation](/uwp/api/windows.ui.xaml.automation.peers.automationpeerannotation) type.
+
 
 
 ### -field AutomationAnnotation:789
-The [AutomationAnnotation](../windows.ui.xaml.automation/automationannotation.md) type.
+The [AutomationAnnotation](/uwp/api/windows.ui.xaml.automation.automationannotation) type.
+
 
 
 ### -field ArcSegment:178
-The [ArcSegment](../windows.ui.xaml.media/arcsegment.md) type.
+The [ArcSegment](/uwp/api/windows.ui.xaml.media.arcsegment) type.
+
 
 
 ### -field AppBarToggleButton:558
-The [AppBarToggleButton](../windows.ui.xaml.controls/appbartogglebutton.md) type.
+The [AppBarToggleButton](/uwp/api/windows.ui.xaml.controls.appbartogglebutton) type.
+
 
 
 ### -field AppBarSeparator:427
-The [AppBarSeparator](../windows.ui.xaml.controls/appbarseparator.md) type.
+The [AppBarSeparator](/uwp/api/windows.ui.xaml.controls.appbarseparator) type.
+
 
 
 ### -field AppBarElementContainer:945
-The [AppBarElementContainer](../windows.ui.xaml.controls/appbarelementcontainer.md) type.
+The [AppBarElementContainer](/uwp/api/windows.ui.xaml.controls.appbarelementcontainer) type.
+
 
 
 ### -field AppBarButton:557
-The [AppBarButton](../windows.ui.xaml.controls/appbarbutton.md) type.
+The [AppBarButton](/uwp/api/windows.ui.xaml.controls.appbarbutton) type.
+
 
 
 ### -field AppBar:495
-The [AppBar](../windows.ui.xaml.controls/appbar.md) type.
+The [AppBar](/uwp/api/windows.ui.xaml.controls.appbar) type.
+
 
 
 ### -field AddDeleteThemeTransition:177
-The [AddDeleteThemeTransition](../windows.ui.xaml.media.animation/adddeletethemetransition.md) type.
+The [AddDeleteThemeTransition](/uwp/api/windows.ui.xaml.media.animation.adddeletethemetransition) type.
+
 
 
 ### -field AdaptiveTrigger:757
-The [AdaptiveTrigger](../windows.ui.xaml/adaptivetrigger.md) type.
+The [AdaptiveTrigger](/uwp/api/windows.ui.xaml.adaptivetrigger) type.
+
 
 
 ## -remarks
 
 
+
 ## -see-also
 * [XamlDirect](xamldirect.md)
-* [IXamlDirectObject](ixamldirectobject.md)
+* [IXamlDirectObject](/uwp/api/windows.ui.xaml.core.direct.ixamldirectobject)
 * [XamlPropertyIndex](xamlpropertyindex.md)
 * [XamlEventIndex](xamleventindex.md)
 
+
 ## -examples
+
 
 

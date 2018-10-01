@@ -10,17 +10,22 @@ public class CommandBarFlyoutCommandBarTemplateSettings : DependencyObject, Depe
 # Microsoft.UI.Xaml.Controls.Primitives.CommandBarFlyoutCommandBarTemplateSettings
 
 
+
 ## -description
 
-Provides calculated values that can be referenced as **TemplatedParent** sources when defining templates for a [CommandBarFlyout](../windows.ui.xaml.controls/commandbarflyout.md) control. Not intended for general use.
+Provides calculated values that can be referenced as **TemplatedParent** sources when defining templates for a [CommandBarFlyout](../microsoft.ui.xaml.controls/commandbarflyout.md) control. Not intended for general use.
+
 
 
 ## -remarks
 
 
+
 ## -see-also
 
 
+
 ## -examples
+
 
 

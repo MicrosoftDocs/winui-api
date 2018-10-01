@@ -10,16 +10,21 @@ public void TreeViewItemAutomationPeer.Collapse()
 # Microsoft.UI.Xaml.Automation.Peers.TreeViewItemAutomationPeer.Collapse
 
 
+
 ## -description
-Collapses the associated **[TreeViewItem](file:///C:\Repos\winrt-api\windows.ui.xaml.controls\treeviewitem.md)**.
+Collapses the associated **[TreeViewItem](/uwp/api/windows.ui.xaml.controls.treeviewitem)**.
+
 
 
 ## -remarks
 
 
+
 ## -see-also
 
 
+
 ## -examples
+
 
 

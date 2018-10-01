@@ -10,17 +10,21 @@ public object NavigationView.MenuItemFromContainer(DependencyObject container)
 # Microsoft.UI.Xaml.Controls.NavigationView.MenuItemFromContainer
 
 
+
 ## -description
 
 Returns the item that corresponds to the specified, generated container.
 
 
+
 ## -parameters
+
 
 
 ### -param container
 
-The [DependencyObject](../windows.ui.xaml/dependencyobject.md) that corresponds to the item to be returned.
+The [DependencyObject](/uwp/api/windows.ui.xaml.dependencyobject) that corresponds to the item to be returned.
+
 
 
 ## -returns
@@ -28,12 +32,16 @@ The [DependencyObject](../windows.ui.xaml/dependencyobject.md) that corresponds 
 The contained item, or the container if it does not contain an item.
 
 
+
 ## -remarks
+
 
 
 ## -see-also
 
 
+
 ## -examples
+
 
 

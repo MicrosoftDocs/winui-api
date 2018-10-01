@@ -10,16 +10,21 @@ public void TreeViewItemAutomationPeer.Expand()
 # Microsoft.UI.Xaml.Automation.Peers.TreeViewItemAutomationPeer.Expand
 
 
+
 ## -description
-Expands the associated **[TreeViewItem](file:///C:\Repos\winrt-api\windows.ui.xaml.controls\treeviewitem.md)**.  
+Expands the associated **[TreeViewItem](/uwp/api/windows.ui.xaml.controls.treeviewitem)**.  
+
 
 
 ## -remarks
 
 
+
 ## -see-also
 
 
+
 ## -examples
+
 
 

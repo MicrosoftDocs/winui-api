@@ -10,9 +10,11 @@ public ExpandCollapseState ExpandCollapseState { get; }
 # Microsoft.UI.Xaml.Automation.Peers.MenuBarItemAutomationPeer.ExpandCollapseState
 
 
+
 ## -description
 
-Gets the state, expanded or collapsed, of the [MenuBarItem](../windows.ui.xaml.controls/menubaritem.md).
+Gets the state, expanded or collapsed, of the [MenuBarItem](../microsoft.ui.xaml.controls/menubaritem.md).
+
 
 
 ## -property-value
@@ -20,12 +22,16 @@ Gets the state, expanded or collapsed, of the [MenuBarItem](../windows.ui.xaml.c
 A value of the enumeration.
 
 
+
 ## -remarks
+
 
 
 ## -see-also
 
 
+
 ## -examples
+
 
 

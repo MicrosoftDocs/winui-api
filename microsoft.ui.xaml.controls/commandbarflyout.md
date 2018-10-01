@@ -10,18 +10,23 @@ public class CommandBarFlyout : FlyoutBase, FlyoutBase
 # Microsoft.UI.Xaml.Controls.CommandBarFlyout
 
 
+
 ## -description
 
-Represents a specialized flyout that provides layout for [AppBarButton](appbarbutton.md) and related command elements.
+Represents a specialized flyout that provides layout for [AppBarButton](/uwp/api/windows.ui.xaml.controls.appbarbutton) and related command elements.
+
 
 
 ## -remarks
 
 
+
 ## -see-also
 
 
+
 ## -examples
+
 
 
 ## -xaml-syntax
@@ -33,5 +38,6 @@ Represents a specialized flyout that provides layout for [AppBarButton](appbarbu
   commandBarElements
 </CommandBarFlyout>
 ```
+
 
 

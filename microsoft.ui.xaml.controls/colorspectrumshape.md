@@ -10,30 +10,38 @@ public enum ColorSpectrumShape : int
 # Microsoft.UI.Xaml.Controls.ColorSpectrumShape
 
 
+
 ## -description
 
-Defines constants that specify how the [ColorSpectrum](colorspectrum.md) control is shown.
+Defines constants that specify how the [ColorSpectrum](/uwp/api/windows.ui.xaml.controls.colorspectrum) control is shown.
+
 
 
 ## -enum-fields
 
 
+
 ### -field Ring:1
 
-The [ColorSpectrum](colorspectrum.md) control is shown as a circle.
+The [ColorSpectrum](/uwp/api/windows.ui.xaml.controls.colorspectrum) control is shown as a circle.
+
 
 
 ### -field Box:0
 
-The [ColorSpectrum](colorspectrum.md) control is shown as a square.
+The [ColorSpectrum](/uwp/api/windows.ui.xaml.controls.colorspectrum) control is shown as a square.
+
 
 
 ## -remarks
 
 
+
 ## -see-also
 
 
+
 ## -examples
+
 
 
