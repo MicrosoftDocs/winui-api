@@ -10,8 +10,10 @@ public string Name { get;  set; }
 # Microsoft.UI.Composition.Effects.GammaTransferEffect.Name
 
 ## -description
+Gets or sets a user-defined name for the effect.
 
 ## -property-value
+A user-defined name for the effect.
 
 ## -remarks
 

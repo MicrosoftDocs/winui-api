@@ -10,8 +10,10 @@ public IGraphicsEffectSource Source1 { get;  set; }
 # Microsoft.UI.Composition.Effects.ArithmeticCompositeEffect.Source1
 
 ## -description
+Gets or sets the first input source for the effect.
 
 ## -property-value
+The first input source for the effect.
 
 ## -remarks
 

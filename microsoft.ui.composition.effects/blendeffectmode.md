@@ -10,6 +10,7 @@ public enum BlendEffectMode : int
 # Microsoft.UI.Composition.Effects.BlendEffectMode
 
 ## -description
+Specifies how two images are blended. 
 
 ## -enum-fields
 ### -field VividLight:14
