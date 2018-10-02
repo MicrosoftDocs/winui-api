@@ -9,7 +9,7 @@ public enum EffectBorderMode : int
 
 # Microsoft.UI.Composition.Effects.EffectBorderMode
 
-## -descriptio
+## -description
 Specifies how to process pixels that fall outside the input image.
 
 ## -enum-fields
