@@ -10,6 +10,7 @@ public CanvasAlphaMode AlphaMode { get;  set; }
 # Microsoft.UI.Composition.Effects.SepiaEffect.AlphaMode
 
 ## -description
+Specifies the treatment of alpha. Default value Premultiplied.
 
 ## -property-value
 

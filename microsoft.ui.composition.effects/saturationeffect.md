@@ -10,6 +10,7 @@ public class SaturationEffect : IGraphicsEffect, IGraphicsEffectSource
 # Microsoft.UI.Composition.Effects.SaturationEffect
 
 ## -description
+Alters the saturation of an image.
 
 ## -remarks
 

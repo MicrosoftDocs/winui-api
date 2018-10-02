@@ -10,6 +10,7 @@ public bool BlueDisable { get;  set; }
 # Microsoft.UI.Composition.Effects.LinearTransferEffect.BlueDisable
 
 ## -description
+Disables the blue channel transfer function. Default value false.
 
 ## -property-value
 

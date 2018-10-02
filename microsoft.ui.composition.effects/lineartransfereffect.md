@@ -10,6 +10,7 @@ public class LinearTransferEffect : IGraphicsEffect, IGraphicsEffectSource
 # Microsoft.UI.Composition.Effects.LinearTransferEffect
 
 ## -description
+Alters the colors of an image by applying a per-channel linear transfer function.
 
 ## -remarks
 

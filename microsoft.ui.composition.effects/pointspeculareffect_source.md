@@ -10,6 +10,7 @@ public IGraphicsEffectSource Source { get;  set; }
 # Microsoft.UI.Composition.Effects.PointSpecularEffect.Source
 
 ## -description
+Gets or sets the input source for PointSpecular effect.
 
 ## -property-value
 

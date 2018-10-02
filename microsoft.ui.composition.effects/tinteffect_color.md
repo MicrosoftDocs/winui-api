@@ -10,6 +10,7 @@ public Color Color { get;  set; }
 # Microsoft.UI.Composition.Effects.TintEffect.Color
 
 ## -description
+Specifies the tint color to be applied. Default value white.
 
 ## -property-value
 

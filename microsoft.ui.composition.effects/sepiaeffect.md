@@ -10,6 +10,7 @@ public class SepiaEffect : IGraphicsEffect, IGraphicsEffectSource
 # Microsoft.UI.Composition.Effects.SepiaEffect
 
 ## -description
+Converts an image to sepia tones.
 
 ## -remarks
 

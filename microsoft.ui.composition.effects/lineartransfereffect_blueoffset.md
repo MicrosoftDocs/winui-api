@@ -10,6 +10,7 @@ public float BlueOffset { get;  set; }
 # Microsoft.UI.Composition.Effects.LinearTransferEffect.BlueOffset
 
 ## -description
+Offsets the blue channel. Default value 0.
 
 ## -property-value
 

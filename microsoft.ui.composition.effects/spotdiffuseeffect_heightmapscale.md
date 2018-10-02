@@ -10,6 +10,7 @@ public float HeightMapScale { get;  set; }
 # Microsoft.UI.Composition.Effects.SpotDiffuseEffect.HeightMapScale
 
 ## -description
+Height map scale factor in the Z direction. Default value 1.
 
 ## -property-value
 

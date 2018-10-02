@@ -10,6 +10,7 @@ public CanvasImageInterpolation HeightMapInterpolationMode { get;  set; }
 # Microsoft.UI.Composition.Effects.PointSpecularEffect.HeightMapInterpolationMode
 
 ## -description
+Interpolation mode used to filter the height map. Default value Linear.
 
 ## -property-value
 

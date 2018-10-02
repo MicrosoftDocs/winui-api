@@ -10,6 +10,7 @@ public float Saturation { get;  set; }
 # Microsoft.UI.Composition.Effects.SaturationEffect.Saturation
 
 ## -description
+Gets or sets the saturation intensity.
 
 ## -property-value
 

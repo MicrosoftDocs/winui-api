@@ -10,6 +10,7 @@ public EffectBorderMode BorderMode { get;  set; }
 # Microsoft.UI.Composition.Effects.Transform2DEffect.BorderMode
 
 ## -description
+Border mode for edge pixels. Default value Soft.
 
 ## -property-value
 

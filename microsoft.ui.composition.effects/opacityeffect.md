@@ -10,6 +10,7 @@ public class OpacityEffect : IGraphicsEffect, IGraphicsEffectSource
 # Microsoft.UI.Composition.Effects.OpacityEffect
 
 ## -description
+Changes the opacity (alpha) of an image.
 
 ## -remarks
 

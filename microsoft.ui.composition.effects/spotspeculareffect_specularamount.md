@@ -10,6 +10,7 @@ public float SpecularAmount { get;  set; }
 # Microsoft.UI.Composition.Effects.SpotSpecularEffect.SpecularAmount
 
 ## -description
+Intensity of the specular light. Default value 1.
 
 ## -property-value
 

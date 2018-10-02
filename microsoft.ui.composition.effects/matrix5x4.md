@@ -31,48 +31,69 @@ public struct Matrix5x4  {
 # Microsoft.UI.Composition.Effects.Matrix5x4
 
 ## -description
+A 5x4 matrix, used for color transforms.
 
 ## -struct-fields
 
 ### -field M11
+Value at row 1 column 1 of the matrix.
 
 ### -field M12
+Value at row 1 column 2 of the matrix.
 
 ### -field M13
+Value at row 1 column 3 of the matrix.
 
 ### -field M14
+Value at row 1 column 4 of the matrix.
 
 ### -field M21
+Value at row 2 column 1 of the matrix.
 
 ### -field M22
+Value at row 2 column 2 of the matrix.
 
 ### -field M23
+Value at row 2 column 3 of the matrix.
 
 ### -field M24
+Value at row 2 column 4 of the matrix.
 
 ### -field M31
+Value at row 3 column 1 of the matrix.
 
 ### -field M32
+Value at row 3 column 2 of the matrix.
 
 ### -field M33
+Value at row 3 column 3 of the matrix.
 
 ### -field M34
+Value at row 3 column 4 of the matrix.
 
 ### -field M41
+Value at row 2 column 1 of the matrix.
 
 ### -field M42
+Value at row 4 column 2 of the matrix.
 
 ### -field M43
+Value at row 4 column 3 of the matrix.
 
 ### -field M44
+Value at row 4 column 41 of the matrix.
 
 ### -field M51
+Value at row 5 column 1 of the matrix.
 
 ### -field M52
+Value at row 5 column 2 of the matrix.
 
 ### -field M53
+Value at row 5 column 3 of the matrix.
 
 ### -field M54
+Value at row 5 column 4 of the matrix.
 
 ## -remarks
 

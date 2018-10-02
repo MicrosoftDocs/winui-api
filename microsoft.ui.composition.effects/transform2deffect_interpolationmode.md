@@ -10,6 +10,7 @@ public CanvasImageInterpolation InterpolationMode { get;  set; }
 # Microsoft.UI.Composition.Effects.Transform2DEffect.InterpolationMode
 
 ## -description
+Interpolation mode. Default value Linear.
 
 ## -property-value
 

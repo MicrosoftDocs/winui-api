@@ -10,6 +10,7 @@ public float GreenSlope { get;  set; }
 # Microsoft.UI.Composition.Effects.LinearTransferEffect.GreenSlope
 
 ## -description
+Controls the slope of the green channel. Default value 1.
 
 ## -property-value
 

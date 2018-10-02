@@ -10,6 +10,7 @@ public float BlueSlope { get;  set; }
 # Microsoft.UI.Composition.Effects.LinearTransferEffect.BlueSlope
 
 ## -description
+Controls the slope of the blue channel. Default value 1.
 
 ## -property-value
 

@@ -10,6 +10,7 @@ public Vector3 LightTarget { get;  set; }
 # Microsoft.UI.Composition.Effects.SpotDiffuseEffect.LightTarget
 
 ## -description
+Target that the spot light is pointing at. Default value (0,0,0).
 
 ## -property-value
 
