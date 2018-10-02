@@ -10,6 +10,7 @@ public XamlControlsXamlMetaDataProvider.XamlControlsXamlMetaDataProvider()
 # Microsoft.UI.Xaml.XamlTypeInfo.XamlControlsXamlMetaDataProvider.XamlControlsXamlMetaDataProvider
 
 ## -description
+Creates a new instance of the [XamlControlsXamlMetadataProvider](xamlcontrolsxamlmetadataprovider.md) class.
 
 ## -remarks
 

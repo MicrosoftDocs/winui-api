@@ -10,6 +10,7 @@ public float RedAmplitude { get;  set; }
 # Microsoft.UI.Composition.Effects.GammaTransferEffect.RedAmplitude
 
 ## -description
+Scales the red channel. Default value 1.
 
 ## -property-value
 

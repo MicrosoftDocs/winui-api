@@ -10,6 +10,7 @@ public class HueRotationEffect : IGraphicsEffect, IGraphicsEffectSource
 # Microsoft.UI.Composition.Effects.HueRotationEffect
 
 ## -description
+Alters the color of an image by rotating its hue values.
 
 ## -remarks
 

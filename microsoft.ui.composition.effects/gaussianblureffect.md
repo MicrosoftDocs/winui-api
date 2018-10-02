@@ -10,6 +10,7 @@ public class GaussianBlurEffect : IGraphicsEffect, IGraphicsEffectSource
 # Microsoft.UI.Composition.Effects.GaussianBlurEffect
 
 ## -description
+Creates a blur effect based on the Gaussian function over the entire input image.
 
 ## -remarks
 

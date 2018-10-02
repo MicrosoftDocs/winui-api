@@ -10,6 +10,7 @@ public EffectBorderMode BorderMode { get;  set; }
 # Microsoft.UI.Composition.Effects.GaussianBlurEffect.BorderMode
 
 ## -description
+Gets and sets border mode for edge pixels.
 
 ## -property-value
 

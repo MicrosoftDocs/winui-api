@@ -10,6 +10,7 @@ public void XamlControlsXamlMetaDataProvider.Initialize()
 # Microsoft.UI.Xaml.XamlTypeInfo.XamlControlsXamlMetaDataProvider.Initialize
 
 ## -description
+Invokes any necessary pre-activation logic as required by the XAML schema context and its platform dependencies.
 
 ## -remarks
 

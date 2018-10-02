@@ -10,9 +10,10 @@ namespace Microsoft.UI.Xaml.Controls
 # Microsoft.UI.Xaml.Controls
 
 ## -description
-Provides UI controls and classes for creating custom controls. Requires the **Microsoft.UI.Xaml.Controls** NuGet package, a part of the [Microsoft Windows UI Library](https://aka.ms/winui-docs).
+Provides UI controls and classes for creating custom controls. 
 
 ## -remarks
+This namespace requires the **Microsoft.UI.Xaml.Controls** NuGet package, a part of the [Microsoft Windows UI Library](https://aka.ms/winui-docs).
 
 ## -see-also
 

@@ -11,9 +11,10 @@ namespace Microsoft.UI.Xaml
 
 ## -description
 
-Provides general framework APIs and application model APIs, and a variety of support classes. Requires the **Microsoft.UI.Xaml.Controls** NuGet package, a part of the [Microsoft Windows UI Library](https://aka.ms/winui-docs).
+Provides general framework APIs and application model APIs, and a variety of support classes. 
 
 ## -remarks
+This namespace requires the **Microsoft.UI.Xaml.Controls** NuGet package, a part of the [Microsoft Windows UI Library](https://aka.ms/winui-docs).
 
 
 ## -see-also

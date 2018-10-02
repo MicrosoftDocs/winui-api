@@ -10,6 +10,7 @@ public bool RedDisable { get;  set; }
 # Microsoft.UI.Composition.Effects.GammaTransferEffect.RedDisable
 
 ## -description
+Disables the red channel transfer function. Default value false.
 
 ## -property-value
 

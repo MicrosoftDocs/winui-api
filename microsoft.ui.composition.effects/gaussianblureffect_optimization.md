@@ -10,6 +10,7 @@ public EffectOptimization Optimization { get;  set; }
 # Microsoft.UI.Composition.Effects.GaussianBlurEffect.Optimization
 
 ## -description
+Level of performance optimization.
 
 ## -property-value
 

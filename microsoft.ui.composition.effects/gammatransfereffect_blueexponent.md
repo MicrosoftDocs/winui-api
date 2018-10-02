@@ -10,6 +10,7 @@ public float BlueExponent { get;  set; }
 # Microsoft.UI.Composition.Effects.GammaTransferEffect.BlueExponent
 
 ## -description
+Blue channel color adjustment exponent. Default value 1.
 
 ## -property-value
 

@@ -10,6 +10,7 @@ public class InvertEffect : IGraphicsEffect, IGraphicsEffectSource
 # Microsoft.UI.Composition.Effects.InvertEffect
 
 ## -description
+Inverts the colors of an image.
 
 ## -remarks
 

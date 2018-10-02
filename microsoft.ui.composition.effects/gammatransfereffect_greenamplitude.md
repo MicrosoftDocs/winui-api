@@ -10,6 +10,7 @@ public float GreenAmplitude { get;  set; }
 # Microsoft.UI.Composition.Effects.GammaTransferEffect.GreenAmplitude
 
 ## -description
+Scales the green channel. Default value 1.
 
 ## -property-value
 

@@ -10,6 +10,7 @@ public float GreenExponent { get;  set; }
 # Microsoft.UI.Composition.Effects.GammaTransferEffect.GreenExponent
 
 ## -description
+Green channel color adjustment exponent. Default value 1.
 
 ## -property-value
 
