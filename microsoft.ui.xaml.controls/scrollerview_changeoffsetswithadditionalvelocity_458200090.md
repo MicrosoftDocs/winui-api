@@ -1,6 +1,7 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.ScrollerView.ChangeOffsetsWithAdditionalVelocity(Microsoft.UI.Xaml.Controls.ScrollerChangeOffsetsWithAdditionalVelocityOptions)
 -api-type: winrt method
+ms.custom: RS5
 ---
 
 <!-- Method syntax.

@@ -1,6 +1,7 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.RecyclePool.PutElementCore(Windows.UI.Xaml.UIElement,System.String,Windows.UI.Xaml.UIElement)
 -api-type: winrt method
+ms.custom: RS5
 ---
 
 <!-- Method syntax.

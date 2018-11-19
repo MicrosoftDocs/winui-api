@@ -1,7 +1,7 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Media.AcrylicBrush
 -api-type: winrt class
-
+ms.custom: RS5
 ---
 <!-- Class syntax.
 public class AcrylicBrush : XamlCompositionBrushBase, XamlCompositionBrushBase

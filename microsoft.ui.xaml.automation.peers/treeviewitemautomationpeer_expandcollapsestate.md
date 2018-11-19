@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Automation.Peers.TreeViewItemAutomationPeer.ExpandCollapseState
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public ExpandCollapseState ExpandCollapseState { get; }

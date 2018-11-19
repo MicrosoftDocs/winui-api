@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.NavigationView.IsSettingsVisible
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public bool IsSettingsVisible { get;  set; }

@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.NavigationView.PaneTitle
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public string PaneTitle { get;  set; }

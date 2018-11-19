@@ -1,6 +1,7 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.FlowLayout.OnElementMeasured(Windows.UI.Xaml.UIElement,System.Int32,Windows.Foundation.Size,Windows.Foundation.Size,Windows.Foundation.Size,Windows.Foundation.Size,Microsoft.UI.Xaml.Controls.LayoutContext)
 -api-type: winrt method
+ms.custom: RS5
 ---
 
 <!-- Method syntax.

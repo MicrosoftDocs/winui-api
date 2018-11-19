@@ -1,6 +1,7 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.DataSource.OnDataSourceChanged(Microsoft.UI.Xaml.Controls.DataSourceChangedEventArgs)
 -api-type: winrt method
+ms.custom: RS5
 ---
 
 <!-- Method syntax.

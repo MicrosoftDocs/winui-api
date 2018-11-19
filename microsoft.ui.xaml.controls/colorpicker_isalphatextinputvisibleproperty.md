@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.ColorPicker.IsAlphaTextInputVisibleProperty
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public DependencyProperty IsAlphaTextInputVisibleProperty { get; }

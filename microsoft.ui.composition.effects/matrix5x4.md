@@ -1,6 +1,7 @@
 ---
 -api-id: T:Microsoft.UI.Composition.Effects.Matrix5x4
 -api-type: winrt struct
+ms.custom: RS5
 ---
 
 <!-- Structure syntax.

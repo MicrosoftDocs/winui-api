@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.NavigationView.IsBackButtonVisible
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public NavigationViewBackButtonVisible IsBackButtonVisible { get;  set; }

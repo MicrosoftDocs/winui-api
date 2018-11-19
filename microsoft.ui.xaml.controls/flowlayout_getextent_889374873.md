@@ -1,6 +1,7 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.FlowLayout.GetExtent(Windows.Foundation.Size,Microsoft.UI.Xaml.Controls.LayoutContext,Windows.UI.Xaml.UIElement,System.Int32,Windows.Foundation.Rect,Windows.UI.Xaml.UIElement,System.Int32,Windows.Foundation.Rect)
 -api-type: winrt method
+ms.custom: RS5
 ---
 
 <!-- Method syntax.

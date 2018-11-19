@@ -1,6 +1,7 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Automation.Peers.TreeViewItemAutomationPeer.#ctor(Microsoft.UI.Xaml.Controls.TreeViewItem)
 -api-type: winrt method
+ms.custom: RS5
 ---
 
 <!-- Method syntax.

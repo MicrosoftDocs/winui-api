@@ -1,6 +1,7 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.ISelfPlayingAnimatedVisual.PlayAsync(System.Double,System.Double,System.Boolean)
 -api-type: winrt method
+ms.custom: RS5
 ---
 
 <!-- Method syntax.

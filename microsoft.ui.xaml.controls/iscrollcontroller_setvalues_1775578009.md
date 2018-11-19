@@ -1,6 +1,7 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.IScrollController.SetValues(System.Double,System.Double,System.Double,System.Double)
 -api-type: winrt method
+ms.custom: RS5
 ---
 
 <!-- Method syntax.

@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.PathIconSource.DataProperty
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public DependencyProperty DataProperty { get; }

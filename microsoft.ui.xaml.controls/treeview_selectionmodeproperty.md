@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.TreeView.SelectionModeProperty
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public DependencyProperty SelectionModeProperty { get; }

@@ -1,6 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.Scroller.ZoomMode
 -api-type: winrt property
+ms.custom: RS5
 ---
 
 <!-- Property syntax.

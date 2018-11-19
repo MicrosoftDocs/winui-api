@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.MenuBarItem.Items
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public IVector<MenuFlyoutItemBase> Items { get; }

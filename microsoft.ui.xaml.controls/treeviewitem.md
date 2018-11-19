@@ -1,7 +1,7 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Controls.TreeViewItem
 -api-type: winrt class
-
+ms.custom: RS5
 ---
 <!-- Class syntax.
 public class TreeViewItem : ListViewItem, ListViewItem

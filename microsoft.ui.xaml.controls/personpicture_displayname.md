@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.PersonPicture.DisplayName
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public string DisplayName { get;  set; }

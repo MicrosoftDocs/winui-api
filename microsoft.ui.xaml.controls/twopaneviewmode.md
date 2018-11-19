@@ -1,6 +1,7 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Controls.TwoPaneViewMode
 -api-type: winrt enum
+ms.custom: RS5
 ---
 
 <!-- Enumeration syntax.

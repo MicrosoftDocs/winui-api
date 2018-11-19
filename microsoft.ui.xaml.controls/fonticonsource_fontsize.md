@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.FontIconSource.FontSize
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public double FontSize { get;  set; }

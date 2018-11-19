@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Media.RevealBrush.TargetTheme
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public ApplicationTheme TargetTheme { get;  set; }

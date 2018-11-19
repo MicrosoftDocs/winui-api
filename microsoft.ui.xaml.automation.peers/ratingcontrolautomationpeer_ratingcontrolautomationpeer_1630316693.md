@@ -1,6 +1,7 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Automation.Peers.RatingControlAutomationPeer.#ctor(Microsoft.UI.Xaml.Controls.RatingControl)
 -api-type: winrt method
+ms.custom: RS5
 ---
 
 <!-- Method syntax.

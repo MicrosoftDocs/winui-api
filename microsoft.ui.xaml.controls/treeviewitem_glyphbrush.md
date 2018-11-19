@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.TreeViewItem.GlyphBrush
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public Brush GlyphBrush { get;  set; }

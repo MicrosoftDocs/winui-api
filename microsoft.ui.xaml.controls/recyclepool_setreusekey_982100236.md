@@ -1,6 +1,7 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.RecyclePool.SetReuseKey(Windows.UI.Xaml.UIElement,System.String)
 -api-type: winrt method
+ms.custom: RS5
 ---
 
 <!-- Method syntax.

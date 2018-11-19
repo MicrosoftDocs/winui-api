@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.TreeViewItem.TreeViewItemTemplateSettingsProperty
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public DependencyProperty TreeViewItemTemplateSettingsProperty { get; }

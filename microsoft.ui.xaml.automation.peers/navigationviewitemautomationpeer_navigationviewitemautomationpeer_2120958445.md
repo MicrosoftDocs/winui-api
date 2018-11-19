@@ -1,6 +1,7 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Automation.Peers.NavigationViewItemAutomationPeer.#ctor(Microsoft.UI.Xaml.Controls.NavigationViewItem)
 -api-type: winrt method
+ms.custom: RS5
 ---
 
 <!-- Method syntax.

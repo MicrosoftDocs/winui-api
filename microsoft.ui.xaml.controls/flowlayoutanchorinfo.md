@@ -1,6 +1,7 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Controls.FlowLayoutAnchorInfo
 -api-type: winrt struct
+ms.custom: RS5
 ---
 
 <!-- Structure syntax.

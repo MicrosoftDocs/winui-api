@@ -1,6 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.ScrollerChangeOffsetsOptions.ViewChangeKind
 -api-type: winrt property
+ms.custom: RS5
 ---
 
 <!-- Property syntax.

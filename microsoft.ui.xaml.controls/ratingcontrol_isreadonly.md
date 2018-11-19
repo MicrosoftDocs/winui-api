@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.RatingControl.IsReadOnly
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public bool IsReadOnly { get;  set; }

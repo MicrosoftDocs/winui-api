@@ -1,7 +1,7 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Controls.NavigationViewShoulderNavigationEnabled
 -api-type: winrt enum
-
+ms.custom: RS5
 ---
 <!-- Enumeration syntax.
 public enum NavigationViewShoulderNavigationEnabled : int 

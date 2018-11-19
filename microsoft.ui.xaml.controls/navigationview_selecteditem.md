@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.NavigationView.SelectedItem
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public object SelectedItem { get;  set; }

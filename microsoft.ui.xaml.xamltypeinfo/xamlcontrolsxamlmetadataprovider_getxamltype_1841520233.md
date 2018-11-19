@@ -1,6 +1,7 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.XamlTypeInfo.XamlControlsXamlMetaDataProvider.GetXamlType(Windows.UI.Xaml.Interop.TypeName)
 -api-type: winrt method
+ms.custom: RS5
 ---
 
 <!-- Method syntax.

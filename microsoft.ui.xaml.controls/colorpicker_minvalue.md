@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.ColorPicker.MinValue
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public int MinValue { get;  set; }

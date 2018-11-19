@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.RatingItemImageInfo.PlaceholderImage
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public ImageSource PlaceholderImage { get;  set; }

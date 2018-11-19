@@ -1,6 +1,7 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.RecyclePool.TryGetElementCore(System.String,Windows.UI.Xaml.UIElement)
 -api-type: winrt method
+ms.custom: RS5
 ---
 
 <!-- Method syntax.

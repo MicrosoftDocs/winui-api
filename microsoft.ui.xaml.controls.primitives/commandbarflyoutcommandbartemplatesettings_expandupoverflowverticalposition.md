@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.Primitives.CommandBarFlyoutCommandBarTemplateSettings.ExpandUpOverflowVerticalPosition
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public double ExpandUpOverflowVerticalPosition { get; }

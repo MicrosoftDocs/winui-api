@@ -1,6 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Composition.Effects.TintEffect.Color
 -api-type: winrt property
+ms.custom: RS5
 ---
 
 <!-- Property syntax.

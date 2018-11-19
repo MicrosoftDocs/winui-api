@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.NavigationViewTemplateSettings.PaneToggleButtonVisibility
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public Visibility PaneToggleButtonVisibility { get; }

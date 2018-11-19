@@ -1,6 +1,7 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.Repeater.MakeAnchor(System.Int32,System.String)
 -api-type: winrt method
+ms.custom: RS5
 ---
 
 <!-- Method syntax.

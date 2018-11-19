@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Media.AcrylicBrush.BackgroundSource
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public AcrylicBackgroundSource BackgroundSource { get;  set; }

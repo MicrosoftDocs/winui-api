@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.PersonPicture.BadgeNumber
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public int BadgeNumber { get;  set; }

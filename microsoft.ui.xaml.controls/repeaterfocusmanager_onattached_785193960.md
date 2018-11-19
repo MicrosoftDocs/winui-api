@@ -1,6 +1,7 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.RepeaterFocusManager.OnAttached(Microsoft.UI.Xaml.Controls.Repeater)
 -api-type: winrt method
+ms.custom: RS5
 ---
 
 <!-- Method syntax.

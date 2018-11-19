@@ -1,6 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Composition.Effects.GammaTransferEffect.AlphaOffset
 -api-type: winrt property
+ms.custom: RS5
 ---
 
 <!-- Property syntax.

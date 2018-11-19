@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.PersonPicture.Initials
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public string Initials { get;  set; }

@@ -1,7 +1,7 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Controls.Primitives.ColorSpectrum
 -api-type: winrt class
-
+ms.custom: RS5
 ---
 <!-- Class syntax.
 public class ColorSpectrum : Control, Control

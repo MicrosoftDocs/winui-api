@@ -1,7 +1,7 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.MenuBar.#ctor
 -api-type: winrt method
-
+ms.custom: RS5
 ---
 <!-- Method syntax.
 public MenuBar.MenuBar()

@@ -1,6 +1,7 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.LayoutContext.GetItemCount
 -api-type: winrt method
+ms.custom: RS5
 ---
 
 <!-- Method syntax.

@@ -1,6 +1,7 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Automation.Peers.ColorSpectrumAutomationPeer.#ctor(Microsoft.UI.Xaml.Controls.Primitives.ColorSpectrum)
 -api-type: winrt method
+ms.custom: RS5
 ---
 
 <!-- Method syntax.

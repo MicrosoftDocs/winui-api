@@ -1,7 +1,7 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Media.RevealBorderBrush.#ctor
 -api-type: winrt method
-
+ms.custom: RS5
 ---
 <!-- Method syntax.
 public RevealBorderBrush.RevealBorderBrush()

@@ -1,6 +1,7 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.ScrollControllerOffsetChangeRequestedEventArgs.#ctor(System.Double,Microsoft.UI.Xaml.Controls.ScrollerViewKind,Microsoft.UI.Xaml.Controls.ScrollerViewChangeKind)
 -api-type: winrt method
+ms.custom: RS5
 ---
 
 <!-- Method syntax.

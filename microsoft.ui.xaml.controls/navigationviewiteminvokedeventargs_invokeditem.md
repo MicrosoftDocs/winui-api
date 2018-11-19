@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.NavigationViewItemInvokedEventArgs.InvokedItem
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public object InvokedItem { get; }

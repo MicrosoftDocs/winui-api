@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.TreeViewExpandingEventArgs.Node
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public TreeViewNode Node { get; }

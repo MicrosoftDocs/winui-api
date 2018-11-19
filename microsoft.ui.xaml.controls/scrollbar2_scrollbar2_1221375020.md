@@ -1,6 +1,7 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.ScrollBar2.#ctor
 -api-type: winrt method
+ms.custom: RS5
 ---
 
 <!-- Method syntax.

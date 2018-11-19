@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.NavigationView.MenuItemTemplate
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public DataTemplate MenuItemTemplate { get;  set; }

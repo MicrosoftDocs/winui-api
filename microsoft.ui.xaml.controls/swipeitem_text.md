@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.SwipeItem.Text
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public string Text { get;  set; }

@@ -1,7 +1,7 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Controls.BitmapIconSource
 -api-type: winrt class
-
+ms.custom: RS5
 ---
 <!-- Class syntax.
 public class BitmapIconSource : IconSource, IconSource

@@ -1,6 +1,7 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.FlowLayout.GetMeasureSize(System.Int32,Windows.Foundation.Size)
 -api-type: winrt method
+ms.custom: RS5
 ---
 
 <!-- Method syntax.

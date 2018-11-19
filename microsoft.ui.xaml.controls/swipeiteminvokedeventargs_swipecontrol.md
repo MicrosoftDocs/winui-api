@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.SwipeItemInvokedEventArgs.SwipeControl
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public SwipeControl SwipeControl { get; }

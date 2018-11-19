@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.TreeViewNode.IsExpanded
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public bool IsExpanded { get;  set; }

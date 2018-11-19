@@ -1,6 +1,7 @@
 ---
 -api-id: N:Microsoft.UI.Xaml.CustomAttributes
 -api-type: winrt namespace
+ms.custom: RS5
 ---
 
 <!-- Namespace syntax.

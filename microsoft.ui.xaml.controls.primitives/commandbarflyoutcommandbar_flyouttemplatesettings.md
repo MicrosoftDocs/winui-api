@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.Primitives.CommandBarFlyoutCommandBar.FlyoutTemplateSettings
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public CommandBarFlyoutCommandBarTemplateSettings FlyoutTemplateSettings { get; }

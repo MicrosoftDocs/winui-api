@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.TreeViewDragItemsCompletedEventArgs.DropResult
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public DataPackageOperation DropResult { get; }

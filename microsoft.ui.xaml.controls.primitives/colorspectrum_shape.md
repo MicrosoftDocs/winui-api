@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.Primitives.ColorSpectrum.Shape
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public ColorSpectrumShape Shape { get;  set; }

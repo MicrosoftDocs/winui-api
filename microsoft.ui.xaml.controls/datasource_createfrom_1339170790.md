@@ -1,6 +1,7 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.DataSource.CreateFrom(System.Object)
 -api-type: winrt method
+ms.custom: RS5
 ---
 
 <!-- Method syntax.

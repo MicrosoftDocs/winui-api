@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.ParallaxView.HorizontalSourceOffsetKind
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public ParallaxSourceOffsetKind HorizontalSourceOffsetKind { get;  set; }

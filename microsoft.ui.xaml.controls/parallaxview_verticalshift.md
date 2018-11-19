@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.ParallaxView.VerticalShift
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public double VerticalShift { get;  set; }

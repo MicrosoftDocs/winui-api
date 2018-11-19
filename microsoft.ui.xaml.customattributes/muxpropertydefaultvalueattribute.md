@@ -1,6 +1,7 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.CustomAttributes.MUXPropertyDefaultValueAttribute
 -api-type: winrt class
+ms.custom: RS5
 ---
 
 <!-- Class syntax.

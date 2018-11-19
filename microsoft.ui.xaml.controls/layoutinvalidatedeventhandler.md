@@ -1,6 +1,7 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Controls.LayoutInvalidatedEventHandler
 -api-type: winrt delegate
+ms.custom: RS5
 ---
 
 <!-- Delegate syntax.

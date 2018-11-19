@@ -1,6 +1,7 @@
 ---
 -api-id: E:Microsoft.UI.Xaml.Controls.ScrollerView.ChangingOffsets
 -api-type: winrt event
+ms.custom: RS5
 ---
 
 <!-- Event syntax.

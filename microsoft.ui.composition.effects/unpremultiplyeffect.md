@@ -1,6 +1,7 @@
 ---
 -api-id: T:Microsoft.UI.Composition.Effects.UnPremultiplyEffect
 -api-type: winrt class
+ms.custom: RS5
 ---
 
 <!-- Class syntax.

@@ -1,6 +1,7 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Controls.ScrollerViewScrollControllerVisibility
 -api-type: winrt enum
+ms.custom: RS5
 ---
 
 <!-- Enumeration syntax.

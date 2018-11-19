@@ -1,6 +1,7 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Core.Direct.IXamlDirect.SetMatrix3DProperty(Microsoft.UI.Xaml.Core.Direct.XamlDirectObject,Microsoft.UI.Xaml.Core.Direct.XamlPropertyIndex,Windows.UI.Xaml.Media.Media3D.Matrix3D)
 -api-type: winrt method
+ms.custom: RS5
 ---
 
 <!-- Method syntax.

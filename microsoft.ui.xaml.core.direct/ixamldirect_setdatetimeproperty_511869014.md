@@ -1,6 +1,7 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Core.Direct.IXamlDirect.SetDateTimeProperty(Microsoft.UI.Xaml.Core.Direct.XamlDirectObject,Microsoft.UI.Xaml.Core.Direct.XamlPropertyIndex,Windows.Foundation.DateTime)
 -api-type: winrt method
+ms.custom: RS5
 ---
 
 <!-- Method syntax.

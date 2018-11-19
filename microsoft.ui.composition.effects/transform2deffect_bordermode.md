@@ -1,6 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Composition.Effects.Transform2DEffect.BorderMode
 -api-type: winrt property
+ms.custom: RS5
 ---
 
 <!-- Property syntax.

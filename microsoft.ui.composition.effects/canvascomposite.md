@@ -1,6 +1,7 @@
 ---
 -api-id: T:Microsoft.UI.Composition.Effects.CanvasComposite
 -api-type: winrt enum
+ms.custom: RS5
 ---
 
 <!-- Enumeration syntax.

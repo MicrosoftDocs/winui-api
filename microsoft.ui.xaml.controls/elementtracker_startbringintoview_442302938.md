@@ -1,6 +1,7 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.ElementTracker.StartBringIntoView(Windows.UI.Xaml.UIElement,System.Double,System.Double,System.Double,System.Double,System.Boolean)
 -api-type: winrt method
+ms.custom: RS5
 ---
 
 <!-- Method syntax.

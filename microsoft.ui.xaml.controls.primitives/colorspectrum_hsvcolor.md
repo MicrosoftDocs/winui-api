@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.Primitives.ColorSpectrum.HsvColor
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public Vector4 HsvColor { get;  set; }

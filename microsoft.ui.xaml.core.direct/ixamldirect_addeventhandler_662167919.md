@@ -1,6 +1,7 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Core.Direct.IXamlDirect.AddEventHandler(Microsoft.UI.Xaml.Core.Direct.XamlDirectObject,Microsoft.UI.Xaml.Core.Direct.XamlEventIndex,System.Object,System.Boolean)
 -api-type: winrt method
+ms.custom: RS5
 ---
 
 <!-- Method syntax.

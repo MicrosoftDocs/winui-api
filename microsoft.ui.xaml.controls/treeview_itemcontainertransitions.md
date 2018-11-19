@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.TreeView.ItemContainerTransitions
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public TransitionCollection ItemContainerTransitions { get;  set; }

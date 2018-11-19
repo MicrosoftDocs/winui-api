@@ -1,6 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Core.Direct.IXamlDirect.IsXamlDirectEnabled
 -api-type: winrt property
+ms.custom: RS5
 ---
 
 <!-- Property syntax.

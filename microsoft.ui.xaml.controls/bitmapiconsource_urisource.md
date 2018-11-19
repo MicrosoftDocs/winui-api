@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.BitmapIconSource.UriSource
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public Uri UriSource { get;  set; }

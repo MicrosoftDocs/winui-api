@@ -1,7 +1,7 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.ParallaxView.RefreshAutomaticVerticalOffsets
 -api-type: winrt method
-
+ms.custom: RS5
 ---
 <!-- Method syntax.
 public void ParallaxView.RefreshAutomaticVerticalOffsets()

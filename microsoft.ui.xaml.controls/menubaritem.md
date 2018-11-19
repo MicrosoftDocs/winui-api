@@ -1,7 +1,7 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Controls.MenuBarItem
 -api-type: winrt class
-
+ms.custom: RS5
 ---
 <!-- Class syntax.
 public class MenuBarItem : Control, Control

@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Media.AcrylicBrush.TintTransitionDurationProperty
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public DependencyProperty TintTransitionDurationProperty { get; }

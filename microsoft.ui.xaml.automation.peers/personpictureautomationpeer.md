@@ -1,7 +1,7 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Automation.Peers.PersonPictureAutomationPeer
 -api-type: winrt class
-
+ms.custom: RS5
 ---
 <!-- Class syntax.
 public class PersonPictureAutomationPeer : FrameworkElementAutomationPeer, FrameworkElementAutomationPeer

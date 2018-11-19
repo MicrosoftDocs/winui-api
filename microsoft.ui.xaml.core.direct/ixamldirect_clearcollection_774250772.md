@@ -1,6 +1,7 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Core.Direct.IXamlDirect.ClearCollection(Microsoft.UI.Xaml.Core.Direct.XamlDirectObject)
 -api-type: winrt method
+ms.custom: RS5
 ---
 
 <!-- Method syntax.

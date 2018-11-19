@@ -1,6 +1,7 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.ScrollerSnapPointIrregular.#ctor(System.Double,Microsoft.UI.Xaml.Controls.ScrollerSnapPointAlignment)
 -api-type: winrt method
+ms.custom: RS5
 ---
 
 <!-- Method syntax.

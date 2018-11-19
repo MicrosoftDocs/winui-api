@@ -1,7 +1,7 @@
 ---
 -api-id: E:Microsoft.UI.Xaml.Controls.RatingControl.ValueChanged
 -api-type: winrt event
-
+ms.custom: RS5
 ---
 <!-- Event syntax.
 public event TypedEventHandler ValueChanged<RatingControl,  object>

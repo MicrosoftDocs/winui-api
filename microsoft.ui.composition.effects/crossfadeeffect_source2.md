@@ -1,6 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Composition.Effects.CrossFadeEffect.Source2
 -api-type: winrt property
+ms.custom: RS5
 ---
 
 <!-- Property syntax.

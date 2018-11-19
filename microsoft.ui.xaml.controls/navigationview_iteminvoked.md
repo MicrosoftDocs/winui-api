@@ -1,7 +1,7 @@
 ---
 -api-id: E:Microsoft.UI.Xaml.Controls.NavigationView.ItemInvoked
 -api-type: winrt event
-
+ms.custom: RS5
 ---
 <!-- Event syntax.
 public event TypedEventHandler ItemInvoked<NavigationView, NavigationViewItemInvokedEventArgs>

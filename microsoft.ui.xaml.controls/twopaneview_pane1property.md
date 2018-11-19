@@ -1,6 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.TwoPaneView.Pane1Property
 -api-type: winrt property
+ms.custom: RS5
 ---
 
 <!-- Property syntax.

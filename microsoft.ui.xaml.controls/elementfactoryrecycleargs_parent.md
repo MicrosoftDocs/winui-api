@@ -1,6 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.ElementFactoryRecycleArgs.Parent
 -api-type: winrt property
+ms.custom: RS5
 ---
 
 <!-- Property syntax.

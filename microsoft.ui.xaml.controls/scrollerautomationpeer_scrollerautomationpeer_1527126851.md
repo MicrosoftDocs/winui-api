@@ -1,6 +1,7 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.ScrollerAutomationPeer.#ctor(Microsoft.UI.Xaml.Controls.Scroller)
 -api-type: winrt method
+ms.custom: RS5
 ---
 
 <!-- Method syntax.

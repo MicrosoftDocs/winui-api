@@ -1,7 +1,7 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.NavigationView.ContentOverlay
 -api-type: winrt property
-
+ms.custom: RS5
 ---
 <!-- Property syntax.
 public UIElement ContentOverlay { get;  set; }

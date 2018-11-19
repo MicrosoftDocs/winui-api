@@ -1,6 +1,7 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Controls.ElementAnimationCompleted
 -api-type: winrt delegate
+ms.custom: RS5
 ---
 
 <!-- Delegate syntax.

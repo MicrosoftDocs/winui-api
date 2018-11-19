@@ -1,7 +1,7 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Core.Direct.XamlDirect.GetDefault
 -api-type: winrt method
-
+ms.custom: RS5
 ---
 <!-- Method syntax.
 public IXamlDirect XamlDirect.GetDefault()

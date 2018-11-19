@@ -1,7 +1,7 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Media.AcrylicBackgroundSource
 -api-type: winrt enum
-
+ms.custom: RS5
 ---
 <!-- Enumeration syntax.
 public enum AcrylicBackgroundSource : int 
