@@ -12,6 +12,8 @@ public interface IAnimatedVisual : IClosable
 
 ## -description
 
+ An animated visual that can be played by the [AnimatedVisualPlayer](animatedvisualplayer.md).
+
 ## -remarks
 
 ## -see-also

@@ -12,7 +12,11 @@ public DependencyProperty DiagnosticsProperty { get; }
 
 ## -description
 
+Identifies the [Diagnostics](animatedvisualplayer_diagnostics.md) dependency property.
+
 ## -property-value
+
+The identifier for the [Diagnostics](animatedvisualplayer_diagnostics.md) dependency property.
 
 ## -remarks
 

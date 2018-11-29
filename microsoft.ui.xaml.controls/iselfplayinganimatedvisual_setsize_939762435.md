@@ -12,8 +12,13 @@ public void ISelfPlayingAnimatedVisual.SetSize(Size size)
 
 ## -description
 
+Sets the rendering size of the animated visual. The animated visual is responsible for re-rendering itself to this size.
+
 ## -parameters
+
 ### -param size
+
+The rendering size of the animated visual.
 
 ## -remarks
 

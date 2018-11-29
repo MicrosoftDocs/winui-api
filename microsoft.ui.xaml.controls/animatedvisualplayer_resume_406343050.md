@@ -12,6 +12,8 @@ public void AnimatedVisualPlayer.Resume()
 
 ## -description
 
+Resumes the currently paused animated visual, or does nothing if there is no animated visual loaded or the animated visual is not paused.
+
 ## -remarks
 
 ## -see-also

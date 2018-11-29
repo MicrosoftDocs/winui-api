@@ -12,7 +12,11 @@ public IAnimatedVisualSource Source { get;  set; }
 
 ## -description
 
+Gets or sets the provider of the animated visual for the player.
+
 ## -property-value
+
+The provider of the animated visual for the player.
 
 ## -remarks
 

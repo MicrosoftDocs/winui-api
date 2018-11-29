@@ -12,7 +12,11 @@ public DependencyProperty DurationProperty { get; }
 
 ## -description
 
+Identifies the [Duration](animatedvisualplayer_duration.md) dependency property.
+
 ## -property-value
+
+The identifier for the [Duration](animatedvisualplayer_duration.md) dependency property.
 
 ## -remarks
 

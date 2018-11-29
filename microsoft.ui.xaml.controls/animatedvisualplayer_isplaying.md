@@ -12,7 +12,11 @@ public bool IsPlaying { get; }
 
 ## -description
 
+Gets a value that indicates whether an animated visual is loaded and a play is underway.
+
 ## -property-value
+
+**true** if an animated visual is loaded and a play is underway; otherwise, **false**.
 
 ## -remarks
 

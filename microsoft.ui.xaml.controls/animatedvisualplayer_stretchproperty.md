@@ -12,7 +12,11 @@ public DependencyProperty StretchProperty { get; }
 
 ## -description
 
+Identifies the [Stretch](animatedvisualplayer_stretch.md) dependency property.
+
 ## -property-value
+
+The identifier for the [Stretch](animatedvisualplayer_stretch.md) dependency property.
 
 ## -remarks
 

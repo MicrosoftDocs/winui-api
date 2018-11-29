@@ -12,7 +12,11 @@ public Visual RootVisual { get; }
 
 ## -description
 
+Gets the root [Visual](/uwp/api/windows.ui.composition.visual) of the animated visual.
+
 ## -property-value
+
+The root [Visual](/uwp/api/windows.ui.composition.visual) of the animated visual.
 
 ## -remarks
 

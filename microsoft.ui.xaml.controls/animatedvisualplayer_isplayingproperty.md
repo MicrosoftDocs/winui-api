@@ -12,7 +12,11 @@ public DependencyProperty IsPlayingProperty { get; }
 
 ## -description
 
+Identifies the [IsPlaying](animatedvisualplayer_isplaying.md) dependency property.
+
 ## -property-value
+
+The identifier for the [IsPlaying](animatedvisualplayer_isplaying.md) dependency property.
 
 ## -remarks
 

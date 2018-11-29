@@ -12,6 +12,8 @@ public interface IDynamicAnimatedVisualSource : IAnimatedVisualSource
 
 ## -description
 
+When implemented by an [IAnimatedVisualSource](ianimatedvisualsource.md), indicates to the player that the current animated visual should be discarded.
+
 ## -remarks
 
 ## -see-also

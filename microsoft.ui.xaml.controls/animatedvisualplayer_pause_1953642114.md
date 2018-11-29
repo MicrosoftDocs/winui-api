@@ -12,6 +12,8 @@ public void AnimatedVisualPlayer.Pause()
 
 ## -description
 
+Pauses the currently playing animated visual, or does nothing if no play is underway.
+
 ## -remarks
 
 ## -see-also

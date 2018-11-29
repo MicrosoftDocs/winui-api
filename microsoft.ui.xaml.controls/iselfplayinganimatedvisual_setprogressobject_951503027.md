@@ -12,8 +12,13 @@ public void ISelfPlayingAnimatedVisual.SetProgressObject(CompositionPropertySet 
 
 ## -description
 
+Sets the progress object for the animated visual. The animated visual is responsible for updating the "Progress" property on this object to match the current progress of the animated visual.
+
 ## -parameters
+
 ### -param compositionPropertySet
+
+The progress object for the animated visual.
 
 ## -remarks
 

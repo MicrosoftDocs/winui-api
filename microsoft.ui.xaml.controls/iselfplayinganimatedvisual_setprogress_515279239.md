@@ -12,10 +12,17 @@ public void ISelfPlayingAnimatedVisual.SetProgress(Double progress)
 
 ## -description
 
+Moves the progress of the animated visual to the given value, or does nothing if no animated visual is loaded.
+
 ## -parameters
+
 ### -param progress
 
+A value from 0 to 1 that represents the progress of the animated visual.
+
 ## -remarks
+
+If the animated visual was playing it will behave as if [Stop](iselfplayinganimatedvisual_stop_1201535524.md) was called first.
 
 ## -see-also
 

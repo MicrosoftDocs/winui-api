@@ -12,7 +12,11 @@ public DependencyProperty AutoPlayProperty { get; }
 
 ## -description
 
+Identifies the [AutoPlay](animatedvisualplayer_autoplay.md) dependency property.
+
 ## -property-value
+
+The identifier for the [AutoPlay](animatedvisualplayer_autoplay.md) dependency property.
 
 ## -remarks
 

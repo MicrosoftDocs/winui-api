@@ -12,6 +12,8 @@ public void ISelfPlayingAnimatedVisual.Pause()
 
 ## -description
 
+Pauses the animated visual, or does nothing if no play is underway.
+
 ## -remarks
 
 ## -see-also

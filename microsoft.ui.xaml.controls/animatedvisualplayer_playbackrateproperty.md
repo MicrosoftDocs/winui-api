@@ -12,7 +12,11 @@ public DependencyProperty PlaybackRateProperty { get; }
 
 ## -description
 
+Identifies the [PlaybackRate](animatedvisualplayer_playbackrate.md) dependency property.
+
 ## -property-value
+
+The identifier for the [PlaybackRate](animatedvisualplayer_playbackrate.md) dependency property.
 
 ## -remarks
 

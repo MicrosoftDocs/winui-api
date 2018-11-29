@@ -12,7 +12,11 @@ public bool IsAnimatedVisualLoaded { get; }
 
 ## -description
 
+Gets a value that indicates whether an animated visual is loaded.
+
 ## -property-value
+
+**true** if an animated visual is loaded; otherwise, **false**.
 
 ## -remarks
 

@@ -12,6 +12,8 @@ public class AnimatedVisualPlayer : FrameworkElement, FrameworkElement
 
 ## -description
 
+Represents an element that displays and controls an animated visual.
+
 ## -remarks
 
 ## -see-also

@@ -12,8 +12,13 @@ public void ISelfPlayingAnimatedVisual.SetPlaybackRate(Double playbackRate)
 
 ## -description
 
+Sets the playback rate of the animated visual.
+
 ## -parameters
+
 ### -param playbackRate
+
+The playback rate of the animated visual.
 
 ## -remarks
 

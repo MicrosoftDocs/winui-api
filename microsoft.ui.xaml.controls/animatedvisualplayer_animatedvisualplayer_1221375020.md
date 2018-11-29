@@ -12,6 +12,8 @@ public AnimatedVisualPlayer.AnimatedVisualPlayer()
 
 ## -description
 
+Initializes a new instance of the [AnimatedVisualPlayer](animatedvisualplayer.md) class.
+
 ## -remarks
 
 ## -see-also

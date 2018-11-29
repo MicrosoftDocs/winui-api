@@ -12,7 +12,11 @@ public Stretch Stretch { get;  set; }
 
 ## -description
 
+Gets or sets a value that describes how an animated visual should be stretched to fill the destination rectangle.
+
 ## -property-value
+
+A value that describes how an animated visual should be stretched to fill the destination rectangle. The default is [Uniform](/uwp/api/windows.ui.xaml.media.stretch).
 
 ## -remarks
 

@@ -12,6 +12,8 @@ public interface ISelfPlayingAnimatedVisual : IAnimatedVisual, IClosable
 
 ## -description
 
+An [IAnimatedVisual](ianimatedvisual.md) that is responsible for playing itself, rather than being animated by a composition animation.
+
 ## -remarks
 
 ## -see-also

@@ -12,7 +12,11 @@ public TimeSpan Duration { get; }
 
 ## -description
 
+Gets the duration of the the currently loaded animated visual, or **TimeSpan.Zero** if no animated visual is loaded.
+
 ## -property-value
+
+The duration of the the currently loaded animated visual, or **TimeSpan.Zero** if no animated visual is loaded.
 
 ## -remarks
 

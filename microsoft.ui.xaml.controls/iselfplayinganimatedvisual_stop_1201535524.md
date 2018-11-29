@@ -12,6 +12,8 @@ public void ISelfPlayingAnimatedVisual.Stop()
 
 ## -description
 
+Stops the current play, or does nothing if no play is underway.
+
 ## -remarks
 
 ## -see-also

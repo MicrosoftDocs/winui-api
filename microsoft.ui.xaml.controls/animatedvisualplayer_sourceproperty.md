@@ -12,7 +12,11 @@ public DependencyProperty SourceProperty { get; }
 
 ## -description
 
+Identifies the [Source](animatedvisualplayer_source.md) dependency property.
+
 ## -property-value
+
+The identifier for the [Source](animatedvisualplayer_source.md) dependency property.
 
 ## -remarks
 

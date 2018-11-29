@@ -12,7 +12,11 @@ public DependencyProperty IsAnimatedVisualLoadedProperty { get; }
 
 ## -description
 
+Identifies the [IsAnimatedVisualLoaded](animatedvisualplayer_isanimatedvisualloaded.md) dependency property.
+
 ## -property-value
+
+The identifier for the [IsAnimatedVisualLoaded](animatedvisualplayer_isanimatedvisualloaded.md) dependency property.
 
 ## -remarks
 

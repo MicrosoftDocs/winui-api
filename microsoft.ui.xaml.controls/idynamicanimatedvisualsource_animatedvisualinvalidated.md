@@ -12,6 +12,8 @@ abstract public event TypedEventHandler AnimatedVisualInvalidated<IDynamicAnimat
 
 ## -description
 
+Occurs when the animated visual previously provided by the [IDynamicAnimatedVisualSource](idynamicanimatedvisualsource.md) should be discarded.
+
 ## -remarks
 
 ## -see-also

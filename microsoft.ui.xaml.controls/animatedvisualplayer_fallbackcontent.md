@@ -12,9 +12,15 @@ public DataTemplate FallbackContent { get;  set; }
 
 ## -description
 
+Gets or sets content to display if an animated visual fails to load.
+
 ## -property-value
 
+Content to display if an animated visual fails to load.
+
 ## -remarks
+
+The content remains visible until an animated visual is successfully loaded.
 
 ## -see-also
 

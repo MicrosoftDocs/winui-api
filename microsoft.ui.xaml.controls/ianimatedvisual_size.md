@@ -12,7 +12,11 @@ public Vector2 Size { get; }
 
 ## -description
 
+Gets the size of the animated visual.
+
 ## -property-value
+
+The size of the animated visual.
 
 ## -remarks
 

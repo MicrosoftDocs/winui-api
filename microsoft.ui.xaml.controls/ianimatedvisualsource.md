@@ -12,6 +12,8 @@ public interface IAnimatedVisualSource
 
 ## -description
 
+Provides animated visuals for the [AnimatedVisualPlayer](animatedvisualplayer.md) to play.
+
 ## -remarks
 
 ## -see-also

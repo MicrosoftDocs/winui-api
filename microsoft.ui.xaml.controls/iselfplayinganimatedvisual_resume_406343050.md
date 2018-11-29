@@ -12,6 +12,8 @@ public void ISelfPlayingAnimatedVisual.Resume()
 
 ## -description
 
+Resumes the paused animated visual, or does nothing if the animated visual is not paused.
+
 ## -remarks
 
 ## -see-also

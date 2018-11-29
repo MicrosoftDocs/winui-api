@@ -12,7 +12,11 @@ public DependencyProperty FallbackContentProperty { get; }
 
 ## -description
 
+Identifies the [FallbackContent](animatedvisualplayer_fallbackcontent.md) dependency property.
+
 ## -property-value
+
+The identifier for the [FallbackContent](animatedvisualplayer_fallbackcontent.md) dependency property.
 
 ## -remarks
 

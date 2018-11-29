@@ -12,7 +12,11 @@ public TimeSpan Duration { get; }
 
 ## -description
 
+Gets the duration of the animated visual.
+
 ## -property-value
+
+The size of the animated visual.
 
 ## -remarks
 
