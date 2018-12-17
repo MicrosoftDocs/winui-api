@@ -12,7 +12,11 @@ public DependencyProperty HorizontalScrollControllerProperty { get; }
 
 ## -description
 
+Identifies the [HorizontalScrollController](scrollerview_horizontalscrollcontroller.md) dependency property.
+
 ## -property-value
+
+The identifier for the [HorizontalScrollController](scrollerview_horizontalscrollcontroller.md) dependency property.
 
 ## -remarks
 

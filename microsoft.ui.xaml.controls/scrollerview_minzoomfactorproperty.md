@@ -12,7 +12,11 @@ public DependencyProperty MinZoomFactorProperty { get; }
 
 ## -description
 
+Identifies the [MinZoomFactor](scrollerview_minzoomfactor.md) dependency property.
+
 ## -property-value
+
+The identifier for the [MinZoomFactor](scrollerview_minzoomfactor.md) dependency property.
 
 ## -remarks
 

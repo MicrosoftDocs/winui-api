@@ -12,6 +12,8 @@ public FlowLayout.FlowLayout()
 
 ## -description
 
+Initializes a new instance of the [FlowLayout](flowlayout.md) class.
+
 ## -remarks
 
 ## -see-also

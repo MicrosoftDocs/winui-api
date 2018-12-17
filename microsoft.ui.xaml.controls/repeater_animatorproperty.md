@@ -12,7 +12,11 @@ public DependencyProperty AnimatorProperty { get; }
 
 ## -description
 
+Identifies the [Animator](repeater_animator.md) dependency property.
+
 ## -property-value
+
+The identifier for the [Animator](repeater_animator.md) dependency property.
 
 ## -remarks
 

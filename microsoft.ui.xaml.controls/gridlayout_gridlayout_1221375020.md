@@ -12,6 +12,8 @@ public GridLayout.GridLayout()
 
 ## -description
 
+Initializes a new instance of the [GridLayout](gridlayout.md) class.
+
 ## -remarks
 
 ## -see-also

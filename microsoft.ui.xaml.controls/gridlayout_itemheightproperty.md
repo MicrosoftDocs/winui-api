@@ -12,7 +12,11 @@ public DependencyProperty ItemHeightProperty { get; }
 
 ## -description
 
+Identifies the [ItemHeight](gridlayout_itemheight.md) dependency property.
+
 ## -property-value
+
+The identifier for the [ItemHeight](gridlayout_itemheight.md) dependency property.
 
 ## -remarks
 

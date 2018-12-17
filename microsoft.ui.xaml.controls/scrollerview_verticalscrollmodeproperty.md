@@ -12,7 +12,11 @@ public DependencyProperty VerticalScrollModeProperty { get; }
 
 ## -description
 
+Identifies the [VerticalScrollMode](scrollerview_verticalscrollmode.md) dependency property.
+
 ## -property-value
+
+The identifier for the [VerticalScrollMode](scrollerview_verticalscrollmode.md) dependency property.
 
 ## -remarks
 

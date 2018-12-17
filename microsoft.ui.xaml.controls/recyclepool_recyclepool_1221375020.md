@@ -12,6 +12,8 @@ public RecyclePool.RecyclePool()
 
 ## -description
 
+Initializes a new instance of the [RecyclePool](recyclepool.md) class.
+
 ## -remarks
 
 ## -see-also

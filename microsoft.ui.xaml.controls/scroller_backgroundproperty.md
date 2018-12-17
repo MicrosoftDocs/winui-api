@@ -12,7 +12,11 @@ public DependencyProperty BackgroundProperty { get; }
 
 ## -description
 
+Identifies the [Background](scroller_background.md) dependency property.
+
 ## -property-value
+
+The identifier for the [Background](scroller_background.md) dependency property.
 
 ## -remarks
 

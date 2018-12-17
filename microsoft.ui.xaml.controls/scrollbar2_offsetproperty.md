@@ -12,7 +12,11 @@ public DependencyProperty OffsetProperty { get; }
 
 ## -description
 
+Identifies the [Offset](scrollbar2_offset.md) dependency property.
+
 ## -property-value
+
+The identifier for the [Offset](scrollbar2_offset.md) dependency property.
 
 ## -remarks
 

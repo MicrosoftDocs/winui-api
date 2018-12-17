@@ -12,6 +12,8 @@ public Repeater.Repeater()
 
 ## -description
 
+Initializes a new instance of the [Repeater](repeater.md) class.
+
 ## -remarks
 
 ## -see-also

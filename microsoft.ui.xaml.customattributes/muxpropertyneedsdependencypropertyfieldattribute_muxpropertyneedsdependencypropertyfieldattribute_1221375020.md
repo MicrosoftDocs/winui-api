@@ -12,6 +12,8 @@ public MUXPropertyNeedsDependencyPropertyFieldAttribute.MUXPropertyNeedsDependen
 
 ## -description
 
+Initializes a new instance of the [MUXPropertyNeedsDependencyPropertyFieldAttribute](muxpropertyneedsdependencypropertyfieldattribute.md) class.
+
 ## -remarks
 
 ## -see-also

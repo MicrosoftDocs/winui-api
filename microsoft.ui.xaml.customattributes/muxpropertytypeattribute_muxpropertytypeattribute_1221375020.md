@@ -12,6 +12,8 @@ public MUXPropertyTypeAttribute.MUXPropertyTypeAttribute()
 
 ## -description
 
+Initializes a new instance of the [MUXPropertyTypeAttribute](muxpropertytypeattribute.md) class.
+
 ## -remarks
 
 ## -see-also

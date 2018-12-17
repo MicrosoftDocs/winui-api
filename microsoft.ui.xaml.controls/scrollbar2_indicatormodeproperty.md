@@ -12,7 +12,11 @@ public DependencyProperty IndicatorModeProperty { get; }
 
 ## -description
 
+Identifies the [IndicatorMode](scrollbar2_indicatormode.md) dependency property.
+
 ## -property-value
+
+The identifier for the [IndicatorMode](scrollbar2_indicatormode.md) dependency property.
 
 ## -remarks
 

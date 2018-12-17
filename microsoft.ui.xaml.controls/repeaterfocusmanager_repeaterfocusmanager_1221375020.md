@@ -12,6 +12,8 @@ public RepeaterFocusManager.RepeaterFocusManager()
 
 ## -description
 
+Initializes a new instance of the [RepeaterFocusManager](repeaterfocusmanager.md) class.
+
 ## -remarks
 
 ## -see-also

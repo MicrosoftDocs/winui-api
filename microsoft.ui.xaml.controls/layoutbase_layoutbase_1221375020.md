@@ -12,6 +12,8 @@ public LayoutBase.LayoutBase()
 
 ## -description
 
+Initializes a new instance of the [LayoutBase](layoutbase.md) class.
+
 ## -remarks
 
 ## -see-also

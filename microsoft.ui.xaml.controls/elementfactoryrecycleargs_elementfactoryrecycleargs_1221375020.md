@@ -12,6 +12,8 @@ public ElementFactoryRecycleArgs.ElementFactoryRecycleArgs()
 
 ## -description
 
+Initializes a new instance of the [ElementFactoryRecycleArgs](elementfactoryrecycleargs.md) class.
+
 ## -remarks
 
 ## -see-also

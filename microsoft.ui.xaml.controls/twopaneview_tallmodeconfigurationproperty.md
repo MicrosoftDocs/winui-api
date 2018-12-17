@@ -12,7 +12,11 @@ public DependencyProperty TallModeConfigurationProperty { get; }
 
 ## -description
 
+Identifies the [TallModeConfiguration](twopaneview_tallmodeconfiguration.md) dependency property.
+
 ## -property-value
+
+The identifier for the [TallModeConfiguration](twopaneview_tallmodeconfiguration.md) dependency property.
 
 ## -remarks
 

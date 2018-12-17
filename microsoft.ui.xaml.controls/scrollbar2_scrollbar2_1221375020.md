@@ -12,6 +12,8 @@ public ScrollBar2.ScrollBar2()
 
 ## -description
 
+Initializes a new instance of the [ScrollBar2](scrollbar2.md) class.
+
 ## -remarks
 
 ## -see-also

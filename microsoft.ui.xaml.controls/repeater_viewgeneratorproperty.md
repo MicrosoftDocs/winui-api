@@ -12,7 +12,11 @@ public DependencyProperty ViewGeneratorProperty { get; }
 
 ## -description
 
+Identifies the [ViewGenerator](repeater_viewgenerator.md) dependency property.
+
 ## -property-value
+
+The identifier for the [ViewGenerator](repeater_viewgenerator.md) dependency property.
 
 ## -remarks
 

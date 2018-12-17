@@ -12,6 +12,8 @@ public MUXHasCustomActivationFactoryAttribute.MUXHasCustomActivationFactoryAttri
 
 ## -description
 
+Initializes a new instance of the [MUXHasCustomActivationFactoryAttribute](muxhascustomactivationfactoryattribute.md) class.
+
 ## -remarks
 
 ## -see-also

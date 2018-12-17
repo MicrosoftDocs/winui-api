@@ -12,7 +12,11 @@ public DependencyProperty ContentProperty { get; }
 
 ## -description
 
+Identifies the [Content](scrollerview_content.md) dependency property.
+
 ## -property-value
+
+The identifier for the [Content](scrollerview_content.md) dependency property.
 
 ## -remarks
 

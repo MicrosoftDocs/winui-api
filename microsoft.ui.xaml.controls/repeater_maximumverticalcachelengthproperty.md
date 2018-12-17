@@ -12,7 +12,11 @@ public DependencyProperty MaximumVerticalCacheLengthProperty { get; }
 
 ## -description
 
+Identifies the [MaximumVerticalCacheLength](repeater_maximumverticalcachelength.md) dependency property.
+
 ## -property-value
+
+The identifier for the [MaximumVerticalCacheLength](repeater_maximumverticalcachelength.md) dependency property.
 
 ## -remarks
 

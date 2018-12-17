@@ -12,6 +12,8 @@ public StackLayoutState.StackLayoutState()
 
 ## -description
 
+Initializes a new instance of the [StackLayoutState](stacklayoutstate.md) class.
+
 ## -remarks
 
 ## -see-also

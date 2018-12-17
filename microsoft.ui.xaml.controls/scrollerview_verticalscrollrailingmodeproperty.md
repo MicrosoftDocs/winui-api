@@ -12,7 +12,11 @@ public DependencyProperty VerticalScrollRailingModeProperty { get; }
 
 ## -description
 
+Identifies the [VerticalScrollRailingMode](scrollerview_verticalscrollrailingmode.md) dependency property.
+
 ## -property-value
+
+The identifier for the [VerticalScrollRailingMode](scrollerview_verticalscrollrailingmode.md) dependency property.
 
 ## -remarks
 

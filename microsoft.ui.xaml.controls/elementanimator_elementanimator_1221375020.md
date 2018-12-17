@@ -12,6 +12,8 @@ public ElementAnimator.ElementAnimator()
 
 ## -description
 
+Initializes a new instance of the [ElementAnimator](elementanimator.md) class.
+
 ## -remarks
 
 ## -see-also

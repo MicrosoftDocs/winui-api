@@ -12,7 +12,11 @@ public DependencyProperty IsAnchoredAtVerticalExtentProperty { get; }
 
 ## -description
 
+Identifies the [IsAnchoredAtVerticalExtent](scrollerview_isanchoredatverticalextent.md) dependency property.
+
 ## -property-value
+
+The identifier for the [IsAnchoredAtVerticalExtent](scrollerview_isanchoredatverticalextent.md) dependency property.
 
 ## -remarks
 

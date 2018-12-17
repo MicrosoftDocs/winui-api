@@ -12,7 +12,11 @@ public DependencyProperty IsChildAvailableWidthConstrainedProperty { get; }
 
 ## -description
 
+Identifies the [IsChildAvailableWidthConstrained](scrollerview_ischildavailablewidthconstrained.md) dependency property.
+
 ## -property-value
+
+The identifier for the [IsChildAvailableWidthConstrained](scrollerview_ischildavailablewidthconstrained.md) dependency property.
 
 ## -remarks
 

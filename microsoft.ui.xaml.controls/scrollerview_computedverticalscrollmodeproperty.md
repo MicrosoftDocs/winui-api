@@ -12,7 +12,11 @@ public DependencyProperty ComputedVerticalScrollModeProperty { get; }
 
 ## -description
 
+Identifies the [ComputedVerticalScrollMode](scrollerview_computedverticalscrollmode.md) dependency property.
+
 ## -property-value
+
+The identifier for the [ComputedVerticalScrollMode](scrollerview_computedverticalscrollmode.md) dependency property.
 
 ## -remarks
 

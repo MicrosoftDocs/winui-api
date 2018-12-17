@@ -12,7 +12,11 @@ public DependencyProperty LineSpacingProperty { get; }
 
 ## -description
 
+Identifies the [LineSpacing](flowlayout_linespacing.md) dependency property.
+
 ## -property-value
+
+The identifier for the [LineSpacing](flowlayout_linespacing.md) dependency property.
 
 ## -remarks
 

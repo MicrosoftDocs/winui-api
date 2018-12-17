@@ -12,7 +12,11 @@ public DependencyProperty ItemsSourceProperty { get; }
 
 ## -description
 
+Identifies the [ItemsSource](repeater_itemssource.md) dependency property.
+
 ## -property-value
+
+The identifier for the [ItemsSource](repeater_itemssource.md) dependency property.
 
 ## -remarks
 

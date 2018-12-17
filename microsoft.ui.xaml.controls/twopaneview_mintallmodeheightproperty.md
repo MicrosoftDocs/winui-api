@@ -12,7 +12,11 @@ public DependencyProperty MinTallModeHeightProperty { get; }
 
 ## -description
 
+Identifies the [MinTallModeHeight](twopaneview_mintallmodeheight.md) dependency property.
+
 ## -property-value
+
+The identifier for the [MinTallModeHeight](twopaneview_mintallmodeheight.md) dependency property.
 
 ## -remarks
 

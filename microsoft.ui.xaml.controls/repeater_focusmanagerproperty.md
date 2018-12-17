@@ -12,7 +12,11 @@ public DependencyProperty FocusManagerProperty { get; }
 
 ## -description
 
+Identifies the [FocusManager](repeater_focusmanager.md) dependency property.
+
 ## -property-value
+
+The identifier for the [FocusManager](repeater_focusmanager.md) dependency property.
 
 ## -remarks
 

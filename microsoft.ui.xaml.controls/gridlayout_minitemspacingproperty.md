@@ -12,7 +12,11 @@ public DependencyProperty MinItemSpacingProperty { get; }
 
 ## -description
 
+Identifies the [MinItemSpacing](gridlayout_minitemspacing.md) dependency property.
+
 ## -property-value
+
+The identifier for the [MinItemSpacing](gridlayout_minitemspacing.md) dependency property.
 
 ## -remarks
 

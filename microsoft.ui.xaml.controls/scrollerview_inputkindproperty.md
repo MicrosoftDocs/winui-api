@@ -12,7 +12,11 @@ public DependencyProperty InputKindProperty { get; }
 
 ## -description
 
+Identifies the [InputKind](scrollerview_inputkind.md) dependency property.
+
 ## -property-value
+
+The identifier for the [InputKind](scrollerview_inputkind.md) dependency property.
 
 ## -remarks
 

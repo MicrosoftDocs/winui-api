@@ -12,7 +12,11 @@ public DependencyProperty ZoomModeProperty { get; }
 
 ## -description
 
+Identifies the [ZoomMode](scrollerview_zoommode.md) dependency property.
+
 ## -property-value
+
+The identifier for the [ZoomMode](scrollerview_zoommode.md) dependency property.
 
 ## -remarks
 

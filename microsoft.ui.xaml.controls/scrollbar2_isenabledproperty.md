@@ -12,7 +12,11 @@ public DependencyProperty IsEnabledProperty { get; }
 
 ## -description
 
+Identifies the [IsEnabled](scrollbar2_isenabled.md) dependency property.
+
 ## -property-value
+
+The identifier for the [IsEnabled](scrollbar2_isenabled.md) dependency property.
 
 ## -remarks
 

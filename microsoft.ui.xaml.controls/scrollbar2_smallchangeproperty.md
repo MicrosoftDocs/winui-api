@@ -12,7 +12,11 @@ public DependencyProperty SmallChangeProperty { get; }
 
 ## -description
 
+Identifies the [SmallChange](scrollbar2_smallchange.md) dependency property.
+
 ## -property-value
+
+The identifier for the [SmallChange](scrollbar2_smallchange.md) dependency property.
 
 ## -remarks
 

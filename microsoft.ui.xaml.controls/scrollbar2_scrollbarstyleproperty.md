@@ -12,7 +12,11 @@ public DependencyProperty ScrollBarStyleProperty { get; }
 
 ## -description
 
+Identifies the [ScrollBarStyle](scrollbar2_scrollbarstyle.md) dependency property.
+
 ## -property-value
+
+The identifier for the [ScrollBarStyle](scrollbar2_scrollbarstyle.md) dependency property.
 
 ## -remarks
 

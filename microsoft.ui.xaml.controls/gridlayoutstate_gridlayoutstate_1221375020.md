@@ -12,6 +12,8 @@ public GridLayoutState.GridLayoutState()
 
 ## -description
 
+Initializes a new instance of the [GridLayoutState](gridlayoutstate.md) class.
+
 ## -remarks
 
 ## -see-also

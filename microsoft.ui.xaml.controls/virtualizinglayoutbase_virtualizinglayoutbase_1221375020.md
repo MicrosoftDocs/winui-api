@@ -12,6 +12,8 @@ public VirtualizingLayoutBase.VirtualizingLayoutBase()
 
 ## -description
 
+Initializes a new instance of the [VirtualizingLayoutBase](virtualizinglayoutbase.md) class.
+
 ## -remarks
 
 ## -see-also

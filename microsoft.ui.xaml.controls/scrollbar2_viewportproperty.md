@@ -12,7 +12,11 @@ public DependencyProperty ViewportProperty { get; }
 
 ## -description
 
+Identifies the [Viewport](scrollbar2_viewport.md) dependency property.
+
 ## -property-value
+
+The identifier for the [Viewport](scrollbar2_viewport.md) dependency property.
 
 ## -remarks
 

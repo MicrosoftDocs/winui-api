@@ -12,7 +12,11 @@ public DependencyProperty PaddingProperty { get; }
 
 ## -description
 
+Identifies the [Padding](layoutpanel_padding.md) dependency property.
+
 ## -property-value
+
+The identifier for the [Padding](layoutpanel_padding.md) dependency property.
 
 ## -remarks
 

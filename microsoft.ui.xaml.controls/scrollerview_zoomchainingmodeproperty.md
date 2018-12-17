@@ -12,7 +12,11 @@ public DependencyProperty ZoomChainingModeProperty { get; }
 
 ## -description
 
+Identifies the [ZoomChainingMode](scrollerview_zoomchainingmode.md) dependency property.
+
 ## -property-value
+
+The identifier for the [ZoomChainingMode](scrollerview_zoomchainingmode.md) dependency property.
 
 ## -remarks
 

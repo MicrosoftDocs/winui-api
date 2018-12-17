@@ -12,6 +12,8 @@ public DataSource.DataSource()
 
 ## -description
 
+Initializes a new instance of the [DataSource](datasource.md) class.
+
 ## -remarks
 
 ## -see-also

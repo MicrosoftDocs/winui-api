@@ -12,6 +12,8 @@ public XamlControlsResources.XamlControlsResources()
 
 ## -description
 
+Initializes a new instance of the [XamlControlsResources](xamlcontrolsresources.md) class.
+
 ## -remarks
 
 ## -see-also

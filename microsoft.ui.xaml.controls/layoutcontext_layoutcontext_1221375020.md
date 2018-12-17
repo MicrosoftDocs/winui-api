@@ -12,6 +12,8 @@ public LayoutContext.LayoutContext()
 
 ## -description
 
+Initializes a new instance of the [LayoutContext](layoutcontext.md) class.
+
 ## -remarks
 
 ## -see-also

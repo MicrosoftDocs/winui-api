@@ -12,7 +12,11 @@ public DependencyProperty LargeChangeProperty { get; }
 
 ## -description
 
+Identifies the [LargeChange](scrollbar2_largechange.md) dependency property.
+
 ## -property-value
+
+The identifier for the [LargeChange](scrollbar2_largechange.md) dependency property.
 
 ## -remarks
 

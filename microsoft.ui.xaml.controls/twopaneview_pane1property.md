@@ -12,7 +12,11 @@ public DependencyProperty Pane1Property { get; }
 
 ## -description
 
+Identifies the [Pane1](twopaneview_pane1.md) dependency property.
+
 ## -property-value
+
+The identifier for the [Pane1](twopaneview_pane1.md) dependency property.
 
 ## -remarks
 

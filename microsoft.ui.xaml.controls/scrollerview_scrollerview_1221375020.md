@@ -12,6 +12,8 @@ public ScrollerView.ScrollerView()
 
 ## -description
 
+Initializes a new instance of the [ScrollerView](scrollerview.md) class.
+
 ## -remarks
 
 ## -see-also

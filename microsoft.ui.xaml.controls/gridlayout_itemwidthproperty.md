@@ -12,7 +12,11 @@ public DependencyProperty ItemWidthProperty { get; }
 
 ## -description
 
+Identifies the [ItemWidth](gridlayout_itemwidth.md) dependency property.
+
 ## -property-value
+
+The identifier for the [ItemWidth](gridlayout_itemwidth.md) dependency property.
 
 ## -remarks
 

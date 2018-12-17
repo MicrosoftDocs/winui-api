@@ -12,7 +12,11 @@ public DependencyProperty VerticalScrollControllerProperty { get; }
 
 ## -description
 
+Identifies the [VerticalScrollController](scrollerview_verticalscrollcontroller.md) dependency property.
+
 ## -property-value
+
+The identifier for the [VerticalScrollController](scrollerview_verticalscrollcontroller.md) dependency property.
 
 ## -remarks
 

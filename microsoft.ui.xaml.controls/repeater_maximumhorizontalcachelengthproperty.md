@@ -12,7 +12,11 @@ public DependencyProperty MaximumHorizontalCacheLengthProperty { get; }
 
 ## -description
 
+Identifies the [MaximumHorizontalCacheLength](repeater_maximumhorizontalcachelength.md) dependency property.
+
 ## -property-value
+
+The identifier for the [MaximumHorizontalCacheLength](repeater_maximumhorizontalcachelength.md) dependency property.
 
 ## -remarks
 

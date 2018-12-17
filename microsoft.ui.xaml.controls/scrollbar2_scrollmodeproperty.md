@@ -12,7 +12,11 @@ public DependencyProperty ScrollModeProperty { get; }
 
 ## -description
 
+Identifies the [ScrollMode](scrollbar2_scrollmode.md) dependency property.
+
 ## -property-value
+
+The identifier for the [ScrollMode](scrollbar2_scrollmode.md) dependency property.
 
 ## -remarks
 

@@ -12,6 +12,8 @@ public RecyclingViewGenerator.RecyclingViewGenerator()
 
 ## -description
 
+Initializes a new instance of the [RecyclingViewGenerator](recyclingviewgenerator.md) class.
+
 ## -remarks
 
 ## -see-also

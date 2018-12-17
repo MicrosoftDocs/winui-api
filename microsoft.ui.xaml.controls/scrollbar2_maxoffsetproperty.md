@@ -12,7 +12,11 @@ public DependencyProperty MaxOffsetProperty { get; }
 
 ## -description
 
+Identifies the [MaxOffset](scrollbar2_maxoffset.md) dependency property.
+
 ## -property-value
+
+The identifier for the [MaxOffset](scrollbar2_maxoffset.md) dependency property.
 
 ## -remarks
 

@@ -12,6 +12,8 @@ public MUXContractPropertyAttribute.MUXContractPropertyAttribute()
 
 ## -description
 
+Initializes a new instance of the [MUXContractPropertyAttribute](muxcontractpropertyattribute.md) class.
+
 ## -remarks
 
 ## -see-also

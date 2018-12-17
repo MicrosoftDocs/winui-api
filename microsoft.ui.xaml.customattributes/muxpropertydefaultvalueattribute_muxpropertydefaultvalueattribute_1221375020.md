@@ -12,6 +12,8 @@ public MUXPropertyDefaultValueAttribute.MUXPropertyDefaultValueAttribute()
 
 ## -description
 
+Initializes a new instance of the [MUXPropertyDefaultValueAttribute](muxpropertydefaultvalueattribute.md) class.
+
 ## -remarks
 
 ## -see-also

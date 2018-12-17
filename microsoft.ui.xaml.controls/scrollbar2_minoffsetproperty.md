@@ -12,7 +12,11 @@ public DependencyProperty MinOffsetProperty { get; }
 
 ## -description
 
+Identifies the [MinOffset](scrollbar2_minoffset.md) dependency property.
+
 ## -property-value
+
+The identifier for the [MinOffset](scrollbar2_minoffset.md) dependency property.
 
 ## -remarks
 

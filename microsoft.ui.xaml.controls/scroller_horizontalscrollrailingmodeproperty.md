@@ -12,7 +12,11 @@ public DependencyProperty HorizontalScrollRailingModeProperty { get; }
 
 ## -description
 
+Identifies the [HorizontalScrollRailingMode](scroller_horizontalscrollrailingmode.md) dependency property.
+
 ## -property-value
+
+The identifier for the [HorizontalScrollRailingMode](scroller_horizontalscrollrailingmode.md) dependency property.
 
 ## -remarks
 

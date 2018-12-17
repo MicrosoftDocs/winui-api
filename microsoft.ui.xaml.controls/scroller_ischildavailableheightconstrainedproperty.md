@@ -12,7 +12,11 @@ public DependencyProperty IsChildAvailableHeightConstrainedProperty { get; }
 
 ## -description
 
+Identifies the [IsChildAvailableHeightConstrained](scroller_ischildavailableheightconstrained.md) dependency property.
+
 ## -property-value
+
+The identifier for the [IsChildAvailableHeightConstrained](scroller_ischildavailableheightconstrained.md) dependency property.
 
 ## -remarks
 

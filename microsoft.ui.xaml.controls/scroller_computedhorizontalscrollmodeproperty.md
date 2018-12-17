@@ -12,7 +12,11 @@ public DependencyProperty ComputedHorizontalScrollModeProperty { get; }
 
 ## -description
 
+Identifies the [ComputedHorizontalScrollMode](scroller_computedhorizontalscrollmode.md) dependency property.
+
 ## -property-value
+
+The identifier for the [ComputedHorizontalScrollMode](scroller_computedhorizontalscrollmode.md) dependency property.
 
 ## -remarks
 

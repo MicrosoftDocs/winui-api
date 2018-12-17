@@ -12,7 +12,11 @@ public DependencyProperty Pane2LengthProperty { get; }
 
 ## -description
 
+Identifies the [Pane2Length](twopaneview_pane2length.md) dependency property.
+
 ## -property-value
+
+The identifier for the [Pane2Length](twopaneview_pane2length.md) dependency property.
 
 ## -remarks
 

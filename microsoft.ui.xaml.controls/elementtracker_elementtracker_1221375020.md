@@ -12,6 +12,8 @@ public ElementTracker.ElementTracker()
 
 ## -description
 
+Initializes a new instance of the [ElementTracker](elementtracker.md) class.
+
 ## -remarks
 
 ## -see-also

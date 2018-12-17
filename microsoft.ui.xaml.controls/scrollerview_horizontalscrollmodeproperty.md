@@ -12,7 +12,11 @@ public DependencyProperty HorizontalScrollModeProperty { get; }
 
 ## -description
 
+Identifies the [HorizontalScrollMode](scrollerview_horizontalscrollmode.md) dependency property.
+
 ## -property-value
+
+The identifier for the [HorizontalScrollMode](scrollerview_horizontalscrollmode.md) dependency property.
 
 ## -remarks
 

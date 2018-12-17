@@ -12,6 +12,8 @@ public FlowLayoutState.FlowLayoutState()
 
 ## -description
 
+Initializes a new instance of the [FlowLayoutState](flowlayoutstate.md) class.
+
 ## -remarks
 
 ## -see-also

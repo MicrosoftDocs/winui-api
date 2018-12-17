@@ -12,7 +12,11 @@ public DependencyProperty ReuseKeyProperty { get; }
 
 ## -description
 
+Identifies the [ReuseKey](recyclepool_reusekey.md) dependency property.
+
 ## -property-value
+
+The identifier for the [ReuseKey](recyclepool_reusekey.md) dependency property.
 
 ## -remarks
 

@@ -12,6 +12,8 @@ public Scroller.Scroller()
 
 ## -description
 
+Initializes a new instance of the [Scroller](scroller.md) class.
+
 ## -remarks
 
 ## -see-also

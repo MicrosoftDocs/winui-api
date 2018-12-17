@@ -12,6 +12,8 @@ public SelectionModel.SelectionModel()
 
 ## -description
 
+Initializes a new instance of the [SelectionModel](selectionmodel.md) class.
+
 ## -remarks
 
 ## -see-also

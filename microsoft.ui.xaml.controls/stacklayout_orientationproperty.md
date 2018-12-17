@@ -12,7 +12,11 @@ public DependencyProperty OrientationProperty { get; }
 
 ## -description
 
+Identifies the [Orientation](stacklayout_orientation.md) dependency property.
+
 ## -property-value
+
+The identifier for the [Orientation](stacklayout_orientation.md) dependency property.
 
 ## -remarks
 

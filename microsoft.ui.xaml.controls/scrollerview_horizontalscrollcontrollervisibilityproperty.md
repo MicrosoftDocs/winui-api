@@ -12,7 +12,11 @@ public DependencyProperty HorizontalScrollControllerVisibilityProperty { get; }
 
 ## -description
 
+Identifies the [HorizontalScrollControllerVisibility](scrollerview_horizontalscrollcontrollervisibility.md) dependency property.
+
 ## -property-value
+
+The identifier for the [HorizontalScrollControllerVisibility](scrollerview_horizontalscrollcontrollervisibility.md) dependency property.
 
 ## -remarks
 

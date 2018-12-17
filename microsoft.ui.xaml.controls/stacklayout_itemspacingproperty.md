@@ -12,7 +12,11 @@ public DependencyProperty ItemSpacingProperty { get; }
 
 ## -description
 
+Identifies the [ItemSpacing](stacklayout_itemspacing.md) dependency property.
+
 ## -property-value
+
+The identifier for the [ItemSpacing](stacklayout_itemspacing.md) dependency property.
 
 ## -remarks
 

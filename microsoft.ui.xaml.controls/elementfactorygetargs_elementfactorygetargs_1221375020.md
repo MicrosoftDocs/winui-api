@@ -12,6 +12,8 @@ public ElementFactoryGetArgs.ElementFactoryGetArgs()
 
 ## -description
 
+Initializes a new instance of the [ElementFactoryGetArgs](elementfactorygetargs.md) class.
+
 ## -remarks
 
 ## -see-also

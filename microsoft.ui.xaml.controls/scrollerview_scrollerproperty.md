@@ -12,7 +12,11 @@ public DependencyProperty ScrollerProperty { get; }
 
 ## -description
 
+Identifies the [Scroller](scrollerview_scroller.md) dependency property.
+
 ## -property-value
+
+The identifier for the [Scroller](scrollerview_scroller.md) dependency property.
 
 ## -remarks
 

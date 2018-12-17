@@ -12,6 +12,8 @@ public LayoutPanel.LayoutPanel()
 
 ## -description
 
+Initializes a new instance of the [LayoutPanel](layoutpanel.md) class.
+
 ## -remarks
 
 ## -see-also

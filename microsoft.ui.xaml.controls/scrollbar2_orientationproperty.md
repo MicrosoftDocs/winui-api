@@ -12,7 +12,11 @@ public DependencyProperty OrientationProperty { get; }
 
 ## -description
 
+Identifies the [Orientation](scrollbar2_orientation.md) dependency property.
+
 ## -property-value
+
+The identifier for the [Orientation](scrollbar2_orientation.md) dependency property.
 
 ## -remarks
 

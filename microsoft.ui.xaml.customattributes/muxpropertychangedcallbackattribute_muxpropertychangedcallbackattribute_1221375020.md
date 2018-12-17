@@ -12,6 +12,8 @@ public MUXPropertyChangedCallbackAttribute.MUXPropertyChangedCallbackAttribute()
 
 ## -description
 
+Initializes a new instance of the [MUXPropertyChangedCallbackAttribute](muxpropertychangedcallbackattribute.md) class.
+
 ## -remarks
 
 ## -see-also

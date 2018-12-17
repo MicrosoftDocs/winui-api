@@ -12,7 +12,11 @@ public DependencyProperty PanePriorityProperty { get; }
 
 ## -description
 
+Identifies the [PanePriority](twopaneview_panepriority.md) dependency property.
+
 ## -property-value
+
+The identifier for the [PanePriority](twopaneview_panepriority.md) dependency property.
 
 ## -remarks
 

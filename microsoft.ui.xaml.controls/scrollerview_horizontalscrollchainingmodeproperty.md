@@ -12,7 +12,11 @@ public DependencyProperty HorizontalScrollChainingModeProperty { get; }
 
 ## -description
 
+Identifies the [HorizontalScrollChainingMode](scrollerview_horizontalscrollchainingmode.md) dependency property.
+
 ## -property-value
+
+The identifier for the [HorizontalScrollChainingMode](scrollerview_horizontalscrollchainingmode.md) dependency property.
 
 ## -remarks
 

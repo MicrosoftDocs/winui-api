@@ -12,7 +12,11 @@ public DependencyProperty ChildProperty { get; }
 
 ## -description
 
+Identifies the [Child](scroller_child.md) dependency property.
+
 ## -property-value
+
+The identifier for the [Child](scroller_child.md) dependency property.
 
 ## -remarks
 

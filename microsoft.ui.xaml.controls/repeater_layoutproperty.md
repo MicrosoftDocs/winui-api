@@ -12,7 +12,11 @@ public DependencyProperty LayoutProperty { get; }
 
 ## -description
 
+Identifies the [Layout](repeater_layout.md) dependency property.
+
 ## -property-value
+
+The identifier for the [Layout](repeater_layout.md) dependency property.
 
 ## -remarks
 

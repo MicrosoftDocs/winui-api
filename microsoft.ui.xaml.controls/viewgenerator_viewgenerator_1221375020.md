@@ -12,6 +12,8 @@ public ViewGenerator.ViewGenerator()
 
 ## -description
 
+Initializes a new instance of the [ViewGenerator](viewgenerator.md) class.
+
 ## -remarks
 
 ## -see-also

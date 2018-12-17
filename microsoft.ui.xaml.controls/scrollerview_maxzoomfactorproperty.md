@@ -12,7 +12,11 @@ public DependencyProperty MaxZoomFactorProperty { get; }
 
 ## -description
 
+Identifies the [MaxZoomFactor](scrollerview_maxzoomfactor.md) dependency property.
+
 ## -property-value
+
+The identifier for the [MaxZoomFactor](scrollerview_maxzoomfactor.md) dependency property.
 
 ## -remarks
 
