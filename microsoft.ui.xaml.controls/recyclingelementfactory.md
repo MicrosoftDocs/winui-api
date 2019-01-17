@@ -1,0 +1,13 @@
+---
+-api-id: T:Microsoft.UI.Xaml.Controls.RecyclingElementFactory
+-api-type: winrt class
+---
+
+## -description
+
+## -remarks
+
+## -see-also
+
+## -examples
+
