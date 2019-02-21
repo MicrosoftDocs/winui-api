@@ -5,6 +5,8 @@
 
 ## -description
 
+Initializes a new instance of the [NonVirtualizingLayout](nonvirtualizinglayout.md) class.
+
 ## -remarks
 
 ## -see-also

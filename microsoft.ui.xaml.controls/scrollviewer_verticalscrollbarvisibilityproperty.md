@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [VerticalScrollBarVisibility](scrollviewer_verticalscrollbarvisibility.md) dependency property.
+
 ## -property-value
+
+The identifier for the [VerticalScrollBarVisibility](scrollviewer_verticalscrollbarvisibility.md) dependency property.
 
 ## -remarks
 

@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [InputKind](scroller_inputkind.md) dependency property.
+
 ## -property-value
+
+The identifier for the [InputKind](scroller_inputkind.md) dependency property.
 
 ## -remarks
 

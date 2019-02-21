@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [ItemsStretch](uniformgridlayout_itemsstretch.md) dependency property.
+
 ## -property-value
+
+The identifier for the [ItemsStretch](uniformgridlayout_itemsstretch.md) dependency property.
 
 ## -remarks
 

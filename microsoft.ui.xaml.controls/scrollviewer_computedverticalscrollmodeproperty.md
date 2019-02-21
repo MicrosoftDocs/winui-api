@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [ComputedVerticalScrollMode](scrollviewer_computedverticalscrollmode.md) dependency property.
+
 ## -property-value
+
+The identifier for the [ComputedVerticalScrollMode](scrollviewer_computedverticalscrollmode.md) dependency property.
 
 ## -remarks
 

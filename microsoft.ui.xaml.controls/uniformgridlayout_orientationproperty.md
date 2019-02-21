@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [Orientation](uniformgridlayout_orientation.md) dependency property.
+
 ## -property-value
+
+The identifier for the [Orientation](uniformgridlayout_orientation.md) dependency property.
 
 ## -remarks
 

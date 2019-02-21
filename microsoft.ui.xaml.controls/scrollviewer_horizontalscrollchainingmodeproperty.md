@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [HorizontalScrollChainingMode](scrollviewer_horizontalscrollchainingmode.md) dependency property.
+
 ## -property-value
+
+The identifier for the [HorizontalScrollChainingMode](scrollviewer_horizontalscrollchainingmode.md) dependency property.
 
 ## -remarks
 

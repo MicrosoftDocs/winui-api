@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [IsAnchoredAtHorizontalExtent](scrollviewer_isanchoredathorizontalextent.md) dependency property.
+
 ## -property-value
+
+The identifier for the [IsAnchoredAtHorizontalExtent](scrollviewer_isanchoredathorizontalextent.md) dependency property.
 
 ## -remarks
 

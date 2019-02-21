@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [Layout](itemsrepeater_layout.md) dependency property.
+
 ## -property-value
+
+The identifier for the [Layout](itemsrepeater_layout.md) dependency property.
 
 ## -remarks
 

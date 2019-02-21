@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [TintLuminosityOpacity](acrylicbrush_tintluminosityopacity.md) dependency property.
+
 ## -property-value
+
+The identifier for the [TintLuminosityOpacity](acrylicbrush_tintluminosityopacity.md) dependency property.
 
 ## -remarks
 

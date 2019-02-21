@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [IsChecked](radiomenuflyoutitem_ischecked.md) dependency property.
+
 ## -property-value
+
+The identifier for the [IsChecked](radiomenuflyoutitem_ischecked.md) dependency property.
 
 ## -remarks
 

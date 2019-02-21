@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [VerticalAnchorRatio](scrollviewer_verticalanchorratio.md) dependency property.
+
 ## -property-value
+
+The identifier for the [VerticalAnchorRatio](scrollviewer_verticalanchorratio.md) dependency property.
 
 ## -remarks
 

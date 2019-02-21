@@ -5,6 +5,8 @@
 
 ## -description
 
+Initializes a new instance of the [RecyclingElementFactory](recyclingelementfactory.md) class.
+
 ## -remarks
 
 ## -see-also

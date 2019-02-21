@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [Content](scroller_content.md) dependency property.
+
 ## -property-value
+
+The identifier for the [Content](scroller_content.md) dependency property.
 
 ## -remarks
 

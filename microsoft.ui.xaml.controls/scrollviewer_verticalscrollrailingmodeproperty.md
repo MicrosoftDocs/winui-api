@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [VerticalScrollRailingMode](scrollviewer_verticalscrollrailingmode.md) dependency property.
+
 ## -property-value
+
+The identifier for the [VerticalScrollRailingMode](scrollviewer_verticalscrollrailingmode.md) dependency property.
 
 ## -remarks
 

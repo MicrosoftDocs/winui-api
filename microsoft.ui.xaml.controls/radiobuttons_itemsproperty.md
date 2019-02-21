@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [Items](radiobuttons_items.md) dependency property.
+
 ## -property-value
+
+The identifier for the [Items](radiobuttons_items.md) dependency property.
 
 ## -remarks
 

@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [Spacing](stacklayout_spacing.md) dependency property.
+
 ## -property-value
+
+The identifier for the [Spacing](stacklayout_spacing.md) dependency property.
 
 ## -remarks
 

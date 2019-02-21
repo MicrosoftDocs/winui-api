@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [HorizontalScrollRailingMode](scrollviewer_horizontalscrollrailingmode.md) dependency property.
+
 ## -property-value
+
+The identifier for the [HorizontalScrollRailingMode](scrollviewer_horizontalscrollrailingmode.md) dependency property.
 
 ## -remarks
 

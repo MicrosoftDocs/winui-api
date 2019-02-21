@@ -5,6 +5,8 @@
 
 ## -description
 
+Initializes a new instance of the [MUXPropertyValidationCallbackAttribute](muxpropertyvalidationcallbackattribute.md) class.
+
 ## -remarks
 
 ## -see-also

@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [SelectedItem](radiobuttons_selecteditem.md) dependency property.
+
 ## -property-value
+
+The identifier for the [SelectedItem](radiobuttons_selecteditem.md) dependency property.
 
 ## -remarks
 

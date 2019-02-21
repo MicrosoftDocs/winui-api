@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [MinZoomFactor](scroller_minzoomfactor.md) dependency property.
+
 ## -property-value
+
+The identifier for the [MinZoomFactor](scroller_minzoomfactor.md) dependency property.
 
 ## -remarks
 

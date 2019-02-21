@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [MinColumnSpacing](uniformgridlayout_mincolumnspacing.md) dependency property.
+
 ## -property-value
+
+The identifier for the [MinColumnSpacing](uniformgridlayout_mincolumnspacing.md) dependency property.
 
 ## -remarks
 

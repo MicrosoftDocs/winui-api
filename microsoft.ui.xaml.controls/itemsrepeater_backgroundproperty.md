@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [Background](itemsrepeater_background.md) dependency property.
+
 ## -property-value
+
+The identifier for the [Background](itemsrepeater_background.md) dependency property.
 
 ## -remarks
 

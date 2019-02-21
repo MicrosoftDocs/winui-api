@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [ItemsJustification](uniformgridlayout_itemsjustification.md) dependency property.
+
 ## -property-value
+
+The identifier for the [ItemsJustification](uniformgridlayout_itemsjustification.md) dependency property.
 
 ## -remarks
 

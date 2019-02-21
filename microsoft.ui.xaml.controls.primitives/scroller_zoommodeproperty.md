@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [ZoomMode](scroller_zoommode.md) dependency property.
+
 ## -property-value
+
+The identifier for the [ZoomMode](scroller_zoommode.md) dependency property.
 
 ## -remarks
 

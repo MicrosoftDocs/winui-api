@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [ZoomChainingMode](scrollviewer_zoomchainingmode.md) dependency property.
+
 ## -property-value
+
+The identifier for the [ZoomChainingMode](scrollviewer_zoomchainingmode.md) dependency property.
 
 ## -remarks
 

@@ -5,6 +5,8 @@
 
 ## -description
 
+Initializes a new instance of the [VirtualizingLayout](virtualizinglayout.md) class.
+
 ## -remarks
 
 ## -see-also

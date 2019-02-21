@@ -5,6 +5,8 @@
 
 ## -description
 
+Initializes a new instance of the [ItemsRepeater](itemsrepeater.md) class.
+
 ## -remarks
 
 ## -see-also

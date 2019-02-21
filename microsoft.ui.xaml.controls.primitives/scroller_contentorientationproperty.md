@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [ContentOrientation](scroller_contentorientation.md) dependency property.
+
 ## -property-value
+
+The identifier for the [ContentOrientation](scroller_contentorientation.md) dependency property.
 
 ## -remarks
 

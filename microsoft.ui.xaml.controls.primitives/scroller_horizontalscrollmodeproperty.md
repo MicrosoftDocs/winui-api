@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [HorizontalScrollMode](scroller_horizontalscrollmode.md) dependency property.
+
 ## -property-value
+
+The identifier for the [HorizontalScrollMode](scroller_horizontalscrollmode.md) dependency property.
 
 ## -remarks
 

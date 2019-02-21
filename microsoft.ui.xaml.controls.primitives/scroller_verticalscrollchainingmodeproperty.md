@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [VerticalScrollChainingMode](scroller_verticalscrollchainingmode.md) dependency property.
+
 ## -property-value
+
+The identifier for the [VerticalScrollChainingMode](scroller_verticalscrollchainingmode.md) dependency property.
 
 ## -remarks
 

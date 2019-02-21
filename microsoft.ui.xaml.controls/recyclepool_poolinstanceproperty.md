@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [PoolInstance](recyclepool_poolinstance.md) dependency property.
+
 ## -property-value
+
+The identifier for the [PoolInstance](recyclepool_poolinstance.md) dependency property.
 
 ## -remarks
 

@@ -5,6 +5,8 @@
 
 ## -description
 
+Initializes a new instance of the [UniformGridLayoutState](uniformgridlayoutstate.md) class.
+
 ## -remarks
 
 ## -see-also

@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [Animator](itemsrepeater_animator.md) dependency property.
+
 ## -property-value
+
+The identifier for the [Animator](itemsrepeater_animator.md) dependency property.
 
 ## -remarks
 

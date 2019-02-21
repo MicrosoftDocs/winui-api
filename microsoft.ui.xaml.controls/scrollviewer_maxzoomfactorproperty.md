@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [MaxZoomFactor](scrollviewer_maxzoomfactor.md) dependency property.
+
 ## -property-value
+
+The identifier for the [MaxZoomFactor](scrollviewer_maxzoomfactor.md) dependency property.
 
 ## -remarks
 

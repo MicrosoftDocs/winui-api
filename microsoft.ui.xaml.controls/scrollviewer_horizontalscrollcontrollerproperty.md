@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [HorizontalScrollController](scrollviewer_horizontalscrollcontroller.md) dependency property.
+
 ## -property-value
+
+The identifier for the [HorizontalScrollController](scrollviewer_horizontalscrollcontroller.md) dependency property.
 
 ## -remarks
 

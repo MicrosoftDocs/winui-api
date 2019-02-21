@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [Scroller](scrollviewer_scroller.md) dependency property.
+
 ## -property-value
+
+The identifier for the [Scroller](scrollviewer_scroller.md) dependency property.
 
 ## -remarks
 

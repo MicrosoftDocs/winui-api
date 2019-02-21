@@ -5,6 +5,8 @@
 
 ## -description
 
+Initializes a new instance of the [RadioButtons](radiobuttons.md) class.
+
 ## -remarks
 
 ## -see-also

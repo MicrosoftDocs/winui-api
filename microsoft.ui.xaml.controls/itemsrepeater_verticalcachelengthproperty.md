@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [VerticalCacheLength](itemsrepeater_verticalcachelength.md) dependency property.
+
 ## -property-value
+
+The identifier for the [VerticalCacheLength](itemsrepeater_verticalcachelength.md) dependency property.
 
 ## -remarks
 

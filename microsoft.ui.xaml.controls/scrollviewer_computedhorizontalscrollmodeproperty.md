@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [ComputedHorizontalScrollMode](scrollviewer_computedhorizontalscrollmode.md) dependency property.
+
 ## -property-value
+
+The identifier for the [ComputedHorizontalScrollMode](scrollviewer_computedhorizontalscrollmode.md) dependency property.
 
 ## -remarks
 

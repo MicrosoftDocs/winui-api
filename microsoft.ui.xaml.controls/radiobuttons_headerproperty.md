@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [Header](radiobuttons_header.md) dependency property.
+
 ## -property-value
+
+The identifier for the [Header](radiobuttons_header.md) dependency property.
 
 ## -remarks
 

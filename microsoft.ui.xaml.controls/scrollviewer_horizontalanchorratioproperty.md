@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [HorizontalAnchorRatio](scrollviewer_horizontalanchorratio.md) dependency property.
+
 ## -property-value
+
+The identifier for the [HorizontalAnchorRatio](scrollviewer_horizontalanchorratio.md) dependency property.
 
 ## -remarks
 

@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [MinItemHeight](uniformgridlayout_minitemheight.md) dependency property.
+
 ## -property-value
+
+The identifier for the [MinItemHeight](uniformgridlayout_minitemheight.md) dependency property.
 
 ## -remarks
 

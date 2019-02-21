@@ -5,6 +5,8 @@
 
 ## -description
 
+Initializes a new instance of the [ElementFactory](elementfactory.md) class.
+
 ## -remarks
 
 ## -see-also
