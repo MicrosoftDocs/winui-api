@@ -12,6 +12,8 @@ public class SelectTemplateEventArgs
 
 ## -description
 
+Provides data for the [RecyclingElementFactory.SelectTemplateKey](recyclingelementfactory_selecttemplatekey.md) event.
+
 ## -remarks
 
 ## -see-also

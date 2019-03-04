@@ -5,11 +5,17 @@
 
 ## -description
 
+When implemented in a derived class, retrieves the number of items in the data.
+
 ## -returns
+
+The number of items in the data.
 
 ## -remarks
 
 ## -see-also
+
+[ItemCount](virtualizinglayoutcontext_itemcount.md)
 
 ## -examples
 

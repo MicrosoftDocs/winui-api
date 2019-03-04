@@ -12,7 +12,11 @@ public IndexPath SelectedIndex { get;  set; }
 
 ## -description
 
+Gets or sets the index of a single selected item.
+
 ## -property-value
+
+The index of a single selected item.
 
 ## -remarks
 

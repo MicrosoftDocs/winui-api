@@ -5,6 +5,8 @@
 
 ## -description
 
+Represents the state of a UniformGridLayout.
+
 ## -remarks
 
 ## -see-also

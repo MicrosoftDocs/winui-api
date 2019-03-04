@@ -12,7 +12,11 @@ public IVectorView<object> SelectedItems { get; }
 
 ## -description
 
+Gets the collection of multiple selected items.
+
 ## -property-value
+
+The collection of multiple selected items. The default is an empty collection.
 
 ## -remarks
 

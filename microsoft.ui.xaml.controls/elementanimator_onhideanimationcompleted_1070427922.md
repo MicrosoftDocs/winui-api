@@ -12,8 +12,13 @@ protected void ElementAnimator.OnHideAnimationCompleted(UIElement element)
 
 ## -description
 
+Called when a hide animation completes.
+
 ## -parameters
+
 ### -param element
+
+The element that was animated.
 
 ## -remarks
 

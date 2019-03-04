@@ -12,7 +12,11 @@ public object SelectedItem { get; }
 
 ## -description
 
+Gets or sets a single selected item.
+
 ## -property-value
+
+The single selected item.
 
 ## -remarks
 

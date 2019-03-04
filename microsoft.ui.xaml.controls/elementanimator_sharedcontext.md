@@ -12,7 +12,11 @@ protected AnimationContext SharedContext { get; }
 
 ## -description
 
+Gets the union of all animation contexts during the current tick.
+
 ## -property-value
+
+The union of all animation contexts during the current tick.
 
 ## -remarks
 

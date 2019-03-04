@@ -12,6 +12,8 @@ public event ElementAnimationCompleted HideAnimationCompleted
 
 ## -description
 
+Raised by a derived class to notify the framework that a _hide_ animation has completed.
+
 ## -remarks
 
 ## -see-also

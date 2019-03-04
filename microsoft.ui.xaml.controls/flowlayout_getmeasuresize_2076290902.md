@@ -12,14 +12,24 @@ virtual protected Size FlowLayout.GetMeasureSize(Int32 index, Size availableSize
 
 ## -description
 
+Retrieves the available size for the element at the given index.
+
 ## -parameters
 ### -param index
 
+The index of the element.
+
 ### -param availableSize
+
+The amount of space the element can use.
 
 ## -returns
 
+The available size for the element.
+
 ## -remarks
+
+The default implementation returns the available size by which the layout itself is being measured.
 
 ## -see-also
 

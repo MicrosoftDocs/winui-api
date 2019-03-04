@@ -12,7 +12,11 @@ public Orientation Orientation { get;  set; }
 
 ## -description
 
+Gets or sets the axis along which items are laid out.
+
 ## -property-value
+
+One of the enumeration values that specifies the axis along which items are laid out. The default is **Vertical**.
 
 ## -remarks
 

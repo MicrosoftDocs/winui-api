@@ -5,7 +5,11 @@
 
 ## -description
 
+Implements the behavior of [LayoutState](layoutcontext_layoutstate.md) in a derived or custom LayoutContext.
+
 ## -property-value
+
+The value that should be returned as [LayoutState](layoutcontext_layoutstate.md) by the LayoutContext.
 
 ## -remarks
 

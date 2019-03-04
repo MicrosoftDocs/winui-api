@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets the index of the element before the change.
+
 ## -property-value
+
+The index of the element before the change.
 
 ## -remarks
 

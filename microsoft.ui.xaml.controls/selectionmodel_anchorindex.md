@@ -12,7 +12,11 @@ public IndexPath AnchorIndex { get;  set; }
 
 ## -description
 
+Gets or sets the index of the anchor item of a selected range.
+
 ## -property-value
+
+The index of the anchor item of a selected range.
 
 ## -remarks
 

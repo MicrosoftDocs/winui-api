@@ -12,7 +12,11 @@ public Thickness Padding { get;  set; }
 
 ## -description
 
+Gets or sets the distance between the border and the panel content.
+
 ## -property-value
+
+The dimensions of the space between the border and the panel content. Thickness is a structure that stores dimension values using pixel measures.
 
 ## -remarks
 

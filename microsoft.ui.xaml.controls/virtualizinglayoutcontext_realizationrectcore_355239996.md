@@ -5,11 +5,17 @@
 
 ## -description
 
+When implemented in a derived class, retrieves an area that represents the viewport and buffer that the layout should fill with realized elements.
+
 ## -returns
+
+An area that represents the viewport and buffer that the layout should fill with realized elements.
 
 ## -remarks
 
 ## -see-also
+
+[RealizationRect](virtualizinglayoutcontext_realizationrect.md)
 
 ## -examples
 

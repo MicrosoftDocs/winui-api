@@ -12,8 +12,13 @@ public void SelectionModel.SetAnchorIndex(Int32 index)
 
 ## -description
 
+Sets the index of the anchor item in a selection range in a 1-level data structure.
+
 ## -parameters
+
 ### -param index
+
+The index of the anchor item in a selection range.
 
 ## -remarks
 

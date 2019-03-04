@@ -12,6 +12,8 @@ public class RepeaterAutomationPeer : FrameworkElementAutomationPeer, FrameworkE
 
 ## -description
 
+Exposes [ItemsRepeater](itemsrepeater.md) types to Microsoft UI Automation.
+
 ## -remarks
 
 ## -see-also

@@ -12,6 +12,8 @@ public event PropertyChangedEventHandler PropertyChanged
 
 ## -description
 
+Occurs when the value of a selection model property has changed.
+
 ## -remarks
 
 ## -see-also

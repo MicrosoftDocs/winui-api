@@ -12,8 +12,13 @@ public IReference<bool> SelectionModel.IsSelected(Int32 index)
 
 ## -description
 
+Retrieves a value that indicates whether the item at the specified index in a 1-level data structure is selected.
+
 ## -parameters
+
 ### -param index
+
+The index of the item.
 
 ## -returns
 

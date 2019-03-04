@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets the number of items in the collection.
+
 ## -property-value
+
+The number of items in the collection.
 
 ## -remarks
 

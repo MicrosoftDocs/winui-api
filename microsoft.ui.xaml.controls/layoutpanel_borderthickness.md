@@ -12,7 +12,11 @@ public Thickness BorderThickness { get;  set; }
 
 ## -description
 
+Gets or sets the thickness of the panel border.
+
 ## -property-value
+
+The thickness of the panel border.
 
 ## -remarks
 

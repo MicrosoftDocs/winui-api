@@ -12,6 +12,8 @@ public event ElementAnimationCompleted ShowAnimationCompleted
 
 ## -description
 
+Raised by a derived class to notify the framework that a _show_ animation has completed.
+
 ## -remarks
 
 ## -see-also

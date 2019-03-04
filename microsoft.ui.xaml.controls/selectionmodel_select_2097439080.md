@@ -12,8 +12,13 @@ public void SelectionModel.Select(Int32 index)
 
 ## -description
 
+Selects the item at the specified index in a 1-level data structure.
+
 ## -parameters
+
 ### -param index
+
+The index of the item to select.
 
 ## -remarks
 

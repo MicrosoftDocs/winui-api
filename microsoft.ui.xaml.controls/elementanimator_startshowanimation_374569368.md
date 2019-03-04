@@ -12,12 +12,23 @@ virtual protected void ElementAnimator.StartShowAnimation(UIElement element, Ani
 
 ## -description
 
+Starts the animation to play when an element is conceptually added to the visual tree.
+
 ## -parameters
+
 ### -param element
+
+The element to animate.
 
 ### -param context
 
+Information about the change that is being animated.
+
 ## -remarks
+
+Override this method in a derived class to start a show animation.
+
+The base implementation throws a [NotImplementedException](/dotnet/api/system.notimplementedexception) ([winrt::hresult_not_implemented](/uwp/cpp-ref-for-winrt/error-handling/hresult-not-implemented)).
 
 ## -see-also
 

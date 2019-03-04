@@ -12,6 +12,8 @@ public class ElementFactoryGetArgs
 
 ## -description
 
+Provides data for the [ElementFactory.GetElement](elementfactory_getelement_845667019.md) method.
+
 ## -remarks
 
 ## -see-also

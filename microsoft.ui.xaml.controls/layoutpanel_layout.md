@@ -12,7 +12,11 @@ public LayoutBase Layout { get;  set; }
 
 ## -description
 
+Gets or sets the layout used to size and position elements in the panel.
+
 ## -property-value
+
+The attached layout used to size and position elements.
 
 ## -remarks
 

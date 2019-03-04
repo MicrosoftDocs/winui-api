@@ -12,7 +12,11 @@ public event TypedEventHandler ChildrenRequested<SelectionModel, SelectionModelC
 
 ## -description
 
+Occurs when nested items in a multi-level hierarchy are requested.
+
 ## -remarks
+
+Handle this event to tell the SelectionModel how to walk the nested data structure.
 
 ## -see-also
 

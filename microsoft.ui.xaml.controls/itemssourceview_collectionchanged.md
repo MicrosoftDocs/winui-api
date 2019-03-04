@@ -5,6 +5,8 @@
 
 ## -description
 
+Occurs when the collection has changed to indicate the reason for the change and which items changed.
+
 ## -remarks
 
 ## -see-also

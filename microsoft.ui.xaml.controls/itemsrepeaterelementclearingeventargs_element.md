@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets the element that is being cleared for re-use.
+
 ## -property-value
+
+The element that is being cleared.
 
 ## -remarks
 

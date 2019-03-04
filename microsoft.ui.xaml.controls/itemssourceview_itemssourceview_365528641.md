@@ -5,9 +5,13 @@
 
 ## -description
 
+Initializes a new instance of the [ItemsSourceView](itemssourceview.md) class for the specified data source.
+
 ## -parameters
 
 ### -param source
+
+The data source for this view.
 
 ## -remarks
 

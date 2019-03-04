@@ -12,14 +12,25 @@ virtual protected UIElement RecyclePool.TryGetElementCore(String key, UIElement 
 
 ## -description
 
+Attempts to retrieve an element identified by the specified key. (This method provides the behavior when TryGetElement is called.)
+
 ## -parameters
+
 ### -param key
+
+The identifier for the element.
 
 ### -param owner
 
+The parent container for the element.
+
 ## -returns
 
+The element identified by _key_ if it can be found; otherwise, **null**.
+
 ## -remarks
+
+This method provides the behavior when [TryGetElement](/uwp/api/microsoft.ui.xaml.controls.recyclepool.trygetelement) is called. You can override this method in a derived class to provide custom behavior for TryGetElement.
 
 ## -see-also
 

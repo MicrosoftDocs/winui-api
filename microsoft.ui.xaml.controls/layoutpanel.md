@@ -12,6 +12,8 @@ public class LayoutPanel : Panel, Panel
 
 ## -description
 
+Represents a container that uses an attached layout object to size and position its child elements.
+
 ## -remarks
 
 ## -see-also

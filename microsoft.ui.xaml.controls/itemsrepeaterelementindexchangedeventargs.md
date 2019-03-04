@@ -5,9 +5,13 @@
 
 ## -description
 
+Provides data for the ItemsRepeater.ElementIndexChanged event.
+
 ## -remarks
 
 ## -see-also
+
+[ItemsRepeater.ElementIndexChanged](itemsrepeater_elementindexchanged.md)
 
 ## -examples
 

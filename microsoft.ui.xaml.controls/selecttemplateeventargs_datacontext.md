@@ -12,7 +12,11 @@ public object DataContext { get; }
 
 ## -description
 
+Gets or sets the data item to be displayed by the template.
+
 ## -property-value
+
+The data item to be displayed by the template.
 
 ## -remarks
 

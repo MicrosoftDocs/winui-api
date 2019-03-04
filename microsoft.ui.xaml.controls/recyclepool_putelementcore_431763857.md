@@ -12,14 +12,25 @@ virtual protected void RecyclePool.PutElementCore(UIElement element, String key,
 
 ## -description
 
+Adds an element to the recycle pool with the specified owner. (This method provides the behavior when PutElement is called.)
+
 ## -parameters
+
 ### -param element
+
+The element to add to the recycle pool.
 
 ### -param key
 
+The identifier for the element.
+
 ### -param owner
 
+The parent container for the element.
+
 ## -remarks
+
+This method provides the behavior when [PutElement](/uwp/api/microsoft.ui.xaml.controls.recyclepool.putelement) is called. You can override this method in a derived class to provide custom behavior for PutElement.
 
 ## -see-also
 

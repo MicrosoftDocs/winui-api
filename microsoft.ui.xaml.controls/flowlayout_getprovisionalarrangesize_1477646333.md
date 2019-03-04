@@ -12,16 +12,28 @@ virtual protected Size FlowLayout.GetProvisionalArrangeSize(Int32 index, Size me
 
 ## -description
 
+Retrieves the size intended to eventually arrange the element. 
+
 ## -parameters
 ### -param index
 
+The position of the item in the collection.
+
 ### -param measureSize
+
+The measure size of the item.
 
 ### -param desiredSize
 
+The preferred size of the item.
+
 ## -returns
 
+The size intended to eventually arrange the element.
+
 ## -remarks
+
+The default implementation returns _desiredSize_.
 
 ## -see-also
 

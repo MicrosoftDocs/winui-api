@@ -12,7 +12,11 @@ public bool SingleSelect { get;  set; }
 
 ## -description
 
+Gets or sets a value that indicates whether only one item can be selected at a time.
+
 ## -property-value
+
+**true** if only one item can be selected at a time; **false** if more than one item can be selected.
 
 ## -remarks
 

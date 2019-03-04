@@ -12,7 +12,11 @@ public object Data { get;  set; }
 
 ## -description
 
+Gets or sets the data item to prepare an element for.
+
 ## -property-value
+
+The data item to prepare an element for.
 
 ## -remarks
 

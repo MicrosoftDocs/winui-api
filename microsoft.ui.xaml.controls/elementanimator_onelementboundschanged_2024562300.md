@@ -12,14 +12,25 @@ public void ElementAnimator.OnElementBoundsChanged(UIElement element, AnimationC
 
 ## -description
 
+Determines whether a bounds changed animation is needed, and prepares the animation if it is.
+
 ## -parameters
+
 ### -param element
+
+The element to animate.
 
 ### -param context
 
+Information about the change that is being animated.
+
 ### -param oldBounds
 
+The old bounds used to arrange the element.
+
 ### -param newBounds
+
+The new bounds used to arrange the element.
 
 ## -remarks
 

@@ -5,7 +5,11 @@
 
 ## -description
 
+Implements the behavior for getting the return value of [RecommendedAnchorIndex](virtualizinglayoutcontext_recommendedanchorindex.md) in a derived or custom VirtualizingLayoutContext.
+
 ## -property-value
+
+The value that should be returned as [RecommendedAnchorIndex](virtualizinglayoutcontext_recommendedanchorindex.md) by the VirtualizingLayoutContext.
 
 ## -remarks
 

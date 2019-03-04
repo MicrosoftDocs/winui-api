@@ -12,6 +12,8 @@ public void SelectionModel.ClearSelection()
 
 ## -description
 
+De-selects all items.
+
 ## -remarks
 
 ## -see-also

@@ -12,7 +12,11 @@ protected bool HasShowAnimationsPending { get; }
 
 ## -description
 
+Gets a value that indicates whether a show animation is pending.
+
 ## -property-value
+
+**true** if a show animation is pending; otherwise, **false**.
 
 ## -remarks
 

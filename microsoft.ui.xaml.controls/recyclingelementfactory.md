@@ -5,6 +5,8 @@
 
 ## -description
 
+Represents a component that creates and recycles elements for use in a [Layout](layout.md).
+
 ## -remarks
 
 ## -see-also

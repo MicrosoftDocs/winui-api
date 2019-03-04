@@ -12,8 +12,13 @@ public IReference<bool> SelectionModel.IsSelectedAt(IndexPath index)
 
 ## -description
 
+Retrieves a value that indicates whether the item at the specified index in a multi-level data structure is selected.
+
 ## -parameters
+
 ### -param index
+
+The IndexPath that describes the location of the item in the data structure.
 
 ## -returns
 

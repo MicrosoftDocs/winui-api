@@ -12,7 +12,11 @@ public string TemplateKey { get;  set; }
 
 ## -description
 
+Gets or sets the key that identifies the data template.
+
 ## -property-value
+
+The key that identifies the data template.
 
 ## -remarks
 

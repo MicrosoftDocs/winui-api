@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets or sets the minimum space between items on the horizontal axis.
+
 ## -property-value
+
+The minimum space (in pixels) between items on the horizontal axis.
 
 ## -remarks
 

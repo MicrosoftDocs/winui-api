@@ -12,6 +12,8 @@ public class VirtualizingLayoutContext : LayoutContext, LayoutContext
 
 ## -description
 
+Represents the base class for layout context types that support virtualization.
+
 ## -remarks
 
 ## -see-also

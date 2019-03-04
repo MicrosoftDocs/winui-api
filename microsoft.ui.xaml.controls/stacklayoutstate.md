@@ -12,6 +12,8 @@ public class StackLayoutState
 
 ## -description
 
+Represents the state of a StackLayout.
+
 ## -remarks
 
 ## -see-also

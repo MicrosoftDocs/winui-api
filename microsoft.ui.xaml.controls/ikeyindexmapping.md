@@ -5,6 +5,8 @@
 
 ## -description
 
+Provides methods that support mapping between an item's unique identifier and index.
+
 ## -remarks
 
 ## -see-also

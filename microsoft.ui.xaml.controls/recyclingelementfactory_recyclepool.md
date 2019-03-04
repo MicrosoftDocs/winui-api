@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets or sets the pool of elements that can be recycled.
+
 ## -property-value
+
+The pool of elements that can be recycled.
 
 ## -remarks
 

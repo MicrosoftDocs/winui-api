@@ -12,8 +12,13 @@ public void SelectionModel.DeselectRangeFromAnchorTo(IndexPath index)
 
 ## -description
 
+De-selects all items between the AnchorIndex and the specified index in a multi-level data structure.
+
 ## -parameters
+
 ### -param index
+
+The IndexPath that describes the location of the item at the end of the range.
 
 ## -remarks
 

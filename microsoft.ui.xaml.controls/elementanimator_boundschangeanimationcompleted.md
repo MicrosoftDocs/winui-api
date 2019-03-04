@@ -12,6 +12,8 @@ public event ElementAnimationCompleted BoundsChangeAnimationCompleted
 
 ## -description
 
+Raised by a derived class to notify the framework that a _bounds change_ animation has completed.
+
 ## -remarks
 
 ## -see-also

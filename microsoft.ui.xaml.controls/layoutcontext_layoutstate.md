@@ -12,7 +12,11 @@ public object LayoutState { get;  set; }
 
 ## -description
 
+Gets or sets an object that represents the state of a layout.
+
 ## -property-value
+
+An object that represents the state of a layout.
 
 ## -remarks
 

@@ -12,6 +12,8 @@ public void SelectionModel.SelectAll()
 
 ## -description
 
+Selects all items.
+
 ## -remarks
 
 ## -see-also

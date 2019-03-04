@@ -12,7 +12,11 @@ public UIElement Owner { get; }
 
 ## -description
 
+Gets or sets the parent container for the element.
+
 ## -property-value
+
+The parent container for the element.
 
 ## -remarks
 

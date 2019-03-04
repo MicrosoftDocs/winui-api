@@ -12,7 +12,11 @@ protected bool HasHideAnimationsPending { get; }
 
 ## -description
 
+Gets a value that indicates whether a hide animation is pending.
+
 ## -property-value
+
+**true** if a hide animation is pending; otherwise, **false**.
 
 ## -remarks
 

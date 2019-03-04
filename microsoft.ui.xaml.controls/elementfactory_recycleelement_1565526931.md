@@ -5,9 +5,13 @@
 
 ## -description
 
+Clears a UIElement to be re-used to display a new data item.
+
 ## -parameters
 
 ### -param args
+
+The element to recycle, and the parent element.
 
 ## -remarks
 

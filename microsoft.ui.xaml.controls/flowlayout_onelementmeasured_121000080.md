@@ -5,23 +5,41 @@
 
 ## -description
 
+Called when an element has been measured.
+
 ## -parameters
 
 ### -param element
 
+The measured element.
+
 ### -param index
+
+The position of the element in the collection.
 
 ### -param availableSize
 
+The amount of space available for the element.
+
 ### -param measureSize
+
+The measure size of the element.
 
 ### -param desiredSize
 
+The preferred size of the element.
+
 ### -param provisionalArrangeSize
+
+The size intended to eventually arrange the element.
 
 ### -param context
 
+The context object that facilitates communication between the layout and its host container.
+
 ## -remarks
+
+This method lets a subclass maintain its own estimation information. 
 
 ## -see-also
 

@@ -12,7 +12,11 @@ public UIElement Element { get;  set; }
 
 ## -description
 
+Gets or sets the element to recycle.
+
 ## -property-value
+
+The element to recycle.
 
 ## -remarks
 

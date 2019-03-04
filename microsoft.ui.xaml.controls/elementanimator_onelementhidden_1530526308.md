@@ -12,10 +12,17 @@ public void ElementAnimator.OnElementHidden(UIElement element, AnimationContext 
 
 ## -description
 
+Determines whether a hide animation is needed, and prepares the animation if it is.
+
 ## -parameters
+
 ### -param element
 
+The element to animate.
+
 ### -param context
+
+Information about the change that is being animated.
 
 ## -remarks
 

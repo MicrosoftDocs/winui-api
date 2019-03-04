@@ -5,7 +5,11 @@
 
 ## -description
 
+Get the element for which the index changed.
+
 ## -property-value
+
+The element for which the index changed.
 
 ## -remarks
 

@@ -12,6 +12,8 @@ public class SelectionModel : INotifyPropertyChanged
 
 ## -description
 
+Represents a component that tracks the selection state of items in a data source.
+
 ## -remarks
 
 ## -see-also

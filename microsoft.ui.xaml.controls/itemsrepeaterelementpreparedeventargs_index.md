@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets the index of the item the element was prepared for.
+
 ## -property-value
+
+The index of the item the element was prepared for.
 
 ## -remarks
 

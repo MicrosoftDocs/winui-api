@@ -12,7 +12,11 @@ public IVectorView<IndexPath> SelectedIndices { get; }
 
 ## -description
 
+Gets the collection of index values for multiple selected items.
+
 ## -property-value
+
+The collection of index values for multiple selected items. The default is an empty collection.
 
 ## -remarks
 

@@ -12,8 +12,13 @@ protected void SelectionModel.OnPropertyChanged(String propertyName)
 
 ## -description
 
+Called when the value of a selection model property has changed.
+
 ## -parameters
+
 ### -param propertyName
+
+The name of the property that has changed.
 
 ## -remarks
 

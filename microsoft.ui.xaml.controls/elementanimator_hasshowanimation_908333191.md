@@ -12,10 +12,21 @@ public bool ElementAnimator.HasShowAnimation(UIElement element, AnimationContext
 
 ## -description
 
+Determines whether a _show_ animation is being provided by this animator.
+
 ## -parameters
+
 ### -param element
 
+The element to animate.
+
 ### -param context
+
+Information about the reason for the animation.
+
+## -returns
+
+**true** if the animation is being provided by this animator; otherwise, **false**.
 
 ## -returns
 

@@ -12,8 +12,13 @@ protected void ElementAnimator.OnBoundsChangeAnimationCompleted(UIElement elemen
 
 ## -description
 
+Called when a bounds changed animation completes.
+
 ## -parameters
+
 ### -param element
+
+The element that was animated.
 
 ## -remarks
 

@@ -12,7 +12,11 @@ public UIElement Parent { get;  set; }
 
 ## -description
 
+Gets or sets the parent of the prepared element.
+
 ## -property-value
+
+The parent of the prepared element.
 
 ## -remarks
 

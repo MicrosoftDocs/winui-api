@@ -12,6 +12,8 @@ public class FlowLayoutState
 
 ## -description
 
+Represents the state of a FlowLayout.
+
 ## -remarks
 
 ## -see-also

@@ -12,9 +12,15 @@ public CornerRadius CornerRadius { get;  set; }
 
 ## -description
 
+Gets or sets the radius for the corners of the panel border.
+
 ## -property-value
 
+The degree to which the corners are rounded, expressed as values of the CornerRadius structure.
+
 ## -remarks
+
+Member components of a [CornerRadius](/uwp/api/windows.ui.xaml.cornerradius) value cannot be negative.
 
 ## -see-also
 

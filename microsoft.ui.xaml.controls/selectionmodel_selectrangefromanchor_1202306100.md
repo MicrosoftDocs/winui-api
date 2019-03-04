@@ -12,8 +12,13 @@ public void SelectionModel.SelectRangeFromAnchor(Int32 index)
 
 ## -description
 
+Selects all items between the AnchorIndex and the specified index in a 1-level data structure.
+
 ## -parameters
+
 ### -param index
+
+The index of the item at the end of the range.
 
 ## -remarks
 

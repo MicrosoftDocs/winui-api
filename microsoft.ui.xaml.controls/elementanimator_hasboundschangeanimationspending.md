@@ -12,7 +12,11 @@ protected bool HasBoundsChangeAnimationsPending { get; }
 
 ## -description
 
+Gets a value that indicates whether a bounds change animation is pending.
+
 ## -property-value
+
+**true** if a bounds change animation is pending; otherwise, **false**.
 
 ## -remarks
 

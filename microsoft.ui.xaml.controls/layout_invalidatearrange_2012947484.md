@@ -5,9 +5,13 @@
 
 ## -description
 
+Invalidates the arrange state (layout) for all UIElement containers that reference this layout. After the invalidation, the UIElement will have its layout updated, which occurs asynchronously.
+
 ## -remarks
 
 ## -see-also
+
+[ArrangeInvalidated](layout_arrangeinvalidated.md)
 
 ## -examples
 

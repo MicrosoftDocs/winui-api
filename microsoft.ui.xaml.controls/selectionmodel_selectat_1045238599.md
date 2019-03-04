@@ -12,8 +12,13 @@ public void SelectionModel.SelectAt(IndexPath index)
 
 ## -description
 
+Selects the item at the specified index in a multi-level data structure.
+
 ## -parameters
+
 ### -param index
+
+The IndexPath that describes the location of the item in the data structure.
 
 ## -remarks
 

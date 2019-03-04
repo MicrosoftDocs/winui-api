@@ -12,8 +12,13 @@ public void SelectionModel.Deselect(Int32 index)
 
 ## -description
 
+De-selects the item at the specified index in a 1-level data structure.
+
 ## -parameters
+
 ### -param index
+
+The index of the item to de-select.
 
 ## -remarks
 

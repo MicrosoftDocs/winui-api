@@ -12,6 +12,8 @@ public class ElementFactoryRecycleArgs
 
 ## -description
 
+Provides data for the [ElementFactory.RecycleElement](elementfactory_recycleelement_1565526931.md) method.
+
 ## -remarks
 
 ## -see-also

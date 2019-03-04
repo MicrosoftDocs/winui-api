@@ -12,7 +12,11 @@ public FlowLayoutLineAlignment LineAlignment { get;  set; }
 
 ## -description
 
+Gets or sets a value that indicates how items are aligned on the non-scrolling or non-virtualizing axis.
+
 ## -property-value
+
+An enumeration value that indicates how items are aligned. The default is **Near**.
 
 ## -remarks
 

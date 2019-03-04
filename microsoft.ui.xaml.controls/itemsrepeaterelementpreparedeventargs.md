@@ -5,9 +5,13 @@
 
 ## -description
 
+Provides data for the ItemsRepeater.ElementPrepared event.
+
 ## -remarks
 
 ## -see-also
+
+[ItemsRepeater.ElementPrepared](itemsrepeater_elementprepared.md)
 
 ## -examples
 

@@ -12,8 +12,13 @@ protected void ElementAnimator.OnShowAnimationCompleted(UIElement element)
 
 ## -description
 
+Called when a show animation completes.
+
 ## -parameters
+
 ### -param element
+
+The element that was animated.
 
 ## -remarks
 

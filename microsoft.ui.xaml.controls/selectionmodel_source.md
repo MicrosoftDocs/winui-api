@@ -12,7 +12,11 @@ public object Source { get;  set; }
 
 ## -description
 
+Gets or sets the data source for which item selection is tracked.
+
 ## -property-value
+
+The data source for which item selection is tracked. The default is **null**.
 
 ## -remarks
 

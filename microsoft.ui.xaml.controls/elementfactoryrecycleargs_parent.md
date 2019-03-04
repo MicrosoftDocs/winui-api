@@ -12,7 +12,11 @@ public UIElement Parent { get;  set; }
 
 ## -description
 
+Gets or sets the parent of the recycled element.
+
 ## -property-value
+
+The parent of the recycled element.
 
 ## -remarks
 

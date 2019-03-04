@@ -12,6 +12,8 @@ public event TypedEventHandler SelectionChanged<SelectionModel, SelectionModelSe
 
 ## -description
 
+Occurs when the selection has changed.
+
 ## -remarks
 
 ## -see-also
