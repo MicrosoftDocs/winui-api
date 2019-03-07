@@ -15,6 +15,12 @@
 
 ### -field Touch
 
+### -field Gamepad
+
+### -field Keyboard
+
+### -field None
+
 ## -remarks
 
 ## -see-also
