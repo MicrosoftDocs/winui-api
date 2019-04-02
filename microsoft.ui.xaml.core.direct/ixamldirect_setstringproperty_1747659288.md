@@ -1,0 +1,21 @@
+---
+-api-id: M:Microsoft.UI.Xaml.Core.Direct.IXamlDirect.SetStringProperty(System.Object,Microsoft.UI.Xaml.Core.Direct.XamlPropertyIndex,System.String)
+-api-type: winrt method
+---
+
+## -description
+
+## -parameters
+
+### -param xamlDirectObject
+
+### -param propertyIndex
+
+### -param value
+
+## -remarks
+
+## -see-also
+
+## -examples
+
