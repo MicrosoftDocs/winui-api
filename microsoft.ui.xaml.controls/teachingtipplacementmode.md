@@ -11,27 +11,29 @@
 
 ### -field Bottom
 
-### -field BottomEdgeAlignedLeft
-
-### -field BottomEdgeAlignedRight
-
 ### -field Left
-
-### -field LeftEdgeAlignedBottom
-
-### -field LeftEdgeAlignedTop
 
 ### -field Right
 
-### -field RightEdgeAlignedBottom
-
-### -field RightEdgeAlignedTop
-
 ### -field Top
 
-### -field TopEdgeAlignedLeft
+### -field BottomLeft
 
-### -field TopEdgeAlignedRight
+### -field BottomRight
+
+### -field Center
+
+### -field LeftBottom
+
+### -field LeftTop
+
+### -field RightBottom
+
+### -field RightTop
+
+### -field TopLeft
+
+### -field TopRight
 
 ## -remarks
 

@@ -1,5 +1,5 @@
 ---
--api-id: P:Microsoft.UI.Xaml.Controls.ScrollAnchorProvider.VerticalAnchorRatio
+-api-id: P:Microsoft.UI.Xaml.Controls.XamlControlsResources.UseCompactResources
 -api-type: winrt property
 ---
 

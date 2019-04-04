@@ -1,5 +1,5 @@
 ---
--api-id: P:Microsoft.UI.Xaml.Controls.ScrollAnchorProvider.HorizontalAnchorRatio
+-api-id: P:Microsoft.UI.Xaml.Controls.ItemsRepeaterScrollHost.ScrollViewer
 -api-type: winrt property
 ---
 
