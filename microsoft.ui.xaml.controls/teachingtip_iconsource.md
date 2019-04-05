@@ -5,6 +5,8 @@
 
 ## -description
 
+Gets or sets the graphic content to appear alongside the title and subtitle.
+
 ## -property-value
 
 ## -remarks

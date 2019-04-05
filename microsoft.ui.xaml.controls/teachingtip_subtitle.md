@@ -5,6 +5,8 @@
 
 ## -description
 
+Gets or sets the subtitle of the teaching tip.
+
 ## -property-value
 
 ## -remarks

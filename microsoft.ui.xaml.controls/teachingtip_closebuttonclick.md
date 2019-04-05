@@ -5,6 +5,8 @@
 
 ## -description
 
+Occurs after the close button is clicked.
+
 ## -remarks
 
 ## -see-also

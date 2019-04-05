@@ -5,6 +5,8 @@
 
 ## -description
 
+Gets or sets the parameter to pass to the command for the action button.
+
 ## -property-value
 
 ## -remarks

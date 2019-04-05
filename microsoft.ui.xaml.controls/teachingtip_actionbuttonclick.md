@@ -5,6 +5,8 @@
 
 ## -description
 
+Occurs after the action button is clicked.
+
 ## -remarks
 
 ## -see-also

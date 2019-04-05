@@ -5,6 +5,8 @@
 
 ## -description
 
+Gets or sets the command to invoke when the close button is clicked.
+
 ## -property-value
 
 ## -remarks

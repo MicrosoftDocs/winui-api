@@ -5,6 +5,8 @@
 
 ## -description
 
+Gets the icon element.
+
 ## -property-value
 
 ## -remarks

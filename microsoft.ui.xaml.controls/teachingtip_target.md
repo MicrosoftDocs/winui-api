@@ -5,6 +5,8 @@
 
 ## -description
 
+Sets the target for a teaching tip to position itself relative to and point at with its tail. 
+
 ## -property-value
 
 ## -remarks

@@ -5,6 +5,8 @@
 
 ## -description
 
+Gets the thickness value of the top left highlight margin.
+
 ## -property-value
 
 ## -remarks

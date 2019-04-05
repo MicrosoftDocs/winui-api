@@ -5,6 +5,8 @@
 
 ## -description
 
+Gets or sets the content of the teaching tip's close button.
+
 ## -property-value
 
 ## -remarks

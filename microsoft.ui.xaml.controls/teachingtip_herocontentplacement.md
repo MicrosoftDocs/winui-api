@@ -5,6 +5,8 @@
 
 ## -description
 
+Placement of the hero content within the teaching tip.
+
 ## -property-value
 
 ## -remarks

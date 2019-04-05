@@ -5,6 +5,8 @@
 
 ## -description
 
+Border-to-border graphic content displayed in the header or footer of the teaching tip. Will appear opposite of the tail in targeted teaching tips unless otherwise set. 
+
 ## -property-value
 
 ## -remarks

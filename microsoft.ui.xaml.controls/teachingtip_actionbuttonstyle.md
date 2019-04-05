@@ -5,6 +5,8 @@
 
 ## -description
 
+Gets or sets the Style to apply to the action button.
+
 ## -property-value
 
 ## -remarks

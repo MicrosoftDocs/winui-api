@@ -5,6 +5,8 @@
 
 ## -description
 
+Gets or sets the text of the teaching tip's action button.
+
 ## -property-value
 
 ## -remarks

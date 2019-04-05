@@ -5,6 +5,8 @@
 
 ## -description
 
+Provides data for the Closing event.
+
 ## -remarks
 
 ## -see-also

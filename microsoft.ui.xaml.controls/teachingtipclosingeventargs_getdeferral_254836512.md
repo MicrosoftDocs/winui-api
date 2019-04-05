@@ -5,6 +5,8 @@
 
 ## -description
 
+Gets a deferral object for managing the work done in the Closing event handler.
+
 ## -returns
 
 ## -remarks

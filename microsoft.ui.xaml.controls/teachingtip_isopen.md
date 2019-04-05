@@ -5,6 +5,8 @@
 
 ## -description
 
+ Gets or sets a value that indicates whether the teaching tip is open.
+
 ## -property-value
 
 ## -remarks

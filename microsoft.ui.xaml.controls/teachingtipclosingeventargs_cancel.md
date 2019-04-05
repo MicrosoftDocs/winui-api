@@ -5,6 +5,8 @@
 
 ## -description
 
+Gets or sets a value that indicates whether the Closing event should be canceled.
+
 ## -property-value
 
 ## -remarks

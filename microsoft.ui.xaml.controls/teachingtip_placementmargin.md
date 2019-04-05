@@ -5,6 +5,8 @@
 
 ## -description
 
+Adds a margin between a targeted teaching tip and its target or between a non-targeted teaching tip and the xaml root. 
+
 ## -property-value
 
 ## -remarks

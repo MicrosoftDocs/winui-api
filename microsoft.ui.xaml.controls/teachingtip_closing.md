@@ -5,6 +5,8 @@
 
 ## -description
 
+Occurs just before the tip begins to close.
+
 ## -remarks
 
 ## -see-also
