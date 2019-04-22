@@ -20,8 +20,7 @@ The AnimatedVisualPlayer hosts and controls playback of an animated [Visual](htt
 
 ## -see-also
 
-* [Lottie-Windows](https://aka.ms/lottie)
-* [Tutorials with code examples](https://aka.ms/lottiedocs#tutorials)
+[Lottie-Windows](https://aka.ms/lottie), [Tutorials with code examples](https://aka.ms/lottiedocs#tutorials)
 
 ## -examples
 
