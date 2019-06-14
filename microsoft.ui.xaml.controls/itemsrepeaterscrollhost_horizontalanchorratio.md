@@ -15,7 +15,7 @@ A normalized value (0.0 to 1.0). The default is 0.0.
 
 A value of 0.0 represents the left-most point within the viewport. A value of 1.0 represents the right-most point within the viewport. A value of 0.5 represents the center-most point within the viewport.
 
-When the value is 0.0 or 1.0 the ScrollViewer applies special behavior when the scroll position is at the start or end of the scrollable area.
+When the value is 0.0 or 1.0, the ScrollViewer applies special behavior when the scroll position is at the start or end of the scrollable area.
 
 ## -see-also
 
