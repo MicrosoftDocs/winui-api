@@ -5,7 +5,7 @@
 
 ## -description
 
-Gets constant that specifies whether the cause of the Closing event was due to user interaction (Close button click), light-dismissal, or programmatic closure.
+Gets a constant that specifies whether the cause of the Closing event was due to user interaction (Close button click), light-dismissal, or programmatic closure.
 
 ## -property-value
 

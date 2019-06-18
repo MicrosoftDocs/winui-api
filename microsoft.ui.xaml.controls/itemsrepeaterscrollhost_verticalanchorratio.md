@@ -5,7 +5,7 @@
 
 ## -description
 
-Determines the vertical position of the ScrollViewer's _anchor point_ with respect to the viewport. By default, the ScrollViewer selects an element as its [CurrentAnchor](itemsrepeaterscrollhost_currentanchor) by identifying the element in its viewport nearest to the anchor point.
+Determines the vertical position of the ScrollViewer's _anchor point_ with respect to the viewport. By default, the ScrollViewer selects an element as its [CurrentAnchor](itemsrepeaterscrollhost_currentanchor.md) by identifying the element in its viewport nearest to the anchor point.
 
 ## -property-value
 
