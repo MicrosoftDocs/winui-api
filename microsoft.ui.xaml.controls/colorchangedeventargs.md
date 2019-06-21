@@ -9,26 +9,14 @@ public class ColorChangedEventArgs
 
 # Microsoft.UI.Xaml.Controls.ColorChangedEventArgs
 
-
-
 ## -description
 
 Provides event data for the ColorChanged event.
 
-
-
 ## -remarks
-
-
 
 ## -see-also
 
-[ColorPicker.ColorChanged](colorpicker_colorchanged.md)
-[ColorSpectrum.ColorChanged](/uwp/api/windows.ui.xaml.controls.colorspectrum.colorchanged)
-
-
+[ColorPicker.ColorChanged](colorpicker_colorchanged.md), [ColorSpectrum.ColorChanged](../microsoft.ui.xaml.controls.primitives/colorspectrum_colorchanged.md)
 
 ## -examples
-
-
-
