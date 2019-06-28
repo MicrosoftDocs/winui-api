@@ -11,6 +11,8 @@
 
 ### -field Enabled
 
+### -field Auto
+
 ## -remarks
 
 ## -see-also
