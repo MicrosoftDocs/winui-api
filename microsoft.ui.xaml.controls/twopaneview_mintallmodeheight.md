@@ -12,7 +12,11 @@ public double MinTallModeHeight { get;  set; }
 
 ## -description
 
+Gets or sets the minimum height at which panes are shown in tall mode.
+
 ## -property-value
+
+The minimum height at which panes are shown in tall mode. The default is 641px.
 
 ## -remarks
 

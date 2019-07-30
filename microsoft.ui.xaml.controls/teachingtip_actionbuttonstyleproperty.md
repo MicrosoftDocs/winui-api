@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [ActionButtonStyle](teachingtip_actionbuttonstyle.md) dependency property.
+
 ## -property-value
+
+The identifier for the [ActionButtonStyle](teachingtip_actionbuttonstyle.md) dependency property.
 
 ## -remarks
 

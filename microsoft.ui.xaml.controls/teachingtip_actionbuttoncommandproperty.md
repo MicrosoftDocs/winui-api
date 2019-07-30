@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [ActionButtonCommand](teachingtip_actionbuttoncommand.md) dependency property.
+
 ## -property-value
+
+The identifier for the [ActionButtonCommand](teachingtip_actionbuttoncommand.md) dependency property.
 
 ## -remarks
 

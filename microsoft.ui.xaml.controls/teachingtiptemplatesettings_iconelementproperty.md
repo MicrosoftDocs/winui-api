@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [IconElement](teachingtiptemplatesettings_iconelement.md) dependency property.
+
 ## -property-value
+
+The identifier for the [IconElement](teachingtiptemplatesettings_iconelement.md) dependency property.
 
 ## -remarks
 

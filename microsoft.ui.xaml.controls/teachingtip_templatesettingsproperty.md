@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [TemplateSettings](teachingtip_templatesettings.md) dependency property.
+
 ## -property-value
+
+The identifier for the [TemplateSettings](teachingtip_templatesettings.md) dependency property.
 
 ## -remarks
 

@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [IsLightDismissEnabled](teachingtip_islightdismissenabled.md) dependency property.
+
 ## -property-value
+
+The identifier for the [IsLightDismissEnabled](teachingtip_islightdismissenabled.md) dependency property.
 
 ## -remarks
 

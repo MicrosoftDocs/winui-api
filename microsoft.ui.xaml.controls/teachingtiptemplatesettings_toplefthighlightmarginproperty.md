@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [TopLeftHighlightMargin](teachingtiptemplatesettings_toplefthighlightmargin.md) dependency property.
+
 ## -property-value
+
+The identifier for the [TopLeftHighlightMargin](teachingtiptemplatesettings_toplefthighlightmargin.md) dependency property.
 
 ## -remarks
 

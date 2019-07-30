@@ -12,7 +12,11 @@ public double MinWideModeWidth { get;  set; }
 
 ## -description
 
+Gets or sets the minimum width at which panes are shown in wide mode.
+
 ## -property-value
+
+The minimum width at which panes are shown in wide mode. The default is 641px.
 
 ## -remarks
 

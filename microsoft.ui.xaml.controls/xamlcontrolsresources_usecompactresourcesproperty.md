@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [UseCompactResources](xamlcontrolsresources_usecompactresources.md) dependency property.
+
 ## -property-value
+
+The identifier for the [UseCompactResources](xamlcontrolsresources_usecompactresources.md) dependency property.
 
 ## -remarks
 

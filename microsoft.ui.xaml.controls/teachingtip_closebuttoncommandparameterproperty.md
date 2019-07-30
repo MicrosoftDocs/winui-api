@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [CloseButtonCommandParameter](teachingtip_closebuttoncommandparameter.md) dependency property.
+
 ## -property-value
+
+The identifier for the [CloseButtonCommandParameter](teachingtip_closebuttoncommandparameter.md) dependency property.
 
 ## -remarks
 

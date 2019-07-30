@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [Subtitle](teachingtip_subtitle.md) dependency property.
+
 ## -property-value
+
+The identifier for the [Subtitle](teachingtip_subtitle.md) dependency property.
 
 ## -remarks
 

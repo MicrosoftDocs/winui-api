@@ -12,7 +12,11 @@ public GridLength Pane1Length { get;  set; }
 
 ## -description
 
+Gets the calculated width (in wide mode) or height (in tall mode) of pane 1, or sets the GridLength value of pane 1.
+
 ## -property-value
+
+The GridLength that represents the width or height of the pane.
 
 ## -remarks
 

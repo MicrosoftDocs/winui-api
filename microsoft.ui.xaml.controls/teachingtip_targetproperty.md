@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [Target](teachingtip_target.md) dependency property.
+
 ## -property-value
+
+The identifier for the [Target](teachingtip_target.md) dependency property.
 
 ## -remarks
 

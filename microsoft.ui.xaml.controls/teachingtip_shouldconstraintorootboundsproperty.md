@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [ShouldConstrainToRootBounds](teachingtip_shouldconstraintorootbounds.md) dependency property.
+
 ## -property-value
+
+The identifier for the [ShouldConstrainToRootBounds](teachingtip_shouldconstraintorootbounds.md) dependency property.
 
 ## -remarks
 

@@ -12,7 +12,11 @@ public TwoPaneViewWideModeConfiguration WideModeConfiguration { get;  set; }
 
 ## -description
 
+Gets or sets a value that indicates how panes are shown in wide mode.
+
 ## -property-value
+
+An enumeration value that indicates how panes are shown in wide mode.
 
 ## -remarks
 

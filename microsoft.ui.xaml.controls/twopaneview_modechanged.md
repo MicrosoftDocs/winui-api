@@ -12,9 +12,13 @@ public event TypedEventHandler ModeChanged<TwoPaneView,  object>
 
 ## -description
 
+Occurs when the Mode of the TwoPaneView has changed.
+
 ## -remarks
 
 ## -see-also
+
+[Mode](twopaneview_mode.md)
 
 ## -examples
 

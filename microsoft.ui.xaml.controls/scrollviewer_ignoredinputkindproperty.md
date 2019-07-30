@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [IgnoredInputKind](scrollviewer_ignoredinputkind.md) dependency property.
+
 ## -property-value
+
+The identifier for the [IgnoredInputKind](scrollviewer_ignoredinputkind.md) dependency property.
 
 ## -remarks
 

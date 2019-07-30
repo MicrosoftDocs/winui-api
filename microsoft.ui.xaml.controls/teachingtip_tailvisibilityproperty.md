@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [TailVisibility](teachingtip_tailvisibility.md) dependency property.
+
 ## -property-value
+
+The identifier for the [TailVisibility](teachingtip_tailvisibility.md) dependency property.
 
 ## -remarks
 

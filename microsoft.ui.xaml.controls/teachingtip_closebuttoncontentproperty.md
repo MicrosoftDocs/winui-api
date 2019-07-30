@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [CloseButtonContent](teachingtip_closebuttoncontent.md) dependency property.
+
 ## -property-value
+
+The identifier for the [CloseButtonContent](teachingtip_closebuttoncontent.md) dependency property.
 
 ## -remarks
 

@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [HeroContentPlacement](teachingtip_herocontentplacement.md) dependency property.
+
 ## -property-value
+
+The identifier for the [HeroContentPlacement](teachingtip_herocontentplacement.md) dependency property.
 
 ## -remarks
 

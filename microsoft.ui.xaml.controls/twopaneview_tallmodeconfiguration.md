@@ -12,7 +12,11 @@ public TwoPaneViewTallModeConfiguration TallModeConfiguration { get;  set; }
 
 ## -description
 
+Gets or sets a value that indicates how panes are shown in tall mode.
+
 ## -property-value
+
+An enumeration value that indicates how panes are shown in tall mode.
 
 ## -remarks
 

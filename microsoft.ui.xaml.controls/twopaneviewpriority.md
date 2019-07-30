@@ -12,12 +12,20 @@ public enum TwoPaneViewPriority : int
 
 ## -description
 
+Defines constants that specify which pane has priority in a TwoPaneView.
+
 ## -enum-fields
 ### -field Pane2:1
 
+Pane 2 has priority.
+
 ### -field Pane1:0
 
+Pane 1 has priority.
+
 ## -remarks
+
+[TwoPaneView](twopaneview.md), [TwoPaneView.PanePriority](twopaneview_panepriority.md)
 
 ## -see-also
 

@@ -12,7 +12,11 @@ public TwoPaneViewMode Mode { get; }
 
 ## -description
 
+Gets a value that indicates how panes are shown.
+
 ## -property-value
+
+An enumeration value that indicates how panes are shown.
 
 ## -remarks
 

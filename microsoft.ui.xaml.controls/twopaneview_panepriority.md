@@ -12,7 +12,11 @@ public TwoPaneViewPriority PanePriority { get;  set; }
 
 ## -description
 
+Gets or sets a value that indicates which pane has priority.
+
 ## -property-value
+
+An enumeration value that indicates which pane has priority.
 
 ## -remarks
 

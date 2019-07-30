@@ -12,7 +12,11 @@ public UIElement Pane2 { get;  set; }
 
 ## -description
 
+Gets or sets the content of pane 2.
+
 ## -property-value
+
+The content of pane 2.
 
 ## -remarks
 

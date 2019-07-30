@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [CloseButtonStyle](teachingtip_closebuttonstyle.md) dependency property.
+
 ## -property-value
+
+The identifier for the [CloseButtonStyle](teachingtip_closebuttonstyle.md) dependency property.
 
 ## -remarks
 

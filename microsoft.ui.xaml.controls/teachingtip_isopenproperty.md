@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [IsOpen](teachingtip_isopen.md) dependency property.
+
 ## -property-value
+
+The identifier for the [IsOpen](teachingtip_isopen.md) dependency property.
 
 ## -remarks
 

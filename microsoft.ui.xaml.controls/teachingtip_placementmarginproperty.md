@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [PlacementMargin](teachingtip_placementmargin.md) dependency property.
+
 ## -property-value
+
+The identifier for the [PlacementMargin](teachingtip_placementmargin.md) dependency property.
 
 ## -remarks
 

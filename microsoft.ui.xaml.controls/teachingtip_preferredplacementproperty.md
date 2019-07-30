@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [PreferredPlacement](teachingtip_preferredplacement.md) dependency property.
+
 ## -property-value
+
+The identifier for the [PreferredPlacement](teachingtip_preferredplacement.md) dependency property.
 
 ## -remarks
 
