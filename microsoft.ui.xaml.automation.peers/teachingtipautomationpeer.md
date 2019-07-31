@@ -5,6 +5,8 @@
 
 ## -description
 
+Exposes [TeachingTip](../microsoft.ui.xaml.controls/teachingtip.md) types to Microsoft UI Automation.
+
 ## -remarks
 
 ## -see-also

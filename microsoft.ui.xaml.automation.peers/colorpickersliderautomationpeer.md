@@ -9,22 +9,12 @@ public class ColorPickerSliderAutomationPeer : SliderAutomationPeer, SliderAutom
 
 # Microsoft.UI.Xaml.Automation.Peers.ColorPickerSliderAutomationPeer
 
-
-
 ## -description
-Exposes **[ColorPickerSlider](../microsoft.ui.xaml.controls.primitives/colorpickerslider.md)** types to Microsoft UI Automation.  
 
-
+Exposes [ColorPickerSlider](../microsoft.ui.xaml.controls.primitives/colorpickerslider.md) types to Microsoft UI Automation.  
 
 ## -remarks
 
-
-
 ## -see-also
 
-
-
 ## -examples
-
-
-

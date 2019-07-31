@@ -5,6 +5,8 @@
 
 ## -description
 
+Exposes [TreeViewItem](../microsoft.ui.xaml.controls/treeviewitem.md) data types to Microsoft UI Automation.
+
 ## -remarks
 
 ## -see-also

@@ -12,6 +12,8 @@ public class AnimatedVisualPlayerAutomationPeer : FrameworkElementAutomationPeer
 
 ## -description
 
+Exposes [AnimatedVisualPlayer](../microsoft.ui.xaml.controls/animatedvisualplayer.md) types to Microsoft UI Automation.
+
 ## -remarks
 
 ## -see-also

@@ -5,6 +5,8 @@
 
 ## -description
 
+Exposes [RadioButtonsListViewItem](../microsoft.ui.xaml.controls.primitives/radiobuttonslistviewitem.md) types to Microsoft UI Automation.
+
 ## -remarks
 
 ## -see-also

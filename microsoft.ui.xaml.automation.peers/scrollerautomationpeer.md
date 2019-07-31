@@ -5,6 +5,8 @@
 
 ## -description
 
+Exposes [Scroller](../microsoft.ui.xaml.controls.primitives/scroller.md) types to Microsoft UI Automation.
+
 ## -remarks
 
 ## -see-also

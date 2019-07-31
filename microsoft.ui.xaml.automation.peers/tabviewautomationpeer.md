@@ -5,11 +5,10 @@
 
 ## -description
 
-Exposes **[TabView](../microsoft.ui.xaml.controls/tabview.md)** types to Microsoft UI Automation.
+Exposes [TabView](../microsoft.ui.xaml.controls/tabview.md) types to Microsoft UI Automation.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-

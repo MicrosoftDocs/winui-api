@@ -5,6 +5,8 @@
 
 ## -description
 
+Exposes [DropDownButton](../microsoft.ui.xaml.controls/dropdownbutton.md) types to Microsoft UI Automation.
+
 ## -remarks
 
 ## -see-also
