@@ -12,8 +12,12 @@ public NavigationViewItemAutomationPeer.NavigationViewItemAutomationPeer(Navigat
 
 ## -description
 
+Initializes a new instance of the [NavigationViewItemAutomationPeer](navigationviewitemautomationpeer.md) class.
+
 ## -parameters
 ### -param owner
+
+The [NavigationViewItem](../microsoft.ui.xaml.controls/navigationviewitem.md) control instance to create the peer for.
 
 ## -remarks
 

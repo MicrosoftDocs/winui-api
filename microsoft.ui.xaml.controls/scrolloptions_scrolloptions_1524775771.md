@@ -5,6 +5,8 @@
 
 ## -description
 
+Initializes a new instance of the [ScrollOptions](scrolloptions.md) class.
+
 ## -parameters
 
 ### -param animationMode

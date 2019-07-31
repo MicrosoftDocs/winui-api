@@ -5,9 +5,13 @@
 
 ## -description
 
+Initializes a new instance of the [RadioButtonsListViewItemAutomationPeer](radiobuttonslistviewitemautomationpeer.md) class.
+
 ## -parameters
 
 ### -param owner
+
+The [RadioButtonsListViewItem](../microsoft.ui.xaml.controls.primitives/radiobuttonslistviewitem.md) control instance to create the peer for.
 
 ## -remarks
 

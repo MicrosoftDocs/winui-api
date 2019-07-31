@@ -12,8 +12,12 @@ public MenuBarAutomationPeer.MenuBarAutomationPeer(MenuBar owner)
 
 ## -description
 
+Initializes a new instance of the [MenuBarAutomationPeer](menubarautomationpeer.md) class.
+
 ## -parameters
 ### -param owner
+
+The [MenuBar](../microsoft.ui.xaml.controls/menubar.md) control instance to create the peer for.
 
 ## -remarks
 

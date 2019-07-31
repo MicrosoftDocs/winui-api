@@ -5,6 +5,8 @@
 
 ## -description
 
+Initializes a new instance of the [ScrollControllerScrollByRequestedEventArgs](scrollcontrollerscrollbyrequestedeventargs.md) class.
+
 ## -parameters
 
 ### -param offsetDelta

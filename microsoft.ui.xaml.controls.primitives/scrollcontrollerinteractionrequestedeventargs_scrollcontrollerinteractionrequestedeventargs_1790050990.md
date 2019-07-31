@@ -5,6 +5,8 @@
 
 ## -description
 
+Initializes a new instance of the [ScrollControllerInteractionRequestedEventArgs](scrollcontrollerinteractionrequestedeventargs.md) class.
+
 ## -parameters
 
 ### -param pointerPoint

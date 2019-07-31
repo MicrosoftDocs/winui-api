@@ -5,6 +5,8 @@
 
 ## -description
 
+Initializes a new instance of the [ScrollControllerScrollToRequestedEventArgs](scrollcontrollerscrolltorequestedeventargs.md) class.
+
 ## -parameters
 
 ### -param offset

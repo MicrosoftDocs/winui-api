@@ -5,6 +5,8 @@
 
 ## -description
 
+Initializes a new instance of the [RepeatedZoomSnapPoint](repeatedzoomsnappoint.md) class.
+
 ## -parameters
 
 ### -param offset

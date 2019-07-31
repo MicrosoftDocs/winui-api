@@ -5,9 +5,13 @@
 
 ## -description
 
+Initializes a new instance of the [TabViewAutomationPeer](tabviewautomationpeer.md) class.
+
 ## -parameters
 
 ### -param owner
+
+The [TabView](../microsoft.ui.xaml.controls/tabview.md) control instance to create the peer for.
 
 ## -remarks
 

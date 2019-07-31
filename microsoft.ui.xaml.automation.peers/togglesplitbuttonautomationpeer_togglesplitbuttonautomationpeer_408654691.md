@@ -5,9 +5,13 @@
 
 ## -description
 
+Initializes a new instance of the [ToggleSplitButtonAutomationPeer](togglesplitbuttonautomationpeer.md) class.
+
 ## -parameters
 
 ### -param owner
+
+The [ToggleSplitButton](../microsoft.ui.xaml.controls/togglesplitbutton.md) control instance to create the peer for.
 
 ## -remarks
 

@@ -5,9 +5,13 @@
 
 ## -description
 
+Initializes a new instance of the [TeachingTipAutomationPeer](teachingtipautomationpeer.md) class.
+
 ## -parameters
 
 ### -param owner
+
+The [TeachingTip](../microsoft.ui.xaml.controls/teachingtip.md) control instance to create the peer for.
 
 ## -remarks
 

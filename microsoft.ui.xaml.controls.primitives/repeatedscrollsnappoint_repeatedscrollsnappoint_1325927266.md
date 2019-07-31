@@ -5,6 +5,8 @@
 
 ## -description
 
+Initializes a new instance of the [RepeatedScrollSnapPoint](repeatedscrollsnappoint.md) class.
+
 ## -parameters
 
 ### -param offset

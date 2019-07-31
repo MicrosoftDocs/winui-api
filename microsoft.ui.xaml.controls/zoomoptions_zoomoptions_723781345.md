@@ -5,6 +5,8 @@
 
 ## -description
 
+Initializes a new instance of the [ZoomOptions](zoomoptions.md) class.
+
 ## -parameters
 
 ### -param animationMode

@@ -12,8 +12,12 @@ public ColorSpectrumAutomationPeer.ColorSpectrumAutomationPeer(ColorSpectrum own
 
 ## -description
 
+Initializes a new instance of the [ColorSpectrumAutomationPeer](colorspectrumautomationpeer.md) class.
+
 ## -parameters
 ### -param owner
+
+The [ColorSpectrum](../microsoft.ui.xaml.controls.primitives/colorspectrum.md) control instance to create the peer for.
 
 ## -remarks
 

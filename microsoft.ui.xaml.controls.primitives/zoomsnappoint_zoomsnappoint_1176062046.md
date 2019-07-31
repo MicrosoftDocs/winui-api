@@ -5,6 +5,8 @@
 
 ## -description
 
+Initializes a new instance of the [ZoomSnapPoint](zoomsnappoint.md) class.
+
 ## -parameters
 
 ### -param snapPointValue

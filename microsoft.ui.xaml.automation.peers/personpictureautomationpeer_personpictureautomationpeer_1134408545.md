@@ -12,8 +12,12 @@ public PersonPictureAutomationPeer.PersonPictureAutomationPeer(PersonPicture own
 
 ## -description
 
+Initializes a new instance of the [PersonPictureAutomationPeer](personpictureautomationpeer.md) class.
+
 ## -parameters
 ### -param owner
+
+The [PersonPicture](../microsoft.ui.xaml.controls/personpicture.md) control instance to create the peer for.
 
 ## -remarks
 

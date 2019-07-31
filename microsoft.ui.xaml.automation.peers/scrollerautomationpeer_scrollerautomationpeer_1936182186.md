@@ -5,9 +5,13 @@
 
 ## -description
 
+Initializes a new instance of the [ScrollerAutomationPeer](scrollerautomationpeer.md) class.
+
 ## -parameters
 
 ### -param owner
+
+The [Scroller](../microsoft.ui.xaml.controls.primitives/scroller.md) control instance to create the peer for.
 
 ## -remarks
 

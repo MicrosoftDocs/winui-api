@@ -12,8 +12,12 @@ public RatingControlAutomationPeer.RatingControlAutomationPeer(RatingControl own
 
 ## -description
 
+Initializes a new instance of the [RatingControlAutomationPeer](ratingcontrolautomationpeer.md) class.
+
 ## -parameters
 ### -param owner
+
+The [RatingControl](../microsoft.ui.xaml.controls/ratingcontrol.md) control instance to create the peer for.
 
 ## -remarks
 

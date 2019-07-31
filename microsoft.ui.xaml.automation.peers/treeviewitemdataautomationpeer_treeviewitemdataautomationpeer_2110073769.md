@@ -5,6 +5,8 @@
 
 ## -description
 
+Initializes a new instance of the [TreeViewItemDataAutomationPeer](treeviewitemdataautomationpeer.md) class.
+
 ## -parameters
 
 ### -param item

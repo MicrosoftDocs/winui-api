@@ -12,8 +12,12 @@ public AnimatedVisualPlayerAutomationPeer.AnimatedVisualPlayerAutomationPeer(Ani
 
 ## -description
 
+Initializes a new instance of the [AnimatedVisualPlayerAutomationPeer](animatedvisualplayerautomationpeer.md) class.
+
 ## -parameters
 ### -param owner
+
+The [AnimatedVisualPlayer](../microsoft.ui.xaml.controls/animatedvisualplayer.md) control instance to create the peer for.
 
 ## -remarks
 

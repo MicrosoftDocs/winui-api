@@ -5,6 +5,8 @@
 
 ## -description
 
+Initializes a new instance of the [ScrollSnapPoint](scrollsnappoint.md) class.
+
 ## -parameters
 
 ### -param snapPointValue
