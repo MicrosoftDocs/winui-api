@@ -12,6 +12,8 @@ public class ScrollerBringingIntoViewEventArgs
 
 ## -description
 
+Provides data for the BringingIntoView event.
+
 ## -remarks
 
 ## -see-also

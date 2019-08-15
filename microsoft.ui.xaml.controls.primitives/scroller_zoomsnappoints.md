@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets the collection of snap points for zooming.
+
 ## -property-value
+
+A collection of snap points for zooming. The default is an empty collection.
 
 ## -remarks
 

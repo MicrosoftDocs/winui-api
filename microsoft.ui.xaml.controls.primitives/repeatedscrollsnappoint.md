@@ -5,6 +5,8 @@
 
 ## -description
 
+Represents a repeated snap point used by a [Scroller](scroller.md) during scrolling.
+
 ## -remarks
 
 ## -see-also

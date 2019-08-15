@@ -11,7 +11,11 @@ Initializes a new instance of the [ScrollControllerScrollByRequestedEventArgs](s
 
 ### -param offsetDelta
 
+The difference between the starting offset and the ending offset.
+
 ### -param options
+
+Options that specify whether animation is allowed for the offset change and whether snap points are ignored.
 
 ## -remarks
 

@@ -7,6 +7,8 @@
 
 ## -remarks
 
+Occurs when the interaction state of the Scroller has changed.
+
 ## -see-also
 
 ## -examples

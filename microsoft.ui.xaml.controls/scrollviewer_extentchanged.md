@@ -5,6 +5,8 @@
 
 ## -description
 
+Occurs when the [ExtentHeight](scrollviewer_extentheight.md) or [ExtentWidth](scrollviewer_extentwidth.md) has changed.
+
 ## -remarks
 
 ## -see-also

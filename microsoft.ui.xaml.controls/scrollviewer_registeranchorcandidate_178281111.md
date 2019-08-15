@@ -5,9 +5,13 @@
 
 ## -description
 
+Registers a UIElement as a potential scroll anchor.
+
 ## -parameters
 
 ### -param element
+
+A UIElement within the subtree of the ScrollViewer.
 
 ## -remarks
 

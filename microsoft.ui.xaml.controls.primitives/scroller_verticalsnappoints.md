@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets the collection of snap points for vertical scrolling.
+
 ## -property-value
+
+A collection of snap points for vertical scrolling. The default is an empty collection.
 
 ## -remarks
 

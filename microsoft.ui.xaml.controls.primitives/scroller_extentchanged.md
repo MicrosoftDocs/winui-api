@@ -5,6 +5,8 @@
 
 ## -description
 
+Occurs when the [ExtentHeight](scroller_extentheight.md) or [ExtentWidth](scroller_extentwidth.md) has changed.
+
 ## -remarks
 
 ## -see-also

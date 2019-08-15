@@ -5,6 +5,8 @@
 
 ## -description
 
+Represents a scrollable and zoomable viewport.
+
 ## -remarks
 
 ## -see-also

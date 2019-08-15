@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets the 0-based end of the last snap point.
+
 ## -property-value
+
+The 0-based end of the last snap point. The default is 0.0.
 
 ## -remarks
 

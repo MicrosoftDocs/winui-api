@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets or sets a brush that provides the background of the control.
+
 ## -property-value
+
+A brush that provides the background of the control.
 
 ## -remarks
 

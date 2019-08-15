@@ -11,6 +11,8 @@ Initializes a new instance of the [ScrollOptions](scrolloptions.md) class.
 
 ### -param animationMode
 
+An enumeration value that indicates whether animation is allowed during the scroll action.
+
 ## -remarks
 
 ## -see-also

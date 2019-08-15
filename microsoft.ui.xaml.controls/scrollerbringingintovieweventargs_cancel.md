@@ -12,7 +12,11 @@ public bool Cancel { get;  set; }
 
 ## -description
 
+Gets or sets a value that indicates whether the bring-into-view action should be canceled.
+
 ## -property-value
+
+`true` to cancel the action; otherwise, `false`. The default is `false`.
 
 ## -remarks
 

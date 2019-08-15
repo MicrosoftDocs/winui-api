@@ -11,7 +11,11 @@ Initializes a new instance of the [ScrollControllerScrollToRequestedEventArgs](s
 
 ### -param offset
 
+The offset to scroll to.
+
 ### -param options
+
+Options that specify whether animation is allowed for the offset change and whether snap points are ignored.
 
 ## -remarks
 

@@ -5,6 +5,8 @@
 
 ## -description
 
+Represents options to be applied to a zoom action.
+
 ## -remarks
 
 ## -see-also

@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets information that identifies the zoom action.
+
 ## -property-value
+
+Information that identifies the zoom action.
 
 ## -remarks
 

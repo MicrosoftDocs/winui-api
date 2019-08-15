@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets the zoom factor at which the animation ends.
+
 ## -property-value
+
+The zoom factor at which the animation ends.
 
 ## -remarks
 

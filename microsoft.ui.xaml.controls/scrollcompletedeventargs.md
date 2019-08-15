@@ -5,6 +5,8 @@
 
 ## -description
 
+Provides data for the ScrollCompleted event.
+
 ## -remarks
 
 ## -see-also

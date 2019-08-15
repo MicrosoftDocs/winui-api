@@ -5,6 +5,8 @@
 
 ## -description
 
+Occurs when a call to [ScrollBy](/uwp/api/microsoft.ui.xaml.controls.primitives.scroller.scrollby) or [ScrollTo](/uwp/api/microsoft.ui.xaml.controls.primitives.scroller.scrollto) causes an animation to begin.
+
 ## -remarks
 
 ## -see-also

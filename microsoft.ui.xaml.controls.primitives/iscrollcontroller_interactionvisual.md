@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets the visual element used for interaction.
+
 ## -property-value
+
+The visual element used for interaction.
 
 ## -remarks
 

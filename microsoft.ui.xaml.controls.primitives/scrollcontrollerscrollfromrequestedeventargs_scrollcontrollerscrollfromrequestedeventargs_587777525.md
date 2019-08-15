@@ -11,7 +11,11 @@ Initializes a new instance of the [ScrollControllerScrollFromRequestedEventArgs]
 
 ### -param offsetVelocity
 
+The rate at which the offset change is animated.
+
 ### -param inertiaDecayRate
+
+The rate at which the offset animation slows to a stop.
 
 ## -remarks
 

@@ -5,9 +5,13 @@
 
 ## -description
 
+Provides information about a zoom action.
+
 ## -struct-fields
 
 ### -field ZoomFactorChangeId
+
+The identifier for the zoom factor change.
 
 ## -remarks
 

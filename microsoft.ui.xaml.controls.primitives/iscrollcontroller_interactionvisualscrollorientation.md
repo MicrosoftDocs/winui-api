@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets the scroll orientation of the visual element used for interaction.
+
 ## -property-value
+
+The scroll orientation of the visual element used for interaction.
 
 ## -remarks
 

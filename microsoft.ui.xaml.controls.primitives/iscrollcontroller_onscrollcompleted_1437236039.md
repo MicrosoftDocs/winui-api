@@ -5,9 +5,13 @@
 
 ## -description
 
+Called when a scroll operation ends.
+
 ## -parameters
 
 ### -param info
+
+Info that identifies the scroll operation that ended.
 
 ## -remarks
 

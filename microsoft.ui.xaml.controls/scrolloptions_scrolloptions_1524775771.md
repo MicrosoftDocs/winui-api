@@ -5,13 +5,17 @@
 
 ## -description
 
-Initializes a new instance of the [ScrollOptions](scrolloptions.md) class.
+Initializes a new instance of the [ScrollOptions](scrolloptions.md) class with the specified options.
 
 ## -parameters
 
 ### -param animationMode
 
+An enumeration value that indicates whether animation is allowed during the scroll action.
+
 ### -param snapPointsMode
+
+An enumeration value that indicates whether snap points are ignored.
 
 ## -remarks
 

@@ -5,13 +5,21 @@
 
 ## -description
 
+Scales the content asynchronously to the specified `zoomFactor` amount.
+
 ## -parameters
 
 ### -param zoomFactor
 
+The amount of scaling applied to the content.
+
 ### -param centerPoint
 
+The point around which the content is scaled.
+
 ## -returns
+
+Information about the zoom factor change.
 
 ## -remarks
 

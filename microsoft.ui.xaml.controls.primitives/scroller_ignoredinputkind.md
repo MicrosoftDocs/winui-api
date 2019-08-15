@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets or sets a value that indicates what kinds of input are ignored by the Scroller.
+
 ## -property-value
+
+An enumeration value (or combination of values) that indicates what kinds of input are ignored by the Scroller. The default is `None`.
 
 ## -remarks
 

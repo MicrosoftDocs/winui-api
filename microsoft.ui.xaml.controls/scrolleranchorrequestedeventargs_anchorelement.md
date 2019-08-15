@@ -12,7 +12,11 @@ public UIElement AnchorElement { get;  set; }
 
 ## -description
 
+Gets or sets the selected anchor element.
+
 ## -property-value
+
+The selected anchor element. The default is `null`.
 
 ## -remarks
 

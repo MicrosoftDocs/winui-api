@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets the distance the content has been scrolled vertically.
+
 ## -property-value
+
+The distance the content has been scrolled vertically.
 
 ## -remarks
 

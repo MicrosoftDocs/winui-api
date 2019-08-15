@@ -11,6 +11,8 @@ Initializes a new instance of the [ZoomSnapPoint](zoomsnappoint.md) class.
 
 ### -param snapPointValue
 
+The value of the snap point.
+
 ## -remarks
 
 ## -see-also

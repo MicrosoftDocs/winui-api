@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets a value that indicates the current amount of scaling applied to the content.
+
 ## -property-value
+
+The current amount of scaling applied to the content. The default is 1.0, which indicates no additional scaling.
 
 ## -remarks
 

@@ -5,15 +5,25 @@
 
 ## -description
 
+Scrolls the content asynchronously to the specified offsets with options to control animation and snap points.
+
 ## -parameters
 
 ### -param horizontalOffset
 
+The horizontal offset to scroll to.
+
 ### -param verticalOffset
+
+The vertical offset to scroll to.
 
 ### -param options
 
+Options that specify whether animation is allowed for the offset change and whether snap points are ignored.
+
 ## -returns
+
+Information about the offset change.
 
 ## -remarks
 

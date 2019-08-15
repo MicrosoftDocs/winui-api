@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets the rate at which the offset change is animated.
+
 ## -property-value
+
+The rate at which the offset change is animated.
 
 ## -remarks
 

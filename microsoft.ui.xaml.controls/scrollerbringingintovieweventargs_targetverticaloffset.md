@@ -12,7 +12,11 @@ public double TargetVerticalOffset { get; }
 
 ## -description
 
+Gets the target vertical offset.
+
 ## -property-value
+
+The target vertical offset.
 
 ## -remarks
 

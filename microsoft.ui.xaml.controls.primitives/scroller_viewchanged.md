@@ -5,7 +5,7 @@
 
 ## -description
 
-## -remarks
+Occurs when manipulations such as scrolling and zooming have caused the view to change.
 
 ## -see-also
 

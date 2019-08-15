@@ -5,6 +5,8 @@
 
 ## -description
 
+Occurs when user interaction changes the scroll location of the scroll control.
+
 ## -remarks
 
 ## -see-also

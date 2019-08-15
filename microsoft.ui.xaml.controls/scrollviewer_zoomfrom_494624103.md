@@ -5,15 +5,25 @@
 
 ## -description
 
+Animates the scaling of content asynchronously with the specified inertia.
+
 ## -parameters
 
 ### -param zoomFactorVelocity
 
+The rate at which the zoom scaling is animated.
+
 ### -param centerPoint
+
+The point around which the content is scaled.
 
 ### -param inertiaDecayRate
 
+The rate at which the zoom animation slows to a stop.
+
 ## -returns
+
+Information about the zoom factor change.
 
 ## -remarks
 

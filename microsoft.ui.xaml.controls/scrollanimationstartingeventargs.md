@@ -5,6 +5,8 @@
 
 ## -description
 
+Provides data for the ScrollAnimationStarting event.
+
 ## -remarks
 
 ## -see-also

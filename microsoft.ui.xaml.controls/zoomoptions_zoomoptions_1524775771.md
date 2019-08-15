@@ -5,13 +5,17 @@
 
 ## -description
 
-Initializes a new instance of the [ZoomOptions](zoomoptions.md) class.
+Initializes a new instance of the [ZoomOptions](zoomoptions.md) class with the specified options.
 
 ## -parameters
 
 ### -param animationMode
 
+An enumeration value that indicates whether animation is allowed during the zoom action.
+
 ### -param snapPointsMode
+
+An enumeration value that indicates whether snap points are ignored.
 
 ## -remarks
 

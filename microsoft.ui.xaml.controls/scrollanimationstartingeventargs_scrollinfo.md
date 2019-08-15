@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets information that identifies the scroll operation.
+
 ## -property-value
+
+Information that identifies the scroll operation.
 
 ## -remarks
 

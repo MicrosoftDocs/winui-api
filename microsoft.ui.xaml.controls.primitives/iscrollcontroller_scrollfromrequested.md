@@ -5,6 +5,8 @@
 
 ## -description
 
+Occurs when a call to `ScrollFrom` changes the scroll location of the scroll control.
+
 ## -remarks
 
 ## -see-also

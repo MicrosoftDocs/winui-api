@@ -12,7 +12,11 @@ public BringIntoViewRequestedEventArgs RequestEventArgs { get; }
 
 ## -description
 
+Gets the [BringIntoViewRequestedEventArgs](/uwp/api/windows.ui.xaml.bringintoviewrequestedeventargs) object from the [BringIntoViewRequested](/uwp/api/windows.ui.xaml.uielement.bringintoviewrequested) event that is being processed.
+
 ## -property-value
+
+The [BringIntoViewRequestedEventArgs](/uwp/api/windows.ui.xaml.bringintoviewrequestedeventargs) object from the [BringIntoViewRequested](/uwp/api/windows.ui.xaml.uielement.bringintoviewrequested) event that is being processed.
 
 ## -remarks
 

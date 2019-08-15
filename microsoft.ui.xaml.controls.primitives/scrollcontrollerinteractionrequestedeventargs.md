@@ -5,6 +5,8 @@
 
 ## -description
 
+Provides data for the [IScrollController.InteractionRequested](iscrollcontroller_interactionrequested.md) event.
+
 ## -remarks
 
 ## -see-also

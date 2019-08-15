@@ -12,6 +12,8 @@ public class ScrollerAnchorRequestedEventArgs
 
 ## -description
 
+Provides data for the AnchorRequested event.
+
 ## -remarks
 
 ## -see-also

@@ -11,7 +11,11 @@ Initializes a new instance of the [ScrollSnapPoint](scrollsnappoint.md) class.
 
 ### -param snapPointValue
 
+The value of the snap point.
+
 ### -param alignment
+
+An enumeration value that indicates how the snap point is aligned relative to an edge of the viewport.
 
 ## -remarks
 

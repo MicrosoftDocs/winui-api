@@ -11,6 +11,8 @@ Initializes a new instance of the [ZoomOptions](zoomoptions.md) class.
 
 ### -param animationMode
 
+An enumeration value that indicates whether animation is allowed during the zoom action.
+
 ## -remarks
 
 ## -see-also

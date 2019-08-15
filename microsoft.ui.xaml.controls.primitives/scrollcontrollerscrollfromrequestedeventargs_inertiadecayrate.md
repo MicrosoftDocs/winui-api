@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets the rate at which the offset animation slows to a stop.
+
 ## -property-value
+
+The rate at which the offset animation slows to a stop.
 
 ## -remarks
 

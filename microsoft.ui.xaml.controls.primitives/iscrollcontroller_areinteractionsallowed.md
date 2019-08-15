@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets a value that indicates whether a user can interact with the scroll controller.
+
 ## -property-value
+
+`true` if a user can interact with the scroll controller; otherwise, `false`.
 
 ## -remarks
 

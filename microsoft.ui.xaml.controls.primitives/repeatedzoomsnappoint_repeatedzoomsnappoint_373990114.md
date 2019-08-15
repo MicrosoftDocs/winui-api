@@ -11,11 +11,19 @@ Initializes a new instance of the [RepeatedZoomSnapPoint](repeatedzoomsnappoint.
 
 ### -param offset
 
+The 0-based offset of all snap points.
+
 ### -param interval
+
+The interval value between two consecutive snap points.
 
 ### -param start
 
+The 0-based start of the first snap point.
+
 ### -param end
+
+The 0-based end of the last snap point.
 
 ## -remarks
 

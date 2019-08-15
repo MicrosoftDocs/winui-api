@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets the x/y coordinates that the animation starts from.
+
 ## -property-value
+
+The x/y coordinates that the animation starts from.
 
 ## -remarks
 

@@ -5,6 +5,8 @@
 
 ## -description
 
+Provides data for the ZoomCompleted event.
+
 ## -remarks
 
 ## -see-also

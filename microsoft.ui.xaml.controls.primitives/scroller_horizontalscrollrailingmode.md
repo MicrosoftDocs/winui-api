@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets or sets a value that indicates whether the scroll rail is enabled for the horizontal axis.
+
 ## -property-value
+
+`Enabled` to enable the horizontal scroll rail; otherwise, `Disabled`. The default is `Enabled`.
 
 ## -remarks
 

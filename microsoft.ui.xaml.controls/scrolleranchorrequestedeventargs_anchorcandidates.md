@@ -12,7 +12,11 @@ public IVector<UIElement> AnchorCandidates { get; }
 
 ## -description
 
+Gets the collection of potential anchors that the anchor element is chosen from.
+
 ## -property-value
+
+The collection of potential anchors that the anchor element is chosen from. The default is an empty collection.
 
 ## -remarks
 

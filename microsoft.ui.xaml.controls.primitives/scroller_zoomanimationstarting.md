@@ -5,6 +5,8 @@
 
 ## -description
 
+Occurs when a call to [ZoomBy](/uwp/api/microsoft.ui.xaml.controls.primitives.scroller.zoomby) or [ZoomTo](/uwp/api/microsoft.ui.xaml.controls.primitives.scroller.zoomto) causes an animation to begin.
+
 ## -remarks
 
 ## -see-also

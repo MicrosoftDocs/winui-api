@@ -5,6 +5,8 @@
 
 ## -description
 
+Occurs when a property of the scroll controller has changed.
+
 ## -remarks
 
 ## -see-also

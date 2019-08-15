@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets or sets the scroll controller (often a ScrollBar) used for horizontal scrolling.
+
 ## -property-value
+
+The scroll controller (often a ScrollBar) used for horizontal scrolling. The default is `null`.
 
 ## -remarks
 

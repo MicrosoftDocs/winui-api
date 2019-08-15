@@ -5,6 +5,8 @@
 
 ## -description
 
+Represents a scrollable and zoomable area that can contain other visible elements.
+
 ## -remarks
 
 ## -see-also

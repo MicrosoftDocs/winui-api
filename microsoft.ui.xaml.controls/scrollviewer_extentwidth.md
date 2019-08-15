@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets the horizontal size of all the scrollable content in the ScrollViewer.
+
 ## -property-value
+
+The horizontal size of all the scrollable content in the ScrollViewer.
 
 ## -remarks
 

@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets or sets a value that indicates whether a horizontal ScrollBar should be displayed.
+
 ## -property-value
+
+A value of the enumeration that indicates whether a horizontal ScrollBar should be displayed. The default value is `Auto`.
 
 ## -remarks
 

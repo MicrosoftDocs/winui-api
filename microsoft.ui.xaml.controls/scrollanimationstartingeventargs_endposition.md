@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets the x/y coordinates at which the animation ends.
+
 ## -property-value
+
+The x/y coordinates at which the animation ends.
 
 ## -remarks
 

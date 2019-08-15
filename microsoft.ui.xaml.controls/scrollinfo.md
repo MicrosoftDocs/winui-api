@@ -5,9 +5,13 @@
 
 ## -description
 
+Provides an identifier for a scroll operation.
+
 ## -struct-fields
 
 ### -field OffsetsChangeId
+
+The identifier for the offset change.
 
 ## -remarks
 

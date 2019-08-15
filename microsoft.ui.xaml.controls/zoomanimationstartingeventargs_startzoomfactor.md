@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets the zoom factor that the animation starts from.
+
 ## -property-value
+
+The zoom factor that the animation starts from.
 
 ## -remarks
 

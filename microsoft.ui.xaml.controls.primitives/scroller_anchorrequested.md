@@ -5,6 +5,8 @@
 
 ## -description
 
+Occurs when an anchor is requested at the beginning of the Arrange pass.
+
 ## -remarks
 
 ## -see-also

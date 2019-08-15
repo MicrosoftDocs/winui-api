@@ -5,6 +5,8 @@
 
 ## -description
 
+Occurs when an element starts to be programmatically moved into view.
+
 ## -remarks
 
 ## -see-also

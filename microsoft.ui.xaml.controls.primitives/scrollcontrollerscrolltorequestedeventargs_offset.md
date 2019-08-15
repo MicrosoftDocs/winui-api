@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets the offset to scroll to.
+
 ## -property-value
+
+The offset to scroll to.
 
 ## -remarks
 

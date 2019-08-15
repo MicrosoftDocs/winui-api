@@ -5,6 +5,8 @@
 
 ## -description
 
+Occurs when the interaction state of the ScrollViewer has changed.
+
 ## -remarks
 
 ## -see-also

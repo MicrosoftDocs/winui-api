@@ -5,6 +5,8 @@
 
 ## -description
 
+The base class for snap points used by a [Scroller](scroller.md).
+
 ## -remarks
 
 ## -see-also

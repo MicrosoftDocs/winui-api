@@ -5,6 +5,8 @@
 
 ## -description
 
+Provides data for the [IScrollController.ScrollToRequested](iscrollcontroller_scrolltorequested.md) event.
+
 ## -remarks
 
 ## -see-also

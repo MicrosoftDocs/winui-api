@@ -5,13 +5,21 @@
 
 ## -description
 
+Scales the content asynchronously by the specified delta amount.
+
 ## -parameters
 
 ### -param zoomFactorDelta
 
+The difference between the starting zoom factor and the ending zoom factor.
+
 ### -param centerPoint
 
+The point around which the content is scaled.
+
 ## -returns
+
+Information about the zoom action.
 
 ## -remarks
 

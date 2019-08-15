@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets the point around which the content is scaled.
+
 ## -property-value
+
+The point around which the content is scaled.
 
 ## -remarks
 
