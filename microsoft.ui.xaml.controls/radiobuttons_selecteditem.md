@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets or sets the selected radio button.
+
 ## -property-value
+
+The selected radio button. The default is `null`.
 
 ## -remarks
 

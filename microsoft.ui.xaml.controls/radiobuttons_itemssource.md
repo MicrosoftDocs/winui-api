@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets or sets an object source used to generate the content of the control.
+
 ## -property-value
+
+The object that is used to generate the content of the control. The default is `null`.
 
 ## -remarks
 

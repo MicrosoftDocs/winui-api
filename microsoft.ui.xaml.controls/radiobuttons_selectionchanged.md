@@ -5,6 +5,8 @@
 
 ## -description
 
+Occurs when the currently selected item changes.
+
 ## -remarks
 
 ## -see-also

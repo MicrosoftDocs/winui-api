@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets or sets the index of the selected radio button.
+
 ## -property-value
+
+The index of the selected radio button. The default is -1, which indicates that no radio button is selected.
 
 ## -remarks
 

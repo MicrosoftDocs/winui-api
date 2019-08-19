@@ -5,6 +5,8 @@
 
 ## -description
 
+Represents a control that displays a group of related RadioButton controls.
+
 ## -remarks
 
 ## -see-also

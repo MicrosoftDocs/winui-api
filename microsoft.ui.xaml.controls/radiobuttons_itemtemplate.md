@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets or sets the [DataTemplate](/uwp/api/windows.ui.xaml.datatemplate) used to display each item.
+
 ## -property-value
+
+The template that specifies the visualization of the data objects. The default is `null`.
 
 ## -remarks
 

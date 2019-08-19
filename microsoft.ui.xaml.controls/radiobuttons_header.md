@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets or sets the content for the group header.
+
 ## -property-value
+
+The content of the group header. The default value is `null`.
 
 ## -remarks
 
