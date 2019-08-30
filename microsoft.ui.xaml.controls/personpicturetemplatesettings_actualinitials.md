@@ -5,7 +5,11 @@
 
 ## -description
 
+Gets the contact's initials.
+
 ## -property-value
+
+The contact's initials.
 
 ## -remarks
 

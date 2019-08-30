@@ -12,6 +12,8 @@ public class SelectionModelChildrenRequestedEventArgs
 
 ## -description
 
+Provides data for the [SelectionModel.ChildrenRequested](selectionmodel_childrenrequested.md) event.
+
 ## -remarks
 
 ## -see-also

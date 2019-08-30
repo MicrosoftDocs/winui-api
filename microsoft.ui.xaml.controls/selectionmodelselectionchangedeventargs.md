@@ -12,6 +12,8 @@ public class SelectionModelSelectionChangedEventArgs
 
 ## -description
 
+Provides data for the [SelectionModel.SelectionChanged](selectionmodel_selectionchanged.md) event.
+
 ## -remarks
 
 ## -see-also
