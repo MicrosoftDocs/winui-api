@@ -5,11 +5,11 @@
 
 ## -description
 
-Gets or sets the content inside the TabViewItem. 
+Gets or sets the content that appears inside the tab strip to represent the tab. 
 
 ## -property-value
 
-The content inside the TabViewItem.
+The content that appears inside the tab strip to represent the tab. 
 
 ## -remarks
 
