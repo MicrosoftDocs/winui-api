@@ -17,19 +17,19 @@ Use the ItemsSource property to specify the collection to use to generate the co
 
 This list shows available interfaces and when to consider using each one.
 
-- [IEnumerable](/dotnet/api/system.collections.generic.ienumerable-1) (.NET) / [IIterable](/uwp/api/windows.foundation.collections.iiterable_t_)
+- [IEnumerable&lt;T&gt;](/dotnet/api/system.collections.generic.ienumerable-1) (.NET) / [IIterable&lt;T&gt;](/uwp/api/windows.foundation.collections.iiterable_t_)
 
   - Can be used for small, static data sets.
 
     At a minimum, the data source must implement the IEnumerable / IIterable interface. If this is all that's supported then the control will iterate through everything once to create a copy that it can use to access items via an index value.
 
-- [IReadonlyList](/dotnet/api/system.collections.generic.ireadonlylist-1) (.NET) / [IVectorView](/uwp/api/windows.foundation.collections.ivectorview_t_)
+- [IReadonlyList](/dotnet/api/system.collections.generic.ireadonlylist-1&lt;T&gt;) (.NET) / [IVectorView&lt;T&gt;](/uwp/api/windows.foundation.collections.ivectorview_t_)
 
   - Can be used for static, read-only data sets.
 
     Enables the control to access items by index and avoids the redundant internal copy.
 
-- [IList](/dotnet/api/system.collections.generic.ilist-1) (.NET) / [IVector](/uwp/api/windows.foundation.collections.ivector_t_)
+- [IList&lt;T&gt;](/dotnet/api/system.collections.generic.ilist-1) (.NET) / [IVector&lt;T&gt;](/uwp/api/windows.foundation.collections.ivector_t_)
 
   - Can be used for static data sets.
 
@@ -44,7 +44,7 @@ This list shows available interfaces and when to consider using each one.
 
     Enables the control to observe and react to changes in the data source and reflect those changes in the UI.
 
-- [IObservableVector](/uwp/api/windows.foundation.collections.iobservablevector_t_)
+- [IObservableVector&lt;T&gt;](/uwp/api/windows.foundation.collections.iobservablevector_t_)
 
   - Supports change notification
 
