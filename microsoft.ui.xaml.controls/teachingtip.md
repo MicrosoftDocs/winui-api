@@ -13,3 +13,9 @@ A teaching tip is a semi-persistent and content-rich flyout that provides contex
 
 ## -examples
 
+> [!TIP]
+> For more info, design guidance, and code examples, see [Teaching tip](/windows/uwp/design/controls-and-patterns/dialogs-and-flyouts/teaching-tip).
+>
+> If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the TeachingTip in action](xamlcontrolsgallery:/item/TeachingTip).
+> + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
+> + [Get the source code (GitHub)](https://github.com/Microsoft/Xaml-Controls-Gallery)
