@@ -3,6 +3,12 @@
 -api-type: winrt namespace
 ---
 
+<!-- Namespace syntax.
+namespace Microsoft.UI.Xaml
+-->
+
+# Microsoft.UI.Xaml
+
 ## -description
 
 ## -remarks
