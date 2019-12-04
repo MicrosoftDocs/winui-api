@@ -18,6 +18,8 @@ Retrieves a value that indicates whether the item at the specified index in a 2-
 
 The index of the group the item is in.
 
+### -param groupIndex
+
 ### -param itemIndex
 
 The index of the item.

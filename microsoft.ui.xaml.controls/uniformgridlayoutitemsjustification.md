@@ -2,7 +2,6 @@
 -api-id: T:Microsoft.UI.Xaml.Controls.UniformGridLayoutItemsJustification
 -api-type: winrt enumeration
 ---
-
 ## -description
 
 Defines constants that specify how items are aligned on the non-scrolling or non-virtualizing axis.
@@ -28,6 +27,8 @@ Items are aligned so that extra space is added evenly between adjacent items. No
 ### -field Start
 
 Items are aligned with the start of the row or column, with extra space at the end. Spacing between items does not change.
+
+### -field SpaceEvenly
 
 ## -remarks
 

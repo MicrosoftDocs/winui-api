@@ -5,9 +5,11 @@
 
 ## -description
 
-Identifies the TabItemsSource dependency property.
+Identifies the [TabItemsSource](tabview_tabitemssource.md) dependency property.
 
 ## -property-value
+
+The identifier for the [TabItemsSource](tabview_tabitemssource.md) dependency property.
 
 ## -remarks
 

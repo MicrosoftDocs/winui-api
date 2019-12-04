@@ -5,9 +5,11 @@
 
 ## -description
 
-Identifies the SelectedItem dependency property.
+Identifies the [SelectedItem](tabview_selecteditem.md) dependency property.
 
 ## -property-value
+
+The identifier for the [SelectedItem](tabview_selecteditem.md) dependency property.
 
 ## -remarks
 

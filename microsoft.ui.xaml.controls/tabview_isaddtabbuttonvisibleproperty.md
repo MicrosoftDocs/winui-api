@@ -5,9 +5,11 @@
 
 ## -description
 
-Identifies the IsAddTabButtonVisible dependency property.
+Identifies the [IsAddTabButtonVisible](tabview_isaddtabbuttonvisible.md) dependency property.
 
 ## -property-value
+
+The identifier for the [IsAddTabButtonVisible](tabview_isaddtabbuttonvisible.md) dependency property.
 
 ## -remarks
 

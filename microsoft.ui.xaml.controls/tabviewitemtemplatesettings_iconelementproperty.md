@@ -5,9 +5,11 @@
 
 ## -description
 
-Identifies the IconElement dependency property.
+Identifies the [IconElement](tabviewitemtemplatesettings_iconelement.md) dependency property.
 
 ## -property-value
+
+The identifier for the [IconElement](tabviewitemtemplatesettings_iconelement.md) dependency property.
 
 ## -remarks
 

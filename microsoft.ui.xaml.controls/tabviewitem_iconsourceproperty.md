@@ -5,9 +5,11 @@
 
 ## -description
 
-Identifies the IconSource dependency property.
+Identifies the [IconSource](tabviewitem_iconsource.md) dependency property.
 
 ## -property-value
+
+The identifier for the [IconSource](tabviewitem_iconsource.md) dependency property.
 
 ## -remarks
 

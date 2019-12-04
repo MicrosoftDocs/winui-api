@@ -5,9 +5,11 @@
 
 ## -description
 
-Identifies the TabStripHeaderTemplate dependency property.
+Identifies the [TabStripHeaderTemplate](tabview_tabstripheadertemplate.md) dependency property.
 
 ## -property-value
+
+The identifier for the [TabStripHeaderTemplate](tabview_tabstripheadertemplate.md) dependency property.
 
 ## -remarks
 

@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [KeepInteriorCornersSquare](comboboxhelper_keepinteriorcornerssquare.md) dependency property.
+
 ## -property-value
+
+The identifier for the [KeepInteriorCornersSquare](comboboxhelper_keepinteriorcornerssquare.md) dependency property.
 
 ## -remarks
 

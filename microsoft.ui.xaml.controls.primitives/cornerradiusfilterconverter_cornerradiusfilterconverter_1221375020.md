@@ -5,9 +5,10 @@
 
 ## -description
 
+Initializes a new instance of the [CornerRadiusFilterConverter](cornerradiusfilterconverter.md) class.
+
 ## -remarks
 
 ## -see-also
 
 ## -examples
-

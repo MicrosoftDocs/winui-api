@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [KeepInteriorCornersSquare](autosuggestboxhelper_keepinteriorcornerssquare.md) dependency property.
+
 ## -property-value
+
+The identifier for the [KeepInteriorCornersSquare](autosuggestboxhelper_keepinteriorcornerssquare.md) dependency property.
 
 ## -remarks
 

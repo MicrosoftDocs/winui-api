@@ -5,9 +5,11 @@
 
 ## -description
 
-Identifies the TabViewTemplateSettings dependency property.
+Identifies the [TabViewTemplateSettings](tabviewitem_tabviewtemplatesettings.md) dependency property.
 
 ## -property-value
+
+The identifier for the [TabViewTemplateSettings](tabviewitem_tabviewtemplatesettings.md) dependency property.
 
 ## -remarks
 
