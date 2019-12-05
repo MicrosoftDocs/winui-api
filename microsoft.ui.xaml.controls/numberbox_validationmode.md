@@ -5,6 +5,8 @@
 
 ## -description
 
+Gets or sets the input validation behavior to invoke when invalid input is entered.
+
 ## -property-value
 
 ## -remarks

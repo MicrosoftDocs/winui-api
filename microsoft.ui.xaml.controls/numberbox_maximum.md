@@ -5,6 +5,9 @@
 
 ## -description
 
+Gets or sets the numerical maximum for [Value](numberbox_value.md).
+
+
 ## -property-value
 
 ## -remarks

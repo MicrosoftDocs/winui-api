@@ -5,6 +5,8 @@
 
 ## -description
 
+Gets or sets the object used to specify the formatting of [Value](numberbox_value.md).
+
 ## -property-value
 
 ## -remarks

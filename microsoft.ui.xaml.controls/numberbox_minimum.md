@@ -5,6 +5,8 @@
 
 ## -description
 
+Gets or sets the numerical minimum for [Value](numberbox_value.md).
+
 ## -property-value
 
 ## -remarks

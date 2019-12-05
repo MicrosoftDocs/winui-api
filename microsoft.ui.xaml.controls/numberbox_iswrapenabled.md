@@ -5,6 +5,8 @@
 
 ## -description
 
+Toggles whether line breaking occurs if a line of text extends beyond the available width of the control. 
+
 ## -property-value
 
 ## -remarks

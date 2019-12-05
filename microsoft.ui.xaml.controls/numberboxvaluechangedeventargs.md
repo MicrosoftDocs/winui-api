@@ -5,6 +5,8 @@
 
 ## -description
 
+Provides event data for the [NumberBox.ValueChanged](numberbox_valuechanged.md) event.
+
 ## -remarks
 
 ## -see-also

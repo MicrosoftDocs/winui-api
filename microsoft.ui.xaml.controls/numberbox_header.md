@@ -5,6 +5,8 @@
 
 ## -description
 
+Gets or sets the content for the control's header.
+
 ## -property-value
 
 ## -remarks

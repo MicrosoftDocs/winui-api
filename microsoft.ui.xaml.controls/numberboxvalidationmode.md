@@ -5,6 +5,8 @@
 
 ## -description
 
+Preconfigured input validation behavior invoked when invalid input is entered.
+
 ## -enum-fields
 
 ### -field Disabled

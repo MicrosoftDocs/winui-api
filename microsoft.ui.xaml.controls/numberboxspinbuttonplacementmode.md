@@ -5,6 +5,8 @@
 
 ## -description
 
+Placement configuration for spin buttons which are used to increment or decrement the [Value](numberbox_value.md) of a [NumberBox](numberbox.md). 
+
 ## -enum-fields
 
 ### -field Hidden

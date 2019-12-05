@@ -5,6 +5,9 @@
 
 ## -description
 
+Contains the new [Value](numberbox_value.md) to be set for a [NumberBox](numberbox.md).
+
+
 ## -property-value
 
 ## -remarks

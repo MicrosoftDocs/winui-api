@@ -5,6 +5,8 @@
 
 ## -description
 
+Contains the old [Value](numberbox_value.md) being replaced in a [NumberBox](numberbox.md).
+
 ## -property-value
 
 ## -remarks

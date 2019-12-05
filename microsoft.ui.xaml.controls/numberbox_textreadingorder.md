@@ -5,6 +5,8 @@
 
 ## -description
 
+Gets or sets a value that indicates how the reading order is determined for the [NumberBox](numberbox.md).
+
 ## -property-value
 
 ## -remarks

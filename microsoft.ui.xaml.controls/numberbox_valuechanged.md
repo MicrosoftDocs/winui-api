@@ -5,6 +5,8 @@
 
 ## -description
 
+Occurs after the user triggers evaluation of new input by pressing the Enter key, clicking a spin button, or by changing focus.
+
 ## -remarks
 
 ## -see-also
