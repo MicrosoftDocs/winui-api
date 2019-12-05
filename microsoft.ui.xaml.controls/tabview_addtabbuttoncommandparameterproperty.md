@@ -5,9 +5,11 @@
 
 ## -description
 
-Identifies the AddTabButtonCommandParameter dependency property.
+Identifies the [AddTabButtonCommandParameter](tabview_addtabbuttoncommandparameter.md) dependency property.
 
 ## -property-value
+
+The identifier for the [AddTabButtonCommandParameter](tabview_addtabbuttoncommandparameter.md) dependency property.
 
 ## -remarks
 

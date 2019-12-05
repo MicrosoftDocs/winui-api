@@ -5,9 +5,11 @@
 
 ## -description
 
-Identifies the AllowDropTabs dependency property.
+Identifies the [AllowDropTabs](tabview_allowdroptabs.md) dependency property.
 
 ## -property-value
+
+The identifier for the [AllowDropTabs](tabview_allowdroptabs.md) dependency property.
 
 ## -remarks
 

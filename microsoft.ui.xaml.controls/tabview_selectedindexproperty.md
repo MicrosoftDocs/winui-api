@@ -5,9 +5,11 @@
 
 ## -description
 
-Identifies the SelectedIndex dependency property.
+Identifies the [SelectedIndex](tabview_selectedindex.md) dependency property.
 
 ## -property-value
+
+The identifier for the [SelectedIndex](tabview_selectedindex.md) dependency property.
 
 ## -remarks
 

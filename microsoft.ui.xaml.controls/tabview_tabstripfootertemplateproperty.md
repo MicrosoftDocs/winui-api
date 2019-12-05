@@ -5,9 +5,11 @@
 
 ## -description
 
-Identifies the TabStripFooterTemplate dependency property.
+Identifies the [TabStripFooterTemplate](tabview_tabstripfootertemplate.md) dependency property.
 
 ## -property-value
+
+The identifier for the [TabStripFooterTemplate](tabview_tabstripfootertemplate.md) dependency property.
 
 ## -remarks
 

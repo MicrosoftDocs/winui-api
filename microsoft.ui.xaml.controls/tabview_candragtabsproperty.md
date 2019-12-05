@@ -5,9 +5,11 @@
 
 ## -description
 
-Identifies the CanDragTabs dependency property.
+Identifies the [CanDragTabs](tabview_candragtabs.md) dependency property.
 
 ## -property-value
+
+The identifier for the [CanDragTabs](tabview_candragtabs.md) dependency property.
 
 ## -remarks
 

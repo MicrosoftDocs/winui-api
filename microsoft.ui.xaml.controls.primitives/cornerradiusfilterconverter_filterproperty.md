@@ -5,11 +5,14 @@
 
 ## -description
 
+Identifies the [Filter](cornerradiusfilterconverter_filter.md) dependency property.
+
 ## -property-value
+
+The identifier for the [Filter](cornerradiusfilterconverter_filter.md) dependency property.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-

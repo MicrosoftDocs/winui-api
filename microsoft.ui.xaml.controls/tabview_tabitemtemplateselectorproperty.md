@@ -5,9 +5,11 @@
 
 ## -description
 
-Identifies the TabItemTemplateSelector dependency property.
+Identifies the [TabItemTemplateSelector](tabview_tabitemtemplateselector.md) dependency property.
 
 ## -property-value
+
+The identifier for the [TabItemTemplateSelector](tabview_tabitemtemplateselector.md) dependency property.
 
 ## -remarks
 

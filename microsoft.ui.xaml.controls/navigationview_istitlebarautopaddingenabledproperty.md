@@ -5,7 +5,11 @@
 
 ## -description
 
+Identifies the [IsTitleBarAutoPaddingEnabled](navigationview_istitlebarautopaddingenabled.md) dependency property.
+
 ## -property-value
+
+The identifier for the [IsTitleBarAutoPaddingEnabled](navigationview_istitlebarautopaddingenabled.md) dependency property.
 
 ## -remarks
 

@@ -5,6 +5,8 @@
 
 ## -description
 
+Initializes a new instance of the [TabViewItemTemplateSettings](tabviewitemtemplatesettings.md) class.
+
 ## -remarks
 
 ## -see-also
