@@ -48,7 +48,7 @@
        "ms.author": "wdg-dev-content",
        "extendBreadcrumb": true,
        "ms.prod": "uwp",
-       "ms.technology": "winrt-reference",
+       "ms.technology": "winui",
        "ms.topic": "managed-reference",
        "ms.date": "11/26/2019",
        "keywords": "windows 10, uwp, winrt, api, winui, Windows UI Library",
