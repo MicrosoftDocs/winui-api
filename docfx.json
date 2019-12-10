@@ -41,18 +41,21 @@
     "globalMetadata": {
       "apiPlatform": "dotnet",
       "breadcrumb_path": "~/breadcrumb/toc.yml",
-	   "uhfHeaderId": "MSDocsHeader-WinRT",
-       "titleSuffix": "Windows UWP applications",
-       "defaultDevLang": "csharp",
-       "author": "wdg-dev-content",
-       "ms.author": "wdg-dev-content",
-       "extendBreadcrumb": true,
-       "ms.prod": "uwp",
-       "ms.technology": "winui",
-       "ms.topic": "managed-reference",
-       "ms.date": "11/26/2019",
-       "keywords": "windows 10, uwp, winrt, api, winui, Windows UI Library",
-       "searchScope": ["UWP"]  
+      "feedback_system": "GitHub",
+      "feedback_github_repo": "MicrosoftDocs/winui-api",
+      "feedback_product_url": "https://github.com/microsoft/microsoft-ui-xaml/issues/new/choose",
+      "uhfHeaderId": "MSDocsHeader-WinRT",
+      "titleSuffix": "Windows UWP applications",
+      "defaultDevLang": "csharp",
+      "author": "wdg-dev-content",
+      "ms.author": "wdg-dev-content",
+      "extendBreadcrumb": true,
+      "ms.prod": "uwp",
+      "ms.technology": "winui",
+      "ms.topic": "managed-reference",
+      "ms.date": "11/26/2019",
+      "keywords": "windows 10, uwp, winrt, api, winui, Windows UI Library",
+      "searchScope": ["UWP"]  
     },
     "fileMetadata": {
       "author":
