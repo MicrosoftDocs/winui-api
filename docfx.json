@@ -39,6 +39,7 @@
       ]
     },
     "globalMetadata": {
+      "ROBOTS": "INDEX, FOLLOW",
       "apiPlatform": "dotnet",
       "breadcrumb_path": "~/breadcrumb/toc.yml",
       "feedback_system": "GitHub",
