@@ -16,7 +16,6 @@ Provides support for the XAML schema.
 ## -remarks
 This namespace requires the **Microsoft.UI.Xaml.Core.Direct** NuGet package, a part of the [Microsoft Windows UI Library](https://aka.ms/winui-docs).
 
-
 ## -see-also
 
 ## -examples
