@@ -61,25 +61,25 @@
     "fileMetadata": {
       "author":
       {
-       "microsoft.ui.xaml/*.md": "Karl-Bridge-Microsoft",
-       "microsoft.ui.xaml.automation.peers/*.md": "Karl-Bridge-Microsoft",
-       "microsoft.ui.xaml.controls/*.md": "Karl-Bridge-Microsoft",
-       "microsoft.ui.xaml.controls.primitives/*.md": "Karl-Bridge-Microsoft",
-       "microsoft.ui.xaml.core.direct/*.md": "Karl-Bridge-Microsoft",
-       "microsoft.ui.xaml.customattributes/*.md": "Karl-Bridge-Microsoft",
-       "microsoft.ui.xaml.media/*.md": "Karl-Bridge-Microsoft",
-       "microsoft.ui.xaml.xamltypeinfo/*.md": "Karl-Bridge-Microsoft"
+       "microsoft.ui.xaml/**/*.md": "Karl-Bridge-Microsoft",
+       "microsoft.ui.xaml.automation.peers/**/*.md": "Karl-Bridge-Microsoft",
+       "microsoft.ui.xaml.controls/**/*.md": "Karl-Bridge-Microsoft",
+       "microsoft.ui.xaml.controls.primitives/**/*.md": "Karl-Bridge-Microsoft",
+       "microsoft.ui.xaml.core.direct/**/*.md": "Karl-Bridge-Microsoft",
+       "microsoft.ui.xaml.customattributes/**/*.md": "Karl-Bridge-Microsoft",
+       "microsoft.ui.xaml.media/**/*.md": "Karl-Bridge-Microsoft",
+       "microsoft.ui.xaml.xamltypeinfo/**/*.md": "Karl-Bridge-Microsoft"
       },
       "ms.author":
       {
-        "microsoft.ui.xaml/*.md": "kbridge",
-        "microsoft.ui.xaml.automation.peers/*.md": "kbridge",
-        "microsoft.ui.xaml.controls/*.md": "kbridge",
-        "microsoft.ui.xaml.controls.primitives/*.md": "kbridge",
-        "microsoft.ui.xaml.core.direct/*.md": "kbridge",
-        "microsoft.ui.xaml.customattributes/*.md": "kbridge",
-        "microsoft.ui.xaml.media/*.md": "kbridge",
-        "microsoft.ui.xaml.xamltypeinfo/*.md": "kbridge" 
+        "microsoft.ui.xaml/**/*.md": "kbridge",
+        "microsoft.ui.xaml.automation.peers/**/*.md": "kbridge",
+        "microsoft.ui.xaml.controls/**/*.md": "kbridge",
+        "microsoft.ui.xaml.controls.primitives/**/*.md": "kbridge",
+        "microsoft.ui.xaml.core.direct/**/*.md": "kbridge",
+        "microsoft.ui.xaml.customattributes/**/*.md": "kbridge",
+        "microsoft.ui.xaml.media/**/*.md": "kbridge",
+        "microsoft.ui.xaml.xamltypeinfo/**/*.md": "kbridge" 
       }		 		 
     },
     "template": [],
