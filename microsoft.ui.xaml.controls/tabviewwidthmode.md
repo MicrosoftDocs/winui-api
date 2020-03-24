@@ -10,6 +10,8 @@ Defines constants that specify the width of the tabs.
 
 ### -field Equal
 
+Each tab will take up the same space.
+
 ### -field SizeToContent
 
 Each tab will size its width to the content within the tab.
