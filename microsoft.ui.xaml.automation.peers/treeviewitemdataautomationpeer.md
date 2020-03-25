@@ -3,6 +3,8 @@
 -api-type: winrt class
 ---
 
+# Microsoft.UI.Xaml.Automation.Peers.TreeViewItemDataAutomationPeer
+
 ## -description
 
 Exposes [TreeViewItem](../microsoft.ui.xaml.controls/treeviewitem.md) data types to Microsoft UI Automation.
@@ -12,4 +14,3 @@ Exposes [TreeViewItem](../microsoft.ui.xaml.controls/treeviewitem.md) data types
 ## -see-also
 
 ## -examples
-
