@@ -3,6 +3,8 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Automation.Peers.ToggleSplitButtonAutomationPeer
+
 ## -description
 
 Initializes a new instance of the [ToggleSplitButtonAutomationPeer](togglesplitbuttonautomationpeer.md) class.
@@ -18,4 +20,3 @@ The [ToggleSplitButton](../microsoft.ui.xaml.controls/togglesplitbutton.md) cont
 ## -see-also
 
 ## -examples
-

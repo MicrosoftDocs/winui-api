@@ -3,6 +3,8 @@
 -api-type: winrt class
 ---
 
+# Microsoft.UI.Xaml.Automation.Peers.ToggleSplitButtonAutomationPeer
+
 ## -description
 
 Exposes [ToggleSplitButton](../microsoft.ui.xaml.controls/togglesplitbutton.md) types to Microsoft UI Automation.
@@ -12,4 +14,3 @@ Exposes [ToggleSplitButton](../microsoft.ui.xaml.controls/togglesplitbutton.md) 
 ## -see-also
 
 ## -examples
-

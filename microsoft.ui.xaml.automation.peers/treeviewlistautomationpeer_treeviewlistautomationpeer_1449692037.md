@@ -15,6 +15,7 @@ public TreeViewListAutomationPeer.TreeViewListAutomationPeer(TreeViewList owner)
 Initializes a new instance of the [TreeViewListAutomationPeer](treeviewlistautomationpeer.md) class.
 
 ## -parameters
+
 ### -param owner
 
 The [TreeViewList](../microsoft.ui.xaml.controls/treeviewlist.md) control instance to create the peer for.
@@ -24,4 +25,3 @@ The [TreeViewList](../microsoft.ui.xaml.controls/treeviewlist.md) control instan
 ## -see-also
 
 ## -examples
-
