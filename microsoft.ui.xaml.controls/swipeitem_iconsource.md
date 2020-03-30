@@ -28,6 +28,15 @@ The graphic content of the item. The default is **null**.
 
 ## -examples
 
+The value of the IconSource property must be of type [IconSource](iconsource.md). For example, the following uses a [SymbolIconSource](symboliconsource.md):
+
+```Xaml
+<SwipeItem Text="Accept">
+    <SwipeItem.IconSource>
+        <SymbolIconSource Symbol="Accept"
+    </SwipeItem.IconSource>
+</SwipeItem>
+```
 
 ## -xaml-syntax
 
