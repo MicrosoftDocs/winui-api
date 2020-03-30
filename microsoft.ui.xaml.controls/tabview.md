@@ -17,7 +17,7 @@ Do not use a TabView to display a static set of tabs that the user cannot rearra
 
 ## -see-also
 
-[Guidelines for TabView](https://docs.microsoft.com/windows/uwp/design/controls-and-patterns/tab-view)
+[Guidelines for TabView](/windows/uwp/design/controls-and-patterns/tab-view)
 
 ## -examples
 
