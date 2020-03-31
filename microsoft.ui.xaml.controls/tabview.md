@@ -21,6 +21,13 @@ Do not use a TabView to display a static set of tabs that the user cannot rearra
 
 ## -examples
 
+> [!TIP]
+> For more info, design guidance, and code examples, see [Tab view](/windows/uwp/design/controls-and-patterns/tab-view).
+>
+> If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the TabView in action](xamlcontrolsgallery:/item/TabView).
+> + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
+> + [Get the source code (GitHub)](https://github.com/Microsoft/Xaml-Controls-Gallery)
+
 ### Basic TabView Sample, similar to a Web Browser
 
 ``` xml
