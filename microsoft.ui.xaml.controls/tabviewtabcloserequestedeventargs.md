@@ -5,7 +5,7 @@
 
 ## -description
 
-Provides data for the TabCloseRequested event.
+Provides data for the [TabCloseRequested](tabviewitem_closerequested.md) event.
 
 ## -remarks
 

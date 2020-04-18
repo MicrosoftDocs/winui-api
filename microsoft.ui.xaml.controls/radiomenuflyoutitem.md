@@ -12,7 +12,7 @@ This control allows you to present users with menus containing multiple options,
 RadioMenuFlyoutItem can be used inside [MenuBarItem](https://docs.microsoft.com/uwp/api/windows.ui.xaml.controls.menubaritem), [MenuFlyout](https://docs.microsoft.com/uwp/api/windows.ui.xaml.controls.menuflyout) and [MenuFlyoutSubItem](https://docs.microsoft.com/uwp/api/windows.ui.xaml.controls.menuflyoutsubitem).
 
 ## -see-also
-[Creating a menu](https://docs.microsoft.com/windows/uwp/design/controls-and-patterns/menus#create-a-menu-flyout-or-a-context-menu)
+[Creating a menu](/windows/uwp/design/controls-and-patterns/menus#create-a-menu-flyout-or-a-context-menu)
 
 ## -examples
 ```Xaml

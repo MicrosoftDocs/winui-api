@@ -38,11 +38,7 @@ In **Reveal** mode, the SwipeControl closes after an item is invoked. In **Execu
 
 ## -see-also
 
-+ [SwipeMode](swipemode.md) enumeration
-+ [SwipeItems.Mode](swipeitems_mode.md) property
-+ [SwipeItem.Invoked](swipeitem_invoked.md) event
-+ [SwipeControl](swipecontrol.md) class
-
+[SwipeMode](swipemode.md), [SwipeItems.Mode](swipeitems_mode.md), [SwipeItem.Invoked](swipeitem_invoked.md), [SwipeControl](swipecontrol.md)
 
 ## -examples
 

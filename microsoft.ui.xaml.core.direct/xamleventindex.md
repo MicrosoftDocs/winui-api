@@ -714,11 +714,7 @@ The _Closed_ event for the [AppBar](/uwp/api/windows.ui.xaml.controls.appbar) ty
 
 
 ## -see-also
-* [XamlDirect](xamldirect.md)
-* [IXamlDirectObject](/uwp/api/windows.ui.xaml.core.direct.ixamldirectobject)
-* [XamlTypeIndex](xamltypeindex.md)
-* [XamlPropertyIndex](xamlpropertyindex.md)
-
+[XamlDirect](xamldirect.md), [IXamlDirectObject](/uwp/api/windows.ui.xaml.core.direct.ixamldirectobject), [XamlTypeIndex](xamltypeindex.md), [XamlPropertyIndex](xamlpropertyindex.md)
 
 ## -examples
 

@@ -73,8 +73,8 @@ private void NavigationView_Loaded(object sender, RoutedEventArgs e)
 ```
 
 ## -see-also
-[Guidelines for navigation view](https://docs.microsoft.com/en-us/windows/uwp/controls-and-patterns/navigationview), [Back button in NavigationView](https://docs.microsoft.com/windows/uwp/design/basics/navigation-history-and-backwards-navigation)
 
+[Guidelines for navigation view](/windows/uwp/controls-and-patterns/navigationview), [Back button in NavigationView](/windows/uwp/design/basics/navigation-history-and-backwards-navigation)
 
 ## -examples
 

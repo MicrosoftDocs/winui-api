@@ -19,7 +19,7 @@ Paints an area with a semi-transparent material that uses multiple effects inclu
 
 
 ## -see-also
-[Acrylic material overview](https://docs.microsoft.com/windows/uwp/design/style/acrylic)
+[Acrylic material overview](/windows/uwp/design/style/acrylic)
 
 
 ## -examples
