@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Automation.Peers.RadioButtonsListViewItemAutomationPeer.#ctor(Microsoft.UI.Xaml.Controls.Primitives.RadioButtonsListViewItem)
+
+<!--
+public class RadioButtonsListViewItemAutomationPeer
+-->
+
 ## -description
 
 Initializes a new instance of the [RadioButtonsListViewItemAutomationPeer](radiobuttonslistviewitemautomationpeer.md) class.

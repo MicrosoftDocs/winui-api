@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Automation.Peers.DropDownButtonAutomationPeer.Collapse
+
+<!--
+public void Collapse ();
+-->
+
 ## -description
 
 ## -remarks

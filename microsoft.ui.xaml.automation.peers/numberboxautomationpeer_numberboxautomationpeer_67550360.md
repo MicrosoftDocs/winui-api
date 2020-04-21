@@ -1,7 +1,13 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Automation.Peers.NumberBoxAutomationPeer.#ctor(Microsoft.UI.Xaml.Controls.NumberBox)
--api-type: winrt method
+-api-type: winrt constructor
 ---
+
+# Microsoft.UI.Xaml.Automation.Peers.NumberBoxAutomationPeer.#ctor(Microsoft.UI.Xaml.Controls.NumberBox)
+
+<!--
+public NumberBoxAutomationPeer (Microsoft.UI.Xaml.Controls.NumberBox owner);
+-->
 
 ## -description
 
@@ -18,4 +24,3 @@ The [NumberBox](../microsoft.ui.xaml.controls/numberbox.md) control instance to 
 ## -see-also
 
 ## -examples
-

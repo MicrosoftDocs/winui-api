@@ -3,6 +3,12 @@
 -api-type: winrt class
 ---
 
+# Microsoft.UI.Xaml.MUXContractPropertyAttribute
+
+<!--
+public sealed class MUXContractPropertyAttribute : Attribute
+-->
+
 ## -description
 
 ## -remarks

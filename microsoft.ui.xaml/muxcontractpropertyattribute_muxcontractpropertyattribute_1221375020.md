@@ -1,7 +1,14 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.MUXContractPropertyAttribute.#ctor
--api-type: winrt method
+-api-type: winrt constructor
 ---
+
+# Microsoft.UI.Xaml.MUXContractPropertyAttribute.#ctor
+
+<!--
+public MUXContractPropertyAttribute ();
+-->
+
 
 ## -description
 

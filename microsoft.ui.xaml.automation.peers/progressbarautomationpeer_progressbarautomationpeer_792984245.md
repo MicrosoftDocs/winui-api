@@ -1,7 +1,13 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Automation.Peers.ProgressBarAutomationPeer.#ctor(Microsoft.UI.Xaml.Controls.ProgressBar)
--api-type: winrt method
+-api-type: winrt constructor
 ---
+
+# Microsoft.UI.Xaml.Automation.Peers.ProgressBarAutomationPeer.#ctor(Microsoft.UI.Xaml.Controls.ProgressBar)
+
+<!--
+public ProgressBarAutomationPeer (Microsoft.UI.Xaml.Controls.ProgressBar owner);
+-->
 
 ## -description
 
