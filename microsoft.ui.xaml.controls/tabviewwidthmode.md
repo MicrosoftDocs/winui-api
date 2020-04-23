@@ -8,6 +8,10 @@ Defines constants that specify the width of the tabs.
 
 ## -enum-fields
 
+### -field Compact
+
+Unselected tabs collapse to show only their icon. The selected tab adjusts to display the content within the tab.
+
 ### -field Equal
 
 Each tab has the same width.
