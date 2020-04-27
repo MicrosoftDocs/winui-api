@@ -2,6 +2,13 @@
 -api-id: T:Microsoft.UI.Xaml.Controls.ProgressRing
 -api-type: winrt class
 ---
+
+# Microsoft.UI.Xaml.Controls.ProgressRing
+
+<!--
+public class ProgressRing : Windows.UI.Xaml.Controls.Control
+-->
+
 ## -description
 
 Represents a control that indicates that an operation is ongoing. The typical visual appearance is a ring-shaped "spinner" that cycles an animation as progress continues.
