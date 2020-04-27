@@ -1,9 +1,13 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Automation.Peers.TreeViewItemDataAutomationPeer.#ctor(System.Object,Microsoft.UI.Xaml.Automation.Peers.TreeViewListAutomationPeer)
--api-type: winrt method
+-api-type: winrt constructor
 ---
 
-# Microsoft.UI.Xaml.Automation.Peers.TreeViewItemDataAutomationPeer
+# Microsoft.UI.Xaml.Automation.Peers.TreeViewItemDataAutomationPeer.#ctor(System.Object,Microsoft.UI.Xaml.Automation.Peers.TreeViewListAutomationPeer)
+
+<!--
+public TreeViewItemDataAutomationPeer (object item, Microsoft.UI.Xaml.Automation.Peers.TreeViewListAutomationPeer parent);
+-->
 
 ## -description
 

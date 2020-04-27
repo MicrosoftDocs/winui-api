@@ -5,6 +5,10 @@
 
 # Microsoft.UI.Xaml.Automation.Peers.TreeViewItemDataAutomationPeer
 
+<!--
+public class TreeViewItemDataAutomationPeer : Windows.UI.Xaml.Automation.Peers.ItemAutomationPeer, Windows.UI.Xaml.Automation.Provider.IExpandCollapseProvider
+-->
+
 ## -description
 
 Exposes [TreeViewItem](../microsoft.ui.xaml.controls/treeviewitem.md) data types to Microsoft UI Automation.

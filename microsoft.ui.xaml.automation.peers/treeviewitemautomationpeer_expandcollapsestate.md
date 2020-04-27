@@ -3,6 +3,7 @@
 -api-type: winrt property
 ms.custom: RS5
 ---
+
 <!-- Property syntax.
 public ExpandCollapseState ExpandCollapseState { get; }
 -->

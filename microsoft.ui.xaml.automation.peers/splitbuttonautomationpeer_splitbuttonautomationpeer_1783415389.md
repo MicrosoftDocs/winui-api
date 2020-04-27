@@ -1,7 +1,13 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Automation.Peers.SplitButtonAutomationPeer.#ctor(Microsoft.UI.Xaml.Controls.SplitButton)
--api-type: winrt method
+-api-type: winrt constructor
 ---
+
+# Microsoft.UI.Xaml.Automation.Peers.SplitButtonAutomationPeer.#ctor(Microsoft.UI.Xaml.Controls.SplitButton)
+
+<!--
+public SplitButtonAutomationPeer (Microsoft.UI.Xaml.Controls.SplitButton owner);
+-->
 
 ## -description
 

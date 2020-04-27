@@ -5,6 +5,10 @@
 
 # Microsoft.UI.Xaml.Automation.Peers.TreeViewItemDataAutomationPeer.ExpandCollapseState
 
+<!--
+public Windows.UI.Xaml.Automation.ExpandCollapseState ExpandCollapseState { get; }
+-->
+
 ## -description
 
 Gets a value indicating the expanded or collapsed state of the associated [TreeViewItemDataAutomationPeer](treeviewitemdataautomationpeer.md).

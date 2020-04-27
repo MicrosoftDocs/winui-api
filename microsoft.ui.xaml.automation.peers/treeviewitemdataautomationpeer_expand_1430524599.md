@@ -3,7 +3,11 @@
 -api-type: winrt method
 ---
 
-# M:Microsoft.UI.Xaml.Automation.Peers.TreeViewItemDataAutomationPeer.Expand
+# Microsoft.UI.Xaml.Automation.Peers.TreeViewItemDataAutomationPeer.Expand
+
+<!--
+public void Expand ();
+-->
 
 ## -description
 

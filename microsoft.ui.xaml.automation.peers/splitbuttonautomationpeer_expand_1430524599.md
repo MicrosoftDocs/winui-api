@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Automation.Peers.SplitButtonAutomationPeer.Expand
+
+<!--
+public void Expand ();
+-->
+
 ## -description
 
 ## -remarks

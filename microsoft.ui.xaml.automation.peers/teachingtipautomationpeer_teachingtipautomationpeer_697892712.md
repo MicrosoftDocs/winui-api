@@ -1,7 +1,13 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Automation.Peers.TeachingTipAutomationPeer.#ctor(Microsoft.UI.Xaml.Controls.TeachingTip)
--api-type: winrt method
+-api-type: winrt constructor
 ---
+
+# Microsoft.UI.Xaml.Automation.Peers.TeachingTipAutomationPeer.#ctor(Microsoft.UI.Xaml.Controls.TeachingTip)
+
+<!--
+public TeachingTipAutomationPeer (Microsoft.UI.Xaml.Controls.TeachingTip owner);
+-->
 
 ## -description
 

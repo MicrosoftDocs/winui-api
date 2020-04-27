@@ -1,7 +1,13 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Automation.Peers.TabViewAutomationPeer.#ctor(Microsoft.UI.Xaml.Controls.TabView)
--api-type: winrt method
+-api-type: winrt constructor
 ---
+
+# Microsoft.UI.Xaml.Automation.Peers.TabViewAutomationPeer.#ctor(Microsoft.UI.Xaml.Controls.TabView)
+
+<!--
+public TabViewAutomationPeer (Microsoft.UI.Xaml.Controls.TabView owner);
+-->
 
 ## -description
 
