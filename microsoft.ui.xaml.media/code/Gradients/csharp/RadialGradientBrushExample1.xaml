@@ -1,0 +1,20 @@
+XAML
+```XAML
+<Page
+  xmlns:media="using:Microsoft.UI.Xaml.Media">
+
+  <Rectangle Width="200" Height="200">
+      <Rectangle.Fill>
+          <media:RadialGradientBrush>
+              <GradientStop Color="Blue" Offset="0.0" />
+              <GradientStop Color="Yellow" Offset="0.2" />
+              <GradientStop Color="LimeGreen" Offset="0.4" />
+              <GradientStop Color="LightBlue" Offset="0.6" />
+              <GradientStop Color="Blue" Offset="0.8" />
+              <GradientStop Color="LightGray" Offset="1" />
+          </media:RadialGradientBrush>
+      </Rectangle.Fill>
+  </Rectangle>
+
+</Page>
+```
