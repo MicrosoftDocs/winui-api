@@ -1,7 +1,13 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Controls.NumberBoxValidationMode
--api-type: winrt enumeration
+-api-type: winrt enum
 ---
+
+# Microsoft.UI.Xaml.Controls.NumberBoxValidationMode
+
+<!--
+public enum NumberBoxValidationMode
+-->
 
 ## -description
 

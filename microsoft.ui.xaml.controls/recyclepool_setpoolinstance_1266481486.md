@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.RecyclePool.SetPoolInstance(Windows.UI.Xaml.DataTemplate,Microsoft.UI.Xaml.Controls.RecyclePool)
+
+<!--
+public static void SetPoolInstance (Windows.UI.Xaml.DataTemplate dataTemplate, Microsoft.UI.Xaml.Controls.RecyclePool value);
+-->
+
 ## -description
 
 Sets the value of the RecyclePool.PoolInstance XAML attached property for the target data template.

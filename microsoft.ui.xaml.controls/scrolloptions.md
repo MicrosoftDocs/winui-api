@@ -3,6 +3,12 @@
 -api-type: winrt class
 ---
 
+# Microsoft.UI.Xaml.Controls.ScrollOptions
+
+<!--
+public class ScrollOptions
+-->
+
 ## -description
 
 Represents options to be applied to a scroll action.

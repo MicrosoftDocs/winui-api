@@ -3,6 +3,12 @@
 -api-type: winrt class
 ---
 
+# Microsoft.UI.Xaml.Controls.Primitives.ComboBoxHelper
+
+<!--
+public sealed class ComboBoxHelper
+-->
+
 ## -description
 
 ## -remarks

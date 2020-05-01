@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.NonVirtualizingLayoutContext.ChildrenCore
+
+<!--
+protected virtual System.Collections.Generic.IReadOnlyList<Windows.UI.Xaml.UIElement> ChildrenCore { get; }
+-->
+
 ## -description
 
 Implements the behavior for getting the return value of [Children](nonvirtualizinglayoutcontext_children.md) in a derived or custom NonVirtualizingLayoutContext.

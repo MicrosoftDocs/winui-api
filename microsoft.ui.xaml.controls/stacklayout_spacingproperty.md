@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.StackLayout.SpacingProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty SpacingProperty { get; }
+-->
+
 ## -description
 
 Identifies the [Spacing](stacklayout_spacing.md) dependency property.

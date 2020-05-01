@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ItemsRepeater.ItemTemplate
+
+<!--
+public object ItemTemplate { get; set; }
+-->
+
 ## -description
 
 Gets or sets the template used to display each item.

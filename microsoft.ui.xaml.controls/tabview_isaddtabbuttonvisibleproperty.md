@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TabView.IsAddTabButtonVisibleProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty IsAddTabButtonVisibleProperty { get; }
+-->
+
 ## -description
 
 Identifies the [IsAddTabButtonVisible](tabview_isaddtabbuttonvisible.md) dependency property.

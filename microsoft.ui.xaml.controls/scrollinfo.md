@@ -1,7 +1,13 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Controls.ScrollInfo
--api-type: winrt structure
+-api-type: winrt struct
 ---
+
+# Microsoft.UI.Xaml.Controls.ScrollInfo
+
+<!--
+public struct ScrollInfo
+-->
 
 ## -description
 

@@ -1,7 +1,13 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.ProgressBar.#ctor
--api-type: winrt method
+-api-type: winrt constructor
 ---
+
+# Microsoft.UI.Xaml.Controls.ProgressBar.#ctor
+
+<!--
+public ProgressBar ();
+-->
 
 ## -description
 

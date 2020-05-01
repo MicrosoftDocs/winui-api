@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.ScrollViewer.ScrollTo(System.Double,System.Double)
+
+<!--
+public Microsoft.UI.Xaml.Controls.ScrollInfo ScrollTo (double horizontalOffset, double verticalOffset);
+-->
+
 ## -description
 
 Scrolls the content asynchronously to the specified offsets.

@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.RadioButtons.SelectedItem
+
+<!--
+public object SelectedItem { get; set; }
+-->
+
 ## -description
 
 Gets or sets the selected radio button.

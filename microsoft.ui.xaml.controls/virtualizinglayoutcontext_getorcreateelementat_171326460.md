@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.VirtualizingLayoutContext.GetOrCreateElementAt(System.Int32)
+
+<!--
+public Windows.UI.Xaml.UIElement GetOrCreateElementAt (int index);
+-->
+
 ## -description
 
 Retrieves a UIElement that represents the data item in the source found at the specified index. By default, if an element already exists, it is returned; otherwise, a new element is created.

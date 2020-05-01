@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.NavigationView.IsTitleBarAutoPaddingEnabled
+
+<!--
+public bool IsTitleBarAutoPaddingEnabled { get; set; }
+-->
+
 ## -description
 
 Gets or sets a value that indicates whether top padding is added to the navigation view's header when used with a custom title bar.

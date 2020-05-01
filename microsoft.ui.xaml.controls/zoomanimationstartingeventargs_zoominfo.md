@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ZoomAnimationStartingEventArgs.ZoomInfo
+
+<!--
+public Microsoft.UI.Xaml.Controls.ZoomInfo ZoomInfo { get; }
+-->
+
 ## -description
 
 Gets information that identifies the zoom action.

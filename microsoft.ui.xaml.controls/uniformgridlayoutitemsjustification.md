@@ -1,7 +1,14 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Controls.UniformGridLayoutItemsJustification
--api-type: winrt enumeration
+-api-type: winrt enum
 ---
+
+# Microsoft.UI.Xaml.Controls.UniformGridLayoutItemsJustification
+
+<!--
+public enum UniformGridLayoutItemsJustification
+-->
+
 ## -description
 
 Defines constants that specify how items are aligned on the non-scrolling or non-virtualizing axis.

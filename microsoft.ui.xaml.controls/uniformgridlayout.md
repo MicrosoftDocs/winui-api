@@ -3,6 +3,12 @@
 -api-type: winrt class
 ---
 
+# Microsoft.UI.Xaml.Controls.UniformGridLayout
+
+<!--
+public class UniformGridLayout : Microsoft.UI.Xaml.Controls.VirtualizingLayout
+-->
+
 ## -description
 
 Positions elements sequentially from left to right or top to bottom in a wrapping layout.

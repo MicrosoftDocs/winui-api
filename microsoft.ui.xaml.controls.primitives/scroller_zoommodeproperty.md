@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.Primitives.Scroller.ZoomModeProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty ZoomModeProperty { get; }
+-->
+
 ## -description
 
 Identifies the [ZoomMode](scroller_zoommode.md) dependency property.

@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.Primitives.CornerRadiusToThicknessConverter.ConvertBack(System.Object,Windows.UI.Xaml.Interop.TypeName,System.Object,System.String)
+
+<!--
+public object ConvertBack (object value, System.Type targetType, object parameter, string language);
+-->
+
 ## -description
 
 Not implemented.

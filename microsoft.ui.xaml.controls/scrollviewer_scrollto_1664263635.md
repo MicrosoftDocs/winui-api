@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.ScrollViewer.ScrollTo(System.Double,System.Double,Microsoft.UI.Xaml.Controls.ScrollOptions)
+
+<!--
+public Microsoft.UI.Xaml.Controls.ScrollInfo ScrollTo (double horizontalOffset, double verticalOffset, Microsoft.UI.Xaml.Controls.ScrollOptions options);
+-->
+
 ## -description
 
 Scrolls the content asynchronously to the specified offsets with options to control animation and snap points.

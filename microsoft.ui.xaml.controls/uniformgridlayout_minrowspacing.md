@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.UniformGridLayout.MinRowSpacing
+
+<!--
+public double MinRowSpacing { get; set; }
+-->
+
 ## -description
 
 Gets or sets the minimum space between items on the vertical axis.

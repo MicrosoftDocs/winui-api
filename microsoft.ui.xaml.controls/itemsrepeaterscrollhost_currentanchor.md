@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ItemsRepeaterScrollHost.CurrentAnchor
+
+<!--
+public Windows.UI.Xaml.UIElement CurrentAnchor { get; }
+-->
+
 ## -description
 
 The currently chosen anchor element to use for scroll anchoring.

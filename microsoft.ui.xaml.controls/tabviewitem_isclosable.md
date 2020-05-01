@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TabViewItem.IsClosable
+
+<!--
+public bool IsClosable { get; set; }
+-->
+
 ## -description
 
 Gets or sets the value that determines if the tab shows a close button. The default is true.

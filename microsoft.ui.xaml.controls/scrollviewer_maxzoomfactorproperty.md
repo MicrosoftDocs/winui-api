@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ScrollViewer.MaxZoomFactorProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty MaxZoomFactorProperty { get; }
+-->
+
 ## -description
 
 Identifies the [MaxZoomFactor](scrollviewer_maxzoomfactor.md) dependency property.

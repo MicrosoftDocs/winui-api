@@ -3,6 +3,12 @@
 -api-type: winrt class
 ---
 
+# Microsoft.UI.Xaml.Controls.ElementFactory
+
+<!--
+public class ElementFactory : Windows.UI.Xaml.DependencyObject, Microsoft.UI.Xaml.Controls.IElementFactoryShim
+-->
+
 ## -description
 
 Represents the base class for components that create and optionally recycle elements for use in a [Layout](layout.md).

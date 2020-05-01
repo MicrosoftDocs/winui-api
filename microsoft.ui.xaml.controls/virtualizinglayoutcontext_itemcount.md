@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.VirtualizingLayoutContext.ItemCount
+
+<!--
+public int ItemCount { get; }
+-->
+
 ## -description
 
 Gets the number of items in the data.

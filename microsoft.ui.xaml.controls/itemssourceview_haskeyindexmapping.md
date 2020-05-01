@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ItemsSourceView.HasKeyIndexMapping
+
+<!--
+public bool HasKeyIndexMapping { get; }
+-->
+
 ## -description
 
 Gets a value that indicates whether the items source can provide a unique key for each item.

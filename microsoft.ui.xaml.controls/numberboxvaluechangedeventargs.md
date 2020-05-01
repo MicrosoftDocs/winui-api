@@ -3,6 +3,12 @@
 -api-type: winrt class
 ---
 
+# Microsoft.UI.Xaml.Controls.NumberBoxValueChangedEventArgs
+
+<!--
+public sealed class NumberBoxValueChangedEventArgs
+-->
+
 ## -description
 
 Provides event data for the [NumberBox.ValueChanged](numberbox_valuechanged.md) event.

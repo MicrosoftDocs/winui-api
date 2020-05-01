@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TeachingTipTemplateSettings.TopRightHighlightMarginProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty TopRightHighlightMarginProperty { get; }
+-->
+
 ## -description
 
 Identifies the [TopRightHighlightMargin](teachingtiptemplatesettings_toprighthighlightmargin.md) dependency property.

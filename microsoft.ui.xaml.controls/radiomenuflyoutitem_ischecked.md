@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.RadioMenuFlyoutItem.IsChecked
+
+<!--
+public bool IsChecked { get; set; }
+-->
+
 ## -description
 Gets or sets whether the RadioMenuFlyoutItem is checked.
 

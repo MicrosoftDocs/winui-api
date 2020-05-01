@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ScrollViewer.ComputedHorizontalScrollBarVisibilityProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty ComputedHorizontalScrollBarVisibilityProperty { get; }
+-->
+
 ## -description
 
 Identifies the [ComputedHorizontalScrollBarVisibility](scrollviewer_computedhorizontalscrollbarvisibility.md) dependency property.

@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.UniformGridLayout.MinItemWidth
+
+<!--
+public double MinItemWidth { get; set; }
+-->
+
 ## -description
 
 Gets or sets the minimum width of each item.

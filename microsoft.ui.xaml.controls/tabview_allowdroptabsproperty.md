@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TabView.AllowDropTabsProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty AllowDropTabsProperty { get; }
+-->
+
 ## -description
 
 Identifies the [AllowDropTabs](tabview_allowdroptabs.md) dependency property.

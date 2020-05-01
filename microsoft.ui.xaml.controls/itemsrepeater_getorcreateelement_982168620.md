@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.ItemsRepeater.GetOrCreateElement(System.Int32)
+
+<!--
+public Windows.UI.Xaml.UIElement GetOrCreateElement (int index);
+-->
+
 ## -description
 
 Retrieves the UIElement that corresponds to the item at the specified index in the data source.

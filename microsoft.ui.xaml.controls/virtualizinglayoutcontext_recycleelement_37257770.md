@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.VirtualizingLayoutContext.RecycleElement(Windows.UI.Xaml.UIElement)
+
+<!--
+public void RecycleElement (Windows.UI.Xaml.UIElement element);
+-->
+
 ## -description
 
 Clears the specified UIElement and allows it to be either re-used or released.

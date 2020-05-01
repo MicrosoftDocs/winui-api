@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.RadioButtons.ItemTemplate
+
+<!--
+public object ItemTemplate { get; set; }
+-->
+
 ## -description
 
 Gets or sets the [DataTemplate](/uwp/api/windows.ui.xaml.datatemplate) used to display each item.

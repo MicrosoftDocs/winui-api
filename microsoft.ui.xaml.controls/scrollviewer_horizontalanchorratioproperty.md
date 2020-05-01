@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ScrollViewer.HorizontalAnchorRatioProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty HorizontalAnchorRatioProperty { get; }
+-->
+
 ## -description
 
 Identifies the [HorizontalAnchorRatio](scrollviewer_horizontalanchorratio.md) dependency property.

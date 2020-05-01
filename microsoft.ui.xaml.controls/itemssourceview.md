@@ -3,6 +3,12 @@
 -api-type: winrt class
 ---
 
+# Microsoft.UI.Xaml.Controls.ItemsSourceView
+
+<!--
+public class ItemsSourceView : System.Collections.Specialized.INotifyCollectionChanged
+-->
+
 ## -description
 
 Represents a standardized view of the supported interactions between a given ItemsSource object and an ItemsRepeater control.

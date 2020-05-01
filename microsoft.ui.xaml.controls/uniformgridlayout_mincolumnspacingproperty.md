@@ -1,7 +1,13 @@
 ---
--api-id: P:Microsoft.UI.Xaml.Controls.UniformGridLayout.MinColumnSpacingProperty
+-api-id: P:Microsoft.UI.Xaml.Controls.UniformGridLayout.MinColumnSpacing
 -api-type: winrt property
 ---
+
+# Microsoft.UI.Xaml.Controls.UniformGridLayout.MinColumnSpacing
+
+<!--
+public double MinColumnSpacing { get; set; }
+-->
 
 ## -description
 

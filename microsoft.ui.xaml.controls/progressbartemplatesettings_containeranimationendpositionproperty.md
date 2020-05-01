@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ProgressBarTemplateSettings.ContainerAnimationEndPositionProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty ContainerAnimationEndPositionProperty { get; }
+-->
+
 ## -description
 
 Identifies the [ContainerAnimationEndPosition](progressbartemplatesettings_containeranimationendposition.md) dependency property.

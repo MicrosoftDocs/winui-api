@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.RecyclePool.GetPoolInstance(Windows.UI.Xaml.DataTemplate)
+
+<!--
+public static Microsoft.UI.Xaml.Controls.RecyclePool GetPoolInstance (Windows.UI.Xaml.DataTemplate dataTemplate);
+-->
+
 ## -description
 
 Gets the value of the RecyclePool.PoolInstance XAML attached property for the target data template.

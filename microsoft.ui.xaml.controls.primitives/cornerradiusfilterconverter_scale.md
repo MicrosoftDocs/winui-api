@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.Primitives.CornerRadiusFilterConverter.Scale
+
+<!--
+public double Scale { get; set; }
+-->
+
 ## -description
 
 Gets or sets the scale multiplier applied to the [CornerRadiusFilterConverter](cornerradiusfilterconverter.md).

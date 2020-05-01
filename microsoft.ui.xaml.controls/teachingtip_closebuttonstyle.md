@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TeachingTip.CloseButtonStyle
+
+<!--
+public Windows.UI.Xaml.Style CloseButtonStyle { get; set; }
+-->
+
 ## -description
 
 Gets or sets the Style to apply to the teaching tip's close button. 

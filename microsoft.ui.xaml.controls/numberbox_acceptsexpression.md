@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.NumberBox.AcceptsExpression
+
+<!--
+public bool AcceptsExpression { get; set; }
+-->
+
 ## -description
 
 Toggles whether the control will accept and evaluate a basic formulaic expression entered as input.

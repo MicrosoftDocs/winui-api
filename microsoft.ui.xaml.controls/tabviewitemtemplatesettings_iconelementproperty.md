@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TabViewItemTemplateSettings.IconElementProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty IconElementProperty { get; }
+-->
+
 ## -description
 
 Identifies the [IconElement](tabviewitemtemplatesettings_iconelement.md) dependency property.

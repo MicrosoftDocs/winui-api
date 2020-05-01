@@ -1,7 +1,13 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.CustomAttributes.MUXPropertyValidationCallbackAttribute.#ctor
--api-type: winrt method
+-api-type: winrt constructor
 ---
+
+# Microsoft.UI.Xaml.CustomAttributes.MUXPropertyValidationCallbackAttribute.#ctor
+
+<!--
+public MUXPropertyValidationCallbackAttribute ();
+-->
 
 ## -description
 

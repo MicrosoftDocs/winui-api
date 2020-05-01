@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.TabView.ContainerFromItem(System.Object)
+
+<!--
+public Windows.UI.Xaml.DependencyObject ContainerFromItem (object item);
+-->
+
 ## -description
 
 Returns the container corresponding to the specified item.

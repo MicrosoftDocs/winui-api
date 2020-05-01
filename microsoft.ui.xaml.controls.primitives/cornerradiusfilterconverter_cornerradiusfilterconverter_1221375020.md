@@ -1,7 +1,13 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.Primitives.CornerRadiusFilterConverter.#ctor
--api-type: winrt method
+-api-type: winrt constructor
 ---
+
+# Microsoft.UI.Xaml.Controls.Primitives.CornerRadiusFilterConverter.#ctor
+
+<!--
+public CornerRadiusFilterConverter ();
+-->
 
 ## -description
 

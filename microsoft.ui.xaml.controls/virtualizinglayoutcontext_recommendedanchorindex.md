@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.VirtualizingLayoutContext.RecommendedAnchorIndex
+
+<!--
+public int RecommendedAnchorIndex { get; }
+-->
+
 ## -description
 
 Gets the recommended index from which to start the generation and layout of elements.

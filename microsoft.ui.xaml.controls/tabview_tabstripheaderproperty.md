@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TabView.TabStripHeaderProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty TabStripHeaderProperty { get; }
+-->
+
 ## -description
 
 Identifies the [TabStripHeader](tabview_tabstripheader.md) dependency property.

@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.Primitives.ColumnMajorUniformToLargestGridLayout.ColumnSpacing
+
+<!--
+public double ColumnSpacing { get; set; }
+-->
+
 ## -description
 
 ## -property-value

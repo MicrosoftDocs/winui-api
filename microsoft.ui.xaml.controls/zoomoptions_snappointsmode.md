@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ZoomOptions.SnapPointsMode
+
+<!--
+public Microsoft.UI.Xaml.Controls.SnapPointsMode SnapPointsMode { get; set; }
+-->
+
 ## -description
 
 Gets or sets a value that indicates whether snap points are ignored.

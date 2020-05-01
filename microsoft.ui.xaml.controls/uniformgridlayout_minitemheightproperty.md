@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.UniformGridLayout.MinItemHeightProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty MinItemHeightProperty { get; }
+-->
+
 ## -description
 
 Identifies the [MinItemHeight](uniformgridlayout_minitemheight.md) dependency property.

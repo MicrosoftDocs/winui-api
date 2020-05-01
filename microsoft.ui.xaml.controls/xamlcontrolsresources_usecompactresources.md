@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.XamlControlsResources.UseCompactResources
+
+<!--
+public bool UseCompactResources { get; set; }
+-->
+
 ## -description
 
 ## -property-value

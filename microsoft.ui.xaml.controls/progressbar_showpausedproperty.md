@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ProgressBar.ShowPausedProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty ShowPausedProperty { get; }
+-->
+
 ## -description
 
 Identifies the [ShowPaused](progressbar_showpaused.md) dependency property.

@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.ScrollViewer.ZoomBy(System.Single,Windows.Foundation.IReference{Windows.Foundation.Numerics.Vector2},Microsoft.UI.Xaml.Controls.ZoomOptions)
+
+<!--
+public Microsoft.UI.Xaml.Controls.ZoomInfo ZoomBy (float zoomFactorDelta, System.Nullable<System.Numerics.Vector2> centerPoint, Microsoft.UI.Xaml.Controls.ZoomOptions options);
+-->
+
 ## -description
 
 Scales the content asynchronously by the specified delta amount with the option to disable animations.

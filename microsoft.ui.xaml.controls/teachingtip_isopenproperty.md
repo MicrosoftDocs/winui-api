@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TeachingTip.IsOpenProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty IsOpenProperty { get; }
+-->
+
 ## -description
 
 Identifies the [IsOpen](teachingtip_isopen.md) dependency property.

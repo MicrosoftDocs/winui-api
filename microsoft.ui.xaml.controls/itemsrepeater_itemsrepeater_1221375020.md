@@ -1,7 +1,13 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.ItemsRepeater.#ctor
--api-type: winrt method
+-api-type: winrt constructor
 ---
+
+# Microsoft.UI.Xaml.Controls.ItemsRepeater.#ctor
+
+<!--
+public ItemsRepeater ();
+-->
 
 ## -description
 

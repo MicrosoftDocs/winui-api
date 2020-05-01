@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.NonVirtualizingLayout.ArrangeOverride(Microsoft.UI.Xaml.Controls.NonVirtualizingLayoutContext,Windows.Foundation.Size)
+
+<!--
+protected virtual Windows.Foundation.Size ArrangeOverride (Microsoft.UI.Xaml.Controls.NonVirtualizingLayoutContext context, Windows.Foundation.Size finalSize);
+-->
+
 ## -description
 
 When implemented in a derived class, provides the behavior for the "Arrange" pass of layout. Classes can override this method to define their own "Arrange" pass behavior.

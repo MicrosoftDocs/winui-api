@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.NonVirtualizingLayout.MeasureOverride(Microsoft.UI.Xaml.Controls.NonVirtualizingLayoutContext,Windows.Foundation.Size)
+
+<!--
+protected virtual Windows.Foundation.Size MeasureOverride (Microsoft.UI.Xaml.Controls.NonVirtualizingLayoutContext context, Windows.Foundation.Size availableSize);
+-->
+
 ## -description
 
 Provides the behavior for the "Measure" pass of the layout cycle. Classes can override this method to define their own "Measure" pass behavior.

@@ -1,7 +1,13 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Controls.ZoomInfo
--api-type: winrt structure
+-api-type: winrt struct
 ---
+
+# Microsoft.UI.Xaml.Controls.ZoomInfo
+
+<!--
+public struct ZoomInfo
+-->
 
 ## -description
 

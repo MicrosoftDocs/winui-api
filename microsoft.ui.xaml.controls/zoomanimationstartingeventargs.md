@@ -3,6 +3,12 @@
 -api-type: winrt class
 ---
 
+# Microsoft.UI.Xaml.Controls.ZoomAnimationStartingEventArgs
+
+<!--
+public sealed class ZoomAnimationStartingEventArgs
+-->
+
 ## -description
 
 Provides data for the ZoomAnimationStarting event.

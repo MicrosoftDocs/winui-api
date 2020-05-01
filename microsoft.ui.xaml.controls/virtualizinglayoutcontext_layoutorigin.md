@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.VirtualizingLayoutContext.LayoutOrigin
+
+<!--
+public Windows.Foundation.Point LayoutOrigin { get; set; }
+-->
+
 ## -description
 
 Gets or sets the origin point for the estimated content size.

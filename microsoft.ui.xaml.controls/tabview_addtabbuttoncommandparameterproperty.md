@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TabView.AddTabButtonCommandParameterProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty AddTabButtonCommandParameterProperty { get; }
+-->
+
 ## -description
 
 Identifies the [AddTabButtonCommandParameter](tabview_addtabbuttoncommandparameter.md) dependency property.

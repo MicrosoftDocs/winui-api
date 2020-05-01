@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.NumberBox.SpinButtonPlacementModeProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty SpinButtonPlacementModeProperty { get; }
+-->
+
 ## -description
 
 Identifies the [SpinButtonPlacementMode](numberbox_spinbuttonplacementmode.md) dependency property.

@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.NumberBox.SmallChangeProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty SmallChangeProperty { get; }
+-->
+
 ## -description
 
 Identifies the [SmallChange](numberbox_smallchange.md) dependency property.

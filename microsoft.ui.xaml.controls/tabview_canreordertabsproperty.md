@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TabView.CanReorderTabsProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty CanReorderTabsProperty { get; }
+-->
+
 ## -description
 
 Identifies the [CanReorderTabs](tabview_canreordertabs.md) dependency property.

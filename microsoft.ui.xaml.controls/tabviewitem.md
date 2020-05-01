@@ -3,6 +3,12 @@
 -api-type: winrt class
 ---
 
+# Microsoft.UI.Xaml.Controls.TabViewItem
+
+<!--
+public class TabViewItem : Windows.UI.Xaml.Controls.ListViewItem
+-->
+
 ## -description
 
 Represents a single tab within a [TabView](tabview.md).

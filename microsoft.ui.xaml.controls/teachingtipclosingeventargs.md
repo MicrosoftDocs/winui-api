@@ -3,6 +3,12 @@
 -api-type: winrt class
 ---
 
+# Microsoft.UI.Xaml.Controls.TeachingTipClosingEventArgs
+
+<!--
+public sealed class TeachingTipClosingEventArgs
+-->
+
 ## -description
 
 Provides data for the Closing event.

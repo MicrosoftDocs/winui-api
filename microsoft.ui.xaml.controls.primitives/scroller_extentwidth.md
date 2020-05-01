@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.Primitives.Scroller.ExtentWidth
+
+<!--
+public double ExtentWidth { get; }
+-->
+
 ## -description
 
 Gets the horizontal size of all the scrollable content in the Scroller.

@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.RadioMenuFlyoutItem.IsCheckedProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty IsCheckedProperty { get; }
+-->
+
 ## -description
 
 Identifies the [IsChecked](radiomenuflyoutitem_ischecked.md) dependency property.

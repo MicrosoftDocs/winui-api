@@ -1,7 +1,13 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.Primitives.ScrollSnapPoint.#ctor(System.Double,Microsoft.UI.Xaml.Controls.Primitives.ScrollSnapPointsAlignment)
--api-type: winrt method
+-api-type: winrt constructor
 ---
+
+# Microsoft.UI.Xaml.Controls.Primitives.ScrollSnapPoint.#ctor(System.Double,Microsoft.UI.Xaml.Controls.Primitives.ScrollSnapPointsAlignment)
+
+<!--
+public ScrollSnapPoint (double snapPointValue, Microsoft.UI.Xaml.Controls.Primitives.ScrollSnapPointsAlignment alignment);
+-->
 
 ## -description
 

@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.ScrollViewer.ScrollBy(System.Double,System.Double)
+
+<!--
+public Microsoft.UI.Xaml.Controls.ScrollInfo ScrollBy (double horizontalOffsetDelta, double verticalOffsetDelta);
+-->
+
 ## -description
 
 Scrolls the content asynchronously by the specified horizontal and vertical delta amount.

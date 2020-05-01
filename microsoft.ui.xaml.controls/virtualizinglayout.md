@@ -3,6 +3,12 @@
 -api-type: winrt class
 ---
 
+# Microsoft.UI.Xaml.Controls.VirtualizingLayout
+
+<!--
+public class VirtualizingLayout : Microsoft.UI.Xaml.Controls.Layout
+-->
+
 ## -description
 
 Represents the base class for an object that sizes and arranges child elements for a host and supports virtualization.

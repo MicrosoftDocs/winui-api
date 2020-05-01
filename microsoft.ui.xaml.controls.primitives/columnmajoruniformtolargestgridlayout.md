@@ -3,6 +3,12 @@
 -api-type: winrt class
 ---
 
+# Microsoft.UI.Xaml.Controls.Primitives.ColumnMajorUniformToLargestGridLayout
+
+<!--
+public class ColumnMajorUniformToLargestGridLayout : Microsoft.UI.Xaml.Controls.NonVirtualizingLayout
+-->
+
 ## -description
 
 ## -remarks

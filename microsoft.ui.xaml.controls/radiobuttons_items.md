@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.RadioButtons.Items
+
+<!--
+public System.Collections.Generic.IList<object> Items { get; }
+-->
+
 ## -description
 
 Gets the collection used to generate the content of the control.

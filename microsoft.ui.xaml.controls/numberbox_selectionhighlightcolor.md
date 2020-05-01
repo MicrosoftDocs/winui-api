@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.NumberBox.SelectionHighlightColor
+
+<!--
+public Windows.UI.Xaml.Media.SolidColorBrush SelectionHighlightColor { get; set; }
+-->
+
 ## -description
 
 ## -property-value

@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.NonVirtualizingLayoutContext.Children
+
+<!--
+public System.Collections.Generic.IReadOnlyList<Windows.UI.Xaml.UIElement> Children { get; }
+-->
+
 ## -description
 
 Gets the collection of child UIElements from the container that provides the context.

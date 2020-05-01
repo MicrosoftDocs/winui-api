@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.Primitives.RepeatedZoomSnapPoint.Start
+
+<!--
+public double Start { get; }
+-->
+
 ## -description
 
 Gets the 0-based start of the first snap point.

@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.ElementFactory.GetElementCore(Microsoft.UI.Xaml.Controls.ElementFactoryGetArgs)
+
+<!--
+protected virtual Windows.UI.Xaml.UIElement GetElementCore (Microsoft.UI.Xaml.Controls.ElementFactoryGetArgs args);
+-->
+
 ## -description
 
 When implemented in a derived class, prepares a UIElement to display data.

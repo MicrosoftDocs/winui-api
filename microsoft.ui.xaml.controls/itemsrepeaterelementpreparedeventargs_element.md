@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ItemsRepeaterElementPreparedEventArgs.Element
+
+<!--
+public Windows.UI.Xaml.UIElement Element { get; }
+-->
+
 ## -description
 
 Gets the prepared element.

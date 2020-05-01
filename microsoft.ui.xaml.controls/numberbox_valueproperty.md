@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.NumberBox.ValueProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty ValueProperty { get; }
+-->
+
 ## -description
 
 Identifies the [Value](numberbox_value.md) dependency property.

@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Core.Direct.XamlDirect.GetCompat
+
+<!--
+public static Microsoft.UI.Xaml.Core.Direct.IXamlDirect GetCompat ();
+-->
+
 ## -description
 
 ## -returns

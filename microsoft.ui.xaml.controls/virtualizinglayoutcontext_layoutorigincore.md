@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.VirtualizingLayoutContext.LayoutOriginCore
+
+<!--
+protected virtual Windows.Foundation.Point LayoutOriginCore { get; set; }
+-->
+
 ## -description
 
 Implements the behavior of [LayoutOrigin](virtualizinglayoutcontext_layoutorigin.md) in a derived or custom VirtualizingLayoutContext.

@@ -3,6 +3,12 @@
 -api-type: winrt class
 ---
 
+# Microsoft.UI.Xaml.Controls.ZoomCompletedEventArgs
+
+<!--
+public sealed class ZoomCompletedEventArgs
+-->
+
 ## -description
 
 Provides data for the ZoomCompleted event.

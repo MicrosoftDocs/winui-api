@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.NumberBox.HeaderProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty HeaderProperty { get; }
+-->
+
 ## -description
 
 Identifies the [Header](numberbox_header.md) dependency property.

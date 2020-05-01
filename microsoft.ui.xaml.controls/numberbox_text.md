@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.NumberBox.Text
+
+<!--
+public string Text { get; set; }
+-->
+
 ## -description
 
 Gets or sets the string type representation of the [Value](numberbox_value.md) property. 

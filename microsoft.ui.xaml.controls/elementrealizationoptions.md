@@ -1,7 +1,13 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Controls.ElementRealizationOptions
--api-type: winrt enumeration
+-api-type: winrt enum
 ---
+
+# Microsoft.UI.Xaml.Controls.ElementRealizationOptions
+
+<!--
+public enum ElementRealizationOptions
+-->
 
 ## -description
 

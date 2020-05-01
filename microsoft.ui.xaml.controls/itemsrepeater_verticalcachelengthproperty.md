@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ItemsRepeater.VerticalCacheLengthProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty VerticalCacheLengthProperty { get; }
+-->
+
 ## -description
 
 Identifies the [VerticalCacheLength](itemsrepeater_verticalcachelength.md) dependency property.

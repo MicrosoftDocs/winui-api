@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.RadioButtons.SelectedItemProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty SelectedItemProperty { get; }
+-->
+
 ## -description
 
 Identifies the [SelectedItem](radiobuttons_selecteditem.md) dependency property.

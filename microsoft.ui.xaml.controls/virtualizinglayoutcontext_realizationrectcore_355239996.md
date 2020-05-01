@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.VirtualizingLayoutContext.RealizationRectCore
+
+<!--
+protected virtual Windows.Foundation.Rect RealizationRectCore ();
+-->
+
 ## -description
 
 When implemented in a derived class, retrieves an area that represents the viewport and buffer that the layout should fill with realized elements.

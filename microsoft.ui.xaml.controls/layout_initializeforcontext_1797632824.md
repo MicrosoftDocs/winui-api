@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.Layout.InitializeForContext(Microsoft.UI.Xaml.Controls.LayoutContext)
+
+<!--
+public void InitializeForContext (Microsoft.UI.Xaml.Controls.LayoutContext context);
+-->
+
 ## -description
 
 Initializes any per-container state the layout requires when it is attached to a UIElement container.  

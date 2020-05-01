@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.XamlControlsResources.UseCompactResourcesProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty UseCompactResourcesProperty { get; }
+-->
+
 ## -description
 
 Identifies the [UseCompactResources](xamlcontrolsresources_usecompactresources.md) dependency property.

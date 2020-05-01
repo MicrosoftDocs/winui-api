@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ScrollViewer.ViewportWidth
+
+<!--
+public double ViewportWidth { get; }
+-->
+
 ## -description
 
 Gets the horizontal size of the viewable content.

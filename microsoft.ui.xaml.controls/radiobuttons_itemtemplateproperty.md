@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.RadioButtons.ItemTemplateProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty ItemTemplateProperty { get; }
+-->
+
 ## -description
 
 Identifies the [ItemTemplate](radiobuttons_itemtemplate.md) dependency property.

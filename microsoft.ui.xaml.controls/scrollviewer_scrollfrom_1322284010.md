@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.ScrollViewer.ScrollFrom(Windows.Foundation.Numerics.Vector2,Windows.Foundation.IReference{Windows.Foundation.Numerics.Vector2})
+
+<!--
+public Microsoft.UI.Xaml.Controls.ScrollInfo ScrollFrom (System.Numerics.Vector2 offsetsVelocity, System.Nullable<System.Numerics.Vector2> inertiaDecayRate);
+-->
+
 ## -description
 
 Animates the scrolling of content asynchronously with the specified inertia.

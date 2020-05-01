@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.RadioButtons.ContainerFromIndex(System.Int32)
+
+<!--
+public Windows.UI.Xaml.UIElement ContainerFromIndex (int index);
+-->
+
 ## -description
 
 Returns the container for the item at the specified index within the item collection.

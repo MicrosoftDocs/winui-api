@@ -3,6 +3,12 @@
 -api-type: winrt class
 ---
 
+# Microsoft.UI.Xaml.Controls.ScrollCompletedEventArgs
+
+<!--
+public sealed class ScrollCompletedEventArgs
+-->
+
 ## -description
 
 Provides data for the ScrollCompleted event.

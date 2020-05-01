@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Core.Direct.IXamlDirect.GetInt32Property(System.Object,Microsoft.UI.Xaml.Core.Direct.XamlPropertyIndex)
+
+<!--
+public int GetInt32Property (object xamlDirectObject, Microsoft.UI.Xaml.Core.Direct.XamlPropertyIndex propertyIndex);
+-->
+
 ## -description
 
 ## -parameters

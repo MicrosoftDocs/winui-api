@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.Primitives.RepeatedZoomSnapPoint.Offset
+
+<!--
+public double Offset { get; }
+-->
+
 ## -description
 
 Gets the 0-based offset of all snap points.

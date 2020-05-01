@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.VirtualizingLayout.OnItemsChangedCore(Microsoft.UI.Xaml.Controls.VirtualizingLayoutContext,System.Object,Windows.UI.Xaml.Interop.NotifyCollectionChangedEventArgs)
+
+<!--
+protected virtual void OnItemsChangedCore (Microsoft.UI.Xaml.Controls.VirtualizingLayoutContext context, object source, System.Collections.Specialized.NotifyCollectionChangedEventArgs args);
+-->
+
 ## -description
 
 Notifies the layout when the data collection assigned to the container element (ItemsSource) has changed.  

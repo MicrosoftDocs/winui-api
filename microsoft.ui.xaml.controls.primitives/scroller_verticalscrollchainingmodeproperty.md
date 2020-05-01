@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.Primitives.Scroller.VerticalScrollChainingModeProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty VerticalScrollChainingModeProperty { get; }
+-->
+
 ## -description
 
 Identifies the [VerticalScrollChainingMode](scroller_verticalscrollchainingmode.md) dependency property.

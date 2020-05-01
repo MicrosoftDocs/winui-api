@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Core.Direct.IXamlDirect.RemoveFromCollection(System.Object,System.Object)
+
+<!--
+public bool RemoveFromCollection (object xamlDirectObject, object value);
+-->
+
 ## -description
 
 ## -parameters

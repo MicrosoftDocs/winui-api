@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.UniformGridLayout.MinRowSpacingProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty MinRowSpacingProperty { get; }
+-->
+
 ## -description
 
 Identifies the [MinRowSpacing](uniformgridlayout_minrowspacing.md) dependency property.

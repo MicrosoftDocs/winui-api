@@ -1,7 +1,13 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Controls.TeachingTipPlacementMode
--api-type: winrt enumeration
+-api-type: winrt enum
 ---
+
+# Microsoft.UI.Xaml.Controls.TeachingTipPlacementMode
+
+<!--
+public enum TeachingTipPlacementMode
+-->
 
 ## -description
 

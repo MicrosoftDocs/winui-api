@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TeachingTip.TitleProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty TitleProperty { get; }
+-->
+
 ## -description
 
 Identifies the [Title](teachingtip_title.md) dependency property.

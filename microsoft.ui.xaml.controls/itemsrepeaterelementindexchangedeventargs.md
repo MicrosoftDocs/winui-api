@@ -3,6 +3,12 @@
 -api-type: winrt class
 ---
 
+# Microsoft.UI.Xaml.Controls.ItemsRepeaterElementIndexChangedEventArgs
+
+<!--
+public sealed class ItemsRepeaterElementIndexChangedEventArgs
+-->
+
 ## -description
 
 Provides data for the ItemsRepeater.ElementIndexChanged event.

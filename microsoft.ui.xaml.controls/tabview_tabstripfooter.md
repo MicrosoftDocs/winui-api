@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TabView.TabStripFooter
+
+<!--
+public object TabStripFooter { get; set; }
+-->
+
 ## -description
 
 Gets or sets the content that is shown to the right of the tab strip.

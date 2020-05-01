@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TeachingTip.CloseButtonContent
+
+<!--
+public object CloseButtonContent { get; set; }
+-->
+
 ## -description
 
 Gets or sets the content of the teaching tip's close button.

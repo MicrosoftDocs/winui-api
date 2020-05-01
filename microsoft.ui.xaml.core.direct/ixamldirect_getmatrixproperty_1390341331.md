@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Core.Direct.IXamlDirect.GetMatrixProperty(System.Object,Microsoft.UI.Xaml.Core.Direct.XamlPropertyIndex)
+
+<!--
+public Windows.UI.Xaml.Media.Matrix GetMatrixProperty (object xamlDirectObject, Microsoft.UI.Xaml.Core.Direct.XamlPropertyIndex propertyIndex);
+-->
+
 ## -description
 
 ## -parameters

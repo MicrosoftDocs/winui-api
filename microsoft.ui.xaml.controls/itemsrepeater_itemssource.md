@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ItemsRepeater.ItemsSource
+
+<!--
+public object ItemsSource { get; set; }
+-->
+
 ## -description
 
 Gets or sets an object source used to generate the content of the ItemsRepeater.

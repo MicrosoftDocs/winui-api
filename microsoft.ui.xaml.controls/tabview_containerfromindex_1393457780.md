@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.TabView.ContainerFromIndex(System.Int32)
+
+<!--
+public Windows.UI.Xaml.DependencyObject ContainerFromIndex (int index);
+-->
+
 ## -description
 
 Returns the container for the item at the specified index within the collection.

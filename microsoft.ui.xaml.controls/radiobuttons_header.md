@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.RadioButtons.Header
+
+<!--
+public object Header { get; set; }
+-->
+
 ## -description
 
 Gets or sets the content for the group header.

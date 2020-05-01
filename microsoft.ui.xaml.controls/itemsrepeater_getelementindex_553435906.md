@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.ItemsRepeater.GetElementIndex(Windows.UI.Xaml.UIElement)
+
+<!--
+public int GetElementIndex (Windows.UI.Xaml.UIElement element);
+-->
+
 ## -description
 
 Retrieves the index of the item from the data source that corresponds to the specified UIElement.

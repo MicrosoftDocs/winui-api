@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.Primitives.Scroller.HorizontalScrollRailingMode
+
+<!--
+public Microsoft.UI.Xaml.Controls.RailingMode HorizontalScrollRailingMode { get; set; }
+-->
+
 ## -description
 
 Gets or sets a value that indicates whether the scroll rail is enabled for the horizontal axis.

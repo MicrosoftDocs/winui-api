@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Core.Direct.IXamlDirect.AddEventHandler(System.Object,Microsoft.UI.Xaml.Core.Direct.XamlEventIndex,System.Object)
+
+<!--
+public void AddEventHandler (object xamlDirectObject, Microsoft.UI.Xaml.Core.Direct.XamlEventIndex eventIndex, object handler);
+-->
+
 ## -description
 
 ## -parameters

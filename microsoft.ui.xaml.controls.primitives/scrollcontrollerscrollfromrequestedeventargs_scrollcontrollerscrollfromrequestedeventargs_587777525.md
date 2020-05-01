@@ -1,7 +1,13 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.Primitives.ScrollControllerScrollFromRequestedEventArgs.#ctor(System.Single,Windows.Foundation.IReference{System.Single})
--api-type: winrt method
+-api-type: winrt constructor
 ---
+
+# Microsoft.UI.Xaml.Controls.Primitives.ScrollControllerScrollFromRequestedEventArgs.#ctor(System.Single,Windows.Foundation.IReference{System.Single})
+
+<!--
+public ScrollControllerScrollFromRequestedEventArgs (float offsetVelocity, System.Nullable<float> inertiaDecayRate);
+-->
 
 ## -description
 

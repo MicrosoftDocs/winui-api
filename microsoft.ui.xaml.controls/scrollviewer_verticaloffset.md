@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ScrollViewer.VerticalOffset
+
+<!--
+public double VerticalOffset { get; }
+-->
+
 ## -description
 
 Gets the distance the content has been scrolled vertically.

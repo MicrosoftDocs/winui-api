@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TabViewItem.HeaderTemplateProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty HeaderTemplateProperty { get; }
+-->
+
 ## -description
 
 Identifies the HeaderTemplate dependency property.

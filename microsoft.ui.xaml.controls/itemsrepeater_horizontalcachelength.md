@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ItemsRepeater.HorizontalCacheLength
+
+<!--
+public double HorizontalCacheLength { get; set; }
+-->
+
 ## -description
 
 Gets or sets a value that indicates the size of the buffer used to realize items when panning or scrolling horizontally.

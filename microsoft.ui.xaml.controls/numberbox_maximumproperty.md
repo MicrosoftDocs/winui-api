@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.NumberBox.MaximumProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty MaximumProperty { get; }
+-->
+
 ## -description
 
 Identifies the [Maximum](numberbox_maximum.md) dependency property.

@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.NonVirtualizingLayout.UninitializeForContextCore(Microsoft.UI.Xaml.Controls.NonVirtualizingLayoutContext)
+
+<!--
+protected virtual void UninitializeForContextCore (Microsoft.UI.Xaml.Controls.NonVirtualizingLayoutContext context);
+-->
+
 ## -description
 
 When overridden in a derived class, removes any state the layout previously stored on the UIElement container.  

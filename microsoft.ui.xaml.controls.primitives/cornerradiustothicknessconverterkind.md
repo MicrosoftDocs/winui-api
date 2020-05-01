@@ -1,7 +1,13 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Controls.Primitives.CornerRadiusToThicknessConverterKind
--api-type: winrt enumeration
+-api-type: winrt enum
 ---
+
+# Microsoft.UI.Xaml.Controls.Primitives.CornerRadiusToThicknessConverterKind
+
+<!--
+public enum CornerRadiusToThicknessConverterKind
+-->
 
 ## -description
 

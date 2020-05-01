@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.UniformGridLayout.MinItemHeight
+
+<!--
+public double MinItemHeight { get; set; }
+-->
+
 ## -description
 
 Gets or sets the minimum height of each item.

@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.UniformGridLayout.OrientationProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty OrientationProperty { get; }
+-->
+
 ## -description
 
 Identifies the [Orientation](uniformgridlayout_orientation.md) dependency property.

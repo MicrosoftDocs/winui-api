@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ProgressBarTemplateSettings.ClipRect
+
+<!--
+public Windows.UI.Xaml.Media.RectangleGeometry ClipRect { get; set; }
+-->
+
 ## -description
 
 ## -property-value

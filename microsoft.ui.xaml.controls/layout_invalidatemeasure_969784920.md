@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.Layout.InvalidateMeasure
+
+<!--
+protected void InvalidateMeasure ();
+-->
+
 ## -description
 
 Invalidates the measurement state (layout) for all UIElement containers that reference this layout.

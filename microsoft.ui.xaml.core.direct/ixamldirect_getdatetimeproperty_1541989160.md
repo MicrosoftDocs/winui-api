@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Core.Direct.IXamlDirect.GetDateTimeProperty(System.Object,Microsoft.UI.Xaml.Core.Direct.XamlPropertyIndex)
+
+<!--
+public System.DateTimeOffset GetDateTimeProperty (object xamlDirectObject, Microsoft.UI.Xaml.Core.Direct.XamlPropertyIndex propertyIndex);
+-->
+
 ## -description
 
 ## -parameters

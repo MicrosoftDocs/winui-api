@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.PersonPictureTemplateSettings.ActualInitials
+
+<!--
+public string ActualInitials { get; }
+-->
+
 ## -description
 
 Gets the contact's initials.

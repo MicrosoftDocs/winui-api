@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ProgressBar.TemplateSettings
+
+<!--
+public Microsoft.UI.Xaml.Controls.ProgressBarTemplateSettings TemplateSettings { get; }
+-->
+
 ## -description
 
 Gets an object that provides calculated values that can be referenced as **TemplateBinding** sources when defining templates for a [ProgressBar](progressbar.md) control.

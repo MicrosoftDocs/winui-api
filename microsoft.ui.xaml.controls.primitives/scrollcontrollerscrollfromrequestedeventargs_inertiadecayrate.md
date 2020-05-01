@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.Primitives.ScrollControllerScrollFromRequestedEventArgs.InertiaDecayRate
+
+<!--
+public System.Nullable<float> InertiaDecayRate { get; }
+-->
+
 ## -description
 
 Gets the rate at which the offset animation slows to a stop.

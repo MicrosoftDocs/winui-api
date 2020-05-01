@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ProgressBar.ShowError
+
+<!--
+public bool ShowError { get; set; }
+-->
+
 ## -description
 
 Gets or sets a value that indicates whether the progress bar should use visual states that communicate an **Error** state to the user.

@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TabView.SelectedIndexProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty SelectedIndexProperty { get; }
+-->
+
 ## -description
 
 Identifies the [SelectedIndex](tabview_selectedindex.md) dependency property.

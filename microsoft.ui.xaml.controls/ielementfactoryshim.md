@@ -3,6 +3,12 @@
 -api-type: winrt interface
 ---
 
+# Microsoft.UI.Xaml.Controls.IElementFactoryShim
+
+<!--
+public interface IElementFactoryShim
+-->
+
 ## -description
 
 ## -remarks

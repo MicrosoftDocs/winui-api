@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TabView.TabItemTemplateProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty TabItemTemplateProperty { get; }
+-->
+
 ## -description
 
 Identifies the [TabItemTemplate](tabview_tabitemtemplate.md) dependency property.

@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.RecyclingElementFactory.RecyclePool
+
+<!--
+public Microsoft.UI.Xaml.Controls.RecyclePool RecyclePool { get; set; }
+-->
+
 ## -description
 
 Gets or sets the pool of elements that can be recycled.

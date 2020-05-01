@@ -3,6 +3,12 @@
 -api-type: winrt event
 ---
 
+# Microsoft.UI.Xaml.Controls.Primitives.IScrollController.InteractionInfoChanged
+
+<!--
+event Windows.Foundation.TypedEventHandler<Microsoft.UI.Xaml.Controls.Primitives.IScrollController,object> InteractionInfoChanged;
+-->
+
 ## -description
 
 Occurs when a property of the scroll controller has changed.

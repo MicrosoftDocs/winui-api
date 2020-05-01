@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.VirtualizingLayoutContext.GetItemAtCore(System.Int32)
+
+<!--
+protected virtual object GetItemAtCore (int index);
+-->
+
 ## -description
 
 When implemented in a derived class, retrieves the data item in the source found at the specified index.

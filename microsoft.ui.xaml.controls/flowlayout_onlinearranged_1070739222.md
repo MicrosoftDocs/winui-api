@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.FlowLayout.OnLineArranged(System.Int32,System.Int32,System.Double,Microsoft.UI.Xaml.Controls.VirtualizingLayoutContext)
+
+<!--
+protected virtual void OnLineArranged (int startIndex, int countInLine, double lineSize, Microsoft.UI.Xaml.Controls.VirtualizingLayoutContext context);
+-->
+
 ## -description
 
 Called when a line has been arranged.

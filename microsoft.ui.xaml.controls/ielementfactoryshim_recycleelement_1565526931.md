@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.IElementFactoryShim.RecycleElement(Microsoft.UI.Xaml.Controls.ElementFactoryRecycleArgs)
+
+<!--
+public void RecycleElement (Microsoft.UI.Xaml.Controls.ElementFactoryRecycleArgs args);
+-->
+
 ## -description
 
 ## -parameters

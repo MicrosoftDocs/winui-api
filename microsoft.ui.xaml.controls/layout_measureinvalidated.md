@@ -3,6 +3,12 @@
 -api-type: winrt event
 ---
 
+# Microsoft.UI.Xaml.Controls.Layout.MeasureInvalidated
+
+<!--
+public event Windows.Foundation.TypedEventHandler<Microsoft.UI.Xaml.Controls.Layout,object> MeasureInvalidated;
+-->
+
 ## -description
 
 Occurs when the measurement state (layout) has been invalidated.

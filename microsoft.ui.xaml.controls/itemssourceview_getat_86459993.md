@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.ItemsSourceView.GetAt(System.Int32)
+
+<!--
+public object GetAt (int index);
+-->
+
 ## -description
 
 Retrieves the item at the specified index.

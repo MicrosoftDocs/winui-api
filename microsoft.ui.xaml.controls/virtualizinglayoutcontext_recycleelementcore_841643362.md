@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.VirtualizingLayoutContext.RecycleElementCore(Windows.UI.Xaml.UIElement)
+
+<!--
+protected virtual void RecycleElementCore (Windows.UI.Xaml.UIElement element);
+-->
+
 ## -description
 
 When implemented in a derived class, clears the specified UIElement and allows it to be either re-used or released.

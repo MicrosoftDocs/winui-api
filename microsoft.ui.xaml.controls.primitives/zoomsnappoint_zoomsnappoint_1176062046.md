@@ -1,7 +1,13 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.Primitives.ZoomSnapPoint.#ctor(System.Double)
--api-type: winrt method
+-api-type: winrt constructor
 ---
+
+# Microsoft.UI.Xaml.Controls.Primitives.ZoomSnapPoint.#ctor(System.Double)
+
+<!--
+public ZoomSnapPoint (double snapPointValue);
+-->
 
 ## -description
 

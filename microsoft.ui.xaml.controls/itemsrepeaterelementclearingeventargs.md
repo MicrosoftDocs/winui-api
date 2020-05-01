@@ -3,6 +3,12 @@
 -api-type: winrt class
 ---
 
+# Microsoft.UI.Xaml.Controls.ItemsRepeaterElementClearingEventArgs
+
+<!--
+public sealed class ItemsRepeaterElementClearingEventArgs
+-->
+
 ## -description
 
 Provides data for the ItemsRepeater.ElementClearing event.

@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.ItemsSourceView.IndexFromKey(System.String)
+
+<!--
+public int IndexFromKey (string key);
+-->
+
 ## -description
 
 Retrieves the index of the item that has the specified unique identifier (key).

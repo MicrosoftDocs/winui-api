@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.RadioButtons.HeaderProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty HeaderProperty { get; }
+-->
+
 ## -description
 
 Identifies the [Header](radiobuttons_header.md) dependency property.

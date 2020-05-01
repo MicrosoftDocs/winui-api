@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.FlowLayout.MinColumnSpacing
+
+<!--
+public double MinColumnSpacing { get; set; }
+-->
+
 ## -description
 
 Gets or sets the minimum space between items on the horizontal axis.

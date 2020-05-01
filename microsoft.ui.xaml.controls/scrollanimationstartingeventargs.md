@@ -3,6 +3,12 @@
 -api-type: winrt class
 ---
 
+# Microsoft.UI.Xaml.Controls.ScrollAnimationStartingEventArgs
+
+<!--
+public sealed class ScrollAnimationStartingEventArgs
+-->
+
 ## -description
 
 Provides data for the ScrollAnimationStarting event.

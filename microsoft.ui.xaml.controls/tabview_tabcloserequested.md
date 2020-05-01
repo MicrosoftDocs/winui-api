@@ -3,6 +3,12 @@
 -api-type: winrt event
 ---
 
+# Microsoft.UI.Xaml.Controls.TabView.TabCloseRequested
+
+<!--
+public event Windows.Foundation.TypedEventHandler<Microsoft.UI.Xaml.Controls.TabView,Microsoft.UI.Xaml.Controls.TabViewTabCloseRequestedEventArgs> TabCloseRequested;
+-->
+
 ## -description
 
 Raised when the user attempts to close a Tab via clicking the x-to-close button, CTRL+F4, or mousewheel.

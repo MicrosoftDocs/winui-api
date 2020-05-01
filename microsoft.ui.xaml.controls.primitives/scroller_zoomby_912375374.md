@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.Primitives.Scroller.ZoomBy(System.Single,Windows.Foundation.IReference{Windows.Foundation.Numerics.Vector2})
+
+<!--
+public Microsoft.UI.Xaml.Controls.ZoomInfo ZoomBy (float zoomFactorDelta, System.Nullable<System.Numerics.Vector2> centerPoint);
+-->
+
 ## -description
 
 ## -parameters

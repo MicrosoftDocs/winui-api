@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.Primitives.ScrollControllerScrollToRequestedEventArgs.Offset
+
+<!--
+public double Offset { get; }
+-->
+
 ## -description
 
 Gets the offset to scroll to.

@@ -1,7 +1,13 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.UniformGridLayout.#ctor
--api-type: winrt method
+-api-type: winrt constructor
 ---
+
+# Microsoft.UI.Xaml.Controls.UniformGridLayout.#ctor
+
+<!--
+public UniformGridLayout ();
+-->
 
 ## -description
 

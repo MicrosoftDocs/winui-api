@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ProgressBar.ShowPaused
+
+<!--
+public bool ShowPaused { get; set; }
+-->
+
 ## -description
 
 Gets or sets a value that indicates whether the progress bar should use visual states that communicate a **Paused** state to the user.

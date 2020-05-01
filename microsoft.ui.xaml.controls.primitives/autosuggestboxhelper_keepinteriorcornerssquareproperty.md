@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.Primitives.AutoSuggestBoxHelper.KeepInteriorCornersSquareProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty KeepInteriorCornersSquareProperty { get; }
+-->
+
 ## -description
 
 Identifies the [KeepInteriorCornersSquare](autosuggestboxhelper_keepinteriorcornerssquare.md) dependency property.

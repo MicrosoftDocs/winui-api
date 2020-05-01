@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.Primitives.Scroller.ContentOrientation
+
+<!--
+public Microsoft.UI.Xaml.Controls.ContentOrientation ContentOrientation { get; set; }
+-->
+
 ## -description
 
 Gets or sets the preferred scroll direction of the content.

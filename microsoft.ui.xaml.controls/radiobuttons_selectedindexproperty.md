@@ -1,7 +1,13 @@
 ---
--api-id: P:Microsoft.UI.Xaml.Controls.RadioButtons.SelectedIndexProperty
+-api-id: P:Microsoft.UI.Xaml.Controls.RadioButtons.SelectedItem
 -api-type: winrt property
 ---
+
+# Microsoft.UI.Xaml.Controls.RadioButtons.SelectedItem
+
+<!--
+public object SelectedItem { get; set; }
+-->
 
 ## -description
 

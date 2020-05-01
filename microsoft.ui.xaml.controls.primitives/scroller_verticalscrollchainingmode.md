@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.Primitives.Scroller.VerticalScrollChainingMode
+
+<!--
+public Microsoft.UI.Xaml.Controls.ChainingMode VerticalScrollChainingMode { get; set; }
+-->
+
 ## -description
 
 Gets or sets a value that indicates whether scroll chaining is enabled from this child to its parent, for the vertical axis.

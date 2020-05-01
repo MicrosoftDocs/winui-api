@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.NumberBox.PlaceholderTextProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty PlaceholderTextProperty { get; }
+-->
+
 ## -description
 
 Identifies the [PlaceholderText](numberbox_placeholdertext.md) dependency property.

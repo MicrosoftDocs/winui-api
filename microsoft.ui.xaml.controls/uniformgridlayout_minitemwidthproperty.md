@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.UniformGridLayout.MinItemWidthProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty MinItemWidthProperty { get; }
+-->
+
 ## -description
 
 Identifies the [MinItemWidth](uniformgridlayout_minitemwidth.md) dependency property.

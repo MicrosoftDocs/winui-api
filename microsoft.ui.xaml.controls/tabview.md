@@ -3,7 +3,11 @@
 -api-type: winrt class
 ---
 
-# TabView
+# Microsoft.UI.Xaml.Controls.TabView
+
+<!--
+public class TabView : Windows.UI.Xaml.Controls.Control
+-->
 
 ## -description
 

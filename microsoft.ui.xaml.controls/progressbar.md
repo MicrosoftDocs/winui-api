@@ -3,6 +3,12 @@
 -api-type: winrt class
 ---
 
+# Microsoft.UI.Xaml.Controls.ProgressBar
+
+<!--
+public class ProgressBar : Windows.UI.Xaml.Controls.Primitives.RangeBase
+-->
+
 ## -description
 
 Represents a control that indicates the progress of an operation, where the typical visual appearance is a bar that animates a filled area as progress continues.

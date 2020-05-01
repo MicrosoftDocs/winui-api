@@ -1,7 +1,13 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.ElementFactory.#ctor
--api-type: winrt method
+-api-type: winrt constructor
 ---
+
+# Microsoft.UI.Xaml.Controls.ElementFactory.#ctor
+
+<!--
+public ElementFactory ();
+-->
 
 ## -description
 

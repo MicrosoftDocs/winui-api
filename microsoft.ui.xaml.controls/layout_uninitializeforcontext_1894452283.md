@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.Layout.UninitializeForContext(Microsoft.UI.Xaml.Controls.LayoutContext)
+
+<!--
+public void UninitializeForContext (Microsoft.UI.Xaml.Controls.LayoutContext context);
+-->
+
 ## -description
 
 Removes any state the layout previously stored on the UIElement container.  

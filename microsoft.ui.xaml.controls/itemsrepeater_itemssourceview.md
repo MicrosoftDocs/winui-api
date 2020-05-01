@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ItemsRepeater.ItemsSourceView
+
+<!--
+public Microsoft.UI.Xaml.Controls.ItemsSourceView ItemsSourceView { get; }
+-->
+
 ## -description
 
 Gets a standardized view of the supported interactions between a given ItemsSource object and the ItemsRepeater control and its associated components.

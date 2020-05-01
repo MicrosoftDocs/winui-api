@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.ElementFactory.RecycleElementCore(Microsoft.UI.Xaml.Controls.ElementFactoryRecycleArgs)
+
+<!--
+protected virtual void RecycleElementCore (Microsoft.UI.Xaml.Controls.ElementFactoryRecycleArgs args);
+-->
+
 ## -description
 
 When implemented in a derived class, clears a UIElement to be re-used to display a new data item.

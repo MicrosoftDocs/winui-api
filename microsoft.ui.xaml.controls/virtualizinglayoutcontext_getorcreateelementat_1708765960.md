@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.VirtualizingLayoutContext.GetOrCreateElementAt(System.Int32,Microsoft.UI.Xaml.Controls.ElementRealizationOptions)
+
+<!--
+public Windows.UI.Xaml.UIElement GetOrCreateElementAt (int index, Microsoft.UI.Xaml.Controls.ElementRealizationOptions options);
+-->
+
 ## -description
 
 Retrieves a UIElement that represents the data item in the source found at the specified index using the specified options.

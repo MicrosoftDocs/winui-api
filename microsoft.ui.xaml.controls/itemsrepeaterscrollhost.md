@@ -3,6 +3,12 @@
 -api-type: winrt class
 ---
 
+# Microsoft.UI.Xaml.Controls.ItemsRepeaterScrollHost
+
+<!--
+public sealed class ItemsRepeaterScrollHost : Windows.UI.Xaml.FrameworkElement
+-->
+
 ## -description
 
 A helper to coordinate interaction between the [ItemsRepeater](itemsrepeater.md) and [ScrollViewer](/uwp/api/windows.ui.xaml.controls.scrollviewer).

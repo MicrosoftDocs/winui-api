@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.Primitives.CornerRadiusToThicknessConverter.ConversionKindProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty ConversionKindProperty { get; }
+-->
+
 ## -description
 
 Identifies the [ConversionKind](cornerradiustothicknessconverter_conversionkind.md) dependency property.

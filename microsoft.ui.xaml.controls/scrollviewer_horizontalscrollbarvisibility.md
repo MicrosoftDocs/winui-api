@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ScrollViewer.HorizontalScrollBarVisibility
+
+<!--
+public Microsoft.UI.Xaml.Controls.ScrollBarVisibility HorizontalScrollBarVisibility { get; set; }
+-->
+
 ## -description
 
 Gets or sets a value that indicates whether a horizontal ScrollBar should be displayed.

@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.ScrollViewer.ScrollBy(System.Double,System.Double,Microsoft.UI.Xaml.Controls.ScrollOptions)
+
+<!--
+public Microsoft.UI.Xaml.Controls.ScrollInfo ScrollBy (double horizontalOffsetDelta, double verticalOffsetDelta, Microsoft.UI.Xaml.Controls.ScrollOptions options);
+-->
+
 ## -description
 
 ## -parameters

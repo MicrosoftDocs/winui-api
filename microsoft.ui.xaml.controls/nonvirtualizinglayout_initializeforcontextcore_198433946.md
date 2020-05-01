@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.NonVirtualizingLayout.InitializeForContextCore(Microsoft.UI.Xaml.Controls.NonVirtualizingLayoutContext)
+
+<!--
+protected virtual void InitializeForContextCore (Microsoft.UI.Xaml.Controls.NonVirtualizingLayoutContext context);
+-->
+
 ## -description
 
 When overridden in a derived class, initializes any per-container state the layout requires when it is attached to a UIElement container.

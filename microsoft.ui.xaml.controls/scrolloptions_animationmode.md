@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ScrollOptions.AnimationMode
+
+<!--
+public Microsoft.UI.Xaml.Controls.AnimationMode AnimationMode { get; set; }
+-->
+
 ## -description
 
 Gets or sets a value that indicates whether animation is allowed during the scroll action.

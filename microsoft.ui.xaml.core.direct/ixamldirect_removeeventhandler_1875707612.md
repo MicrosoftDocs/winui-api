@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Core.Direct.IXamlDirect.RemoveEventHandler(System.Object,Microsoft.UI.Xaml.Core.Direct.XamlEventIndex,System.Object)
+
+<!--
+public void RemoveEventHandler (object xamlDirectObject, Microsoft.UI.Xaml.Core.Direct.XamlEventIndex eventIndex, object handler);
+-->
+
 ## -description
 
 ## -parameters

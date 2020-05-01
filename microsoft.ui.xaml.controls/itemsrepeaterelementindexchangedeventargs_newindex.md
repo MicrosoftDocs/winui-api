@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ItemsRepeaterElementIndexChangedEventArgs.NewIndex
+
+<!--
+public int NewIndex { get; }
+-->
+
 ## -description
 
 Gets the index of the element after the change.

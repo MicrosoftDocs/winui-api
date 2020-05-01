@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.UniformGridLayout.Orientation
+
+<!--
+public Windows.UI.Xaml.Controls.Orientation Orientation { get; set; }
+-->
+
 ## -description
 
 Gets or sets the axis along which items are laid out.

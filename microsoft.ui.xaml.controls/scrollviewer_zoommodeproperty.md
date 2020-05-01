@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ScrollViewer.ZoomModeProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty ZoomModeProperty { get; }
+-->
+
 ## -description
 
 Identifies the [ZoomMode](scrollviewer_zoommode.md) dependency property.

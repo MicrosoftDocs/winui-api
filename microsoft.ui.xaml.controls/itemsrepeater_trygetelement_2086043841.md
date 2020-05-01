@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.ItemsRepeater.TryGetElement(System.Int32)
+
+<!--
+public Windows.UI.Xaml.UIElement TryGetElement (int index);
+-->
+
 ## -description
 
 Retrieves the realized UIElement that corresponds to the item at the specified index in the data source.

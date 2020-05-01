@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TabView.CanDragTabsProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty CanDragTabsProperty { get; }
+-->
+
 ## -description
 
 Identifies the [CanDragTabs](tabview_candragtabs.md) dependency property.

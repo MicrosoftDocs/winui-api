@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.FlowLayout.MinColumnSpacingProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty MinColumnSpacingProperty { get; }
+-->
+
 ## -description
 
 Identifies the [MinColumnSpacing](flowlayout_mincolumnspacing.md) dependency property.

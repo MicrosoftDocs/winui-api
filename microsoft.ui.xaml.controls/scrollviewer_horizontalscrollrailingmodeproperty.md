@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ScrollViewer.HorizontalScrollRailingModeProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty HorizontalScrollRailingModeProperty { get; }
+-->
+
 ## -description
 
 Identifies the [HorizontalScrollRailingMode](scrollviewer_horizontalscrollrailingmode.md) dependency property.

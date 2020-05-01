@@ -3,6 +3,12 @@
 -api-type: winrt class
 ---
 
+# Microsoft.UI.Xaml.Controls.ItemsRepeaterElementPreparedEventArgs
+
+<!--
+public sealed class ItemsRepeaterElementPreparedEventArgs
+-->
+
 ## -description
 
 Provides data for the ItemsRepeater.ElementPrepared event.

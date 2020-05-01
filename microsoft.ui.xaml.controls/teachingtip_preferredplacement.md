@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TeachingTip.PreferredPlacement
+
+<!--
+public Microsoft.UI.Xaml.Controls.TeachingTipPlacementMode PreferredPlacement { get; set; }
+-->
+
 ## -description
 
 Preferred placement to be used for the teaching tip. If there is not enough space to show at the preferred placement, a new placement will be automatically chosen. 

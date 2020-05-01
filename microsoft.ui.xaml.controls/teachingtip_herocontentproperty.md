@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TeachingTip.HeroContentProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty HeroContentProperty { get; }
+-->
+
 ## -description
 
 Identifies the [HeroContent](teachingtip_herocontent.md) dependency property.

@@ -3,6 +3,12 @@
 -api-type: winrt class
 ---
 
+# Microsoft.UI.Xaml.Controls.TabViewTabDroppedOutsideEventArgs
+
+<!--
+public sealed class TabViewTabDroppedOutsideEventArgs
+-->
+
 ## -description
 
 Provides data for the TabDroppedOutside event.

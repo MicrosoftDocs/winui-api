@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ItemsRepeater.BackgroundProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty BackgroundProperty { get; }
+-->
+
 ## -description
 
 Identifies the [Background](itemsrepeater_background.md) dependency property.

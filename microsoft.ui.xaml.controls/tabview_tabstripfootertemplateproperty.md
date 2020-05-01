@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TabView.TabStripFooterTemplateProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty TabStripFooterTemplateProperty { get; }
+-->
+
 ## -description
 
 Identifies the [TabStripFooterTemplate](tabview_tabstripfootertemplate.md) dependency property.

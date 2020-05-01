@@ -1,7 +1,13 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Controls.TeachingTipHeroContentPlacementMode
--api-type: winrt enumeration
+-api-type: winrt enum
 ---
+
+# Microsoft.UI.Xaml.Controls.TeachingTipHeroContentPlacementMode
+
+<!--
+public enum TeachingTipHeroContentPlacementMode
+-->
 
 ## -description
 

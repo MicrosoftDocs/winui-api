@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.Primitives.IScrollController.AreScrollerInteractionsAllowed
+
+<!--
+public bool AreScrollerInteractionsAllowed { get; }
+-->
+
 ## -description
 
 Gets a value that indicates whether a user can interact with the associated scroller.

@@ -1,7 +1,13 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.ItemsSourceView.#ctor(System.Object)
--api-type: winrt method
+-api-type: winrt constructor
 ---
+
+# Microsoft.UI.Xaml.Controls.ItemsSourceView.#ctor(System.Object)
+
+<!--
+public ItemsSourceView (object source);
+-->
 
 ## -description
 

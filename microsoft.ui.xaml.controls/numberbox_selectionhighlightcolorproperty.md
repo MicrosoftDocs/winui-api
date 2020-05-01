@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.NumberBox.SelectionHighlightColorProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty SelectionHighlightColorProperty { get; }
+-->
+
 ## -description
 
 Identifies the [SelectionHighlightColor](numberbox_selectionhighlightcolor.md) dependency property.

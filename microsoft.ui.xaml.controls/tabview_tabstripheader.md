@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TabView.TabStripHeader
+
+<!--
+public object TabStripHeader { get; set; }
+-->
+
 ## -description
 
 Gets or sets the content that is shown to the left of the tab strip.

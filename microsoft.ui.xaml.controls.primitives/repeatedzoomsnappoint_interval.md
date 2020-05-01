@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.Primitives.RepeatedZoomSnapPoint.Interval
+
+<!--
+public double Interval { get; }
+-->
+
 ## -description
 
 Gets the interval value between two consecutive snap points.

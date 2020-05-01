@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ScrollViewer.ExtentHeight
+
+<!--
+public double ExtentHeight { get; }
+-->
+
 ## -description
 
 Gets the vertical size of all the scrollable content in the ScrollViewer.

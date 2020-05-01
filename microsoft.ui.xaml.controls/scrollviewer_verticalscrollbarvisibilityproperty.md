@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ScrollViewer.VerticalScrollBarVisibilityProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty VerticalScrollBarVisibilityProperty { get; }
+-->
+
 ## -description
 
 Identifies the [VerticalScrollBarVisibility](scrollviewer_verticalscrollbarvisibility.md) dependency property.

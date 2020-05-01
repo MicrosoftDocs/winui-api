@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ProgressBarTemplateSettings.ContainerAnimationEndPosition
+
+<!--
+public double ContainerAnimationEndPosition { get; set; }
+-->
+
 ## -description
 
 Gets the target "To" point of the container animation that animates the [ProgressBar](progressbar.md).

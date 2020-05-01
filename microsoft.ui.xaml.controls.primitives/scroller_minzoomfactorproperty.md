@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.Primitives.Scroller.MinZoomFactorProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty MinZoomFactorProperty { get; }
+-->
+
 ## -description
 
 Identifies the [MinZoomFactor](scroller_minzoomfactor.md) dependency property.

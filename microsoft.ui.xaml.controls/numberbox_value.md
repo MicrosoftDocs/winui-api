@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.NumberBox.Value
+
+<!--
+public double Value { get; set; }
+-->
+
 ## -description
 
 Gets or sets the numeric value of a [NumberBox](numberbox.md).

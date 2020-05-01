@@ -3,6 +3,12 @@
 -api-type: winrt interface
 ---
 
+# Microsoft.UI.Xaml.Controls.IKeyIndexMapping
+
+<!--
+public interface IKeyIndexMapping
+-->
+
 ## -description
 
 Provides methods that support mapping between an item's unique identifier and index.

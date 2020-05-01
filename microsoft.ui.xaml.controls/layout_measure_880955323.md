@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.Layout.Measure(Microsoft.UI.Xaml.Controls.LayoutContext,Windows.Foundation.Size)
+
+<!--
+public Windows.Foundation.Size Measure (Microsoft.UI.Xaml.Controls.LayoutContext context, Windows.Foundation.Size availableSize);
+-->
+
 ## -description
 
 Suggests a DesiredSize for a container element. A container element that supports attached layouts should call this method from their own MeasureOverride implementations to form a recursive layout update. The attached layout is expected to call the Measure for each of the container’s UIElement children.  

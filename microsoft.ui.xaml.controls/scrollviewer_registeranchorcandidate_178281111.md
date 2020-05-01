@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.ScrollViewer.RegisterAnchorCandidate(Windows.UI.Xaml.UIElement)
+
+<!--
+public void RegisterAnchorCandidate (Windows.UI.Xaml.UIElement element);
+-->
+
 ## -description
 
 Registers a UIElement as a potential scroll anchor.

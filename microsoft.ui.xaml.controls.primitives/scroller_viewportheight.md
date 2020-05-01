@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.Primitives.Scroller.ViewportHeight
+
+<!--
+public double ViewportHeight { get; }
+-->
+
 ## -description
 
 Gets the vertical size of the viewable content.

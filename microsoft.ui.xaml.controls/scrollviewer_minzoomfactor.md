@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ScrollViewer.MinZoomFactor
+
+<!--
+public double MinZoomFactor { get; set; }
+-->
+
 ## -description
 
 Gets or sets the minimum permitted run-time value of [ZoomFactor](scrollviewer_zoomfactor.md).

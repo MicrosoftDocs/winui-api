@@ -3,6 +3,12 @@
 -api-type: winrt event
 ---
 
+# Microsoft.UI.Xaml.Controls.RecyclingElementFactory.SelectTemplateKey
+
+<!--
+public event Windows.Foundation.TypedEventHandler<Microsoft.UI.Xaml.Controls.RecyclingElementFactory,Microsoft.UI.Xaml.Controls.SelectTemplateEventArgs> SelectTemplateKey;
+-->
+
 ## -description
 
 Occurs when an element is retrieved in order to get a template key for the element.

@@ -3,6 +3,12 @@
 -api-type: winrt event
 ---
 
+# Microsoft.UI.Xaml.Controls.TabView.TabDroppedOutside
+
+<!--
+public event Windows.Foundation.TypedEventHandler<Microsoft.UI.Xaml.Controls.TabView,Microsoft.UI.Xaml.Controls.TabViewTabDroppedOutsideEventArgs> TabDroppedOutside;
+-->
+
 ## -description
 
 Occurs when the user completes a drag and drop operation by dropping a tab outside of the TabStrip area. 

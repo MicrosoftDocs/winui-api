@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Media.AcrylicBrush.TintLuminosityOpacityProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty TintLuminosityOpacityProperty { get; }
+-->
+
 ## -description
 
 Identifies the [TintLuminosityOpacity](acrylicbrush_tintluminosityopacity.md) dependency property.

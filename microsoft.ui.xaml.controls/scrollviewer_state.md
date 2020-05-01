@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ScrollViewer.State
+
+<!--
+public Microsoft.UI.Xaml.Controls.InteractionState State { get; }
+-->
+
 ## -description
 
 Gets a value that indicates the current interaction state of the control.

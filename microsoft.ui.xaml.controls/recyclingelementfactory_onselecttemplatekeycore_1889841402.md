@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.RecyclingElementFactory.OnSelectTemplateKeyCore(System.Object,Windows.UI.Xaml.UIElement)
+
+<!--
+protected virtual string OnSelectTemplateKeyCore (object dataContext, Windows.UI.Xaml.UIElement owner);
+-->
+
 ## -description
 
 Raises the [SelectTemplateKey](recyclingelementfactory_selecttemplatekey.md) event.

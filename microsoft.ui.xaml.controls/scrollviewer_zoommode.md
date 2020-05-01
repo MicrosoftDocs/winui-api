@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ScrollViewer.ZoomMode
+
+<!--
+public Microsoft.UI.Xaml.Controls.ZoomMode ZoomMode { get; set; }
+-->
+
 ## -description
 
 Gets or sets a value that indicates whether zoom behavior in the [ScrollViewer](scrollviewer.md) content is enabled.

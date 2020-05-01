@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ScrollViewer.HorizontalScrollController
+
+<!--
+public Microsoft.UI.Xaml.Controls.Primitives.IScrollController HorizontalScrollController { get; }
+-->
+
 ## -description
 
 Gets or sets the scroll controller (often a ScrollBar) used for horizontal scrolling.

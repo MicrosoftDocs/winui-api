@@ -1,7 +1,13 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Controls.Primitives.CornerRadiusFilterKind
--api-type: winrt enumeration
+-api-type: winrt enum
 ---
+
+# Microsoft.UI.Xaml.Controls.Primitives.CornerRadiusFilterKind
+
+<!--
+public enum CornerRadiusFilterKind
+-->
 
 ## -description
 

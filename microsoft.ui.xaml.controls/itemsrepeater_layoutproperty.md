@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ItemsRepeater.LayoutProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty LayoutProperty { get; }
+-->
+
 ## -description
 
 Identifies the [Layout](itemsrepeater_layout.md) dependency property.

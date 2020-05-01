@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.Primitives.Scroller.BackgroundProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty BackgroundProperty { get; }
+-->
+
 ## -description
 
 Identifies the [Background](scroller_background.md) dependency property.

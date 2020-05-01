@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.Primitives.CornerRadiusFilterConverter.FilterProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty FilterProperty { get; }
+-->
+
 ## -description
 
 Identifies the [Filter](cornerradiusfilterconverter_filter.md) dependency property.

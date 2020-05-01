@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.NumberBox.SelectionFlyoutProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty SelectionFlyoutProperty { get; }
+-->
+
 ## -description
 
 Identifies the [SelectionFlyout](numberbox_selectionflyout.md) dependency property.

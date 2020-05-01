@@ -3,6 +3,12 @@
 -api-type: winrt class
 ---
 
+# Microsoft.UI.Xaml.Controls.TeachingTip
+
+<!--
+public class TeachingTip : Windows.UI.Xaml.Controls.ContentControl
+-->
+
 ## -description
 
 A teaching tip is a semi-persistent and content-rich flyout that provides contextual information. It is often used for informing, reminding, and teaching users about important and new features that may enhance their experience.

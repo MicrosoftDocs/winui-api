@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TeachingTip.ShouldConstrainToRootBounds
+
+<!--
+public bool ShouldConstrainToRootBounds { get; set; }
+-->
+
 ## -description
 
 Gets or sets a value that indicates whether the teaching tip will constrain to the bounds of its xaml root.

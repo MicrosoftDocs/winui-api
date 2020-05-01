@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.Primitives.AutoSuggestBoxHelper.SetKeepInteriorCornersSquare(Windows.UI.Xaml.Controls.AutoSuggestBox,System.Boolean)
+
+<!--
+public static void SetKeepInteriorCornersSquare (Windows.UI.Xaml.Controls.AutoSuggestBox autoSuggestBox, bool value);
+-->
+
 ## -description
 
 ## -parameters

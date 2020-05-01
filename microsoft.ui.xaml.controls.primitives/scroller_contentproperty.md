@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.Primitives.Scroller.ContentProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty ContentProperty { get; }
+-->
+
 ## -description
 
 Identifies the [Content](scroller_content.md) dependency property.

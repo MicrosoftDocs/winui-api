@@ -1,7 +1,14 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Controls.TabViewWidthMode
--api-type: winrt enumeration
+-api-type: winrt enum
 ---
+
+# Microsoft.UI.Xaml.Controls.TabViewWidthMode
+
+<!--
+public enum TabViewWidthMode
+-->
+
 ## -description
 
 Defines constants that specify the width of the tabs.

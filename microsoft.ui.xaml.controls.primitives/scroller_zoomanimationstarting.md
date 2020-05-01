@@ -3,6 +3,12 @@
 -api-type: winrt event
 ---
 
+# Microsoft.UI.Xaml.Controls.Primitives.Scroller.ZoomAnimationStarting
+
+<!--
+public event Windows.Foundation.TypedEventHandler<Microsoft.UI.Xaml.Controls.Primitives.Scroller,Microsoft.UI.Xaml.Controls.ZoomAnimationStartingEventArgs> ZoomAnimationStarting;
+-->
+
 ## -description
 
 Occurs when a call to [ZoomBy](/uwp/api/microsoft.ui.xaml.controls.primitives.scroller.zoomby) or [ZoomTo](/uwp/api/microsoft.ui.xaml.controls.primitives.scroller.zoomto) causes an animation to begin.

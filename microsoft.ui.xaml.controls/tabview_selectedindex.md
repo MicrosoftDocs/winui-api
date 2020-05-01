@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TabView.SelectedIndex
+
+<!--
+public int SelectedIndex { get; set; }
+-->
+
 ## -description
 
 Gets or sets the index of the selected item.

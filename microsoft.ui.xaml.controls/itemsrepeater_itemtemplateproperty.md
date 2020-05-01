@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ItemsRepeater.ItemTemplateProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty ItemTemplateProperty { get; }
+-->
+
 ## -description
 
 Identifies the [ItemTemplate](itemsrepeater_itemtemplate.md) dependency property.

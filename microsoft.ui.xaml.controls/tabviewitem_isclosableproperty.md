@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TabViewItem.IsClosableProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty IsClosableProperty { get; }
+-->
+
 ## -description
 
 Identifies the IsClosable dependency property.

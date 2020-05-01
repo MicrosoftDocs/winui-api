@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TeachingTip.ActionButtonStyleProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty ActionButtonStyleProperty { get; }
+-->
+
 ## -description
 
 Identifies the [ActionButtonStyle](teachingtip_actionbuttonstyle.md) dependency property.

@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Core.Direct.IXamlDirect.GetCollectionCount(System.Object)
+
+<!--
+public uint GetCollectionCount (object xamlDirectObject);
+-->
+
 ## -description
 
 ## -parameters

@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.NumberBox.PreventKeyboardDisplayOnProgrammaticFocusProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty PreventKeyboardDisplayOnProgrammaticFocusProperty { get; }
+-->
+
 ## -description
 
 Identifies the [PreventKeyboardDisplayOnProgrammaticFocus](numberbox_preventkeyboarddisplayonprogrammaticfocus.md) dependency property.

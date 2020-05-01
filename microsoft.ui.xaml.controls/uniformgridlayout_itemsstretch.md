@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.UniformGridLayout.ItemsStretch
+
+<!--
+public Microsoft.UI.Xaml.Controls.UniformGridLayoutItemsStretch ItemsStretch { get; set; }
+-->
+
 ## -description
 
 Gets or sets a value that indicates how items are sized to fill the available space.

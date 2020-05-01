@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TabView.IsAddTabButtonVisible
+
+<!--
+public bool IsAddTabButtonVisible { get; set; }
+-->
+
 ## -description
 
 Gets or sets whether the add (+) tab button is visible. 

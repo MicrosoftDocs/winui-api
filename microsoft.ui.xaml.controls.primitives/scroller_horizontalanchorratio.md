@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.Primitives.Scroller.HorizontalAnchorRatio
+
+<!--
+public double HorizontalAnchorRatio { get; set; }
+-->
+
 ## -description
 
 Gets or sets the horizontal position of the Scroller's anchor point with respect to the viewport.

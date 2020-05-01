@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TeachingTip.CloseButtonCommandProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty CloseButtonCommandProperty { get; }
+-->
+
 ## -description
 
 Identifies the [CloseButtonCommand](teachingtip_closebuttoncommand.md) dependency property.

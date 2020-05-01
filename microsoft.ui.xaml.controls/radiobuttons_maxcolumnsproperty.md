@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.RadioButtons.MaxColumnsProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty MaxColumnsProperty { get; }
+-->
+
 ## -description
 
 Identifies the [MaxColumns](radiobuttons_maxcolumns.md) dependency property.

@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.NumberBox.TextReadingOrderProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty TextReadingOrderProperty { get; }
+-->
+
 ## -description
 
 Identifies the [TextReadingOrder](numberbox_textreadingorder.md) dependency property.

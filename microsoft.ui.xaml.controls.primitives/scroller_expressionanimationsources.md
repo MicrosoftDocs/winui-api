@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.Primitives.Scroller.ExpressionAnimationSources
+
+<!--
+public Windows.UI.Composition.CompositionPropertySet ExpressionAnimationSources { get; }
+-->
+
 ## -description
 
 Gets a set of property values related to scrolling.

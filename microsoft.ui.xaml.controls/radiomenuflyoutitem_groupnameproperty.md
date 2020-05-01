@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.RadioMenuFlyoutItem.GroupNameProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty GroupNameProperty { get; }
+-->
+
 ## -description
 
 Identifies the [GroupName](radiomenuflyoutitem_groupname.md) dependency property.

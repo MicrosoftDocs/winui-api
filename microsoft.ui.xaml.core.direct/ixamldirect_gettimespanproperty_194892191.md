@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Core.Direct.IXamlDirect.GetTimeSpanProperty(System.Object,Microsoft.UI.Xaml.Core.Direct.XamlPropertyIndex)
+
+<!--
+public System.TimeSpan GetTimeSpanProperty (object xamlDirectObject, Microsoft.UI.Xaml.Core.Direct.XamlPropertyIndex propertyIndex);
+-->
+
 ## -description
 
 ## -parameters

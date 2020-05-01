@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ProgressBarTemplateSettings.IndicatorLengthDeltaProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty IndicatorLengthDeltaProperty { get; }
+-->
+
 ## -description
 
 Identifies the [IndicatorLengthDelta](progressbartemplatesettings_indicatorlengthdelta.md) dependency property.

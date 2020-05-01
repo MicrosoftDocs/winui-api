@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TreeView.SelectedItem
+
+<!--
+public object SelectedItem { get; set; }
+-->
+
 ## -description
 
 ## -property-value

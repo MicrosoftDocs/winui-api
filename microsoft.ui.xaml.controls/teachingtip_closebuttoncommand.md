@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TeachingTip.CloseButtonCommand
+
+<!--
+public System.Windows.Input.ICommand CloseButtonCommand { get; set; }
+-->
+
 ## -description
 
 Gets or sets the command to invoke when the close button is clicked.

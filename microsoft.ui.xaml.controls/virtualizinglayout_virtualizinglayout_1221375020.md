@@ -1,7 +1,13 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.VirtualizingLayout.#ctor
--api-type: winrt method
+-api-type: winrt constructor
 ---
+
+# Microsoft.UI.Xaml.Controls.VirtualizingLayout.#ctor
+
+<!--
+public VirtualizingLayout ();
+-->
 
 ## -description
 

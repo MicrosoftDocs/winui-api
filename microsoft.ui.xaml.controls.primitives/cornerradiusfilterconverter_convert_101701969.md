@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.Primitives.CornerRadiusFilterConverter.Convert(System.Object,Windows.UI.Xaml.Interop.TypeName,System.Object,System.String)
+
+<!--
+public object Convert (object value, System.Type targetType, object parameter, string language);
+-->
+
 ## -description
 
 Converts the source CornerRadius by extracting only the fields specified by the [Filter](cornerradiusfilterconverter_filter.md) and leaving others set to 0.

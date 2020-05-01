@@ -3,6 +3,12 @@
 -api-type: winrt class
 ---
 
+# Microsoft.UI.Xaml.Controls.RadioMenuFlyoutItem
+
+<!--
+public class RadioMenuFlyoutItem : Windows.UI.Xaml.Controls.MenuFlyoutItem
+-->
+
 ## -description
 Represents a menu item that is mutually exclusive with other radio menu items in its group.
 

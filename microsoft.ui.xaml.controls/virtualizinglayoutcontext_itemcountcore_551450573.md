@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.VirtualizingLayoutContext.ItemCountCore
+
+<!--
+protected virtual int ItemCountCore ();
+-->
+
 ## -description
 
 When implemented in a derived class, retrieves the number of items in the data.

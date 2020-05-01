@@ -1,7 +1,13 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Controls.TeachingTipCloseReason
--api-type: winrt enumeration
+-api-type: winrt enum
 ---
+
+# Microsoft.UI.Xaml.Controls.TeachingTipCloseReason
+
+<!--
+public enum TeachingTipCloseReason
+-->
 
 ## -description
 

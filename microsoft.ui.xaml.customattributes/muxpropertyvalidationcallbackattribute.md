@@ -3,6 +3,12 @@
 -api-type: winrt class
 ---
 
+# Microsoft.UI.Xaml.CustomAttributes.MUXPropertyValidationCallbackAttribute
+
+<!--
+public sealed class MUXPropertyValidationCallbackAttribute : Attribute
+-->
+
 ## -description
 
 ## -remarks

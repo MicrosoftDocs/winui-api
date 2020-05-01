@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.Primitives.ComboBoxHelper.GetKeepInteriorCornersSquare(Windows.UI.Xaml.Controls.ComboBox)
+
+<!--
+public static bool GetKeepInteriorCornersSquare (Windows.UI.Xaml.Controls.ComboBox comboBox);
+-->
+
 ## -description
 
 ## -parameters

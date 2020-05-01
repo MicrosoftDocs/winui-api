@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TeachingTip.PlacementMarginProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty PlacementMarginProperty { get; }
+-->
+
 ## -description
 
 Identifies the [PlacementMargin](teachingtip_placementmargin.md) dependency property.

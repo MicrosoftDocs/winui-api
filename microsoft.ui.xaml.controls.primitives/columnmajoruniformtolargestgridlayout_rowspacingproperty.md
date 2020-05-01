@@ -3,7 +3,11 @@
 -api-type: winrt property
 ---
 
-## -description
+# Microsoft.UI.Xaml.Controls.Primitives.ColumnMajorUniformToLargestGridLayout.RowSpacingProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty RowSpacingProperty { get; }
+-->
 
 Identifies the [RowSpacing](columnmajoruniformtolargestgridlayout_rowspacing.md) dependency property.
 

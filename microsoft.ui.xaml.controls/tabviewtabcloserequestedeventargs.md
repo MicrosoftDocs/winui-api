@@ -3,6 +3,12 @@
 -api-type: winrt class
 ---
 
+# Microsoft.UI.Xaml.Controls.TabViewTabCloseRequestedEventArgs
+
+<!--
+public sealed class TabViewTabCloseRequestedEventArgs
+-->
+
 ## -description
 
 Provides data for the [TabCloseRequested](tabviewitem_closerequested.md) event.

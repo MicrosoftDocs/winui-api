@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ItemsRepeater.Layout
+
+<!--
+public Microsoft.UI.Xaml.Controls.Layout Layout { get; set; }
+-->
+
 ## -description
 
 Gets or sets the layout used to size and position elements in the ItemsRepeater.

@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TabViewItem.IconSource
+
+<!--
+public Microsoft.UI.Xaml.Controls.IconSource IconSource { get; set; }
+-->
+
 ## -description
 
 Gets or sets the value for the IconSource to be displayed within the tab.

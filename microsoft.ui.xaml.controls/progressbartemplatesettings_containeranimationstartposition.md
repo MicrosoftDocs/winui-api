@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.ProgressBarTemplateSettings.ContainerAnimationStartPosition
+
+<!--
+public double ContainerAnimationStartPosition { get; set; }
+-->
+
 ## -description
 
 Gets the "From" point of the container animation that animates the [ProgressBar](progressbar.md).

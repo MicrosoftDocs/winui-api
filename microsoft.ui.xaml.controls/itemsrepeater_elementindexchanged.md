@@ -3,6 +3,12 @@
 -api-type: winrt event
 ---
 
+# Microsoft.UI.Xaml.Controls.ItemsRepeater.ElementIndexChanged
+
+<!--
+public event Windows.Foundation.TypedEventHandler<Microsoft.UI.Xaml.Controls.ItemsRepeater,Microsoft.UI.Xaml.Controls.ItemsRepeaterElementIndexChangedEventArgs> ElementIndexChanged;
+-->
+
 ## -description
 
 Occurs for each realized UIElement when the index for the item it represents has changed.

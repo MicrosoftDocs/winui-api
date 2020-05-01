@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TabView.TabWidthModeProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty TabWidthModeProperty { get; }
+-->
+
 ## -description
 
 Identifies the TabWidthMode dependency property.

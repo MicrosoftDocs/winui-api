@@ -3,6 +3,12 @@
 -api-type: winrt class
 ---
 
+# Microsoft.UI.Xaml.Controls.Layout
+
+<!--
+public class Layout : Windows.UI.Xaml.DependencyObject
+-->
+
 ## -description
 
 Represents the base class for an object that sizes and arranges child elements for a host.

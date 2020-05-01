@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.RadioMenuFlyoutItem.GroupName
+
+<!--
+public string GroupName { get; set; }
+-->
+
 ## -description
 Gets or sets the name that specifies which RadioMenuFlyoutItem controls are mutually exclusive.
 

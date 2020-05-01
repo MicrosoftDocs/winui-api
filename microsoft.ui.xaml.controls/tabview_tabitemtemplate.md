@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TabView.TabItemTemplate
+
+<!--
+public Windows.UI.Xaml.DataTemplate TabItemTemplate { get; set; }
+-->
+
 ## -description
 
 Gets or sets the DataTemplate used to display each item.

@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Controls.Layout.Arrange(Microsoft.UI.Xaml.Controls.LayoutContext,Windows.Foundation.Size)
+
+<!--
+public Windows.Foundation.Size Arrange (Microsoft.UI.Xaml.Controls.LayoutContext context, Windows.Foundation.Size finalSize);
+-->
+
 ## -description
 
 Positions child elements and determines a size for a container UIElement. Container elements that support attached layouts should call this method from their layout override implementations to form a recursive layout update.  

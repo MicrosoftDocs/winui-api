@@ -3,6 +3,12 @@
 -api-type: winrt property
 ---
 
+# Microsoft.UI.Xaml.Controls.TabView.SelectedItemProperty
+
+<!--
+public static Windows.UI.Xaml.DependencyProperty SelectedItemProperty { get; }
+-->
+
 ## -description
 
 Identifies the [SelectedItem](tabview_selecteditem.md) dependency property.
