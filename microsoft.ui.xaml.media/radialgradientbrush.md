@@ -9,7 +9,6 @@
 public class RadialGradientBrush : Windows.UI.Xaml.Media.XamlCompositionBrushBase
 -->
 
-
 ## -description
 
 RadialGradientBrush paints an area with a radial gradient. A center point defines the origin of the gradient, and an ellipse defines the outer bounds of the gradient.
@@ -50,14 +49,50 @@ If you look at the existing control template definitions for Windows Runtime XAM
 
 This example creates a radial gradient with six gradient stops and uses it to paint a Rectangle.
 
-[!code-xaml[Gradient1](../microsoft.ui.xaml.media/code/Gradients/csharp/RadialGradientBrushExample1.xaml#SnippetGradient1)]
+```xaml
+<Page
+  xmlns:media="using:Microsoft.UI.Xaml.Media">
 
-<img alt="A rectangle filled with a radial gradient." src="Images/ColorRadialGradientBrush.png" />
+  <Rectangle Width="200" Height="200">
+      <Rectangle.Fill>
+          <media:RadialGradientBrush>
+              <GradientStop Color="Blue" Offset="0.0" />
+              <GradientStop Color="Yellow" Offset="0.2" />
+              <GradientStop Color="LimeGreen" Offset="0.4" />
+              <GradientStop Color="LightBlue" Offset="0.6" />
+              <GradientStop Color="Blue" Offset="0.8" />
+              <GradientStop Color="LightGray" Offset="1" />
+          </media:RadialGradientBrush>
+      </Rectangle.Fill>
+  </Rectangle>
 
+</Page>
+```
+
+![A rectangle filled with a radial gradient](Images/ColorRadialGradientBrush.png)
 
 This example creates a radial gradient that uses Absolute mapping mode with custom values for `Center`, `RadiusX`, `RadiusY` and `GradientOrigin`:
 
-[!code-xaml[Gradient2](../microsoft.ui.xaml.media/code/Gradients/csharp/RadialGradientBrushExample2.xaml#SnippetGradient2)]
+```xaml
+<Page
+  xmlns:media="using:Microsoft.UI.Xaml.Media">
 
-<img alt="Gradient axis for a vertical gradient" src="Images/OffsetRadialGradientBrush.png" />
+  <Rectangle Width="200" Height="200">
+      <Rectangle.Fill>
+          <media:RadialGradientBrush
+            MappingMode="Absolute"
+            Center="50,50"
+            RadiusX="100"
+            RadiusY="100"
+            GradientOrigin="100,50"
+            >
+              <GradientStop Color="Yellow" Offset="0.0" />
+              <GradientStop Color="Blue" Offset="1" />
+          </media:RadialGradientBrush>
+      </Rectangle.Fill>
+  </Rectangle>
 
+</Page>
+```
+
+![Gradient axis for a vertical gradient](Images/OffsetRadialGradientBrush.png)

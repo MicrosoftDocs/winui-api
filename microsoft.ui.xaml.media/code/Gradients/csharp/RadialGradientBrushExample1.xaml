@@ -1,5 +1,3 @@
-XAML
-```XAML
 <Page
   xmlns:media="using:Microsoft.UI.Xaml.Media">
 
@@ -17,4 +15,3 @@ XAML
   </Rectangle>
 
 </Page>
-```
