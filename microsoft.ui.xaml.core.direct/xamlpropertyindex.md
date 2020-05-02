@@ -9,15 +9,11 @@ public enum XamlPropertyIndex : int
 
 # Microsoft.UI.Xaml.Core.Direct.XamlPropertyIndex
 
-
-
 ## -description
-Enum that lists all the supported properties in [XamlDirect](/uwp/api/windows.ui.xaml.core.direct.windows.ui.xaml.core.direct).
 
-
+Enum that lists all the supported properties in [XamlDirect](xamldirect.md).
 
 ## -enum-fields
-
 
 ### -field XamlUICommand_Label:2352
 The _Label_ property for the [XamlUICommand](/uwp/api/windows.ui.xaml.input.xamluicommand) type.

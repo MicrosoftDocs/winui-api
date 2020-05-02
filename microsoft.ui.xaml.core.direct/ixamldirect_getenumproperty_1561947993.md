@@ -11,17 +11,27 @@ public uint GetEnumProperty (object xamlDirectObject, Microsoft.UI.Xaml.Core.Dir
 
 ## -description
 
+Gets the value of an _Enum_ property for a specific [IXamlDirectObject](ixamldirectobject.md).
+
 ## -parameters
 
 ### -param xamlDirectObject
 
+A reference to the specific [IXamlDirectObject](ixamldirectobject.md).
+
 ### -param propertyIndex
 
+A reference to the _Enum_ property on which to get the value from the list of supported properties in [XamlPropertyIndex](xamlpropertyindex.md) enum.
+
 ## -returns
+
+_UInt32_ value of the specified property which can be cast to the desired _Enum_ type.
 
 ## -remarks
 
 ## -see-also
+
+[IXamlDirect.SetEnumProperty(System.Object,Microsoft.UI.Xaml.Core.Direct.XamlPropertyIndex,System.UInt32)](ixamldirect_setenumproperty_1389798377.md)
 
 ## -examples
 

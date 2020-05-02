@@ -11,17 +11,26 @@ public void SetEnumProperty (object xamlDirectObject, Microsoft.UI.Xaml.Core.Dir
 
 ## -description
 
+Sets the value of an *Enum* property for a specific [IXamlDirectObject](ixamldirectobject.md).
+
 ## -parameters
 
 ### -param xamlDirectObject
 
+A reference to the specific [IXamlDirectObject](ixamldirectobject.md).
+
 ### -param propertyIndex
 
+A reference to the *Enum* property on which to set the value from the list of supported properties in [XamlPropertyIndex](xamlpropertyindex.md) enum.
+
 ### -param value
+
+Cast the desired *Enum* value to a *UInt32* to set on the specified property.
 
 ## -remarks
 
 ## -see-also
 
-## -examples
+[IXamlDirect.GetEnumProperty(System.Object,Microsoft.UI.Xaml.Core.Direct.XamlPropertyIndex)](ixamldirect_getenumproperty_1561947993.md)
 
+## -examples

@@ -11,17 +11,26 @@ public void SetDurationProperty (object xamlDirectObject, Microsoft.UI.Xaml.Core
 
 ## -description
 
+Sets the value of a *Duration* property for a specific [IXamlDirectObject](ixamldirectobject.md).
+
 ## -parameters
 
 ### -param xamlDirectObject
 
+A reference to the specific [IXamlDirectObject](ixamldirectobject.md).
+
 ### -param propertyIndex
 
+A reference to the *Duration* property on which to set the value from the list of supported properties in [XamlPropertyIndex](xamlpropertyindex.md) enum.
+
 ### -param value
+
+*Duration* value to set to the specified property.
 
 ## -remarks
 
 ## -see-also
 
-## -examples
+[IXamlDirect.GetDurationProperty(System.Object,Microsoft.UI.Xaml.Core.Direct.XamlPropertyIndex)](ixamldirect_getdurationproperty_461221913.md)
 
+## -examples

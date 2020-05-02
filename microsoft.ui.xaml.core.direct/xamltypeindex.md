@@ -9,12 +9,9 @@ public enum XamlTypeIndex : int
 
 # Microsoft.UI.Xaml.Core.Direct.XamlTypeIndex
 
-
-
 ## -description
-Enum that lists all the supported types in [XamlDirect](/uwp/api/windows.ui.xaml.core.direct.windows.ui.xaml.core.direct). 
 
-
+Enum that lists all the supported types in [XamlDirect](xamldirect.md).
 
 ## -enum-fields
 
@@ -1262,15 +1259,11 @@ The [AddDeleteThemeTransition](/uwp/api/windows.ui.xaml.media.animation.adddelet
 ### -field AdaptiveTrigger:757
 The [AdaptiveTrigger](/uwp/api/windows.ui.xaml.adaptivetrigger) type.
 
-
-
 ## -remarks
 
-
-
 ## -see-also
-[XamlDirect](xamldirect.md), [IXamlDirectObject](/uwp/api/windows.ui.xaml.core.direct.ixamldirectobject), [XamlPropertyIndex](xamlpropertyindex.md), [XamlEventIndex](xamleventindex.md)
 
+[XamlDirect](xamldirect.md), [IXamlDirectObject](/uwp/api/windows.ui.xaml.core.direct.ixamldirectobject), [XamlPropertyIndex](xamlpropertyindex.md), [XamlEventIndex](xamleventindex.md)
 
 ## -examples
 

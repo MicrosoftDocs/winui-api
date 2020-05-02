@@ -9,55 +9,35 @@ public enum XamlEventIndex : int
 
 # Microsoft.UI.Xaml.Core.Direct.XamlEventIndex
 
-
-
 ## -description
-Enum that lists all the supported events in [XamlDirect](/uwp/api/windows.ui.xaml.core.direct.windows.ui.xaml.core.direct). 
 
-
+Enum that lists all the supported events in [XamlDirect](xamldirect.md).
 
 ## -enum-fields
-
 
 ### -field WebView_WebResourceRequested:283
 The _WebResourceRequested_ event for the [WebView](/uwp/api/windows.ui.xaml.controls.webview) type.
 
-
-
 ### -field WebView_UnviewableContentIdentified:246
 The _UnviewableContentIdentified_ event for the [WebView](/uwp/api/windows.ui.xaml.controls.webview) type.
-
-
 
 ### -field WebView_UnsupportedUriSchemeIdentified:248
 The _UnsupportedUriSchemeIdentified_ event for the [WebView](/uwp/api/windows.ui.xaml.controls.webview) type.
 
-
-
 ### -field WebView_UnsafeContentWarningDisplaying:245
 The _UnsafeContentWarningDisplaying_ event for the [WebView](/uwp/api/windows.ui.xaml.controls.webview) type.
-
-
 
 ### -field WebView_SeparateProcessLost:232
 The _SeparateProcessLost_ event for the [WebView](/uwp/api/windows.ui.xaml.controls.webview) type.
 
-
-
 ### -field WebView_ScriptNotify:234
 The _ScriptNotify_ event for the [WebView](/uwp/api/windows.ui.xaml.controls.webview) type.
-
-
 
 ### -field WebView_PermissionRequested:250
 The _PermissionRequested_ event for the [WebView](/uwp/api/windows.ui.xaml.controls.webview) type.
 
-
-
 ### -field WebView_NewWindowRequested:249
 The _NewWindowRequested_ event for the [WebView](/uwp/api/windows.ui.xaml.controls.webview) type.
-
-
 
 ### -field WebView_NavigationStarting:236
 The _NavigationStarting_ event for the [WebView](/uwp/api/windows.ui.xaml.controls.webview) type.
@@ -711,12 +691,7 @@ The _Closed_ event for the [AppBar](/uwp/api/windows.ui.xaml.controls.appbar) ty
 
 ## -remarks
 
-
-
 ## -see-also
 [XamlDirect](xamldirect.md), [IXamlDirectObject](/uwp/api/windows.ui.xaml.core.direct.ixamldirectobject), [XamlTypeIndex](xamltypeindex.md), [XamlPropertyIndex](xamlpropertyindex.md)
 
 ## -examples
-
-
-

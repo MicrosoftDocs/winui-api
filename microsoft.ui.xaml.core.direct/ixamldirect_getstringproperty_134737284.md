@@ -11,17 +11,27 @@ public string GetStringProperty (object xamlDirectObject, Microsoft.UI.Xaml.Core
 
 ## -description
 
+Gets the value of a *string* property for a specific [IXamlDirectObject](ixamldirectobject.md).
+
 ## -parameters
 
 ### -param xamlDirectObject
 
+A reference to the specific [IXamlDirectObject](ixamldirectobject.md).
+
 ### -param propertyIndex
 
+A reference to the *string* property on which to get the value from the list of supported properties in [XamlPropertyIndex](xamlpropertyindex.md) enum.
+
 ## -returns
+
+*string* value of the specified property.
 
 ## -remarks
 
 ## -see-also
+
+[IXamlDirect.SetStringProperty(System.Object,Microsoft.UI.Xaml.Core.Direct.XamlPropertyIndex,System.String)](ixamldirect_setstringproperty_1747659288.md)
 
 ## -examples
 

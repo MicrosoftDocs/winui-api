@@ -11,17 +11,27 @@ public Windows.UI.Xaml.Duration GetDurationProperty (object xamlDirectObject, Mi
 
 ## -description
 
+Gets the value of a _Duration_ property for a specific [IXamlDirectObject](ixamldirectobject.md).
+
 ## -parameters
 
 ### -param xamlDirectObject
 
+A reference to the specific [IXamlDirectObject](ixamldirectobject.md).
+
 ### -param propertyIndex
 
+A reference to the _Duration_ property on which to get the value from the list of supported properties in [XamlPropertyIndex](xamlpropertyindex.md) enum.
+
 ## -returns
+
+_Duration_ value of the specified property.
 
 ## -remarks
 
 ## -see-also
+
+[IXamlDirect.SetDurationProperty(System.Object,Microsoft.UI.Xaml.Core.Direct.XamlPropertyIndex,Windows.UI.Xaml.Duration)](ixamldirect_setdurationproperty_91933667.md)
 
 ## -examples
 

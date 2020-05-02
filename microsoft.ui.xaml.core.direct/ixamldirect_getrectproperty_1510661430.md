@@ -11,17 +11,27 @@ public Windows.Foundation.Rect GetRectProperty (object xamlDirectObject, Microso
 
 ## -description
 
+Gets the value of a [Rect](/uwp/api/windows.foundation.rect)  property for a specific [IXamlDirectObject](ixamldirectobject.md).
+
 ## -parameters
 
 ### -param xamlDirectObject
 
+A reference to the specific [IXamlDirectObject](ixamldirectobject.md).
+
 ### -param propertyIndex
 
+A reference to the [Rect](/uwp/api/windows.foundation.rect) property on which to get the value from the list of supported properties in [XamlPropertyIndex](xamlpropertyindex.md) enum.
+
 ## -returns
+
+[Rect](/uwp/api/windows.foundation.rect) value of the specified property.
 
 ## -remarks
 
 ## -see-also
+
+[IXamlDirect.SetRectProperty(System.Object,Microsoft.UI.Xaml.Core.Direct.XamlPropertyIndex,Windows.Foundation.Rect)](ixamldirect_setrectproperty_279891610.md)
 
 ## -examples
 

@@ -11,17 +11,26 @@ public void SetObjectProperty (object xamlDirectObject, Microsoft.UI.Xaml.Core.D
 
 ## -description
 
+Sets the value of an *object* property for a specific [IXamlDirectObject](ixamldirectobject.md).
+
 ## -parameters
 
 ### -param xamlDirectObject
 
+A reference to the specific [IXamlDirectObject](ixamldirectobject.md).
+
 ### -param propertyIndex
 
+A reference to the *object* property on which to set the value from supported properties in [XamlPropertyIndex](xamlpropertyindex.md) enum.
+
 ### -param value
+
+*object* value to set to the specified property.
 
 ## -remarks
 
 ## -see-also
 
-## -examples
+[IXamlDirect.GetObjectProperty(System.Object,Microsoft.UI.Xaml.Core.Direct.XamlPropertyIndex)](ixamldirect_getobjectproperty_230029164.md)
 
+## -examples

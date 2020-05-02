@@ -11,17 +11,26 @@ public void SetColorProperty (object xamlDirectObject, Microsoft.UI.Xaml.Core.Di
 
 ## -description
 
+Sets the value of a [Color](/uwp/api/windows.ui.color) property for a specific [IXamlDirectObject](ixamldirectobject.md).
+
 ## -parameters
 
 ### -param xamlDirectObject
 
+A reference to the specific [IXamlDirectObject](ixamldirectobject.md).
+
 ### -param propertyIndex
 
+A reference to the [Color](/uwp/api/windows.ui.color) property on which to set the value from the list of supported properties in [XamlPropertyIndex](xamlpropertyindex.md) enum.
+
 ### -param value
+
+[Color](/uwp/api/windows.ui.color) value to set to the specified property.
 
 ## -remarks
 
 ## -see-also
 
-## -examples
+[IXamlDirect.GetColorProperty(System.Object,Microsoft.UI.Xaml.Core.Direct.XamlPropertyIndex)](ixamldirect_getcolorproperty_1396397212.md)
 
+## -examples

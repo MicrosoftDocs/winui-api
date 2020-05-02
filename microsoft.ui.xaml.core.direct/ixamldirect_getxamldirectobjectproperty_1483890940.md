@@ -11,11 +11,17 @@ public object GetXamlDirectObjectProperty (object xamlDirectObject, Microsoft.UI
 
 ## -description
 
+Gets the value of an [IXamlDirectObject](ixamldirectobject.md) property for a specific [IXamlDirectObject](ixamldirectobject.md).
+
 ## -parameters
 
 ### -param xamlDirectObject
 
+A reference to the specific [IXamlDirectObject](ixamldirectobject.md).
+
 ### -param propertyIndex
+
+A reference to the [IXamlDirectObject](ixamldirectobject.md) property on which to get the value from the list of supported properties in [XamlPropertyIndex](xamlpropertyindex.md) enum.
 
 ## -returns
 
@@ -24,4 +30,3 @@ public object GetXamlDirectObjectProperty (object xamlDirectObject, Microsoft.UI
 ## -see-also
 
 ## -examples
-
