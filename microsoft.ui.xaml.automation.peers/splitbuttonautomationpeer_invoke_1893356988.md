@@ -3,6 +3,12 @@
 -api-type: winrt method
 ---
 
+# Microsoft.UI.Xaml.Automation.Peers.SplitButtonAutomationPeer.Invoke
+
+<!--
+public void Invoke ();
+-->
+
 ## -description
 
 ## -remarks

@@ -12,7 +12,7 @@ public void TreeViewItemAutomationPeer.Expand()
 
 ## -description
 
-Expands the associated **[TreeViewItem](/uwp/api/windows.ui.xaml.controls.treeviewitem)**.  
+Expands the associated [TreeViewItem](/uwp/api/windows.ui.xaml.controls.treeviewitem).  
 
 ## -remarks
 

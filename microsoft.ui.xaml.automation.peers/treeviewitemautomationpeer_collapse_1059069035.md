@@ -12,7 +12,7 @@ public void TreeViewItemAutomationPeer.Collapse()
 
 ## -description
 
-Collapses the associated **[TreeViewItem](/uwp/api/windows.ui.xaml.controls.treeviewitem)**.
+Collapses the associated [TreeViewItem](/uwp/api/windows.ui.xaml.controls.treeviewitem).
 
 ## -remarks
 

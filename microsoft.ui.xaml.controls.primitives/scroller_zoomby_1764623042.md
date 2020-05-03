@@ -11,9 +11,9 @@ public Microsoft.UI.Xaml.Controls.ZoomInfo ZoomBy (float zoomFactorDelta, System
 
 ## -description
 
-## -parameters
-
 Scales the content asynchronously by the specified delta amount with the option to disable animations.
+
+## -parameters
 
 ## -parameters
 

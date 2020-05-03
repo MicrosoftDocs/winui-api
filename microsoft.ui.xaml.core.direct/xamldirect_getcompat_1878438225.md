@@ -11,6 +11,8 @@ public static Microsoft.UI.Xaml.Core.Direct.IXamlDirect GetCompat ();
 
 ## -description
 
+Gets the 
+
 ## -returns
 
 ## -remarks

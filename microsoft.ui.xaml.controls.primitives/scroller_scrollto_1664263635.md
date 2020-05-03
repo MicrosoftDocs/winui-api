@@ -11,9 +11,9 @@ public Microsoft.UI.Xaml.Controls.ScrollInfo ScrollTo (double horizontalOffset, 
 
 ## -description
 
-## -parameters
-
 Scrolls the content asynchronously to the specified offsets with options to control animation and snap points.
+
+## -parameters
 
 ## -parameters
 

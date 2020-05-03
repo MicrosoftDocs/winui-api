@@ -11,9 +11,9 @@ public Microsoft.UI.Xaml.Controls.ScrollInfo ScrollBy (double horizontalOffsetDe
 
 ## -description
 
-## -parameters
-
 Scrolls the content asynchronously by the specified horizontal and vertical delta amount.
+
+## -parameters
 
 ## -parameters
 

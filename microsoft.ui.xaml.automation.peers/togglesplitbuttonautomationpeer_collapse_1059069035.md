@@ -5,6 +5,10 @@
 
 # Microsoft.UI.Xaml.Automation.Peers.ToggleSplitButtonAutomationPeer.Collapse
 
+<!--
+public void Collapse ();
+-->
+
 ## -description
 
 Collapses the associated [ToggleSplitButton](../microsoft.ui.xaml.controls/togglesplitbutton.md).

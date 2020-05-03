@@ -11,9 +11,9 @@ public Microsoft.UI.Xaml.Controls.ScrollInfo ScrollFrom (System.Numerics.Vector2
 
 ## -description
 
-## -parameters
-
 Animates the scrolling of content asynchronously with the specified inertia.
+
+## -parameters
 
 ## -parameters
 

@@ -12,8 +12,13 @@ public SplitButtonAutomationPeer.SplitButtonAutomationPeer(SplitButton owner)
 
 ## -description
 
+Initializes a new instance of the [SplitButtonAutomationPeer](splitbuttonautomationpeer.md) class.
+
 ## -parameters
+
 ### -param owner
+
+The [SplitButton](../microsoft.ui.xaml.controls/splitbutton.md) control instance to create the peer for.
 
 ## -remarks
 

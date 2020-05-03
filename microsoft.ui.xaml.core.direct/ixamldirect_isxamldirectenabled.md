@@ -12,11 +12,14 @@ public bool IsXamlDirectEnabled { get; }
 
 ## -description
 
+Gets whether [XamlDirect](xamldirect.md) can be instantiated.
+
 ## -property-value
+
+**True** if [XamlDirect](xamldirect.md) can be instantiated. Otherwise, **false**.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
