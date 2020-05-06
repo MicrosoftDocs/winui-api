@@ -12,10 +12,17 @@ public void RevealBrush.SetState(UIElement element, RevealBrushState value)
 
 ## -description
 
+Sets the value of the [RevealBrushState](revealbrushstate.md) XAML attached property for the target element.
+
 ## -parameters
+
 ### -param element
 
+The object for which the property value is set.
+
 ### -param value
+
+One of the values from the enumeration.
 
 ## -remarks
 

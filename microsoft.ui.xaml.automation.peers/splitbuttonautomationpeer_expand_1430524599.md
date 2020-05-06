@@ -11,6 +11,8 @@ public void Expand ();
 
 ## -description
 
+Expands the [SplitButton](../microsoft.ui.xaml.controls/splitbutton.md).
+
 ## -remarks
 
 ## -see-also

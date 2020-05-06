@@ -11,6 +11,8 @@ public void Expand ();
 
 ## -description
 
+Expands the [DropDownButton](../microsoft.ui.xaml.controls/dropdownbutton.md).
+
 ## -remarks
 
 ## -see-also

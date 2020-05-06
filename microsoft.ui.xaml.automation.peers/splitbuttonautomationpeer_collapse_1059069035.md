@@ -11,6 +11,8 @@ public void Collapse ();
 
 ## -description
 
+Collapses the [SplitButton](../microsoft.ui.xaml.controls/splitbutton.md).
+
 ## -remarks
 
 ## -see-also

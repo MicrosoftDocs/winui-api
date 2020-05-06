@@ -11,6 +11,8 @@ public void Collapse ();
 
 ## -description
 
+Collapses the [DropDownButton](../microsoft.ui.xaml.controls/dropdownbutton.md).
+
 ## -remarks
 
 ## -see-also

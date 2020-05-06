@@ -11,7 +11,11 @@ public Windows.UI.Xaml.Automation.ExpandCollapseState ExpandCollapseState { get;
 
 ## -description
 
+Gets the state, expanded or collapsed, of the [DropDownButton](../microsoft.ui.xaml.controls/dropdownbutton.md).
+
 ## -property-value
+
+A value of the enumeration.
 
 ## -remarks
 
