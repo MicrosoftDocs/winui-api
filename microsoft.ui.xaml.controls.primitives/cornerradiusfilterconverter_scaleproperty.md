@@ -1,12 +1,12 @@
 ---
--api-id: P:Microsoft.UI.Xaml.Controls.Primitives.CornerRadiusFilterConverter.FilterProperty
+-api-id: P:Microsoft.UI.Xaml.Controls.Primitives.CornerRadiusFilterConverter.ScaleProperty
 -api-type: winrt property
 ---
 
-# Microsoft.UI.Xaml.Controls.Primitives.CornerRadiusFilterConverter.FilterProperty
+# Microsoft.UI.Xaml.Controls.Primitives.CornerRadiusFilterConverter.ScaleProperty
 
 <!--
-public static Windows.UI.Xaml.DependencyProperty FilterProperty { get; }
+public static Windows.UI.Xaml.DependencyProperty ScaleProperty { get; }
 -->
 
 ## -description

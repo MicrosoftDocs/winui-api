@@ -22,4 +22,3 @@ The opacity expressed as a value between 0 and 1.0. The default value is 1.0, wh
 ## -see-also
 
 ## -examples
-
