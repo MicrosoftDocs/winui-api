@@ -1,12 +1,12 @@
 ---
--api-id: T:Microsoft.UI.Xaml.Automation.Peers.TabViewAutomationPeer
+-api-id: T:Microsoft.UI.Xaml.Automation.Peers.TabViewItemAutomationPeer
 -api-type: winrt class
 ---
 
-# Microsoft.UI.Xaml.Automation.Peers.TabViewAutomationPeer
+# Microsoft.UI.Xaml.Automation.Peers.TabViewItemAutomationPeer
 
 <!--
-public class TabViewAutomationPeer : Windows.UI.Xaml.Automation.Peers.FrameworkElementAutomationPeer
+public class TabViewItemAutomationPeer : Windows.UI.Xaml.Automation.Peers.ListViewItemAutomationPeer
 -->
 
 ## -description
