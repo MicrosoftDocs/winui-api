@@ -11,15 +11,20 @@ public double ContainerAnimationEndPosition { get; set; }
 
 ## -description
 
-Gets the target "To" point of the container animation that animates the [ProgressBar](progressbar.md).
+Gets the target "To" point of the primary container animation that animates the [ProgressBar](progressbar.md).
 
 ## -property-value
 
-A double that represents the orientation-specific x- or y-value that is the target "To" point of the animation.
+A double that represents the orientation-specific x- or y-value that is the target "To" point of the primary animation.
 
 ## -remarks
 
+This property enables dual, concurrent animations as demonstrated here:
+
+![ProgressRing with dual animations](./images/progressring.gif)
+
 ## -see-also
 
-## -examples
+[ContainerAnimationStartPosition](progressbartemplatesettings_containeranimationstartposition.md), [Container2AnimationEndPosition](progressbartemplatesettings_container2animationendposition.md), [Container2AnimationStartPosition](progressbartemplatesettings_container2animationstartposition.md), [ContainerAnimationMidPosition](progressbartemplatesettings_containeranimationmidposition.md)
 
+## -examples

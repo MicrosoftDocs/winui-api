@@ -19,6 +19,12 @@ A double that represents the orientation-specific x- or y-value that is the midp
 
 ## -remarks
 
+This property enables dual, concurrent animations as demonstrated here:
+
+![ProgressRing with dual animations](./images/progressring.gif)
+
 ## -see-also
+
+[ContainerAnimationStartPosition](progressbartemplatesettings_containeranimationstartposition.md), [ContainerAnimationEndPosition](progressbartemplatesettings_containeranimationendposition.md), [Container2AnimationStartPosition](progressbartemplatesettings_container2animationstartposition.md), [Container2AnimationEndPosition](progressbartemplatesettings_container2animationendposition.md)
 
 ## -examples
