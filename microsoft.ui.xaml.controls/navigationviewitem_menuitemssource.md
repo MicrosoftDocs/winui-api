@@ -21,7 +21,7 @@ The object source that holds the children of the NavigationViewItem.
 
 
 ## -examples
-This example adds hierarchy buy defining the item template to be a NavigationViewMenuItem, with its Content set to be the label of the menu item, and its MenuItemsSource property bound to the next level of the hierarchy.
+This example adds hierarchy by defining the item template to be a NavigationViewMenuItem, with its Content set to be the label of the menu item, and its MenuItemsSource property bound to the next level of the hierarchy.
 
 ```xaml
 <DataTemplate x:Key="NavigationViewMenuItem" x:DataType="local:Category">
