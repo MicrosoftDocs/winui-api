@@ -51,6 +51,7 @@
       "author": "Karl-Bridge-Microsoft",
       "ms.author": "kbridge",
       "extendBreadcrumb": true,
+      "hideEdit": "true",
       "ms.prod": "uwp",
       "ms.technology": "winui",
       "ms.topic": "managed-reference",
