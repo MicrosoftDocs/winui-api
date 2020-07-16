@@ -5,7 +5,7 @@
 
 ## -description
 
-Gets or sets the maximum number of items that will be rendered per row or column depending on the orienation of the UniformGridLayout.
+Gets or sets the maximum number of items rendered per row or column, based on the orienation of the [UniformGridLayout](uniformgridlayout.md).
 
 ## -property-value
 
@@ -15,7 +15,7 @@ An integer indicating the maximum number of items per row (for `Vertical` orient
 
 ## -see-also
 
-[UniformGridLayout.Orientation](https://docs.microsoft.com/en-us/uwp/api/microsoft.ui.xaml.controls.uniformgridlayout.orientation?view=winui-2.3#Microsoft_UI_Xaml_Controls_UniformGridLayout_Orientation)
+[UniformGridLayout.Orientation](uniformgridlayout_orientation.md)
 
 ## -examples
 
