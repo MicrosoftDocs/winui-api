@@ -8,11 +8,45 @@ ms.custom: RS5
 
 ## -description
 
-These namespaces are a part of the Microsoft Windows UI Library.
+:::columns count="2":::
+:::column:::
+    ![WinUI logo](images/logo-winui-small.png)
+:::column-end:::
+:::column:::
+    The Windows UI Library (WinUI) is a native user experience (UX) framework for both Windows Desktop and UWP applications.
+:::column-end:::
+:::columns-end:::
 
-To use them, just install the Windows UI Library NuGet package. For instructions and more details, see the [Windows UI Library overview](https://aka.ms/winui-docs).
+WinUI is comprised of the namespaces and APIs documented here.
 
-To see the Microsoft Windows UI Library in action, check out the [XAML Controls Gallery app](https://www.microsoft.com/p/xaml-controls-gallery/9msvh128x2zt).
+> [!Important]
+> There are two versions of WinUI: **WinUI 2.x** and **WinUI 3**. The APIs described in this documentation are valid for both versions.
+>
+> See the [Windows UI Library (WinUI) overview](/windows/apps/winui/) for more details.
+
+## -remarks
+
+Both WinUI 2.x and WinUI 3 ship as NuGet packages.
+
+### WinUI 2.x
+
+The WinUI 2.x NuGet package is installed through the Visual Studio NuGet Package Manager and can be used in standard UWP projects, or in Win32 apps via XAML Islands.
+
+For more details, see [Getting started with the Windows UI 2.x Library](https://docs.microsoft.com/en-us/windows/apps/winui/winui2/getting-started).
+
+### WinUI 3
+
+WinUI 3 Preview 2 can be used in all Desktop apps, but you must download and install the [WinUI 3 Preview 2 VSIX package](https://aka.ms/winui3/previewdownload) to add the WinUI 3 project templates and NuGet package containing the WinUI 3 libraries to Visual Studio 2019.
+
+For instructions and more details, see [Windows UI Library 3 Preview 2 (July 2020)](https://aka.ms/winui-docs).
+
+### Samples
+
+Examples of WinUI features and controls are available in the **XAML Controls Gallery** sample app.
+
+If you don't have the XAML Controls Gallery app installed, get the WinUI 2.x version from the [Microsoft Store](https://www.microsoft.com/p/xaml-controls-gallery/9msvh128x2zt).
+
+You can also view the XAML Controls Gallery source code on [GitHub](https://github.com/Microsoft/Xaml-Controls-Gallery).
 
 > [!NOTE]
-> Check out the [WinUI 3.0 Alpha](https://docs.microsoft.com/uwp/toolkits/winui3/), a major update to the Windows 10 UI platform planned for release in 2020.
+> See the [WinUI 3 Preview 2 branch](https://github.com/microsoft/Xaml-Controls-Gallery/tree/winui3preview) of the XAML Controls Gallery for a sample app that includes all WinUI 3 Preview 2 controls and features.
