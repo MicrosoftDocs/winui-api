@@ -5,13 +5,13 @@
 
 # Microsoft.UI.Xaml.Controls.TreeView.SelectedItem
 
-<!--
-public object SelectedItem { get; set; }
--->
-
 ## -description
 
+Gets or sets the SelectedItem property of a TreeView.
+
 ## -property-value
+
+Gets or sets the selected item. Default value is null.
 
 ## -remarks
 
@@ -19,3 +19,8 @@ public object SelectedItem { get; set; }
 
 ## -examples
 
+## -xaml-syntax
+
+```xaml
+<TreeView SelectedItem="bindingReference" .../>
+```
