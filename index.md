@@ -8,14 +8,10 @@ ms.custom: RS5
 
 ## -description
 
-:::columns count="2":::
-:::column:::
-    ![WinUI logo](images/logo-winui-small.png)
-:::column-end:::
-:::column:::
-    The Windows UI Library (WinUI) is a native user experience (UX) framework for both Windows Desktop and UWP applications.
-:::column-end:::
-:::columns-end:::
+| | |
+|---------|----------------------------|
+| ![WinUI logo](images/logo-winui-small.png)        | The Windows UI Library (WinUI) is a native user experience (UX) framework for both Windows Desktop and UWP applications. |
+|         |                            |
 
 WinUI is comprised of the namespaces and APIs documented here.
 
