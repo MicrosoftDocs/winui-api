@@ -17,6 +17,8 @@ Gets or sets the selected item. Default value is null.
 
 ## -see-also
 
+[SelectionMode](treeview_selectionmode.md),[SelectedItems](treeview_selecteditems.md),[SelectedNode](treeview_selectednode.md)
+
 ## -examples
 
 ## -xaml-syntax
