@@ -25,7 +25,9 @@ A UIElement that represents the data item.
 
 ## -remarks
 
-This method calls [GetElementAtCore](virtualizinglayoutcontext_getelementatcore_759923575.md) with options set to **None**. GetElementAtCore must be implemented in a derived class.
+This method calls [GetOrCreateElementAtCore(System.Int32,Microsoft.UI.Xaml.Controls.ElementRealizationOptions)](virtualizinglayoutcontext_getorcreateelementatcore_440237553.md) with options set to **None**.
+
+GetElementAtCore must be implemented in a derived class.
 
 ## -see-also
 

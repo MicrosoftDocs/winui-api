@@ -21,15 +21,15 @@ The source CornerRadius being passed to the target.
 
 ### -param targetType
 
-The type of the target property. Part of the IValueConverter interface, but not used.
+The type of the target property. Part of the [IValueConverter](/uwp/api/windows.ui.xaml.data.ivalueconverter) interface, but not used.
 
 ### -param parameter
 
-An optional parameter to be used in the converter logic. Part of the IValueConverter interface, but not used.
+An optional parameter to be used in the converter logic. Part of the [IValueConverter](/uwp/api/windows.ui.xaml.data.ivalueconverter) interface, but not used.
 
 ### -param language
 
-The language of the conversion. Part of the IValueConverter interface, but not used.
+The language of the conversion. Part of the [IValueConverter](/uwp/api/windows.ui.xaml.data.ivalueconverter) interface, but not used.
 
 ## -returns
 
@@ -39,5 +39,6 @@ The converted Thickness value to be passed to the target dependency property.
 
 ## -see-also
 
-## -examples
+[IValueConverter.Convert](/uwp/api/windows.ui.xaml.data.ivalueconverter.convert)
 
+## -examples

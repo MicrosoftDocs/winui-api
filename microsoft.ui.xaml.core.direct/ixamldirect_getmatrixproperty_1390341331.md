@@ -11,13 +11,13 @@ public Windows.UI.Xaml.Media.Matrix GetMatrixProperty (object xamlDirectObject, 
 
 ## -description
 
-Gets the value of a [Matrix](/uwp/api/windows.ui.xaml.media.matrix) property for a specific [IXamlDirectObject](ixamldirectobject.md).
+Gets the value of a [Matrix](/uwp/api/windows.ui.xaml.media.matrix) property for a specific [IXamlDirect](ixamldirect.md).
 
 ## -parameters
 
 ### -param xamlDirectObject
 
-A reference to the specific [IXamlDirectObject](ixamldirectobject.md).
+A reference to the specific [IXamlDirect](ixamldirect.md).
 
 ### -param propertyIndex
 

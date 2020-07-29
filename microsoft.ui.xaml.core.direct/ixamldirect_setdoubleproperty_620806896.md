@@ -11,13 +11,13 @@ public void SetDoubleProperty (object xamlDirectObject, Microsoft.UI.Xaml.Core.D
 
 ## -description
 
-Sets the value of a *Double* property for a specific [IXamlDirectObject](ixamldirectobject.md).
+Sets the value of a *Double* property for a specific [IXamlDirect](ixamldirect.md).
 
 ## -parameters
 
 ### -param xamlDirectObject
 
-A reference to the specific [IXamlDirectObject](ixamldirectobject.md).
+A reference to the specific [IXamlDirect](ixamldirect.md).
 
 ### -param propertyIndex
 

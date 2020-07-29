@@ -21,9 +21,11 @@ Gets or sets a value that indicates whether a tree node is expanded. Ignored if 
 
 **true** if the tree node is expanded; otherwise, **false**. The default value is **false**.
 
+## -remarks
+
+This property is analogous to the [TreeViewItem.IsExpanded](https://docs.microsoft.com/uwp/api/Microsoft.UI.Xaml.Controls.TreeViewItem.IsExpanded?view=winui-2.3) property.
 
 ## -see-also
-This property is analogous to the [TreeViewItem.IsExpanded](https://docs.microsoft.com/uwp/api/Microsoft.UI.Xaml.Controls.TreeViewItem.IsExpanded?view=winui-2.3) property.
 
 ## -xaml-syntax
 

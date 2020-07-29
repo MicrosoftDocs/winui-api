@@ -11,13 +11,13 @@ public void RemoveEventHandler (object xamlDirectObject, Microsoft.UI.Xaml.Core.
 
 ## -description
 
-Removes the specified event handler from this [IXamlDirectObject](ixamldirectobject.md). 
+Removes the specified event handler from this [IXamlDirect](ixamldirect.md). 
 
 ## -parameters
 
 ### -param xamlDirectObject
 
-A reference to the current [IXamlDirectObject](ixamldirectobject.md).
+A reference to the current [IXamlDirect](ixamldirect.md).
 
 ### -param eventIndex
 
@@ -46,7 +46,7 @@ This method ignores whether _handledEventsToo_ parameter was true in the [IXamlD
 ```C#
 XamlDirect xd = XamlDirect.GetDefault();
 
-IXamlDirectObject toggleSwitch = xd.CreateInstance(XamlTypeIndex.ToggleSwitch);
+IXamlDirect toggleSwitch = xd.CreateInstance(XamlTypeIndex.ToggleSwitch);
 
 PointerEventHandler toggleSwitchPointerHandler = new PointerEventHandler((sender, args) =>
 {
@@ -63,7 +63,7 @@ xd.RemoveEventHandler(toggleSwitch, XamlEventIndex.UIElement_PointerEntered, tog
 ```CPP
 XamlDirect^ xd = XamlDirect::GetDefault();
 
-IXamlDirectObject^ toggleSwitch = xd->CreateInstance(XamlTypeIndex::ToggleSwitch);
+IXamlDirect^ toggleSwitch = xd->CreateInstance(XamlTypeIndex::ToggleSwitch);
 
 PointerEventHandler^ toggleSwitchPointerHandler = ref new PointerEventHandler([&](Platform::Object^ sender, PointerRoutedEventArgs^ args)
 {

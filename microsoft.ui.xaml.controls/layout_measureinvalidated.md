@@ -17,7 +17,6 @@ Occurs when the measurement state (layout) has been invalidated.
 
 ## -see-also
 
-[InvalidateMeasure](layout_invalidatemeasure_969784920)
+[InvalidateMeasure](layout_invalidatemeasure_969784920.md)
 
 ## -examples
-

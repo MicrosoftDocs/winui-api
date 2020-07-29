@@ -11,17 +11,17 @@ public bool RemoveFromCollection (object xamlDirectObject, object value);
 
 ## -description
 
-Tries to remove a value from the specified [IXamlDirectObject](ixamldirectobject.md) collection.
+Tries to remove a value from the specified [IXamlDirect](ixamldirect.md) collection.
 
 ## -parameters
 
 ### -param xamlDirectObject
 
-Refers to the specific [IXamlDirectObject](ixamldirectobject.md) collection.
+Refers to the specific [IXamlDirect](ixamldirect.md) collection.
 
 ### -param value
 
-Refers to the [IXamlDirectObject](ixamldirectobject.md) value to remove from the collection.
+Refers to the [IXamlDirect](ixamldirect.md) value to remove from the collection.
 
 ## -returns
 

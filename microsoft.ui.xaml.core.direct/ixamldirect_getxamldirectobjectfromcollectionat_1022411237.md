@@ -11,13 +11,13 @@ public object GetXamlDirectObjectFromCollectionAt (object xamlDirectObject, uint
 
 ## -description
 
-Returns the [IXamlDirectObject](ixamldirectobject.md) item at the specified index from the specified [IXamlDirectObject](ixamldirectobject.md) collection.
+Returns the [IXamlDirect](ixamldirect.md) item at the specified index from the specified [IXamlDirect](ixamldirect.md) collection.
 
 ## -parameters
 
 ### -param xamlDirectObject
 
-Refers to the specific [IXamlDirectObject](ixamldirectobject.md) collection.
+Refers to the specific [IXamlDirect](ixamldirect.md) collection.
 
 ### -param index
 
@@ -25,7 +25,7 @@ Refers to the index in the collection of the item to get.
 
 ## -returns
 
-Returns the [IXamlDirectObject](ixamldirectobject.md) item at the specified index of the collection.
+Returns the [IXamlDirect](ixamldirect.md) item at the specified index of the collection.
 
 ## -remarks
 
@@ -33,24 +33,24 @@ Returns the [IXamlDirectObject](ixamldirectobject.md) item at the specified inde
 
 ## -examples
 
-The following example shows how to access an [IXamlDirectObject](ixamldirectobject.md) item at the specified index of a collection.
+The following example shows how to access an [IXamlDirect](ixamldirect.md) item at the specified index of a collection.
 
 ```C#
 XamlDirect xd = XamlDirect.GetDefault();
 
-IXamlDirectObject relativePanel = xd.CreateInstance(XamlTypeIndex.RelativePanel);
+IXamlDirect relativePanel = xd.CreateInstance(XamlTypeIndex.RelativePanel);
 
-IXamlDirectObject childrenCollection = xd.GetXamlDirectObjectProperty(relativePanel, XamlPropertyIndex.Panel_Children);
+IXamlDirect childrenCollection = xd.GetXamlDirectObjectProperty(relativePanel, XamlPropertyIndex.Panel_Children);
 
-IXamlDirectObject first = xd.GetXamlDirectObjectFromCollectionAt(childrenCollection, 0);
+IXamlDirect first = xd.GetXamlDirectObjectFromCollectionAt(childrenCollection, 0);
 ```
 
 ```CPP
 XamlDirect^ xd = XamlDirect::GetDefault();
 
-IXamlDirectObject^ relativePanel = xd->CreateInstance(XamlTypeIndex::RelativePanel);
+IXamlDirect^ relativePanel = xd->CreateInstance(XamlTypeIndex::RelativePanel);
 
-IXamlDirectObject^ childrenCollection = xd->GetXamlDirectObjectProperty(relativePanel, XamlPropertyIndex::Panel_Children);
+IXamlDirect^ childrenCollection = xd->GetXamlDirectObjectProperty(relativePanel, XamlPropertyIndex::Panel_Children);
 
-IXamlDirectObject^ first = xd->GetXamlDirectObjectFromCollectionAt(childrenCollection, 0);
+IXamlDirect^ first = xd->GetXamlDirectObjectFromCollectionAt(childrenCollection, 0);
 ```

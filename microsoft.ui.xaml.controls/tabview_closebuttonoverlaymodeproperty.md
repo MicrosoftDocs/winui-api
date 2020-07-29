@@ -12,11 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty CloseButtonOverlayModeProperty 
 
 ## -description
 
-Identifies the [CloseButtonOverlayMode](tabviewitem_closebuttonoverlaymode.md) dependency property.
+Identifies the [CloseButtonOverlayMode](tabview_closebuttonoverlaymode.md) dependency property.
 
 ## -property-value
 
-The identifier for the [CloseButtonOverlayMode](tabviewitem_closebuttonoverlaymode.md) dependency property.
+The identifier for the [CloseButtonOverlayMode](tabview_closebuttonoverlaymode.md) dependency property.
 
 ## -remarks
 

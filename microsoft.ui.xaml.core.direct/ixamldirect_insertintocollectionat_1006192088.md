@@ -11,13 +11,13 @@ public void InsertIntoCollectionAt (object xamlDirectObject, uint index, object 
 
 ## -description
 
-Inserts a value into the specified [IXamlDirectObject](ixamldirectobject.md) collection at the specified index.
+Inserts a value into the specified [IXamlDirect](ixamldirect.md) collection at the specified index.
 
 ## -parameters
 
 ### -param xamlDirectObject
 
-Refers to the specific [IXamlDirectObject](ixamldirectobject.md) collection.
+Refers to the specific [IXamlDirect](ixamldirect.md) collection.
 
 ### -param index
 
@@ -25,7 +25,7 @@ Refers to the index in the collection where the specified value must be inserted
 
 ### -param value
 
-Refers to the [IXamlDirectObject](ixamldirectobject.md) value to add to the collection.
+Refers to the [IXamlDirect](ixamldirect.md) value to add to the collection.
 
 ## -remarks
 
@@ -40,21 +40,21 @@ The following example shows how to insert a value into a collection at a specifi
 ```C#
 XamlDirect xd = XamlDirect.GetDefault();
 
-IXamlDirectObject relativePanel = xd.CreateInstance(XamlTypeIndex.RelativePanel);
+IXamlDirect relativePanel = xd.CreateInstance(XamlTypeIndex.RelativePanel);
 
-IXamlDirectObject childrenCollection = xd.GetXamlDirectObjectProperty(relativePanel, XamlPropertyIndex.Panel_Children);
+IXamlDirect childrenCollection = xd.GetXamlDirectObjectProperty(relativePanel, XamlPropertyIndex.Panel_Children);
 
-IXamlDirectObject button = xd.CreateInstance(XamlTypeIndex.Button);
+IXamlDirect button = xd.CreateInstance(XamlTypeIndex.Button);
 xd.InsertIntoCollectionAt(childrenCollection, 0, button);
 ```
 
 ```CPP
 XamlDirect^ xd = XamlDirect::GetDefault();
 
-IXamlDirectObject^ relativePanel = xd->CreateInstance(XamlTypeIndex::RelativePanel);
+IXamlDirect^ relativePanel = xd->CreateInstance(XamlTypeIndex::RelativePanel);
 
-IXamlDirectObject^ childrenCollection = xd->GetXamlDirectObjectProperty(relativePanel, XamlPropertyIndex::Panel_Children);
+IXamlDirect^ childrenCollection = xd->GetXamlDirectObjectProperty(relativePanel, XamlPropertyIndex::Panel_Children);
 
-IXamlDirectObject^ button = xd->CreateInstance(XamlTypeIndex::Button);
+IXamlDirect^ button = xd->CreateInstance(XamlTypeIndex::Button);
 xd->InsertIntoCollectionAt(childrenCollection, 0, button);
 ```

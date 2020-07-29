@@ -37,10 +37,8 @@ The value to be passed to the source object.
 
 ## -remarks
 
-This method of the [IValueConverter](/uwp/api/windows.ui.xaml.data.ivalueconverter) interface is called only in **TwoWay** bindings. It is not implemented for the CornerRadiusFilterConverter.
+The [IValueConverter.ConvertBack](/uwp/api/windows.ui.xaml.data.ivalueconverter.convertback) method of the [IValueConverter](/uwp/api/windows.ui.xaml.data.ivalueconverter) interface is called only in **TwoWay** bindings. It is not implemented for the CornerRadiusFilterConverter.
 
 ## -see-also
-
-[IValueConverter.ConvertBack](/uwp/api/windows.ui.xaml.data.ivalueconverter.convertback)
 
 ## -examples

@@ -12,11 +12,10 @@ public class ElementFactoryGetArgs
 
 ## -description
 
-Provides data for the [ElementFactory.GetElement](elementfactory_getelement_845667019.md) method.
+Represents the optional arguments to use when calling an implementation of the [GetElement](/uwp/api/windows.ui.xaml.ielementfactory.getelement) method of an [IElementFactory](/uwp/api/windows.ui.xaml.ielementfactory) object.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-

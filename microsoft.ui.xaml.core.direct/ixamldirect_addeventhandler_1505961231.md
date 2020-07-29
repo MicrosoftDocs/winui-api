@@ -11,13 +11,13 @@ public void AddEventHandler (object xamlDirectObject, Microsoft.UI.Xaml.Core.Dir
 
 ## -description
 
-Adds the specified event handler for a specified event using [XamlEventIndex](xamleventindex.md), adding the handler to the handler collection on the current [IXamlDirectObject](ixamldirectobject.md). Specify *handledEventsToo* as true to have the provided handler be invoked even if the event is handled elsewhere.
+Adds the specified event handler for a specified event using [XamlEventIndex](xamleventindex.md), adding the handler to the handler collection on the current [IXamlDirect](ixamldirect.md). Specify *handledEventsToo* as true to have the provided handler be invoked even if the event is handled elsewhere.
 
 ## -parameters
 
 ### -param xamlDirectObject
 
-A reference to the current [IXamlDirectObject](ixamldirectobject.md).
+A reference to the current [IXamlDirect](ixamldirect.md).
 
 ### -param eventIndex
 
@@ -50,7 +50,7 @@ See [UIElement.AddHandler](/uwp/api/windows.ui.xaml.uielement.addhandler) for wh
 ```C#
 XamlDirect xd = XamlDirect.GetDefault();
 
-IXamlDirectObject toggleSwitch = xd.CreateInstance(XamlTypeIndex.ToggleSwitch);
+IXamlDirect toggleSwitch = xd.CreateInstance(XamlTypeIndex.ToggleSwitch);
 
 PointerEventHandler toggleSwitchPointerHandler = new PointerEventHandler((sender, args) =>
 {
@@ -66,7 +66,7 @@ xd.AddEventHandler(toggleSwitch, XamlEventIndex.UIElement_PointerEntered, toggle
 ```CPP
 XamlDirect^ xd = XamlDirect::GetDefault();
 
-IXamlDirectObject^ toggleSwitch = xd->CreateInstance(XamlTypeIndex::ToggleSwitch);
+IXamlDirect^ toggleSwitch = xd->CreateInstance(XamlTypeIndex::ToggleSwitch);
 
 PointerEventHandler^ toggleSwitchPointerHandler = ref new PointerEventHandler([&](Platform::Object^ sender, PointerRoutedEventArgs^ args)
 {

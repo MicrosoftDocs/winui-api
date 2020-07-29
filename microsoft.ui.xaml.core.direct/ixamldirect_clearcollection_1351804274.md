@@ -11,13 +11,13 @@ public void ClearCollection (object xamlDirectObject);
 
 ## -description
 
-Removes all items from the specified [IXamlDirectObject](ixamldirectobject.md) collection.
+Removes all items from the specified [IXamlDirect](ixamldirect.md) collection.
 
 ## -parameters
 
 ### -param xamlDirectObject
 
-Refers to the specific [IXamlDirectObject](ixamldirectobject.md) collection.
+Refers to the specific [IXamlDirect](ixamldirect.md) collection.
 
 ## -remarks
 
@@ -30,11 +30,11 @@ Refers to the specific [IXamlDirectObject](ixamldirectobject.md) collection.
 ```C#
 XamlDirect xd = XamlDirect.GetDefault();
 
-IXamlDirectObject relativePanel = xd.CreateInstance(XamlTypeIndex.RelativePanel);
+IXamlDirect relativePanel = xd.CreateInstance(XamlTypeIndex.RelativePanel);
 
-IXamlDirectObject childrenCollection = xd.GetXamlDirectObjectProperty(relativePanel, XamlPropertyIndex.Panel_Children);
+IXamlDirect childrenCollection = xd.GetXamlDirectObjectProperty(relativePanel, XamlPropertyIndex.Panel_Children);
 
-IXamlDirectObject button = xd.CreateInstance(XamlTypeIndex.Button);
+IXamlDirect button = xd.CreateInstance(XamlTypeIndex.Button);
 xd.AddToCollection(childrenCollection, button);
 
 xd.ClearCollection(childrenCollection);
@@ -43,11 +43,11 @@ xd.ClearCollection(childrenCollection);
 ```CPP
 XamlDirect^ xd = XamlDirect::GetDefault();
 
-IXamlDirectObject^ relativePanel = xd->CreateInstance(XamlTypeIndex::RelativePanel);
+IXamlDirect^ relativePanel = xd->CreateInstance(XamlTypeIndex::RelativePanel);
 
-IXamlDirectObject^ childrenCollection = xd->GetXamlDirectObjectProperty(relativePanel, XamlPropertyIndex::Panel_Children);
+IXamlDirect^ childrenCollection = xd->GetXamlDirectObjectProperty(relativePanel, XamlPropertyIndex::Panel_Children);
 
-IXamlDirectObject^ button = xd->CreateInstance(XamlTypeIndex::Button);
+IXamlDirect^ button = xd->CreateInstance(XamlTypeIndex::Button);
 xd->AddToCollection(childrenCollection, button);
 
 xd->ClearCollection(childrenCollection);

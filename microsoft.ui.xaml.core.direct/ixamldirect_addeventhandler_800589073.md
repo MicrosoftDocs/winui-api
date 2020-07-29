@@ -37,12 +37,12 @@ AddEventHandler can only be used to add event handlers for the events supported 
 
 ## -examples
 
-The following example shows how to add/modify the [PointerEntered](../windows.ui.xaml/uielement_pointerentered.md) event through a specific instance of [PointerEventHandler](../windows.ui.xaml.input/pointereventhandler.md) on a [ToggleSwitch](../windows.ui.xaml.controls/toggleswitch.md) control from its [IXamlDirectObject](ixamldirectobject.md) instance.
+The following example shows how to add/modify the [PointerEntered](/uwp/api/windows.ui.xaml.uielement.pointerentered) event through a specific instance of [PointerEventHandler](/uwp/api/windows.ui.xaml.input.pointereventhandler) on a [ToggleSwitch](/uwp/api/windows.ui.xaml.controls.toggleswitch) control from its [IXamlDirect](ixamldirect.md) instance.
 
 ```C#
 XamlDirect xd = XamlDirect.GetDefault();
 
-IXamlDirectObject toggleSwitch = xd.CreateInstance(XamlTypeIndex.ToggleSwitch);
+IXamlDirect toggleSwitch = xd.CreateInstance(XamlTypeIndex.ToggleSwitch);
 
 PointerEventHandler toggleSwitchPointerHandler = new PointerEventHandler((sender, args) =>
 {
@@ -58,7 +58,7 @@ xd.AddEventHandler(toggleSwitch, XamlEventIndex.UIElement_PointerEntered, toggle
 ```CPP
 XamlDirect^ xd = XamlDirect::GetDefault();
 
-IXamlDirectObject^ toggleSwitch = xd->CreateInstance(XamlTypeIndex::ToggleSwitch);
+IXamlDirect^ toggleSwitch = xd->CreateInstance(XamlTypeIndex::ToggleSwitch);
 
 PointerEventHandler^ toggleSwitchPointerHandler = ref new PointerEventHandler([&](Platform::Object^ sender, PointerRoutedEventArgs^ args)
 {

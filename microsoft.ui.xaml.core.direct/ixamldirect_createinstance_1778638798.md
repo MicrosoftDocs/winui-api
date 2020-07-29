@@ -12,7 +12,7 @@ public XamlDirectObject IXamlDirect.CreateInstance(XamlTypeIndex typeIndex)
 
 ## -description
 
-Creates an [IXamlDirectObject](ixamldirectobject.md) instance of the type specified by the [XamlTypeIndex](xamltypeindex.md) parameter.
+Creates an [IXamlDirect](ixamldirect.md) instance of the type specified by the [XamlTypeIndex](xamltypeindex.md) parameter.
 
 ## -parameters
 
@@ -22,7 +22,7 @@ Refers to the specific XAML type from the set of supported types listed in the [
 
 ## -returns
 
-Returns the [IXamlDirectObject](ixamldirectobject.md) instance.
+Returns the [IXamlDirect](ixamldirect.md) instance.
 
 ## -remarks
 
@@ -32,14 +32,14 @@ Returns the [IXamlDirectObject](ixamldirectobject.md) instance.
 
 ## -examples
 
-The following example shows how to create an [IXamlDirectObject](ixamldirectobject.md) instance for a [Border](../windows.ui.xaml.controls/border.md) element. 
+The following example shows how to create an [IXamlDirect](ixamldirect.md) instance for a [Border](/uwp/api/windows.ui.xaml.controls.border) element.
 
 ```C#
 XamlDirect xd = XamlDirect.GetDefault();
-IXamlDirectObject border = xd.CreateInstance(XamlTypeIndex.Border);
+IXamlDirect border = xd.CreateInstance(XamlTypeIndex.Border);
 ```
 
 ```CPP
 XamlDirect^ xd = XamlDirect::GetDefault();
-IXamlDirectObject^ border = xd->CreateInstance(XamlTypeIndex::Border);
+IXamlDirect^ border = xd->CreateInstance(XamlTypeIndex::Border);
 ```

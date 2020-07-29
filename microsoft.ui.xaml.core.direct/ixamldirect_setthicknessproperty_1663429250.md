@@ -11,13 +11,13 @@ public void SetThicknessProperty (object xamlDirectObject, Microsoft.UI.Xaml.Cor
 
 ## -description
 
-Sets the value of a [Thickness](/uwp/api/windows.ui.xaml.thickness) property for a specific [IXamlDirectObject](ixamldirectobject.md).
+Sets the value of a [Thickness](/uwp/api/windows.ui.xaml.thickness) property for a specific [IXamlDirect](ixamldirect.md).
 
 ## -parameters
 
 ### -param xamlDirectObject
 
-A reference to the specific [IXamlDirectObject](ixamldirectobject.md).
+A reference to the specific [IXamlDirect](ixamldirect.md).
 
 ### -param propertyIndex
 

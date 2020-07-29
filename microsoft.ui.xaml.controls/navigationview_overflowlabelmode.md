@@ -22,7 +22,7 @@ A value of the enumeration that indicates what text label is shown for the overf
 
 ## -remarks
 
-The overflow menu is shown only when [NavigationView.PaneDisplayMode](navigationview_panedisplaymode) is **Top** and the window is not wide enough to show all navigation menu items.
+The overflow menu is shown only when [Microsoft.UI.Xaml.Controls.NavigationView.PaneDisplayMode](navigationview_panedisplaymode.md) is **Top** and the window is not wide enough to show all navigation menu items.
 
 
 ## -see-also

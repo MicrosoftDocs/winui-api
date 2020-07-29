@@ -11,15 +11,20 @@ public static bool GetKeepInteriorCornersSquare (Windows.UI.Xaml.Controls.ComboB
 
 ## -description
 
+Gets whether the interior corners of the ComboBox control are square.
+
 ## -parameters
 
 ### -param comboBox
 
+The ComboBox control.
+
 ## -returns
+
+True, if the corners are square. Otherwise, false.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-

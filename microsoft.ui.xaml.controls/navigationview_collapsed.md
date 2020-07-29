@@ -10,12 +10,17 @@ public event Windows.Foundation.TypedEventHandler<Microsoft.UI.Xaml.Controls.Nav
 -->
 
 ## -description
-Occurs when a node in the tree is collapsed.	
+
+Occurs when a node in the tree is collapsed.
+
+## -remarks
+
+Analogous to [TreeView.Collapse](https://docs.microsoft.com/uwp/api/Microsoft.UI.Xaml.Controls.TreeView.Collapse)
 
 ## -see-also
-Analogous to [TreeView.Collapsed](https://docs.microsoft.com/uwp/api/Microsoft.UI.Xaml.Controls.TreeView.Collapsed) event.
 
 ## -examples
+
 The following example creates a hierarchical NavigationView and sets up an event handler for the Collapsed event called OnItemCollapsed. In this event handler, the last collapsed item's Content property is set to display in the CollapsedItemLabel TextBlock.
 
 ```xaml

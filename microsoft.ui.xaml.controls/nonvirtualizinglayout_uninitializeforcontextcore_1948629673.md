@@ -21,7 +21,7 @@ The context object that facilitates communication between the layout and its hos
 
 ## -remarks
 
-Override this method in a derived class to provide the behavior for calls to [UninitializeForContext](layout_uninitializeforcontext_1894452283.md).
+Override this method in a derived class to provide the behavior for calls to [Layout.UninitializeForContext(Microsoft.UI.Xaml.Controls.LayoutContext)](layout_uninitializeforcontext_1894452283.md).
 
 Container elements that support attached layouts should call UninitializeForContext when a layout instance is disassociated with the container. The container is expected to give the attached layout instance a way to store and retrieve any per-container state by way of the provided context.
 

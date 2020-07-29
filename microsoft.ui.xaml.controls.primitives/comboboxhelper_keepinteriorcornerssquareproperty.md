@@ -11,15 +11,14 @@ public static Windows.UI.Xaml.DependencyProperty KeepInteriorCornersSquareProper
 
 ## -description
 
-Identifies the [KeepInteriorCornersSquare](comboboxhelper_keepinteriorcornerssquare.md) dependency property.
+Identifies the KeepInteriorCornersSquare dependency property. **Not implemented.**
 
 ## -property-value
 
-The identifier for the [KeepInteriorCornersSquare](comboboxhelper_keepinteriorcornerssquare.md) dependency property.
+The identifier for the KeepInteriorCornersSquare dependency property.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-

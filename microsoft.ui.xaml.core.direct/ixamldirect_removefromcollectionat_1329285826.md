@@ -11,13 +11,13 @@ public void RemoveFromCollectionAt (object xamlDirectObject, uint index);
 
 ## -description
 
-Attempts to remove a value from the [IXamlDirectObject](ixamldirectobject.md) collection at the specified index.
+Attempts to remove a value from the [IXamlDirect](ixamldirect.md) collection at the specified index.
 
 ## -parameters
 
 ### -param xamlDirectObject
 
-Refers to the specific [IXamlDirectObject](ixamldirectobject.md) collection.
+Refers to the specific [IXamlDirect](ixamldirect.md) collection.
 
 ### -param index
 
@@ -36,9 +36,9 @@ The following example shows how to remove a value from a specific index using [X
 ```C#
 XamlDirect xd = XamlDirect.GetDefault();
 
-IXamlDirectObject relativePanel = xd.CreateInstance(XamlTypeIndex.RelativePanel);
+IXamlDirect relativePanel = xd.CreateInstance(XamlTypeIndex.RelativePanel);
 
-IXamlDirectObject childrenCollection = xd.GetXamlDirectObjectProperty(relativePanel, XamlPropertyIndex.Panel_Children);
+IXamlDirect childrenCollection = xd.GetXamlDirectObjectProperty(relativePanel, XamlPropertyIndex.Panel_Children);
 
 xd.RemoveFromCollectionAt(childrenCollection, 0);
 ```
@@ -46,9 +46,9 @@ xd.RemoveFromCollectionAt(childrenCollection, 0);
 ```CPP
 XamlDirect^ xd = XamlDirect::GetDefault();
 
-IXamlDirectObject^ relativePanel = xd->CreateInstance(XamlTypeIndex::RelativePanel);
+IXamlDirect^ relativePanel = xd->CreateInstance(XamlTypeIndex::RelativePanel);
 
-IXamlDirectObject^ childrenCollection = xd->GetXamlDirectObjectProperty(relativePanel, XamlPropertyIndex::Panel_Children);
+IXamlDirect^ childrenCollection = xd->GetXamlDirectObjectProperty(relativePanel, XamlPropertyIndex::Panel_Children);
 
 xd->RemoveFromCollectionAt(childrenCollection, 0);
 ```

@@ -29,7 +29,6 @@ Override [NonVirtualizingLayout.InitializeForContextCore](nonvirtualizinglayout_
 
 ## -see-also
 
-[UninitializeForContext](layout_uninitializeforcontext_1894452283)
+[Layout.UninitializeForContext(Microsoft.UI.Xaml.Controls.LayoutContext)](layout_uninitializeforcontext_1894452283.md)
 
 ## -examples
-

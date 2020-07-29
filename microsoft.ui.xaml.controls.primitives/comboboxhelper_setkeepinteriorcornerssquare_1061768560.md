@@ -11,11 +11,17 @@ public static void SetKeepInteriorCornersSquare (Windows.UI.Xaml.Controls.ComboB
 
 ## -description
 
+Sets whether the interior corners of the ComboBox control are square.
+
 ## -parameters
 
 ### -param comboBox
 
+The ComboBox control.
+
 ### -param value
+
+True, if the corners are square. Otherwise, false.
 
 ## -remarks
 

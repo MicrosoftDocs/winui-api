@@ -11,13 +11,13 @@ public Windows.UI.Xaml.Media.Media3D.Matrix3D GetMatrix3DProperty (object xamlDi
 
 ## -description
 
-Gets the value of a [Matrix3D](/uwp/api/windows.ui.xaml.media.media3d.matrix3d) property for a specific [IXamlDirectObject](ixamldirectobject.md).
+Gets the value of a [Matrix3D](/uwp/api/windows.ui.xaml.media.media3d.matrix3d) property for a specific [IXamlDirect](ixamldirect.md).
 
 ## -parameters
 
 ### -param xamlDirectObject
 
-A reference to the specific [IXamlDirectObject](ixamldirectobject.md).
+A reference to the specific [IXamlDirect](ixamldirect.md).
 
 ### -param propertyIndex
 

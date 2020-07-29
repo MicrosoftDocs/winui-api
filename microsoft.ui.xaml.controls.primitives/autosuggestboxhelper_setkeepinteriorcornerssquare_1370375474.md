@@ -11,15 +11,20 @@ public static void SetKeepInteriorCornersSquare (Windows.UI.Xaml.Controls.AutoSu
 
 ## -description
 
+Sets whether the interior corners of the AutoSuggestBox control are square.
+
 ## -parameters
 
 ### -param autoSuggestBox
 
+The AutoSuggestBox control.
+
 ### -param value
+
+True, if the corners are square. Otherwise, false.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-

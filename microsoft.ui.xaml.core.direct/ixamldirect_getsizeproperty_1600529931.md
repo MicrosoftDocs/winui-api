@@ -11,13 +11,13 @@ public Windows.Foundation.Size GetSizeProperty (object xamlDirectObject, Microso
 
 ## -description
 
-Gets the value of a [Size](/uwp/api/windows.foundation.size) property for a specific [IXamlDirectObject](ixamldirectobject.md).
+Gets the value of a [Size](/uwp/api/windows.foundation.size) property for a specific [IXamlDirect](ixamldirect.md).
 
 ## -parameters
 
 ### -param xamlDirectObject
 
-A reference to the specific [IXamlDirectObject](ixamldirectobject.md).
+A reference to the specific [IXamlDirect](ixamldirect.md).
 
 ### -param propertyIndex
 

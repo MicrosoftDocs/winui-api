@@ -12,7 +12,7 @@ public XamlDirectObject IXamlDirect.GetXamlDirectObject(Object object)
 
 ## -description
 
-Gets the instance as an [IXamlDirectObject](ixamldirectobject.md) for a given XAML type. 
+Gets the instance as an [IXamlDirect](ixamldirect.md) for a given XAML type. 
 
 ## -parameters
 
@@ -22,7 +22,7 @@ Refers to the specific XAML type (typically, but not always, a [DependencyObject
 
 ## -returns
 
-Returns the [IXamlDirectObject](ixamldirectobject.md) instance.
+Returns the [IXamlDirect](ixamldirect.md) instance.
 
 ## -remarks
 
@@ -34,18 +34,18 @@ Use this method to convert from a full XAML type to its [XamlDirect](xamldirect.
 
 ## -examples
 
-The following example shows how to get the [IXamlDirectObject](ixamldirectobject.md) instance from a full XAML type.
+The following example shows how to get the [IXamlDirect](ixamldirect.md) instance from a full XAML type.
 
 ```C#
 XamlDirect xd = XamlDirect.GetDefault();
 
 Border border = new Border();
-IXamlDirectObject borderXDO = xd.GetXamlDirectObject(border);
+IXamlDirect borderXDO = xd.GetXamlDirectObject(border);
 ```
 
 ```CPP
 XamlDirect^ xd = XamlDirect::GetDefault();
 
 Border^ border = ref new Border();
-IXamlDirectObject^ borderXDO = xd->GetXamlDirectObject(border);
+IXamlDirect^ borderXDO = xd->GetXamlDirectObject(border);
 ```

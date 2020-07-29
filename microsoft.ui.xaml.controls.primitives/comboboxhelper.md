@@ -11,6 +11,8 @@ public sealed class ComboBoxHelper
 
 ## -description
 
+Provides ComboBox helper methods for the XAML compiler.
+
 ## -remarks
 
 ## -see-also

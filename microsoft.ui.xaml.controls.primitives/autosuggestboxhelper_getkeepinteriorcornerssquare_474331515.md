@@ -11,15 +11,20 @@ public static bool GetKeepInteriorCornersSquare (Windows.UI.Xaml.Controls.AutoSu
 
 ## -description
 
+Gets whether the interior corners of the AutoSuggestBox control are square.
+
 ## -parameters
 
 ### -param autoSuggestBox
 
+The AutoSuggestBox control.
+
 ## -returns
+
+True, if the corners are square. Otherwise, false.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
