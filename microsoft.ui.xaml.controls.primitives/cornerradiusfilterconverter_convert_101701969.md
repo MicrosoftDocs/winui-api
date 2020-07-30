@@ -21,15 +21,15 @@ The source CornerRadius being passed to the target.
 
 ### -param targetType
 
-The type of the target property. Part of the [IValueConverter](/uwp/api/windows.ui.xaml.data.ivalueconverter) interface, but not used.
+The type of the target property. Part of the [IValueConverter.Convert](/uwp/api/windows.ui.xaml.data.ivalueconverter.convert) interface method, but not used.
 
 ### -param parameter
 
-An optional parameter to be used in the converter logic. Part of the [IValueConverter](/uwp/api/windows.ui.xaml.data.ivalueconverter) interface, but not used.
+An optional parameter to be used in the converter logic. Part of the [IValueConverter.Convert](/uwp/api/windows.ui.xaml.data.ivalueconverter.convert) interface method, but not used.
 
 ### -param language
 
-The language of the conversion. Part of the [IValueConverter](/uwp/api/windows.ui.xaml.data.ivalueconverter) interface, but not used.
+The language of the conversion. Part of the [IValueConverter.Convert](/uwp/api/windows.ui.xaml.data.ivalueconverter.convert) interface method, but not used.
 
 ## -returns
 
@@ -38,7 +38,5 @@ The converted CornerRadius/double value to be passed to the target dependency pr
 ## -remarks
 
 ## -see-also
-
-[IValueConverter.Convert](/uwp/api/windows.ui.xaml.data.ivalueconverter.convert)
 
 ## -examples
