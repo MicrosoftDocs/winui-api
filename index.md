@@ -4,10 +4,15 @@
 ms.custom: RS5
 ---
 
-# Microsoft Windows UI Library namespaces
+# Windows UI Library namespaces
 
 ## -description
 
+<<<<<<< HEAD
+The Windows UI Library (WinUI) is a native user experience (UX) framework for both Windows Desktop and Universal Windows Platform (UWP) applications.
+
+There are two versions of WinUI: **WinUI 2.x** and **WinUI 3** (see the [Windows UI Library overview](/windows/apps/winui/) for more details).
+=======
 | | |
 |---------|----------------------------|
 | ![WinUI logo](\images\logo-winui-small.png)        | The Windows UI Library (WinUI) is a native user experience (UX) framework for both Windows Desktop and UWP applications. |
@@ -20,11 +25,9 @@ ms.custom: RS5
 
 
 WinUI is comprised of the namespaces and APIs documented here.
+>>>>>>> master
 
-> [!Important]
-> There are two versions of WinUI: **WinUI 2.x** and **WinUI 3**. The APIs described in this documentation are valid for both versions.
->
-> See the [Windows UI Library (WinUI) overview](/windows/apps/winui/) for more details.
+The namespaces and APIs documented here are valid for both versions.
 
 ## -remarks
 
