@@ -8,24 +8,9 @@ ms.custom: RS5
 
 ## -description
 
-<<<<<<< HEAD
 The Windows UI Library (WinUI) is a native user experience (UX) framework for both Windows Desktop and Universal Windows Platform (UWP) applications.
 
 There are two versions of WinUI: **WinUI 2.x** and **WinUI 3** (see the [Windows UI Library overview](/windows/apps/winui/) for more details).
-=======
-| | |
-|---------|----------------------------|
-| ![WinUI logo](\images\logo-winui-small.png)        | The Windows UI Library (WinUI) is a native user experience (UX) framework for both Windows Desktop and UWP applications. |
-|         |                            |
-
-
-|Column1  |Column2  |
-|---------|---------|
-|:::image type="content" source="images\logo-winui-small.png" alt-text="WinUI logo":::     |   The Windows UI Library (WinUI) is a native user experience (UX) framework for both Windows Desktop and UWP applications.       |
-
-
-WinUI is comprised of the namespaces and APIs documented here.
->>>>>>> master
 
 The namespaces and APIs documented here are valid for both versions.
 
