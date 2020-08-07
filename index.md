@@ -39,4 +39,4 @@ If you don't have the XAML Controls Gallery app installed, get the WinUI 2.x ver
 You can also view the XAML Controls Gallery source code on [GitHub](https://github.com/Microsoft/Xaml-Controls-Gallery).
 
 > [!NOTE]
-> See the [WinUI 3 Preview 2 branch](https://github.com/microsoft/Xaml-Controls-Gallery/tree/winui3preview) of the XAML Controls Gallery for a sample app that includes all WinUI 3 Preview 2 controls and features.
+> See the [WinUI 3 Preview 2 branch](https://github.com/microsoft/Xaml-Controls-Gallery/tree/winui3preview) of the XAML Controls Gallery for a sample app that demonstrates all WinUI 3 Preview 2 controls and features.
