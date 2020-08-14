@@ -18,7 +18,7 @@ The namespaces and APIs documented here are valid for both versions.
 
   The WinUI 2.x NuGet package is installed through the Visual Studio NuGet Package Manager and can be used in standard UWP projects, or in Win32 apps via XAML Islands.
 
-  For more details, see [Getting started with the Windows UI 2.x Library](https://docs.microsoft.com/en-us/windows/apps/winui/winui2/getting-started).
+  For more details, see [Getting started with the Windows UI 2.x Library](https://docs.microsoft.com/windows/apps/winui/winui2/getting-started).
 
 - **WinUI 3**
 
