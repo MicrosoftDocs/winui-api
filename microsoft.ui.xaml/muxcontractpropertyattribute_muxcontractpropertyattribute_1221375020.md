@@ -15,8 +15,6 @@ Initializes a new instance of the [MUXContractPropertyAttribute](muxcontractprop
 
 ## -remarks
 
-[!INCLUDE [xaml-controls-gallery](../includes/xaml-controls-gallery.md)]
-
 ## -see-also
 
 ## -examples
