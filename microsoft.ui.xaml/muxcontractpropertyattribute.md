@@ -13,7 +13,8 @@ public sealed class MUXContractPropertyAttribute : Attribute
 
 ## -remarks
 
+[!INCLUDE [xaml-controls-gallery](../includes/xaml-controls-gallery.md)]
+
 ## -see-also
 
 ## -examples
-
