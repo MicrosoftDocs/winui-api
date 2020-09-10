@@ -11,7 +11,7 @@ public class TreeViewItemDataAutomationPeer : Windows.UI.Xaml.Automation.Peers.I
 
 ## -description
 
-Exposes [TreeViewItem](../microsoft.ui.xaml.controls/treeviewitem.md) data types to Microsoft UI Automation.
+Exposes [TreeViewItem](../microsoft.ui.xaml.controls/treeviewitem.md) data types to [Microsoft UI Automation](/windows/win32/winauto/entry-uiauto-win32)..
 
 ## -remarks
 

@@ -11,7 +11,7 @@ public class ColorSpectrumAutomationPeer : FrameworkElementAutomationPeer, Frame
 
 ## -description
 
-Exposes [ColorSpectrum](../microsoft.ui.xaml.controls.primitives/colorspectrum.md) types to Microsoft UI Automation.
+Exposes [ColorSpectrum](../microsoft.ui.xaml.controls.primitives/colorspectrum.md) types to [Microsoft UI Automation](/windows/win32/winauto/entry-uiauto-win32)..
 
 ## -remarks
 

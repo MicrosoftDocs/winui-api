@@ -11,7 +11,7 @@ public class NavigationViewItemAutomationPeer : ListViewItemAutomationPeer, List
 
 ## -description
 
-Exposes [NavigationViewItem](../microsoft.ui.xaml.controls/navigationviewitem.md) types to Microsoft UI Automation.
+Exposes [NavigationViewItem](../microsoft.ui.xaml.controls/navigationviewitem.md) types to [Microsoft UI Automation](/windows/win32/winauto/entry-uiauto-win32)..
 
 ## -remarks
 

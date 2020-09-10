@@ -11,7 +11,7 @@ public class NumberBoxAutomationPeer : Windows.UI.Xaml.Automation.Peers.Framewor
 
 ## -description
 
-Exposes [NumberBox](../microsoft.ui.xaml.controls/numberbox.md) types to Microsoft UI Automation.
+Exposes [NumberBox](../microsoft.ui.xaml.controls/numberbox.md) types to [Microsoft UI Automation](/windows/win32/winauto/entry-uiauto-win32)..
 
 ## -remarks
 

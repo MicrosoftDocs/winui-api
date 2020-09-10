@@ -11,7 +11,7 @@ public class SplitButtonAutomationPeer : Windows.UI.Xaml.Automation.Peers.Framew
 
 ## -description
 
-Exposes [SplitButton](../microsoft.ui.xaml.controls/splitbutton.md) types to Microsoft UI Automation.
+Exposes [SplitButton](../microsoft.ui.xaml.controls/splitbutton.md) types to [Microsoft UI Automation](/windows/win32/winauto/entry-uiauto-win32)..
 
 ## -remarks
 

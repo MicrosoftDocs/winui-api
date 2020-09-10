@@ -23,9 +23,13 @@ UniformGridLayout supports virtualization when attached to a host that supports 
 
 ## -examples
 
+See the **XAML Controls Gallery** sample app for examples of WinUI features and controls.
+
 If you have the **XAML Controls Gallery** app installed, see the [ItemsRepeater](xamlcontrolsgallery:/item/ItemsRepeater) in action.
 
 Otherwise, download the [XAML Controls Gallery app](https://www.microsoft.com/store/productId/9MSVH128X2ZT) from the Microsoft Store or see the [XAML Controls Gallery app source code](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/XamlUIBasics) on GitHub.
+
+You can also view, clone, and build the XAML Controls Gallery source code from [GitHub](https://github.com/Microsoft/Xaml-Controls-Gallery) (switch to the [WinUI 3 Preview branch](https://github.com/microsoft/Xaml-Controls-Gallery/tree/winui3preview) for WinUI 3 Preview controls and features).
 
 The following example shows how to set the [ItemsRepeater.Layout](itemsrepeater_layout.md) property to a UniformGridLayout.
 
@@ -46,4 +50,4 @@ The following example shows how to set the [ItemsRepeater.Layout](itemsrepeater_
 
 ## -see-also
 
-[UniformGridLayout](/windows/uwp/design/controls-and-patterns/items-repeater#uniformgridlayout) in the ItemsRepeater guidelines
+[UniformGridLayoutItemsJustification](uniformgridlayoutitemsjustification.md), [UniformGridLayoutItemsStretch](uniformgridlayoutitemsstretch.md), [UniformGridLayout overview](/windows/uwp/design/controls-and-patterns/items-repeater#uniformgridlayout)

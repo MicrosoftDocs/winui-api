@@ -11,7 +11,7 @@ public class PersonPictureAutomationPeer : FrameworkElementAutomationPeer, Frame
 
 ## -description
 
-Exposes [PersonPicture](../microsoft.ui.xaml.controls/personpicture.md) types to Microsoft UI Automation.
+Exposes [PersonPicture](../microsoft.ui.xaml.controls/personpicture.md) types to [Microsoft UI Automation](/windows/win32/winauto/entry-uiauto-win32)..
 
 ## -remarks
 

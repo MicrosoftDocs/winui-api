@@ -12,7 +12,7 @@ public class AnimatedVisualPlayerAutomationPeer : FrameworkElementAutomationPeer
 
 ## -description
 
-Exposes [AnimatedVisualPlayer](../microsoft.ui.xaml.controls/animatedvisualplayer.md) types to Microsoft UI Automation.
+Exposes [AnimatedVisualPlayer](../microsoft.ui.xaml.controls/animatedvisualplayer.md) types to [Microsoft UI Automation](/windows/win32/winauto/entry-uiauto-win32)..
 
 ## -remarks
 

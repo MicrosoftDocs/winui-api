@@ -12,11 +12,11 @@ public class AnimatedVisualPlayer : FrameworkElement, FrameworkElement
 
 ## -description
 
-An element that displays and controls an [IAnimatedVisual](https://docs.microsoft.com/uwp/api/microsoft.ui.xaml.controls.ianimatedvisual).
+An element that displays and controls an [IAnimatedVisual](/uwp/api/microsoft.ui.xaml.controls.ianimatedvisual).
 
 ## -remarks
 
-The AnimatedVisualPlayer hosts and controls playback of an animated [Visual](https://docs.microsoft.com/uwp/api/Windows.UI.Composition.Visual) tree, integrating custom motion graphic content with XAML UI. For instance, the AnimatedVisualPlayer is used to display and control [Lottie](https://aka.ms/lottiedocs) animations.
+The AnimatedVisualPlayer hosts and controls playback of an animated [Visual](/uwp/api/Windows.UI.Composition.Visual) tree, integrating custom motion graphic content with XAML UI. For instance, the AnimatedVisualPlayer is used to display and control [Lottie](https://aka.ms/lottiedocs) animations.
 
 ## -see-also
 
@@ -24,6 +24,10 @@ The AnimatedVisualPlayer hosts and controls playback of an animated [Visual](htt
 
 ## -examples
 
-If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the AnimatedVisualPlayer in action](xamlcontrolsgallery:/item/AnimatedVisualPlayer).
- + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
- + [Get the source code (GitHub)](https://github.com/Microsoft/Xaml-Controls-Gallery)
+See the **XAML Controls Gallery** sample app for examples of WinUI features and controls.
+
+If you have the **XAML Controls Gallery** app installed, [open the app to see the AnimatedVisualPlayer in action](xamlcontrolsgallery:/item/AnimatedVisualPlayer).
+
+If you don't have the XAML Controls Gallery app installed, get the WinUI 2.x version from the [Microsoft Store](https://www.microsoft.com/p/xaml-controls-gallery/9msvh128x2zt).
+
+You can also view, clone, and build the XAML Controls Gallery source code from [GitHub](https://github.com/Microsoft/Xaml-Controls-Gallery) (switch to the [WinUI 3 Preview branch](https://github.com/microsoft/Xaml-Controls-Gallery/tree/winui3preview) for WinUI 3 Preview controls and features).

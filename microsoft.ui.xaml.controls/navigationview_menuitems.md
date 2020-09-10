@@ -9,23 +9,16 @@ public IVector<object> MenuItems { get; }
 
 # Microsoft.UI.Xaml.Controls.NavigationView.MenuItems
 
-
 ## -description
 
-Gets the collection of menu items displayed in the NavigationMenu.
-
+Gets the collection of menu items displayed in the NavigationView.
 
 ## -property-value
 
-The collection of menu items displayed in the NavigationMenu. The default is an empty collection.
-
+The collection of menu items displayed in the NavigationView. The default is an empty collection.
 
 ## -remarks
 
-
 ## -see-also
 
-
 ## -examples
-
-

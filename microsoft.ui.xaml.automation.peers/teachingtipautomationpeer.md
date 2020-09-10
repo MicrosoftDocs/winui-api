@@ -11,7 +11,7 @@ public class TeachingTipAutomationPeer : Windows.UI.Xaml.Automation.Peers.Framew
 
 ## -description
 
-Exposes [TeachingTip](../microsoft.ui.xaml.controls/teachingtip.md) types to Microsoft UI Automation.
+Exposes [TeachingTip](../microsoft.ui.xaml.controls/teachingtip.md) types to [Microsoft UI Automation](/windows/win32/winauto/entry-uiauto-win32)..
 
 ## -remarks
 

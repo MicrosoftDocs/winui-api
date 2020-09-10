@@ -17,11 +17,14 @@ Represents the container for an item in a [TreeView](treeview.md) control.
 
 ## -see-also
 
+[TreeView](treeview.md), [TreeViewItemInvokedEventArgs](treeviewiteminvokedeventargs.md), [TreeViewItemTemplateSettings](treeviewitemtemplatesettings.md), [TreeViewList](treeviewlist.md), [TreeView overview](/windows/uwp/design/controls-and-patterns/tree-view)
+
 ## -examples
 
-> [!TIP]
-> For more info, design guidance, and code examples, see [Tree view](/windows/uwp/design/controls-and-patterns/tree-view).
->
-> If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the TreeView in action](xamlcontrolsgallery:/item/TreeView).
-> + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
-> + [Get the source code (GitHub)](https://github.com/Microsoft/Xaml-Controls-Gallery)
+See the **XAML Controls Gallery** sample app for examples of WinUI features and controls.
+
+If you have the **XAML Controls Gallery** app installed, see the [TreeView](xamlcontrolsgallery:/item/TreeView) in action.
+
+If you don't have the XAML Controls Gallery app installed, get the WinUI 2.x version from the [Microsoft Store](https://www.microsoft.com/p/xaml-controls-gallery/9msvh128x2zt).
+
+You can also view, clone, and build the XAML Controls Gallery source code from [GitHub](https://github.com/Microsoft/Xaml-Controls-Gallery) (switch to the [WinUI 3 Preview branch](https://github.com/microsoft/Xaml-Controls-Gallery/tree/winui3preview) for WinUI 3 Preview controls and features).

@@ -17,5 +17,6 @@ Occurs after the user triggers evaluation of new input by pressing the Enter key
 
 ## -see-also
 
-## -examples
+[NumberBoxValueChangedEventArgs](numberboxvaluechangedeventargs.md)
 
+## -examples

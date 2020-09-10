@@ -11,7 +11,7 @@ public class TabViewItemAutomationPeer : Windows.UI.Xaml.Automation.Peers.ListVi
 
 ## -description
 
-Exposes [TabViewItem](../microsoft.ui.xaml.controls/tabviewitem.md) types to Microsoft UI Automation.
+Exposes [TabViewItem](../microsoft.ui.xaml.controls/tabviewitem.md) types to [Microsoft UI Automation](/windows/win32/winauto/entry-uiauto-win32)..
 
 ## -remarks
 

@@ -11,7 +11,7 @@ public class ProgressBarAutomationPeer : Windows.UI.Xaml.Automation.Peers.RangeB
 
 ## -description
 
-Exposes [ProgressBar](../microsoft.ui.xaml.controls/progressbar.md) types to Microsoft UI Automation.
+Exposes [ProgressBar](../microsoft.ui.xaml.controls/progressbar.md) types to [Microsoft UI Automation](/windows/win32/winauto/entry-uiauto-win32)..
 
 ## -remarks
 

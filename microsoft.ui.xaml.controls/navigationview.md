@@ -9,11 +9,9 @@ public class NavigationView : ContentControl, ContentControl
 
 # Microsoft.UI.Xaml.Controls.NavigationView
 
-
 ## -description
 
 Represents a container that enables navigation of app content. It has a header, a view for the main content, and a menu pane for navigation commands.
-
 
 ## -remarks
 
@@ -78,6 +76,13 @@ private void NavigationView_Loaded(object sender, RoutedEventArgs e)
 
 ## -examples
 
+See the **XAML Controls Gallery** sample app for examples of WinUI features and controls.
+
+If you have the **XAML Controls Gallery** app installed, see the [NavigationView](xamlcontrolsgallery:/item/NavigationView) in action.
+
+If you don't have the XAML Controls Gallery app installed, get the WinUI 2.x version from the [Microsoft Store](https://www.microsoft.com/p/xaml-controls-gallery/9msvh128x2zt).
+
+You can also view, clone, and build the XAML Controls Gallery source code from [GitHub](https://github.com/Microsoft/Xaml-Controls-Gallery) (switch to the [WinUI 3 Preview branch](https://github.com/microsoft/Xaml-Controls-Gallery/tree/winui3preview) for WinUI 3 Preview controls and features).
 
 ## -xaml-syntax
 

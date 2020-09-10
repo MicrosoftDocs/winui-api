@@ -13,7 +13,7 @@ public class MenuBarItemAutomationPeer : FrameworkElementAutomationPeer, Framewo
 
 ## -description
 
-Exposes [MenuBarItem](../microsoft.ui.xaml.controls/menubaritem.md) types to Microsoft UI Automation.
+Exposes [MenuBarItem](../microsoft.ui.xaml.controls/menubaritem.md) types to [Microsoft UI Automation](/windows/win32/winauto/entry-uiauto-win32)..
 
 
 

@@ -11,26 +11,36 @@ public enum TeachingTipHeroContentPlacementMode
 
 ## -description
 
-Defines constants that specify the location for positioning [HeroContent](../microsoft.ui.xaml.controls/teachingtip_herocontent.md) within a teaching tip.
+Defines constants that indicate the preferred location of the [HeroContent](../microsoft.ui.xaml.controls/teachingtip_herocontent.md) within a teaching tip.
 
 ## -enum-fields
 
 ### -field Auto
 
-The preferred location of the hero content is in the header of the teaching tip. 
-If possible, the hero content will move to the footer to avoid intersecting with a targeted teaching tip's tail.
+The header of the teaching tip.
+
+The hero content might be moved to the footer to avoid intersecting with the tail of the targeted teaching tip.
 
 ### -field Bottom
 
-The preferred location of the hero content is in the footer of the teaching tip.
+The footer of the teaching tip.
 
 ### -field Top
 
-The preferred location of the hero content is in the header of the teaching tip.
+The header of the teaching tip.
 
 ## -remarks
 
 ## -see-also
 
+[TeachingTip.HeroContentPlacement](teachingtip_herocontentplacement.md), [Teaching tip overview](/windows/uwp/design/controls-and-patterns/dialogs-and-flyouts/teaching-tip)
+
 ## -examples
 
+See the **XAML Controls Gallery** sample app for examples of WinUI features and controls.
+
+If you have the **XAML Controls Gallery** app installed, see the [TeachingTip](xamlcontrolsgallery:/item/TeachingTip) in action.
+
+If you don't have the XAML Controls Gallery app installed, get the WinUI 2.x version from the [Microsoft Store](https://www.microsoft.com/p/xaml-controls-gallery/9msvh128x2zt).
+
+You can also view, clone, and build the XAML Controls Gallery source code from [GitHub](https://github.com/Microsoft/Xaml-Controls-Gallery) (switch to the [WinUI 3 Preview branch](https://github.com/microsoft/Xaml-Controls-Gallery/tree/winui3preview) for WinUI 3 Preview controls and features).

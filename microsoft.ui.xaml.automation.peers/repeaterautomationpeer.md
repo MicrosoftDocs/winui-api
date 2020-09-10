@@ -11,7 +11,7 @@ public class RepeaterAutomationPeer : Windows.UI.Xaml.Automation.Peers.Framework
 
 ## -description
 
-Exposes [ItemsRepeater](../microsoft.ui.xaml.controls/itemsrepeater.md) types to Microsoft UI Automation.
+Exposes [ItemsRepeater](../microsoft.ui.xaml.controls/itemsrepeater.md) types to [Microsoft UI Automation](/windows/win32/winauto/entry-uiauto-win32)..
 
 ## -remarks
 

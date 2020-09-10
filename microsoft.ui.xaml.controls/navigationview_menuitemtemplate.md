@@ -9,48 +9,33 @@ public DataTemplate MenuItemTemplate { get;  set; }
 
 # Microsoft.UI.Xaml.Controls.NavigationView.MenuItemTemplate
 
-
-
 ## -description
 
 Gets or sets the [DataTemplate](/uwp/api/windows.ui.xaml.datatemplate) used to display each menu item.
-
-
 
 ## -property-value
 
 The template that specifies the visualization of the menu data objects. The default is **null**.
 
-
-
 ## -remarks
-
-
 
 ## -see-also
 
-
-
 ## -examples
-
-
 
 ## -xaml-syntax
 
 ```xaml
-<NavigationMenu>
-  <NavigationMenu.MenuItemTemplate>
+<NavigationView>
+  <NavigationView.MenuItemTemplate>
     singleDataTemplate
-  </NavigationMenu.MenuItemTemplate>
-</NavigationMenu>
+  </NavigationView.MenuItemTemplate>
+</NavigationView>
+
+or
+
+<NavigationView MenuItemTemplate="resourceReferenceToDataTemplate"/>
 ```
-
-```xaml
-<NavigationMenu MenuItemTemplate="resourceReferenceToDataTemplate"/>
-```
-
-
-
 
 ## -xaml-values
 

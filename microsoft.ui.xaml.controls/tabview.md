@@ -23,16 +23,17 @@ Do not use a TabView to display a static set of tabs that the user cannot rearra
 
 ## -see-also
 
-[Guidelines for TabView](/windows/uwp/design/controls-and-patterns/tab-view)
+[TabViewItem](tabviewitem.md), [TabViewCloseButtonOverlayMode](tabviewclosebuttonoverlaymode.md), [Guidelines for TabView](/windows/uwp/design/controls-and-patterns/tab-view)
 
 ## -examples
 
-> [!TIP]
-> For more info, design guidance, and code examples, see [Tab view](/windows/uwp/design/controls-and-patterns/tab-view).
->
-> If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the TabView in action](xamlcontrolsgallery:/item/TabView).
-> + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
-> + [Get the source code (GitHub)](https://github.com/Microsoft/Xaml-Controls-Gallery)
+See the **XAML Controls Gallery** sample app for examples of WinUI features and controls.
+
+If you have the **XAML Controls Gallery** app installed, see the [TabView](xamlcontrolsgallery:/item/TabView) in action.
+
+If you don't have the XAML Controls Gallery app installed, get the WinUI 2.x version from the [Microsoft Store](https://www.microsoft.com/p/xaml-controls-gallery/9msvh128x2zt).
+
+You can also view, clone, and build the XAML Controls Gallery source code from [GitHub](https://github.com/Microsoft/Xaml-Controls-Gallery) (switch to the [WinUI 3 Preview branch](https://github.com/microsoft/Xaml-Controls-Gallery/tree/winui3preview) for WinUI 3 Preview controls and features).
 
 ### Basic TabView Sample, similar to a Web Browser
 

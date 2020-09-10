@@ -12,7 +12,7 @@ public class ProgressRingAutomationPeer : Windows.UI.Xaml.Automation.Peers.Frame
 
 ## -description
 
-Exposes [ProgressRing](../microsoft.ui.xaml.controls/progressring.md) types to Microsoft UI Automation.
+Exposes [ProgressRing](../microsoft.ui.xaml.controls/progressring.md) types to [Microsoft UI Automation](/windows/win32/winauto/entry-uiauto-win32)..
 
 ## -remarks
 

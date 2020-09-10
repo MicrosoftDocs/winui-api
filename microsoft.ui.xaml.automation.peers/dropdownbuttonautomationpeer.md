@@ -11,7 +11,7 @@ public class DropDownButtonAutomationPeer : Windows.UI.Xaml.Automation.Peers.But
 
 ## -description
 
-Exposes [DropDownButton](../microsoft.ui.xaml.controls/dropdownbutton.md) types to Microsoft UI Automation.
+Exposes [DropDownButton](../microsoft.ui.xaml.controls/dropdownbutton.md) types to [Microsoft UI Automation](/windows/win32/winauto/entry-uiauto-win32)..
 
 ## -remarks
 
