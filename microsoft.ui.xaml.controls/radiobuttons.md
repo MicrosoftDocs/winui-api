@@ -11,11 +11,27 @@ public class RadioButtons : Windows.UI.Xaml.Controls.Control
 
 ## -description
 
-Represents a control that displays a group of related [RadioButton](/uwp/api/windows.ui.xaml.controls.radiobutton) controls.
+Represents a control that shows a group of related options from which one can be selected.
 
 ## -remarks
 
+> For more info, design guidance, and code examples, see [Radio buttons](/windows/uwp/design/controls-and-patterns/radio-button).
+
+![Example of a RadioButtons group, with one radio button selected](images/radiobuttons/radiobuttons-default-group.png)
+
+Use radio buttons, also called option buttons, to let users select one option from a collection of two or more mutually exclusive, but related, options. Radio buttons are always used in groups, and each option is represented by one radio button in the group.
+
+The `RadioButtons` control simplifies layout, handles keyboard navigation and accessibility, and supports binding to a data source. When you use RadioButtons, you can treat your group of options as a single entity, rather than keeping track of individual [RadioButton](/uwp/api/Windows.UI.Xaml.Controls.RadioButton) controls.
+
+The `RadioButtons` control uses a content model similar to an [ItemsControl](/uwp/api/windows.ui.xaml.controls.itemscontrol). This means that you can:
+
+- Populate it by adding items directly to the [Items](radiobuttons_items.md) collection or by binding data to its [ItemsSource](radiobuttons_itemssource.md) property.
+- Use the [SelectedIndex](radiobuttons_selectedindex.md) or [SelectedItem](radiobuttons_selecteditem.md) properties to get and set which option is selected.
+- Handle the [SelectionChanged](radiobuttons_selectionchanged.md) event to take action when an option is chosen.
+
 ## -see-also
+
+[Radio buttons](/windows/uwp/design/controls-and-patterns/radio-button)
 
 ## -examples
 
@@ -26,3 +42,5 @@ If you have the **XAML Controls Gallery** app installed, see the [RadioButtons](
 If you don't have the XAML Controls Gallery app installed, get the WinUI 2.x version from the [Microsoft Store](https://www.microsoft.com/p/xaml-controls-gallery/9msvh128x2zt).
 
 You can also view, clone, and build the XAML Controls Gallery source code from [GitHub](https://github.com/Microsoft/Xaml-Controls-Gallery) (switch to the [WinUI 3 Preview branch](https://github.com/microsoft/Xaml-Controls-Gallery/tree/winui3preview) for WinUI 3 Preview controls and features).
+
+
