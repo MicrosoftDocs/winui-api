@@ -16,24 +16,31 @@ Enum that lists all the supported events in [XamlDirect](xamldirect.md).
 ## -enum-fields
 
 ### -field WebView_WebResourceRequested:283
+
 The _WebResourceRequested_ event for the [WebView](/uwp/api/windows.ui.xaml.controls.webview) type.
 
 ### -field WebView_UnviewableContentIdentified:246
+
 The _UnviewableContentIdentified_ event for the [WebView](/uwp/api/windows.ui.xaml.controls.webview) type.
 
 ### -field WebView_UnsupportedUriSchemeIdentified:248
+
 The _UnsupportedUriSchemeIdentified_ event for the [WebView](/uwp/api/windows.ui.xaml.controls.webview) type.
 
 ### -field WebView_UnsafeContentWarningDisplaying:245
+
 The _UnsafeContentWarningDisplaying_ event for the [WebView](/uwp/api/windows.ui.xaml.controls.webview) type.
 
 ### -field WebView_SeparateProcessLost:232
+
 The _SeparateProcessLost_ event for the [WebView](/uwp/api/windows.ui.xaml.controls.webview) type.
 
 ### -field WebView_ScriptNotify:234
+
 The _ScriptNotify_ event for the [WebView](/uwp/api/windows.ui.xaml.controls.webview) type.
 
 ### -field WebView_PermissionRequested:250
+
 The _PermissionRequested_ event for the [WebView](/uwp/api/windows.ui.xaml.controls.webview) type.
 
 ### -field WebView_NewWindowRequested:249
@@ -695,3 +702,11 @@ The _Closed_ event for the [AppBar](/uwp/api/windows.ui.xaml.controls.appbar) ty
 [XamlDirect](xamldirect.md), [IXamlDirect](/uwp/api/windows.ui.xaml.core.direct.ixamldirect), [XamlTypeIndex](xamltypeindex.md), [XamlPropertyIndex](xamlpropertyindex.md)
 
 ## -examples
+
+See the **XAML Controls Gallery** sample app for examples of WinUI features and controls.
+
+If you have the **XAML Controls Gallery** app installed, [open the app to see the controls in action](xamlcontrolsgallery:).
+
+If you don't have the XAML Controls Gallery app installed, get the WinUI 2.x version from the [Microsoft Store](https://www.microsoft.com/p/xaml-controls-gallery/9msvh128x2zt).
+
+You can also view, clone, and build the XAML Controls Gallery source code from [GitHub](https://github.com/Microsoft/Xaml-Controls-Gallery) (switch to the [WinUI 3 Preview branch](https://github.com/microsoft/Xaml-Controls-Gallery/tree/winui3preview) for WinUI 3 Preview controls and features).

@@ -19,12 +19,6 @@ Provides a way for middleware authors to access low-level, high-performance XAML
 
 ## -remarks
 
-See the **XAML Controls Gallery** sample app for examples of WinUI features and controls.
-
-If you don't have the XAML Controls Gallery app installed, get the WinUI 2.x version from the [Microsoft Store](https://www.microsoft.com/p/xaml-controls-gallery/9msvh128x2zt).
-
-You can also view, clone, and build the XAML Controls Gallery source code from [GitHub](https://github.com/Microsoft/Xaml-Controls-Gallery) (switch to the [WinUI 3 Preview branch](https://github.com/microsoft/Xaml-Controls-Gallery/tree/winui3preview) for WinUI 3 Preview controls and features).
-
 [XamlDirect](xamldirect.md) is **purpose built for middleware*- that predominantly use imperative APIs to create UI instead of markup. With [XamlDirect](xamldirect.md) APIs, you can achieve performance parity with the XAML parser even when creating UI imperatively in code.
 
 [XamlDirect](xamldirect.md) APIs can be used side-by-side with traditional APIs and take advantage of the pay for play performance improvements.  
@@ -49,6 +43,14 @@ To convert an [IXamlDirect](ixamldirect.md) to its full APINDEX, for example a [
 [RemoveFromCollection(System.Object,System.Object)](ixamldirect_removefromcollection_2015158471.md), [RemoveFromCollectionAt(System.Object,System.UInt32)](ixamldirect_removefromcollectionat_1329285826.md), [InsertIntoCollectionAt(System.Object,System.UInt32,System.Object)](ixamldirect_insertintocollectionat_1006192088.md), [ClearCollection(System.Object)](ixamldirect_clearcollection_1351804274.md)
 
 ## -examples
+
+See the **XAML Controls Gallery** sample app for examples of WinUI features and controls.
+
+If you have the **XAML Controls Gallery** app installed, [open the app to see the controls in action](xamlcontrolsgallery:).
+
+If you don't have the XAML Controls Gallery app installed, get the WinUI 2.x version from the [Microsoft Store](https://www.microsoft.com/p/xaml-controls-gallery/9msvh128x2zt).
+
+You can also view, clone, and build the XAML Controls Gallery source code from [GitHub](https://github.com/Microsoft/Xaml-Controls-Gallery) (switch to the [WinUI 3 Preview branch](https://github.com/microsoft/Xaml-Controls-Gallery/tree/winui3preview) for WinUI 3 Preview controls and features).
 
 The following example shows how to add a value to a collection using [XamlDirect](xamldirect.md) APIs.
 
