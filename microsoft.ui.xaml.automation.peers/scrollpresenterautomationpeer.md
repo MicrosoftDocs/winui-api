@@ -9,7 +9,6 @@
 public class ScrollPresenterAutomationPeer : Windows.UI.Xaml.Automation.Peers.FrameworkElementAutomationPeer
 -->
 
-
 ## -description
 
 ## -remarks
@@ -17,5 +16,3 @@ public class ScrollPresenterAutomationPeer : Windows.UI.Xaml.Automation.Peers.Fr
 ## -see-also
 
 ## -examples
-
-
