@@ -12,7 +12,7 @@ public event TypedEventHandler ItemInvoked<TreeView, TreeViewItemInvokedEventArg
 
 ## -description
 
-Occurs when an item in the tree is invoked.
+Occurs when an item in the tree is tapped or clicked, though NOT when the item's multiple-selection checkbox is checked or unchecked.
 
 
 ## -remarks
