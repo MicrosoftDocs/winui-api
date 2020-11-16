@@ -1,7 +1,6 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.TreeView.ItemContainerStyle
 -api-type: winrt property
-ms.custom: RS5
 ---
 <!-- Property syntax.
 public Style ItemContainerStyle { get;  set; }

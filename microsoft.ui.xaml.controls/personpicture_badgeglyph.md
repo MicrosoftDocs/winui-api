@@ -1,7 +1,6 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.PersonPicture.BadgeGlyph
 -api-type: winrt property
-ms.custom: RS5
 ---
 <!-- Property syntax.
 public string BadgeGlyph { get;  set; }

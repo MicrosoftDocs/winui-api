@@ -1,7 +1,6 @@
 ---
 -api-id: E:Microsoft.UI.Xaml.Controls.TwoPaneView.ModeChanged
 -api-type: winrt event
-ms.custom: RS5
 ---
 
 <!-- Event syntax.

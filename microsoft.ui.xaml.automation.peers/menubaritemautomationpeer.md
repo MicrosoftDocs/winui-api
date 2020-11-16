@@ -1,7 +1,6 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Automation.Peers.MenuBarItemAutomationPeer
 -api-type: winrt class
-ms.custom: RS5
 ---
 <!-- Class syntax.
 public class MenuBarItemAutomationPeer : FrameworkElementAutomationPeer, FrameworkElementAutomationPeer, IExpandCollapseProvider, IInvokeProvider

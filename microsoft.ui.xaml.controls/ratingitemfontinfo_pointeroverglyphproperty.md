@@ -1,7 +1,6 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.RatingItemFontInfo.PointerOverGlyphProperty
 -api-type: winrt property
-ms.custom: RS5
 ---
 <!-- Property syntax.
 public DependencyProperty PointerOverGlyphProperty { get; }

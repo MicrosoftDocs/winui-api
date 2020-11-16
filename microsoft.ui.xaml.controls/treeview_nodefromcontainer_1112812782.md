@@ -1,7 +1,6 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.TreeView.NodeFromContainer(Windows.UI.Xaml.DependencyObject)
 -api-type: winrt method
-ms.custom: RS5
 ---
 <!-- Method syntax.
 public TreeViewNode TreeView.NodeFromContainer(DependencyObject container)

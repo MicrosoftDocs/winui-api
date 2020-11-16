@@ -1,7 +1,6 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.ColorPicker.PreviousColor
 -api-type: winrt property
-ms.custom: RS5
 ---
 <!-- Property syntax.
 public IReference<Color> PreviousColor { get;  set; }

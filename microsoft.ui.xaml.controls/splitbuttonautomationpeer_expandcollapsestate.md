@@ -1,7 +1,6 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.SplitButtonAutomationPeer.ExpandCollapseState
 -api-type: winrt property
-ms.custom: RS5
 ---
 <!-- Property syntax.
 public ExpandCollapseState ExpandCollapseState { get; }

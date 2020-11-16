@@ -1,0 +1,23 @@
+---
+-api-id: P:Microsoft.UI.Xaml.Markup.IXamlType.IsDictionary
+-api-type: winrt property
+---
+
+<!-- Property syntax
+public bool IsDictionary { get; }
+-->
+
+# Microsoft.UI.Xaml.Markup.IXamlType.IsDictionary
+
+## -description
+Gets a value that indicates whether this [IXamlType](ixamltype.md) represents a dictionary/map.
+
+## -property-value
+**true** if this [IXamlType](ixamltype.md) represents a dictionary/map; otherwise, **false**.
+
+## -remarks
+
+## -examples
+
+## -see-also
+[XAML overview](/windows/uwp/xaml-platform/xaml-overview)

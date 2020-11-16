@@ -1,0 +1,43 @@
+---
+-api-id: P:Microsoft.UI.Xaml.Media.Animation.ColorAnimation.From
+-api-type: winrt property
+---
+
+<!-- Property syntax
+public Windows.Foundation.IReference<Windows.UI.Color> From { get;  set; }
+-->
+
+# Microsoft.UI.Xaml.Media.Animation.ColorAnimation.From
+
+## -description
+Gets or sets the animation's starting value.
+
+## -xaml-syntax
+```xaml
+<ColorAnimation From="colorString"/>
+-or-
+<ColorAnimation From="referenceToColor"/>
+- or -
+<ColorAnimation>
+  <ColorAnimation.From>
+    <Color>colorString</Color>
+  </ColorAnimation.From>
+</ColorAnimation>
+```
+
+
+## -xaml-values
+<dl><dt>colorString</dt><dd>colorStringA color specified as a string, using a variety of possible formats, including predefined named colors. For the full list of available string formats that can specify a Color as an attribute, see Color.</dd>
+<dt>referenceToColor</dt><dd>referenceToColorA {StaticResource} markup extension reference or other reference to an existing color.</dd>
+</dl>
+## -property-value
+The starting value of the animation. The default is null.
+
+<!--Projection dochack:-->
+If you are programming using C# or Visual Basic, the type of this property is projected as **Color?**(a nullable [Color](/uwp/api/windows.ui.color)).
+
+## -remarks
+
+## -examples
+
+## -see-also

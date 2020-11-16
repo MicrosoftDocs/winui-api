@@ -1,0 +1,22 @@
+---
+-api-id: P:Microsoft.UI.Xaml.Documents.TextPointer.Offset
+-api-type: winrt property
+---
+
+<!-- Property syntax
+public int Offset { get; }
+-->
+
+# Microsoft.UI.Xaml.Documents.TextPointer.Offset
+
+## -description
+Gets the character index of a [TextPointer](textpointer.md) within its container.
+
+## -property-value
+The character index of a [TextPointer](textpointer.md) within its container.
+
+## -remarks
+
+## -examples
+
+## -see-also

@@ -1,7 +1,6 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.ParallaxView.VerticalSourceEndOffset
 -api-type: winrt property
-ms.custom: RS5
 ---
 <!-- Property syntax.
 public double VerticalSourceEndOffset { get;  set; }

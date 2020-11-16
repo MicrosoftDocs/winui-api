@@ -1,7 +1,6 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.TreeViewItemTemplateSettings.DragItemsCount
 -api-type: winrt property
-ms.custom: RS5
 ---
 <!-- Property syntax.
 public int DragItemsCount { get; }

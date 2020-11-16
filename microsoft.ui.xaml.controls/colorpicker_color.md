@@ -1,7 +1,6 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.ColorPicker.Color
 -api-type: winrt property
-ms.custom: RS5
 ---
 <!-- Property syntax.
 public Color Color { get;  set; }

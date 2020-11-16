@@ -1,7 +1,6 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Controls.RatingItemImageInfo
 -api-type: winrt class
-ms.custom: RS5
 ---
 <!-- Class syntax.
 public class RatingItemImageInfo : RatingItemInfo, RatingItemInfo

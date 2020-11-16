@@ -1,6 +1,6 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Automation.Peers.ToggleSplitButtonAutomationPeer.#ctor(Microsoft.UI.Xaml.Controls.ToggleSplitButton)
--api-type: winrt method
+-api-type: winrt constructor
 ---
 
 # Microsoft.UI.Xaml.Automation.Peers.ToggleSplitButtonAutomationPeer

@@ -1,7 +1,6 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Controls.TwoPaneViewPriority
 -api-type: winrt enum
-ms.custom: RS5
 ---
 
 <!-- Enumeration syntax.

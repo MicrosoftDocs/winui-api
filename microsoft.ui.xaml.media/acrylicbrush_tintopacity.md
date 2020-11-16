@@ -1,7 +1,6 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Media.AcrylicBrush.TintOpacity
 -api-type: winrt property
-ms.custom: RS5
 ---
 <!-- Property syntax.
 public double TintOpacity { get;  set; }

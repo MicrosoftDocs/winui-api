@@ -1,7 +1,6 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.SwipeControl.TopItems
 -api-type: winrt property
-ms.custom: RS5
 ---
 <!-- Property syntax.
 public SwipeItems TopItems { get;  set; }

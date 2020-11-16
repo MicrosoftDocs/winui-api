@@ -1,7 +1,6 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.Primitives.ColorSpectrum.MinHue
 -api-type: winrt property
-ms.custom: RS5
 ---
 <!-- Property syntax.
 public int MinHue { get;  set; }

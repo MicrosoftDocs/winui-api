@@ -1,7 +1,6 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.Primitives.CommandBarFlyoutCommandBarTemplateSettings.WidthExpansionDelta
 -api-type: winrt property
-ms.custom: RS5
 ---
 <!-- Property syntax.
 public double WidthExpansionDelta { get; }

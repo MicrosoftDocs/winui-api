@@ -1,7 +1,6 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.SwipeItems.GetAt(System.UInt32)
 -api-type: winrt method
-ms.custom: RS5
 ---
 <!-- Method syntax.
 public SwipeItem SwipeItems.GetAt(UInt32 index)

@@ -1,7 +1,6 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Media.RevealBackgroundBrush
 -api-type: winrt class
-ms.custom: RS5
 ---
 <!-- Class syntax.
 public class RevealBackgroundBrush : RevealBrush, RevealBrush

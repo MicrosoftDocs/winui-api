@@ -1,7 +1,6 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.Primitives.ColorSpectrum.MinSaturation
 -api-type: winrt property
-ms.custom: RS5
 ---
 <!-- Property syntax.
 public int MinSaturation { get;  set; }

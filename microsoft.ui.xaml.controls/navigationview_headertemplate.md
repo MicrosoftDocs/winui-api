@@ -1,7 +1,6 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.NavigationView.HeaderTemplate
 -api-type: winrt property
-ms.custom: RS5
 ---
 <!-- Property syntax.
 public DataTemplate HeaderTemplate { get;  set; }

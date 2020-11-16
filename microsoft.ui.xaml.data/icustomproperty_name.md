@@ -1,0 +1,22 @@
+---
+-api-id: P:Microsoft.UI.Xaml.Data.ICustomProperty.Name
+-api-type: winrt property
+---
+
+<!-- Property syntax
+public string Name { get; }
+-->
+
+# Microsoft.UI.Xaml.Data.ICustomProperty.Name
+
+## -description
+Gets the path-relevant name of the property.
+
+## -property-value
+The name of the property as it would be specified in a binding expression.
+
+## -remarks
+
+## -examples
+
+## -see-also

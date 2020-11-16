@@ -1,7 +1,6 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.SplitButtonAutomationPeer.Invoke
 -api-type: winrt method
-ms.custom: RS5
 ---
 <!-- Method syntax.
 public void SplitButtonAutomationPeer.Invoke()

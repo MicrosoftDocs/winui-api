@@ -1,7 +1,6 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.SplitButton.CommandParameter
 -api-type: winrt property
-ms.custom: RS5
 ---
 <!-- Property syntax.
 public object CommandParameter { get;  set; }

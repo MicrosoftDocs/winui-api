@@ -1,7 +1,6 @@
 ---
 -api-id: E:Microsoft.UI.Xaml.Controls.TreeView.Collapsed
 -api-type: winrt event
-ms.custom: RS5
 ---
 <!-- Event syntax.
 public event TypedEventHandler Collapsed<TreeView, TreeViewCollapsedEventArgs>

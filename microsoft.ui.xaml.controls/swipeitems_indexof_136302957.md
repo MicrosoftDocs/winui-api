@@ -1,7 +1,6 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.SwipeItems.IndexOf(Microsoft.UI.Xaml.Controls.SwipeItem,System.UInt32@)
 -api-type: winrt method
-ms.custom: RS5
 ---
 
 <!-- Method syntax.
@@ -12,12 +11,21 @@ public bool SwipeItems.IndexOf(SwipeItem value, UInt32 index)
 
 ## -description
 
+Retrieves the index of the specified item.
+
 ## -parameters
+
 ### -param value
+
+The value to find in the collection.
 
 ### -param index
 
+The index of the item to find, if found.
+
 ## -returns
+
+**true** if an item with the specified value was found; otherwise, **false**.
 
 ## -remarks
 

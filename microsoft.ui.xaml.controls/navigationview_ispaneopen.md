@@ -1,7 +1,6 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.NavigationView.IsPaneOpen
 -api-type: winrt property
-ms.custom: RS5
 ---
 <!-- Property syntax.
 public bool IsPaneOpen { get;  set; }

@@ -1,7 +1,6 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.RatingControl.PlaceholderValue
 -api-type: winrt property
-ms.custom: RS5
 ---
 <!-- Property syntax.
 public double PlaceholderValue { get;  set; }

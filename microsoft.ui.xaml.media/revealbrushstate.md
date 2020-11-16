@@ -1,7 +1,6 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Media.RevealBrushState
 -api-type: winrt enum
-ms.custom: RS5
 ---
 <!-- Enumeration syntax.
 public enum RevealBrushState : int 

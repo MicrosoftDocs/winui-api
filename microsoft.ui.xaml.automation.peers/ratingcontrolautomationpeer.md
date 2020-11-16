@@ -1,7 +1,6 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Automation.Peers.RatingControlAutomationPeer
 -api-type: winrt class
-ms.custom: RS5
 ---
 
 # Microsoft.UI.Xaml.Automation.Peers.RatingControlAutomationPeer

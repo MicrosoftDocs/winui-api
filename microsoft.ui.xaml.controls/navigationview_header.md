@@ -1,7 +1,6 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.NavigationView.Header
 -api-type: winrt property
-ms.custom: RS5
 ---
 <!-- Property syntax.
 public object Header { get;  set; }

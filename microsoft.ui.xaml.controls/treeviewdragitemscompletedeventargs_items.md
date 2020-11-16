@@ -1,7 +1,6 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.TreeViewDragItemsCompletedEventArgs.Items
 -api-type: winrt property
-ms.custom: RS5
 ---
 <!-- Property syntax.
 public IVectorView<object> Items { get; }

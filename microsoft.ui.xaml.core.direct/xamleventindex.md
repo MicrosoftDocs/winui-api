@@ -1,7 +1,6 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Core.Direct.XamlEventIndex
 -api-type: winrt enum
-ms.custom: RS5
 ---
 <!-- Enumeration syntax.
 public enum XamlEventIndex : int 

@@ -1,7 +1,6 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Media.RevealBrush.SetState(Windows.UI.Xaml.UIElement,Microsoft.UI.Xaml.Media.RevealBrushState)
 -api-type: winrt method
-ms.custom: RS5
 ---
 
 <!-- Method syntax.

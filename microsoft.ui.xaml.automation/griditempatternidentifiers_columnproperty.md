@@ -1,0 +1,22 @@
+---
+-api-id: P:Microsoft.UI.Xaml.Automation.GridItemPatternIdentifiers.ColumnProperty
+-api-type: winrt property
+---
+
+<!-- Property syntax
+public Windows.UI.Xaml.Automation.AutomationProperty ColumnProperty { get; }
+-->
+
+# Microsoft.UI.Xaml.Automation.GridItemPatternIdentifiers.ColumnProperty
+
+## -description
+Identifies the [Column](../microsoft.ui.xaml.automation.provider/igriditemprovider_column.md) automation property.
+
+## -property-value
+The automation property identifier.
+
+## -remarks
+
+## -examples
+
+## -see-also

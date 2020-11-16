@@ -1,0 +1,28 @@
+---
+-api-id: M:Microsoft.UI.Xaml.Media.Animation.CommonNavigationTransitionInfo.SetIsStaggerElement(Microsoft.UI.Xaml.UIElement,System.Boolean)
+-api-type: winrt method
+---
+
+<!-- Method syntax
+public void SetIsStaggerElement(Windows.UI.Xaml.UIElement element, System.Boolean value)
+-->
+
+# Microsoft.UI.Xaml.Media.Animation.CommonNavigationTransitionInfo.SetIsStaggerElement
+
+## -description
+Sets a Boolean value indicating if the specified **UIElement** is the stagger element for the navigation transition.
+
+## -parameters
+### -param element
+The **UIElement** about which to set the stagger element indicator.
+
+### -param value
+Set this value to **true** if *element* is the stagger element; otherwise set it to **false**.
+
+## -remarks
+This method supports XAML usage of the [CommonNavigationTransitionInfo.IsStaggerElement](/uwp/api/microsoft.ui.xaml.media.animation.commonnavigationtransitioninfo#xaml-attached-properties) attached property.
+
+## -examples
+
+## -see-also
+[CommonNavigationTransitionInfo.IsStaggerElement](/uwp/api/microsoft.ui.xaml.media.animation.commonnavigationtransitioninfo#xaml-attached-properties)

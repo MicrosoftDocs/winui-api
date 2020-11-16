@@ -1,7 +1,6 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Media.AcrylicBrush.TintOpacityProperty
 -api-type: winrt property
-ms.custom: RS5
 ---
 <!-- Property syntax.
 public DependencyProperty TintOpacityProperty { get; }

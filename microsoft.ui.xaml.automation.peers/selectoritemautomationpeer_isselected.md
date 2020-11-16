@@ -1,0 +1,22 @@
+---
+-api-id: P:Microsoft.UI.Xaml.Automation.Peers.SelectorItemAutomationPeer.IsSelected
+-api-type: winrt property
+---
+
+<!-- Property syntax
+public bool IsSelected { get; }
+-->
+
+# Microsoft.UI.Xaml.Automation.Peers.SelectorItemAutomationPeer.IsSelected
+
+## -description
+Gets a value that indicates whether an item is selected.
+
+## -property-value
+**true** if the element is selected; otherwise, **false**.
+
+## -remarks
+
+## -examples
+
+## -see-also

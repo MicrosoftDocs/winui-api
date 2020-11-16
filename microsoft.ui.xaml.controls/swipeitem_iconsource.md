@@ -1,7 +1,6 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.SwipeItem.IconSource
 -api-type: winrt property
-ms.custom: RS5
 ---
 <!-- Property syntax.
 public IconSource IconSource { get;  set; }

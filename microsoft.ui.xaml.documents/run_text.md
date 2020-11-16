@@ -1,0 +1,30 @@
+---
+-api-id: P:Microsoft.UI.Xaml.Documents.Run.Text
+-api-type: winrt property
+---
+
+<!-- Property syntax
+public string Text { get;  set; }
+-->
+
+# Microsoft.UI.Xaml.Documents.Run.Text
+
+## -description
+Gets or sets the text contents of the [Run](run.md).
+
+## -xaml-syntax
+```xaml
+<Run Text="text"/>
+- or -
+<Run ...>text</Run>
+```
+
+
+## -property-value
+A string that specifies the text contents of the [Run](run.md). The default is [String.Empty](/dotnet/api/system.string.empty?redirectedfrom=MSDN).
+
+## -remarks
+
+## -examples
+
+## -see-also

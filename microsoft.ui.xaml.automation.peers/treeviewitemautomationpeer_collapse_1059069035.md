@@ -1,7 +1,6 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Automation.Peers.TreeViewItemAutomationPeer.Collapse
 -api-type: winrt method
-ms.custom: RS5
 ---
 
 <!-- Method syntax.

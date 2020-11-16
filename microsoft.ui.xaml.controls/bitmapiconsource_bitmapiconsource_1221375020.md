@@ -1,7 +1,6 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.BitmapIconSource.#ctor
--api-type: winrt method
-ms.custom: RS5
+-api-type: winrt constructor
 ---
 <!-- Method syntax.
 public BitmapIconSource.BitmapIconSource()

@@ -1,7 +1,6 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.IAnimatedVisualSource.TryCreateAnimatedVisual(Windows.UI.Composition.Compositor,System.Object@)
 -api-type: winrt method
-ms.custom: RS5
 ---
 
 <!-- Method syntax.

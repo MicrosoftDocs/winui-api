@@ -1,7 +1,6 @@
 ---
 -api-id: E:Microsoft.UI.Xaml.Controls.Primitives.ColorSpectrum.ColorChanged
 -api-type: winrt event
-ms.custom: RS5
 ---
 <!-- Event syntax.
 public event TypedEventHandler ColorChanged<ColorSpectrum, ColorChangedEventArgs>

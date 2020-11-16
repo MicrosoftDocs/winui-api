@@ -1,0 +1,19 @@
+---
+-api-id: M:Microsoft.UI.Xaml.Media.Animation.TransitionCollection.#ctor
+-api-type: winrt constructor
+---
+
+<!-- Method syntax
+public TransitionCollection()
+-->
+
+# Microsoft.UI.Xaml.Media.Animation.TransitionCollection.TransitionCollection
+
+## -description
+Initializes a new instance of the [TransitionCollection](transitioncollection.md) class.
+
+## -remarks
+
+## -examples
+
+## -see-also

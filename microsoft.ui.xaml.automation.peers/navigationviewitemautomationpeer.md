@@ -1,7 +1,6 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Automation.Peers.NavigationViewItemAutomationPeer
 -api-type: winrt class
-ms.custom: RS5
 ---
 <!-- Class syntax.
 public class NavigationViewItemAutomationPeer : ListViewItemAutomationPeer, ListViewItemAutomationPeer

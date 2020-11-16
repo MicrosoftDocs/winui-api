@@ -1,7 +1,6 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.SymbolIconSource.Symbol
 -api-type: winrt property
-ms.custom: RS5
 ---
 <!-- Property syntax.
 public Symbol Symbol { get;  set; }

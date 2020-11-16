@@ -1,7 +1,6 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Automation.Peers.ColorPickerSliderAutomationPeer.#ctor(Microsoft.UI.Xaml.Controls.Primitives.ColorPickerSlider)
--api-type: winrt method
-ms.custom: RS5
+-api-type: winrt constructor
 ---
 
 <!-- Method syntax.

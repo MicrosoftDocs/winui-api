@@ -1,7 +1,6 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.SwipeItems.SetAt(System.UInt32,Microsoft.UI.Xaml.Controls.SwipeItem)
 -api-type: winrt method
-ms.custom: RS5
 ---
 
 <!-- Method syntax.
@@ -12,10 +11,17 @@ public void SwipeItems.SetAt(UInt32 index, SwipeItem value)
 
 ## -description
 
+Sets the value at the specified index to the value specified.
+
 ## -parameters
+
 ### -param index
 
+The index at which to set the value.
+
 ### -param value
+
+The value to set.
 
 ## -remarks
 

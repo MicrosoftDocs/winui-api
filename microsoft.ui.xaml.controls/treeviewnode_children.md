@@ -1,7 +1,6 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.TreeViewNode.Children
 -api-type: winrt property
-ms.custom: RS5
 ---
 <!-- Property syntax.
 public IVector<TreeViewNode> Children { get; }

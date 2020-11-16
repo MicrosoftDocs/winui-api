@@ -1,7 +1,6 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.SplitButton.Flyout
 -api-type: winrt property
-ms.custom: RS5
 ---
 <!-- Property syntax.
 public FlyoutBase Flyout { get;  set; }

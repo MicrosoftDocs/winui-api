@@ -1,0 +1,22 @@
+---
+-api-id: M:Microsoft.UI.Xaml.Documents.BlockCollection.First
+-api-type: winrt method
+---
+
+<!-- Method syntax
+public Windows.Foundation.Collections.IIterator<Windows.UI.Xaml.Documents.Block> First()
+-->
+
+# Microsoft.UI.Xaml.Documents.BlockCollection.First
+
+## -description
+Returns the iterator for iteration over the items in the collection.
+
+## -returns
+The iterator object. The iterator's current position is at the 0-index position, or at the collection end if the collection is empty.
+
+## -remarks
+
+## -examples
+
+## -see-also

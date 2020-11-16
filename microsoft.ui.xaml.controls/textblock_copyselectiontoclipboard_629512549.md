@@ -1,0 +1,24 @@
+---
+-api-id: M:Microsoft.UI.Xaml.Controls.TextBlock.CopySelectionToClipboard
+-api-type: winrt method
+---
+
+<!-- Method syntax.
+public void TextBlock.CopySelectionToClipboard()
+-->
+
+# Microsoft.UI.Xaml.Controls.TextBlock.CopySelectionToClipboard
+
+## -description
+
+Copies the selected content to the Windows clipboard.
+
+## -remarks
+
+> [!IMPORTANT]
+> If using a keyboard for text selection within a TextBlock, the user must first activate *Caret Browsing* (with the app in the foreground, press F7).
+
+## -see-also
+
+## -examples
+

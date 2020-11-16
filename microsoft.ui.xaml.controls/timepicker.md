@@ -1,0 +1,83 @@
+---
+-api-id: T:Microsoft.UI.Xaml.Controls.TimePicker
+-api-type: winrt class
+---
+
+<!-- Class syntax.
+public class TimePicker : Windows.UI.Xaml.Controls.Control, Windows.UI.Xaml.Controls.ITimePicker, Windows.UI.Xaml.Controls.ITimePicker2
+-->
+
+# Microsoft.UI.Xaml.Controls.TimePicker
+
+## -description
+Represents a control that allows a user to pick a time value.
+
+## -xaml-syntax
+```xaml
+<TimePicker .../>
+
+```
+
+
+## -remarks
+TimePicker is a control that lets a user set a time value.
+
+<img src="images/controls/TimePicker.png" alt="TimePicker control" />
+
+### Control style and template
+
+You can modify the default [Style](../microsoft.ui.xaml/style.md) and [ControlTemplate](controltemplate.md) to give the control a unique appearance. For information about modifying a control's style and template, see [Styling controls](/windows/uwp/controls-and-patterns/styling-controls). The default style, template, and resources that define the look of the control are included in the generic.xaml file. For design purposes, generic.xaml is available in the \(Program Files)\Windows Kits\10\DesignTime\CommonConfiguration\Neutral\UAP\ &lt;SDK version&gt;\Generic folder from a Windows Software Development Kit (SDK) installation. Styles and resources from different versions of the SDK might have different values.
+
+Starting in Windows 10, version 1607 (SDK 14393), generic.xaml includes resources that you can use to modify the colors of a control in different visual states without modifying the control template. In apps that target this software development kit (SDK) or later, modifying these resources is preferred to setting properties such as [Background](control_background.md) and [Foreground](control_foreground.md). For more info, see the [Light-weight styling](/windows/uwp/controls-and-patterns/styling-controls) section of the [Styling controls](/windows/uwp/controls-and-patterns/styling-controls) article.
+
+This table shows the resources used by the TimePicker control.
+
+<table>
+   <tr><th>Resource key</th><th>Description</th></tr>
+   <tr><td>TimePickerSpacerFill</td><td>Spacer color</td></tr>
+   <tr><td>TimePickerSpacerFillDisabled</td><td>Spacer color when disabled</td></tr>
+   <tr><td>TimePickerHeaderForeground</td><td>Header text color</td></tr>
+   <tr><td>TimePickerHeaderForegroundDisabled</td><td>Header text color when disabled</td></tr>
+   <tr><td>TimePickerButtonForeground</td><td>Button text color</td></tr>
+   <tr><td>TimePickerButtonForegroundPointerOver</td><td>Button text color on hover</td></tr>
+   <tr><td>TimePickerButtonForegroundPressed</td><td>Button text color when pressed</td></tr>
+   <tr><td>TimePickerButtonForegroundDisabled</td><td>Button text color when disabled</td></tr>
+   <tr><td>TimePickerButtonForegroundFocused</td><td>Button text color when focused</td></tr>
+   <tr><td>TimePickerButtonBackground</td><td>Button background color at rest</td></tr>
+   <tr><td>TimePickerButtonBackgroundPointerOver</td><td>Button background color on hover</td></tr>
+   <tr><td>TimePickerButtonBackgroundPressed</td><td>Button background color when pressed</td></tr>
+   <tr><td>TimePickerButtonBackgroundDisabled</td><td>Button background color when disabled</td></tr>
+   <tr><td>TimePickerButtonBackgroundFocused</td><td>Button background color when focused</td></tr>
+   <tr><td>TimePickerButtonBorderBrush</td><td>Button border color at rest</td></tr>
+   <tr><td>TimePickerButtonBorderBrushPointerOver</td><td>Button border color on hover</td></tr>
+   <tr><td>TimePickerButtonBorderBrushPressed</td><td>Button border color when pressed</td></tr>
+   <tr><td>TimePickerButtonBorderBrushDisabled</td><td>Button border color when disabled</td></tr>
+   <tr><td>DateTimePickerFlyoutButtonForegroundPointerOver</td><td>Flyout button foreground color on hover</td></tr>
+   <tr><td>DateTimePickerFlyoutButtonForegroundPressed</td><td>Flyout button foreground color when pressed</td></tr>
+   <tr><td>DateTimePickerFlyoutButtonBackground</td><td>Flyout button background color at rest</td></tr>
+   <tr><td>DateTimePickerFlyoutButtonBackgroundPointerOver</td><td>Flyout button background color on hover</td></tr>
+   <tr><td>DateTimePickerFlyoutButtonBackgroundPressed</td><td>Flyout button background color when pressed</td></tr>
+   <tr><td>DateTimePickerFlyoutButtonBorderBrush</td><td>Flyout button border color at rest</td></tr>
+   <tr><td>DateTimePickerFlyoutButtonBorderBrushPointerOver</td><td>Flyout button border color on hover</td></tr>
+   <tr><td>DateTimePickerFlyoutButtonBorderBrushPressed</td><td>Flyout button border color when pressed</td></tr>
+</table>
+
+### Version history
+
+| Windows version | SDK version | Value added |
+| -- | -- | -- |
+| 1607 | 14393 | LightDismissOverlayMode |
+| 1809 | 17763 | SelectedTime |
+| 1809 | 17763 | SelectedTimeChanged |
+
+## -examples
+
+> [!TIP]
+> For more info, design guidance, and code examples, see [Time picker](/windows/uwp/design/controls-and-patterns/time-picker).
+>
+> If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the TimePicker in action](xamlcontrolsgallery:/item/TimePicker).
+> + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
+> + [Get the source code (GitHub)](https://github.com/Microsoft/Xaml-Controls-Gallery)
+
+## -see-also
+[Time picker overview](/windows/uwp/design/controls-and-patterns/time-picker), [Windows.Globalization.ClockIdentifiers](/uwp/api/windows.globalization.clockidentifiers), [System.TimeSpan (C#/VB)](/dotnet/api/system.timespan?redirectedfrom=MSDN), [Windows::Foundation::TimeSpan (C++)](/windows/desktop/api/windows.foundation/ns-windows-foundation-timespan), [DatePicker](datepicker.md), [Controls list](/windows/uwp/design/controls-and-patterns/), [Controls by function](/windows/uwp/controls-and-patterns/controls-by-function)

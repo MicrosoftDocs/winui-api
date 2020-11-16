@@ -1,7 +1,6 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Automation.Peers.TreeViewListAutomationPeer
 -api-type: winrt class
-ms.custom: RS5
 ---
 <!-- Class syntax.
 public class TreeViewListAutomationPeer : SelectorAutomationPeer, SelectorAutomationPeer

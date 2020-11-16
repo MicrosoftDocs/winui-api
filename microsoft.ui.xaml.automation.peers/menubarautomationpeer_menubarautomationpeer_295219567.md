@@ -1,7 +1,6 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Automation.Peers.MenuBarAutomationPeer.#ctor(Microsoft.UI.Xaml.Controls.MenuBar)
--api-type: winrt method
-ms.custom: RS5
+-api-type: winrt constructor
 ---
 
 <!-- Method syntax.

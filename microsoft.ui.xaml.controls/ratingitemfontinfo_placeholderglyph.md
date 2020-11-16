@@ -1,7 +1,6 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.RatingItemFontInfo.PlaceholderGlyph
 -api-type: winrt property
-ms.custom: RS5
 ---
 <!-- Property syntax.
 public string PlaceholderGlyph { get;  set; }

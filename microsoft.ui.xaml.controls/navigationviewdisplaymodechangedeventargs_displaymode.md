@@ -1,7 +1,6 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.NavigationViewDisplayModeChangedEventArgs.DisplayMode
 -api-type: winrt property
-ms.custom: RS5
 ---
 <!-- Property syntax.
 public NavigationViewDisplayMode DisplayMode { get; }

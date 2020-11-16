@@ -1,7 +1,6 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Media.AcrylicBrush.TintColor
 -api-type: winrt property
-ms.custom: RS5
 ---
 <!-- Property syntax.
 public Color TintColor { get;  set; }

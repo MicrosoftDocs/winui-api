@@ -1,7 +1,6 @@
 ---
 -api-id: T:Microsoft.UI.Xaml.Controls.SwipeItems
 -api-type: winrt class
-ms.custom: RS5
 ---
 <!-- Class syntax.
 public class SwipeItems : DependencyObject, DependencyObject, IIterable<SwipeItem>, IVector<SwipeItem>

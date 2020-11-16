@@ -1,7 +1,6 @@
 ---
 -api-id: M:Microsoft.UI.Xaml.Controls.TreeView.Expand(Microsoft.UI.Xaml.Controls.TreeViewNode)
 -api-type: winrt method
-ms.custom: RS5
 ---
 
 <!-- Method syntax.
@@ -12,8 +11,12 @@ public void TreeView.Expand(TreeViewNode value)
 
 ## -description
 
+Expands the specified node in the tree.
+
 ## -parameters
 ### -param value
+
+The tree node to expand.
 
 ## -remarks
 

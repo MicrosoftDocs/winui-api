@@ -1,7 +1,6 @@
 ---
 -api-id: P:Microsoft.UI.Xaml.Controls.TreeView.CanReorderItems
 -api-type: winrt property
-ms.custom: RS5
 ---
 <!-- Property syntax.
 public bool CanReorderItems { get;  set; }
