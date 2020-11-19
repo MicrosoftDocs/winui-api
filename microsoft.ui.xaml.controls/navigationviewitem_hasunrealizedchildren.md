@@ -17,7 +17,7 @@ Gets or sets a value that indicates whether the current item has child items tha
 
 **true** if the tree node is expanded; otherwise, **false**. The default value is **false**.
 
-This property is analogous to the [TreeViewItem.HasUnrealizedChildren](https://docs.microsoft.com/uwp/api/Microsoft.UI.Xaml.Controls.TreeViewItem.HasUnrealizedChildren) property.
+This property is analogous to the [TreeViewItem.HasUnrealizedChildren](https://docs.microsoft.com/windows/winui/api/microsoft.UI.Xaml.Controls.TreeViewItem.HasUnrealizedChildren) property.
 
 ## -see-also
 

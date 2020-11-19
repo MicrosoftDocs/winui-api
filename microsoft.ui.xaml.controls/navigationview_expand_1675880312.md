@@ -21,7 +21,7 @@ The node to be expanded.
 
 ## -remarks
 
-Analogous to [TreeView.Expand](https://docs.microsoft.com/uwp/api/Microsoft.UI.Xaml.Controls.TreeView.Expand) method.
+Analogous to [TreeView.Expand](https://docs.microsoft.com/windows/winui/api/microsoft.UI.Xaml.Controls.TreeView.Expand) method.
 
 ## -see-also
 

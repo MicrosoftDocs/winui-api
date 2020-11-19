@@ -21,7 +21,7 @@ The node to be collapsed.
 
 ## -remarks
 
-Analogous to [TreeView.Collapse](https://docs.microsoft.com/uwp/api/Microsoft.UI.Xaml.Controls.TreeView.Collapse)
+Analogous to [TreeView.Collapse](https://docs.microsoft.com/windows/winui/api/microsoft.UI.Xaml.Controls.TreeView.Collapse)
 
 ## -see-also
 

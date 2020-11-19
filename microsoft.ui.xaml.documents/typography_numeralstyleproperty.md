@@ -10,10 +10,10 @@ public Windows.UI.Xaml.DependencyProperty NumeralStyleProperty { get; }
 # Microsoft.UI.Xaml.Documents.Typography.NumeralStyleProperty
 
 ## -description
-Identifies the [NumeralStyle](/uwp/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
+Identifies the [NumeralStyle](/windows/winui/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
 
 ## -property-value
-The identifier for the [NumeralStyle](/uwp/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
+The identifier for the [NumeralStyle](/windows/winui/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
 
 ## -remarks
 

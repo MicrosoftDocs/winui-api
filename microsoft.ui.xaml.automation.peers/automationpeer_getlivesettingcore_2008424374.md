@@ -20,4 +20,4 @@ A value of the enumeration that reports the live setting notification behavior f
 ## -examples
 
 ## -see-also
-[AutomationProperties.LiveSetting](/uwp/api/microsoft.ui.xaml.automation.automationproperties#xaml-attached-properties), [GetLiveSetting](automationpeer_getlivesetting_295263812.md), [Custom automation peers](/windows/uwp/accessibility/custom-automation-peers), [Accessibility](/windows/uwp/accessibility/accessibility)
+[AutomationProperties.LiveSetting](/windows/winui/api/microsoft.ui.xaml.automation.automationproperties#xaml-attached-properties), [GetLiveSetting](automationpeer_getlivesetting_295263812.md), [Custom automation peers](/windows/uwp/accessibility/custom-automation-peers), [Accessibility](/windows/uwp/accessibility/accessibility)

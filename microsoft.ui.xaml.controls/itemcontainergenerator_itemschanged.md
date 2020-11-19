@@ -18,4 +18,4 @@ Occurs when the contents of the items collection changes.
 
 ## -see-also
 
-[ItemsChangedEventArgs](/uwp/api/microsoft.ui.xaml.controls.primitives.itemschangedeventargs)
+[ItemsChangedEventArgs](/windows/winui/api/microsoft.ui.xaml.controls.primitives.itemschangedeventargs)

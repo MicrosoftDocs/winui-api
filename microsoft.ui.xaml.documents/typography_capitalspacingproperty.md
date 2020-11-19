@@ -10,10 +10,10 @@ public Windows.UI.Xaml.DependencyProperty CapitalSpacingProperty { get; }
 # Microsoft.UI.Xaml.Documents.Typography.CapitalSpacingProperty
 
 ## -description
-Identifies the [CapitalSpacing](/uwp/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
+Identifies the [CapitalSpacing](/windows/winui/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
 
 ## -property-value
-The identifier for the [CapitalSpacing](/uwp/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
+The identifier for the [CapitalSpacing](/windows/winui/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
 
 ## -remarks
 

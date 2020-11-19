@@ -10,10 +10,10 @@ public Windows.UI.Xaml.DependencyProperty MathematicalGreekProperty { get; }
 # Microsoft.UI.Xaml.Documents.Typography.MathematicalGreekProperty
 
 ## -description
-Identifies the [MathematicalGreek](/uwp/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
+Identifies the [MathematicalGreek](/windows/winui/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
 
 ## -property-value
-The identifier for the [MathematicalGreek](/uwp/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
+The identifier for the [MathematicalGreek](/windows/winui/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
 
 ## -remarks
 

@@ -20,9 +20,9 @@ The **UIElement** to check as being the stagger element.
 Returns **true** if *element* is the stagger element; otherwise **false**.
 
 ## -remarks
-This method supports XAML usage of the [CommonNavigationTransitionInfo.IsStaggerElement](/uwp/api/microsoft.ui.xaml.media.animation.commonnavigationtransitioninfo#xaml-attached-properties) attached property.
+This method supports XAML usage of the [CommonNavigationTransitionInfo.IsStaggerElement](/windows/winui/api/microsoft.ui.xaml.media.animation.commonnavigationtransitioninfo#xaml-attached-properties) attached property.
 
 ## -examples
 
 ## -see-also
-[CommonNavigationTransitionInfo.IsStaggerElement](/uwp/api/microsoft.ui.xaml.media.animation.commonnavigationtransitioninfo#xaml-attached-properties)
+[CommonNavigationTransitionInfo.IsStaggerElement](/windows/winui/api/microsoft.ui.xaml.media.animation.commonnavigationtransitioninfo#xaml-attached-properties)

@@ -10,7 +10,7 @@ public object GetToolTip(Windows.UI.Xaml.DependencyObject element)
 # Microsoft.UI.Xaml.Controls.ToolTipService.GetToolTip
 
 ## -description
-Gets the value of the [ToolTipService.ToolTip](/uwp/api/microsoft.ui.xaml.controls.tooltipservice#xaml-attached-properties) XAML attached property for an object.
+Gets the value of the [ToolTipService.ToolTip](/windows/winui/api/microsoft.ui.xaml.controls.tooltipservice#xaml-attached-properties) XAML attached property for an object.
 
 ## -parameters
 ### -param element

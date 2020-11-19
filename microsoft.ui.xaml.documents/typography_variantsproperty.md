@@ -10,10 +10,10 @@ public Windows.UI.Xaml.DependencyProperty VariantsProperty { get; }
 # Microsoft.UI.Xaml.Documents.Typography.VariantsProperty
 
 ## -description
-Identifies the [Variants](/uwp/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
+Identifies the [Variants](/windows/winui/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
 
 ## -property-value
-The identifier for the [Variants](/uwp/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
+The identifier for the [Variants](/windows/winui/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
 
 ## -remarks
 

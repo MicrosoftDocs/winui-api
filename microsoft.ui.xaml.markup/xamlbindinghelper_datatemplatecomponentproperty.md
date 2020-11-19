@@ -10,10 +10,10 @@ public Windows.UI.Xaml.DependencyProperty DataTemplateComponentProperty { get; }
 # Microsoft.UI.Xaml.Markup.XamlBindingHelper.DataTemplateComponentProperty
 
 ## -description
-Identifies the [DataTemplateComponent](/uwp/api/microsoft.ui.xaml.markup.xamlbindinghelper#xaml-attached-properties) attached property.
+Identifies the [DataTemplateComponent](/windows/winui/api/microsoft.ui.xaml.markup.xamlbindinghelper#xaml-attached-properties) attached property.
 
 ## -property-value
-The identifier for the [DataTemplateComponent](/uwp/api/microsoft.ui.xaml.markup.xamlbindinghelper#xaml-attached-properties) attached property.
+The identifier for the [DataTemplateComponent](/windows/winui/api/microsoft.ui.xaml.markup.xamlbindinghelper#xaml-attached-properties) attached property.
 
 ## -remarks
 

@@ -40,4 +40,4 @@ It's more common to use **Star** sizing than absolute pixel values for a [Grid](
 ## -examples
 
 ## -see-also
-[Grid](grid.md), [Grid.ColumnDefinitions](grid_columndefinitions.md), [Grid.Column](/uwp/api/microsoft.ui.xaml.controls.grid#xaml-attached-properties), [Define layouts with XAML](/windows/uwp/layout/layouts-with-xaml)
+[Grid](grid.md), [Grid.ColumnDefinitions](grid_columndefinitions.md), [Grid.Column](/windows/winui/api/microsoft.ui.xaml.controls.grid#xaml-attached-properties), [Define layouts with XAML](/windows/uwp/layout/layouts-with-xaml)

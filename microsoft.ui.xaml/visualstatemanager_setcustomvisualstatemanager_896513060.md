@@ -10,7 +10,7 @@ public void SetCustomVisualStateManager(Windows.UI.Xaml.FrameworkElement obj, Wi
 # Microsoft.UI.Xaml.VisualStateManager.SetCustomVisualStateManager
 
 ## -description
-Sets the value of the [VisualStateManager.CustomVisualStateManager](/uwp/api/microsoft.ui.xaml.visualstatemanager#xaml-attached-properties) attached property.
+Sets the value of the [VisualStateManager.CustomVisualStateManager](/windows/winui/api/microsoft.ui.xaml.visualstatemanager#xaml-attached-properties) attached property.
 
 ## -parameters
 ### -param obj

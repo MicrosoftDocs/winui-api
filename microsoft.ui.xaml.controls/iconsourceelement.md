@@ -15,7 +15,7 @@ Represents an icon that uses an IconSource as its content.
 
 ## -remarks
 
-[IconSource](iconsource.md) is similar to [IconElement](iconelement.md). However, because it is not a [FrameworkElement](/uwp/api/microsoft.ui.xaml.frameworkelement), it can be shared.
+[IconSource](iconsource.md) is similar to [IconElement](iconelement.md). However, because it is not a [FrameworkElement](/windows/winui/api/microsoft.ui.xaml.frameworkelement), it can be shared.
 
 `IconSourceElement` provides a wrapper that lets you use an `IconSource` in places that require an `IconElement`. For example, the [AppBarButton.Icon](appbarbutton_icon.md) property takes an `IconElement`. You can use an `IconSource` derived class as the icon like this:
 

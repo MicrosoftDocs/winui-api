@@ -10,7 +10,7 @@ public string GetHelpText(Windows.UI.Xaml.DependencyObject element)
 # Microsoft.UI.Xaml.Automation.AutomationProperties.GetHelpText
 
 ## -description
-Gets the value of the [AutomationProperties.HelpText](/uwp/api/microsoft.ui.xaml.automation.automationproperties#xaml-attached-properties) attached property for the specified [DependencyObject](../microsoft.ui.xaml/dependencyobject.md).
+Gets the value of the [AutomationProperties.HelpText](/windows/winui/api/microsoft.ui.xaml.automation.automationproperties#xaml-attached-properties) attached property for the specified [DependencyObject](../microsoft.ui.xaml/dependencyobject.md).
 
 ## -parameters
 ### -param element

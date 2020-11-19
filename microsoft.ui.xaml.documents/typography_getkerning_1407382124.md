@@ -10,14 +10,14 @@ public bool GetKerning(Windows.UI.Xaml.DependencyObject element)
 # Microsoft.UI.Xaml.Documents.Typography.GetKerning
 
 ## -description
-Returns the value of the [Kerning](/uwp/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property for a specified dependency object.
+Returns the value of the [Kerning](/windows/winui/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property for a specified dependency object.
 
 ## -parameters
 ### -param element
-The dependency object for which to retrieve the value of the [Kerning](/uwp/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) property.
+The dependency object for which to retrieve the value of the [Kerning](/windows/winui/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) property.
 
 ## -returns
-The current value of the [Kerning](/uwp/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property on the specified dependency object.
+The current value of the [Kerning](/windows/winui/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property on the specified dependency object.
 
 ## -remarks
 

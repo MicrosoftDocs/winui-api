@@ -21,7 +21,7 @@ A text string containing an identifier for the ItemStatus attached property.
 
 The ItemStatus property lets a client ascertain whether an element is conveying status about an item as well as what the status is. For example, an item associated with a contact in a messaging application might be "Busy" or "Connected".
 
-When [ItemStatus](/uwp/api/microsoft.ui.xaml.automation.automationproperties#xaml-attached-properties) is supported, the string must match the application UI language or the operating system default UI language.
+When [ItemStatus](/windows/winui/api/microsoft.ui.xaml.automation.automationproperties#xaml-attached-properties) is supported, the string must match the application UI language or the operating system default UI language.
 
 ## -examples
 

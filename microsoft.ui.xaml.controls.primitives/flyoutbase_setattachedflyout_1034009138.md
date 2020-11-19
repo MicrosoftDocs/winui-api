@@ -24,4 +24,4 @@ The flyout to associate with the specified element.
 ## -examples
 
 ## -see-also
-[FlyoutBase.AttachedFlyout](/uwp/api/microsoft.ui.xaml.controls.primitives.flyoutbase#xaml-attached-properties)
+[FlyoutBase.AttachedFlyout](/windows/winui/api/microsoft.ui.xaml.controls.primitives.flyoutbase#xaml-attached-properties)

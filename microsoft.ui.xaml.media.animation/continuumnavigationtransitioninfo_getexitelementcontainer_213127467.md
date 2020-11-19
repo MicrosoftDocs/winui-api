@@ -20,9 +20,9 @@ The element to be checked as being the container.
 Returns **true** if *element* is the container; otherwise **false**.
 
 ## -remarks
-This method supports XAML usage of the [ContinuumNavigationTransitionInfo.ExitElementContainer](/uwp/api/microsoft.ui.xaml.media.animation.continuumnavigationtransitioninfo#xaml-attached-properties) attached property.
+This method supports XAML usage of the [ContinuumNavigationTransitionInfo.ExitElementContainer](/windows/winui/api/microsoft.ui.xaml.media.animation.continuumnavigationtransitioninfo#xaml-attached-properties) attached property.
 
 ## -examples
 
 ## -see-also
-[ContinuumNavigationTransitionInfo.ExitElementContainer](/uwp/api/microsoft.ui.xaml.media.animation.continuumnavigationtransitioninfo#xaml-attached-properties)
+[ContinuumNavigationTransitionInfo.ExitElementContainer](/windows/winui/api/microsoft.ui.xaml.media.animation.continuumnavigationtransitioninfo#xaml-attached-properties)

@@ -83,7 +83,7 @@ This example shows how to use multiple Setter statements inside the [VisualState
 
 ```
 
-You can also apply setters to attached property values, by specifying the attached property name in the *AttachedPropertyProvider*.*PropertyName* form. For example, to use a [Setter](setter.md) for the attached property [Canvas.Left](/uwp/api/microsoft.ui.xaml.controls.canvas#xaml-attached-properties), use this XAML.
+You can also apply setters to attached property values, by specifying the attached property name in the *AttachedPropertyProvider*.*PropertyName* form. For example, to use a [Setter](setter.md) for the attached property [Canvas.Left](/windows/winui/api/microsoft.ui.xaml.controls.canvas#xaml-attached-properties), use this XAML.
 
 ```xaml
 <Setter Property="Canvas.Left" Value="100"/>

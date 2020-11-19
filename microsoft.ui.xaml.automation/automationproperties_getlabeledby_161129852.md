@@ -10,7 +10,7 @@ public Windows.UI.Xaml.UIElement GetLabeledBy(Windows.UI.Xaml.DependencyObject e
 # Microsoft.UI.Xaml.Automation.AutomationProperties.GetLabeledBy
 
 ## -description
-Gets the value of the [AutomationProperties.LabeledBy](/uwp/api/microsoft.ui.xaml.automation.automationproperties#xaml-attached-properties) attached property for the specified [DependencyObject](../microsoft.ui.xaml/dependencyobject.md).
+Gets the value of the [AutomationProperties.LabeledBy](/windows/winui/api/microsoft.ui.xaml.automation.automationproperties#xaml-attached-properties) attached property for the specified [DependencyObject](../microsoft.ui.xaml/dependencyobject.md).
 
 ## -parameters
 ### -param element

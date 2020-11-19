@@ -17,7 +17,7 @@ Occurs when a node in the tree starts to expand.
 
 In order to fill in nodes as they're expanding, set the HasUnrealizedChildren property to true, and then add the children during this Expanding event. See the TreeView example [fill a node when it's expanding](https://docs.microsoft.com/windows/uwp/design/controls-and-patterns/tree-view#fill-a-node-when-its-expanding).
 
-Analogous to [TreeView.Expanding](https://docs.microsoft.com/uwp/api/Microsoft.UI.Xaml.Controls.TreeView.Expanding) event.
+Analogous to [TreeView.Expanding](https://docs.microsoft.com/windows/winui/api/microsoft.UI.Xaml.Controls.TreeView.Expanding) event.
 
 ## -see-also
 

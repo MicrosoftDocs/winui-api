@@ -18,9 +18,9 @@ Gets or sets a value that indicates whether the [ToolTip](tooltip.md) is visible
 ## -remarks
 This property is not typically set in XAML.
 
-A [ToolTip](tooltip.md) must be assigned to another UI element that is its owner. In XAML, use the [ToolTipService.Tooltip](/uwp/api/microsoft.ui.xaml.controls.tooltipservice#xaml-attached-properties) attached property to assign the [ToolTip](tooltip.md) to an owner. In code, use the [ToolTipService.SetToolTip](tooltipservice_settooltip_436756233.md) method to assign the [ToolTip](tooltip.md) to an owner. If you set the IsOpen property to **true** in your app code before the [ToolTip](tooltip.md) is assigned to an owner, an exception is thrown.
+A [ToolTip](tooltip.md) must be assigned to another UI element that is its owner. In XAML, use the [ToolTipService.Tooltip](/windows/winui/api/microsoft.ui.xaml.controls.tooltipservice#xaml-attached-properties) attached property to assign the [ToolTip](tooltip.md) to an owner. In code, use the [ToolTipService.SetToolTip](tooltipservice_settooltip_436756233.md) method to assign the [ToolTip](tooltip.md) to an owner. If you set the IsOpen property to **true** in your app code before the [ToolTip](tooltip.md) is assigned to an owner, an exception is thrown.
 
 ## -examples
 
 ## -see-also
-[ToolTipService.Tooltip](/uwp/api/microsoft.ui.xaml.controls.tooltipservice#xaml-attached-properties)
+[ToolTipService.Tooltip](/windows/winui/api/microsoft.ui.xaml.controls.tooltipservice#xaml-attached-properties)

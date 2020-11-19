@@ -16,9 +16,9 @@ Provides the peer's behavior when a Microsoft UI Automation client calls [GetHel
 The help text.
 
 ## -remarks
-Specifying a control behavior for help text is uncommon. In most cases, apps that need it will establish help text information in the UI by applying the [AutomationProperties.HelpText](/uwp/api/microsoft.ui.xaml.automation.automationproperties#xaml-attached-properties) attached property to the UI definition XAML.
+Specifying a control behavior for help text is uncommon. In most cases, apps that need it will establish help text information in the UI by applying the [AutomationProperties.HelpText](/windows/winui/api/microsoft.ui.xaml.automation.automationproperties#xaml-attached-properties) attached property to the UI definition XAML.
 
 ## -examples
 
 ## -see-also
-[FrameworkElementAutomationPeer](frameworkelementautomationpeer.md), [AutomationProperties.HelpText](/uwp/api/microsoft.ui.xaml.automation.automationproperties#xaml-attached-properties), [Custom automation peers](/windows/uwp/accessibility/custom-automation-peers), [Accessibility](/windows/uwp/accessibility/accessibility)
+[FrameworkElementAutomationPeer](frameworkelementautomationpeer.md), [AutomationProperties.HelpText](/windows/winui/api/microsoft.ui.xaml.automation.automationproperties#xaml-attached-properties), [Custom automation peers](/windows/uwp/accessibility/custom-automation-peers), [Accessibility](/windows/uwp/accessibility/accessibility)

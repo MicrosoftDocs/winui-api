@@ -11,7 +11,7 @@ public class AnimatedVisualPlayer : FrameworkElement, FrameworkElement
 
 ## -description
 
-An element that displays and controls an [IAnimatedVisual](/uwp/api/microsoft.ui.xaml.controls.ianimatedvisual).
+An element that displays and controls an [IAnimatedVisual](/windows/winui/api/microsoft.ui.xaml.controls.ianimatedvisual).
 
 ## -remarks
 

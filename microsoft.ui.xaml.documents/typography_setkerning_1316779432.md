@@ -10,11 +10,11 @@ public void SetKerning(Windows.UI.Xaml.DependencyObject element, System.Boolean 
 # Microsoft.UI.Xaml.Documents.Typography.SetKerning
 
 ## -description
-Sets the value of the [Kerning](/uwp/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property for a specified dependency object.
+Sets the value of the [Kerning](/windows/winui/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property for a specified dependency object.
 
 ## -parameters
 ### -param element
-The dependency object for which to set the value of the [Kerning](/uwp/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) property.
+The dependency object for which to set the value of the [Kerning](/windows/winui/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) property.
 
 ### -param value
 The new value to set the property to.

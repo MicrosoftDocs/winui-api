@@ -10,10 +10,10 @@ public Windows.UI.Xaml.DependencyProperty EastAsianExpertFormsProperty { get; }
 # Microsoft.UI.Xaml.Documents.Typography.EastAsianExpertFormsProperty
 
 ## -description
-Identifies the [EastAsianExpertForms](/uwp/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
+Identifies the [EastAsianExpertForms](/windows/winui/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
 
 ## -property-value
-The identifier for the [EastAsianExpertForms](/uwp/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
+The identifier for the [EastAsianExpertForms](/windows/winui/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
 
 ## -remarks
 

@@ -52,7 +52,7 @@ Replaces simplified Kanji forms with their corresponding traditional forms. This
 
 
 ## -remarks
-This enumeration is used by the [Typography.EastAsianLanguage](/uwp/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
+This enumeration is used by the [Typography.EastAsianLanguage](/windows/winui/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
 
 ## -examples
 

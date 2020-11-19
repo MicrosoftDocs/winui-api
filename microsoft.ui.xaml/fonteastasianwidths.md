@@ -40,7 +40,7 @@ Replaces uniform width glyphs with one-third width (one-third em) glyphs.
 
 
 ## -remarks
-This enumeration is used by the [Typography.EastAsianWidths](/uwp/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
+This enumeration is used by the [Typography.EastAsianWidths](/windows/winui/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
 
 ## -examples
 

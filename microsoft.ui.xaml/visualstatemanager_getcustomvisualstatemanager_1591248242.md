@@ -10,7 +10,7 @@ public Windows.UI.Xaml.VisualStateManager GetCustomVisualStateManager(Windows.UI
 # Microsoft.UI.Xaml.VisualStateManager.GetCustomVisualStateManager
 
 ## -description
-Gets the value of the [VisualStateManager.CustomVisualStateManager](/uwp/api/microsoft.ui.xaml.visualstatemanager#xaml-attached-properties) attached property.
+Gets the value of the [VisualStateManager.CustomVisualStateManager](/windows/winui/api/microsoft.ui.xaml.visualstatemanager#xaml-attached-properties) attached property.
 
 ## -parameters
 ### -param obj

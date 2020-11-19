@@ -25,7 +25,7 @@ The object to identify as a dialog window.
 
 ## -remarks
 
-[Flyout](..\windows.ui.xaml.controls\flyout.md) and [ContentDialog](..\windows.ui.xaml.controls\contentdialog.md) elements default to **true** for [AutomationProperties.IsDialog](/uwp/api/microsoft.ui.xaml.automation.automationproperties#xaml-attached-properties).
+[Flyout](..\windows.ui.xaml.controls\flyout.md) and [ContentDialog](..\windows.ui.xaml.controls\contentdialog.md) elements default to **true** for [AutomationProperties.IsDialog](/windows/winui/api/microsoft.ui.xaml.automation.automationproperties#xaml-attached-properties).
 
 ## -see-also
 

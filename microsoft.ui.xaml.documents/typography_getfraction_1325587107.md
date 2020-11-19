@@ -10,14 +10,14 @@ public Windows.UI.Xaml.FontFraction GetFraction(Windows.UI.Xaml.DependencyObject
 # Microsoft.UI.Xaml.Documents.Typography.GetFraction
 
 ## -description
-Returns the value of the [Fraction](/uwp/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property for a specified dependency object.
+Returns the value of the [Fraction](/windows/winui/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property for a specified dependency object.
 
 ## -parameters
 ### -param element
-The dependency object for which to retrieve the value of the [Fraction](/uwp/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) property.
+The dependency object for which to retrieve the value of the [Fraction](/windows/winui/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) property.
 
 ## -returns
-The current value of the [Fraction](/uwp/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property on the specified dependency object.
+The current value of the [Fraction](/windows/winui/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property on the specified dependency object.
 
 ## -remarks
 

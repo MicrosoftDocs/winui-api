@@ -27,9 +27,9 @@ The element belongs to the third animation group. It slides in after elements in
 
 
 ## -remarks
-These values are used by the [Pivot.SlideInAnimationGroup](/uwp/api/microsoft.ui.xaml.controls.pivot#xaml-attached-properties) attached property.
+These values are used by the [Pivot.SlideInAnimationGroup](/windows/winui/api/microsoft.ui.xaml.controls.pivot#xaml-attached-properties) attached property.
 
 ## -examples
 
 ## -see-also
-[Pivot.SlideInAnimationGroup](/uwp/api/microsoft.ui.xaml.controls.pivot#xaml-attached-properties)
+[Pivot.SlideInAnimationGroup](/windows/winui/api/microsoft.ui.xaml.controls.pivot#xaml-attached-properties)

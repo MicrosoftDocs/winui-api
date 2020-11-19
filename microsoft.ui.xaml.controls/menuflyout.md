@@ -39,14 +39,14 @@ To associate a MenuFlyout with other controls, use the [ContextFlyout](../micros
 ## Notes for previous versions
 
 > [!NOTE]
-> The ContextFlyout property is not available prior to the Windows 10 Anniversary Update (SDK version 14393). For earlier versions, use the [FlyoutBase.AttachedFlyout](/uwp/api/microsoft.ui.xaml.controls.primitives.flyoutbase#xaml-attached-properties) attached property.
+> The ContextFlyout property is not available prior to the Windows 10 Anniversary Update (SDK version 14393). For earlier versions, use the [FlyoutBase.AttachedFlyout](/windows/winui/api/microsoft.ui.xaml.controls.primitives.flyoutbase#xaml-attached-properties) attached property.
 
-You can use the [FlyoutBase.AttachedFlyout](/uwp/api/microsoft.ui.xaml.controls.primitives.flyoutbase#xaml-attached-properties) attached property to associate a MenuFlyout with other controls. When a MenuFlyout is assigned to other UI elements using [FlyoutBase.AttachedFlyout](/uwp/api/microsoft.ui.xaml.controls.primitives.flyoutbase#xaml-attached-properties), you must call either the [ShowAt](/uwp/api/windows.ui.xaml.controls.primitives.flyoutbase.showat(windows.ui.xaml.frameworkelement)) method or the static [ShowAttachedFlyout](/uwp/api/windows.ui.xaml.controls.primitives.flyoutbase.showattachedflyout(windows.ui.xaml.frameworkelement)) method to display the flyout.
+You can use the [FlyoutBase.AttachedFlyout](/windows/winui/api/microsoft.ui.xaml.controls.primitives.flyoutbase#xaml-attached-properties) attached property to associate a MenuFlyout with other controls. When a MenuFlyout is assigned to other UI elements using [FlyoutBase.AttachedFlyout](/windows/winui/api/microsoft.ui.xaml.controls.primitives.flyoutbase#xaml-attached-properties), you must call either the [ShowAt](/uwp/api/windows.ui.xaml.controls.primitives.flyoutbase.showat(windows.ui.xaml.frameworkelement)) method or the static [ShowAttachedFlyout](/uwp/api/windows.ui.xaml.controls.primitives.flyoutbase.showattachedflyout(windows.ui.xaml.frameworkelement)) method to display the flyout.
 
 In addition to the members listed above, there are other members of the base class [FlyoutBase](../microsoft.ui.xaml.controls.primitives/flyoutbase.md) that are often used in typical MenuFlyout scenarios:
 
-+ [FlyoutBase.AttachedFlyout](/uwp/api/microsoft.ui.xaml.controls.primitives.flyoutbase#xaml-attached-properties): an attached property that associates a MenuFlyout with a particular UI element (this can be any [FrameworkElement](../microsoft.ui.xaml/frameworkelement.md) derived class).
-+ [ShowAttachedFlyout](/uwp/api/windows.ui.xaml.controls.primitives.flyoutbase.showattachedflyout(windows.ui.xaml.frameworkelement)): a static method that can determine whether a flyout is already associated with a UI element through a [FlyoutBase.AttachedFlyout](/uwp/api/microsoft.ui.xaml.controls.primitives.flyoutbase#xaml-attached-properties) usage. If so, the method calls [ShowAt](/uwp/api/windows.ui.xaml.controls.primitives.flyoutbase.showat(windows.ui.xaml.frameworkelement)) internally, using the [FrameworkElement](../microsoft.ui.xaml/frameworkelement.md) that you specified.
++ [FlyoutBase.AttachedFlyout](/windows/winui/api/microsoft.ui.xaml.controls.primitives.flyoutbase#xaml-attached-properties): an attached property that associates a MenuFlyout with a particular UI element (this can be any [FrameworkElement](../microsoft.ui.xaml/frameworkelement.md) derived class).
++ [ShowAttachedFlyout](/uwp/api/windows.ui.xaml.controls.primitives.flyoutbase.showattachedflyout(windows.ui.xaml.frameworkelement)): a static method that can determine whether a flyout is already associated with a UI element through a [FlyoutBase.AttachedFlyout](/windows/winui/api/microsoft.ui.xaml.controls.primitives.flyoutbase#xaml-attached-properties) usage. If so, the method calls [ShowAt](/uwp/api/windows.ui.xaml.controls.primitives.flyoutbase.showat(windows.ui.xaml.frameworkelement)) internally, using the [FrameworkElement](../microsoft.ui.xaml/frameworkelement.md) that you specified.
 
 ### Version history
 
@@ -63,7 +63,7 @@ In addition to the members listed above, there are other members of the base cla
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
 > + [Get the source code (GitHub)](https://github.com/Microsoft/Xaml-Controls-Gallery)
 
-This example creates a [MenuFlyout class](/uwp/api/Windows.UI.Xaml.Controls.MenuFlyout) and uses the [ContextFlyout](/uwp/api/microsoft.ui.xaml.uielement.contextflyout) property, a property available to most controls, to show the [MenuFlyout class](/uwp/api/Windows.UI.Xaml.Controls.MenuFlyout) as a context menu.
+This example creates a [MenuFlyout class](/uwp/api/Windows.UI.Xaml.Controls.MenuFlyout) and uses the [ContextFlyout](/windows/winui/api/microsoft.ui.xaml.uielement.contextflyout) property, a property available to most controls, to show the [MenuFlyout class](/uwp/api/Windows.UI.Xaml.Controls.MenuFlyout) as a context menu.
 
 ```xaml
 <Rectangle Height="100" Width="100">
@@ -93,7 +93,7 @@ private void ChangeColorItem_Click(object sender, RoutedEventArgs e)
 }
 ```
 
-The next example is nearly identical, but instead of using the [ContextFlyout](/uwp/api/microsoft.ui.xaml.uielement.contextflyout) property to show the [MenuFlyout class](/uwp/api/Windows.UI.Xaml.Controls.MenuFlyout) as a context menu, the example uses the [FlyoutBase.ShowAttachedFlyout](/uwp/api/windows.ui.xaml.controls.primitives.flyoutbase.showattachedflyout) property to show it as a menu.
+The next example is nearly identical, but instead of using the [ContextFlyout](/windows/winui/api/microsoft.ui.xaml.uielement.contextflyout) property to show the [MenuFlyout class](/uwp/api/Windows.UI.Xaml.Controls.MenuFlyout) as a context menu, the example uses the [FlyoutBase.ShowAttachedFlyout](/uwp/api/windows.ui.xaml.controls.primitives.flyoutbase.showattachedflyout) property to show it as a menu.
 
 ```xaml
 <Rectangle

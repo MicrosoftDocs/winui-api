@@ -10,10 +10,10 @@ public Windows.UI.Xaml.DependencyProperty CaseSensitiveFormsProperty { get; }
 # Microsoft.UI.Xaml.Documents.Typography.CaseSensitiveFormsProperty
 
 ## -description
-Identifies the [CaseSensitiveForms](/uwp/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
+Identifies the [CaseSensitiveForms](/windows/winui/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
 
 ## -property-value
-The identifier for the [CaseSensitiveForms](/uwp/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
+The identifier for the [CaseSensitiveForms](/windows/winui/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
 
 ## -remarks
 

@@ -10,10 +10,10 @@ public Windows.UI.Xaml.DependencyProperty RowSpanProperty { get; }
 # Microsoft.UI.Xaml.Controls.VariableSizedWrapGrid.RowSpanProperty
 
 ## -description
-Identifies the [VariableSizedWrapGrid.RowSpan](/uwp/api/microsoft.ui.xaml.controls.grid#xaml-attached-properties) XAML attached property.
+Identifies the [VariableSizedWrapGrid.RowSpan](/windows/winui/api/microsoft.ui.xaml.controls.grid#xaml-attached-properties) XAML attached property.
 
 ## -property-value
-The identifier for the [VariableSizedWrapGrid.RowSpan](/uwp/api/microsoft.ui.xaml.controls.grid#xaml-attached-properties) XAML attached property.
+The identifier for the [VariableSizedWrapGrid.RowSpan](/windows/winui/api/microsoft.ui.xaml.controls.grid#xaml-attached-properties) XAML attached property.
 
 ## -remarks
 

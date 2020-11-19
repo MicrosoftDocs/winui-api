@@ -27,7 +27,7 @@ The [StartPoint](lineargradientbrush_startpoint.md) and [EndPoint](lineargradien
 
 You can use the [Transparent](../microsoft.ui/colors_transparent.md) value for one of the [GradientStop](gradientstop.md) colors. Although this doesn't visually apply any changes to UI (it's transparent), that point is detectable for hit-testing purposes. For more info on hit testing, see "Hit testing" section of [Mouse interactions](/windows/uwp/input-and-devices/mouse-interactions).
 
-The [GradientStop](gradientstop.md) values of a LinearGradientBrush can be animated as part of transitions or decorative animations. Use one of the dedicated animation types that can animate a [Color](/uwp/api/windows.ui.color) value. This usually involves having `.(GradientStop.Color)` be a part of a longer property path for a [Storyboard.TargetProperty](/uwp/api/microsoft.ui.xaml.media.animation.storyboard#xaml-attached-properties) value. For more info on property targeting and how to animate properties that use [Brush](brush.md) values, see [Storyboarded animations](/windows/uwp/graphics/storyboarded-animations).
+The [GradientStop](gradientstop.md) values of a LinearGradientBrush can be animated as part of transitions or decorative animations. Use one of the dedicated animation types that can animate a [Color](/uwp/api/windows.ui.color) value. This usually involves having `.(GradientStop.Color)` be a part of a longer property path for a [Storyboard.TargetProperty](/windows/winui/api/microsoft.ui.xaml.media.animation.storyboard#xaml-attached-properties) value. For more info on property targeting and how to animate properties that use [Brush](brush.md) values, see [Storyboarded animations](/windows/uwp/graphics/storyboarded-animations).
 
 ### Brushes as XAML resources
 
@@ -47,4 +47,4 @@ This example creates a linear gradient with four colors and uses it to paint a *
 <img alt="Gradient axis for a vertical gradient" src="Images/graphicsmm_verticalgradient.png" />
 
 ## -see-also
-[GradientBrush](gradientbrush.md), [RadialGradientBrush](/uwp/api/microsoft.ui.xaml.media.radialgradientbrush), [SolidColorBrush](solidcolorbrush.md), [Use brushes](/windows/uwp/graphics/using-brushes), [ResourceDictionary and XAML resource references](/windows/uwp/controls-and-patterns/resourcedictionary-and-xaml-resource-references)
+[GradientBrush](gradientbrush.md), [RadialGradientBrush](/windows/winui/api/microsoft.ui.xaml.media.radialgradientbrush), [SolidColorBrush](solidcolorbrush.md), [Use brushes](/windows/uwp/graphics/using-brushes), [ResourceDictionary and XAML resource references](/windows/uwp/controls-and-patterns/resourcedictionary-and-xaml-resource-references)

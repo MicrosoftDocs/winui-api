@@ -10,10 +10,10 @@ public Windows.UI.Xaml.DependencyProperty StandardLigaturesProperty { get; }
 # Microsoft.UI.Xaml.Documents.Typography.StandardLigaturesProperty
 
 ## -description
-Identifies the [StandardLigatures](/uwp/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
+Identifies the [StandardLigatures](/windows/winui/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
 
 ## -property-value
-The identifier for the [StandardLigatures](/uwp/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
+The identifier for the [StandardLigatures](/windows/winui/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
 
 ## -remarks
 

@@ -10,10 +10,10 @@ public Windows.UI.Xaml.DependencyProperty StylisticSet14Property { get; }
 # Microsoft.UI.Xaml.Documents.Typography.StylisticSet14Property
 
 ## -description
-Identifies the [StylisticSet14](/uwp/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
+Identifies the [StylisticSet14](/windows/winui/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
 
 ## -property-value
-The identifier for the [StylisticSet14](/uwp/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
+The identifier for the [StylisticSet14](/windows/winui/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
 
 ## -remarks
 

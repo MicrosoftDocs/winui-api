@@ -19,7 +19,7 @@ Provides event data for the **CopyingToClipboard** event.
 
 ## -see-also
 
-[TextBox.CopyingToClipboard](/uwp/api/microsoft.ui.xaml.controls.textbox.copyingtoclipboard), [RichEditBox.CopyingToClipboard](/uwp/api/microsoft.ui.xaml.controls.richeditbox.copyingtoclipboard)
+[TextBox.CopyingToClipboard](/windows/winui/api/microsoft.ui.xaml.controls.textbox.copyingtoclipboard), [RichEditBox.CopyingToClipboard](/windows/winui/api/microsoft.ui.xaml.controls.richeditbox.copyingtoclipboard)
 
 ## -examples
 

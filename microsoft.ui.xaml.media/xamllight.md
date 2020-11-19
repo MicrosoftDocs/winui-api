@@ -32,7 +32,7 @@ Targets can be added and removed by calling methods on a XamlLight instance. Xam
 
 ### Managing resources
 
-When creating a XamlLight, it's usually a good practice to delay creating a [CompositionLight](/uwp/api/microsoft.ui.composition.compositionlight) and any related resources until the light is being used. The [OnConnected](xamllight_onconnected_1226595460.md) method is called when a XamlLight is first used to target an element or brush on screen, so you can override [OnConnected](xamllight_onconnected_1226595460.md) to safely create resources only when they're needed.
+When creating a XamlLight, it's usually a good practice to delay creating a [CompositionLight](/windows/winui/api/microsoft.ui.composition.compositionlight) and any related resources until the light is being used. The [OnConnected](xamllight_onconnected_1226595460.md) method is called when a XamlLight is first used to target an element or brush on screen, so you can override [OnConnected](xamllight_onconnected_1226595460.md) to safely create resources only when they're needed.
 
 It's also a good practice to dispose of composition resources when they're no longer in use. The [OnDisconnected](xamllight_ondisconnected_1949383343.md) method is called when a XamlLight instance is no longer in use anywhere on the screen, so you can override [OnDisconnected](xamllight_disonconnected.md) to safely dispose of resources. If the XamlLight is later used again after being disconnected then [OnConnected](xamllight_onconnected_1226595460.md) will be called again.
 
@@ -46,4 +46,4 @@ See the code example in [Lighting](/windows/uwp/composition/lighting).
 
 ## -see-also
 
-[UIElement.Lights](./../windows.ui.xaml/uielement_lights.md), [Using the composition Visual Layer with XAML](/windows/uwp/composition/using-the-visual-layer-with-xaml),[Composition lighting](/windows/uwp/composition/lighting), [CompositionLight](/uwp/api/microsoft.ui.composition.compositionlight)
+[UIElement.Lights](./../windows.ui.xaml/uielement_lights.md), [Using the composition Visual Layer with XAML](/windows/uwp/composition/using-the-visual-layer-with-xaml),[Composition lighting](/windows/uwp/composition/lighting), [CompositionLight](/windows/winui/api/microsoft.ui.composition.compositionlight)

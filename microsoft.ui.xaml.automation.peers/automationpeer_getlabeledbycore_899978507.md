@@ -16,7 +16,7 @@ Provides the peer's behavior when a Microsoft UI Automation client calls [GetLab
 The [AutomationPeer](automationpeer.md) for the element that is targeted by the [UIElement](../microsoft.ui.xaml/uielement.md).
 
 ## -remarks
-Specifying a control behavior for labeling is uncommon except for composite data presentation controls that use headers or similar metaphors. In most cases apps establish labeling information between the elements in an app-specific UI by applying the [AutomationProperties.LabeledBy](/uwp/api/microsoft.ui.xaml.automation.automationproperties#xaml-attached-properties) attached property to the UI definition XAML.
+Specifying a control behavior for labeling is uncommon except for composite data presentation controls that use headers or similar metaphors. In most cases apps establish labeling information between the elements in an app-specific UI by applying the [AutomationProperties.LabeledBy](/windows/winui/api/microsoft.ui.xaml.automation.automationproperties#xaml-attached-properties) attached property to the UI definition XAML.
 
 ## -examples
 

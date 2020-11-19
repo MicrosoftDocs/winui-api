@@ -10,10 +10,10 @@ public Windows.UI.Xaml.DependencyProperty FractionProperty { get; }
 # Microsoft.UI.Xaml.Documents.Typography.FractionProperty
 
 ## -description
-Identifies the [Fraction](/uwp/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
+Identifies the [Fraction](/windows/winui/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
 
 ## -property-value
-The identifier for the [Fraction](/uwp/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
+The identifier for the [Fraction](/windows/winui/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
 
 ## -remarks
 

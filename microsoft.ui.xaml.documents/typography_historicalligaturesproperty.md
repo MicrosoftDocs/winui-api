@@ -10,10 +10,10 @@ public Windows.UI.Xaml.DependencyProperty HistoricalLigaturesProperty { get; }
 # Microsoft.UI.Xaml.Documents.Typography.HistoricalLigaturesProperty
 
 ## -description
-Identifies the [HistoricalLigatures](/uwp/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
+Identifies the [HistoricalLigatures](/windows/winui/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
 
 ## -property-value
-The identifier for the [HistoricalLigatures](/uwp/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
+The identifier for the [HistoricalLigatures](/windows/winui/api/microsoft.ui.xaml.documents.typography#xaml-attached-properties) attached property.
 
 ## -remarks
 

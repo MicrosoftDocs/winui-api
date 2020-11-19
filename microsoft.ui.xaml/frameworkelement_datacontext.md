@@ -45,7 +45,7 @@ A common scenario for C# and Microsoft Visual Basic data contexts is to use a CL
 ## -examples
 This example sets the DataContext directly to an instance of a custom class.
 
-If you're using [C++/WinRT](/windows/uwp/cpp-and-winrt-apis/intro-to-using-cpp-with-winrt) and the [{Binding}](/windows/uwp/xaml-platform/binding-markup-extension) markup extension, then you'll use the **FrameworkElement::DataContext** property, and the [BindableAttribute](/uwp/api/microsoft.ui.xaml.data.bindableattribute). If you're using the [{x:Bind}](/windows/uwp/xaml-platform/x-bind-markup-extension) markup extension, then you won't use **FrameworkElement::DataContext** nor the **BindableAttribute**.
+If you're using [C++/WinRT](/windows/uwp/cpp-and-winrt-apis/intro-to-using-cpp-with-winrt) and the [{Binding}](/windows/uwp/xaml-platform/binding-markup-extension) markup extension, then you'll use the **FrameworkElement::DataContext** property, and the [BindableAttribute](/windows/winui/api/microsoft.ui.xaml.data.bindableattribute). If you're using the [{x:Bind}](/windows/uwp/xaml-platform/x-bind-markup-extension) markup extension, then you won't use **FrameworkElement::DataContext** nor the **BindableAttribute**.
 
 For more background on the C++/WinRT code example below (for example, how to use the `.idl` file listing, and what to do with the implementation files that it generates for you), see [XAML controls; bind to a C++/WinRT property](/windows/uwp/cpp-and-winrt-apis/binding-property).
 
