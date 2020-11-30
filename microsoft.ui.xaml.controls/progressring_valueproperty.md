@@ -11,8 +11,11 @@ public static Windows.UI.Xaml.DependencyProperty ValueProperty { get; }
 
 
 ## -description
+Identifies the [Value](progressring_value.md) dependency property. 
 
 ## -property-value
+
+The identifier for the [Value](progressring_value.md) dependency property.
 
 ## -remarks
 

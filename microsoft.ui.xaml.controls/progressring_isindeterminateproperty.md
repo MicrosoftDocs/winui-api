@@ -11,8 +11,10 @@ public static Windows.UI.Xaml.DependencyProperty IsIndeterminateProperty { get; 
 
 
 ## -description
+Identifies the [IsIndeterminate](progressring_isindeterminate.md) dependency property. 
 
 ## -property-value
+The identifier for the [IsIndeterminate](progressring_isindeterminate.md) dependency property. 
 
 ## -remarks
 
