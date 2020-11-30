@@ -11,8 +11,10 @@ public static Windows.UI.Xaml.DependencyProperty IsClosableProperty { get; }
 
 
 ## -description
+Identifies the [IsClosable](infobar_isclosable.md) dependency property.
 
 ## -property-value
+The identifier for the [IsClosable](infobar_isclosable.md) dependency property.
 
 ## -remarks
 

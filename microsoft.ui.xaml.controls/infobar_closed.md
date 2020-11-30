@@ -12,6 +12,8 @@ public event Windows.Foundation.TypedEventHandler<Microsoft.UI.Xaml.Controls.Inf
 
 ## -description
 
+Occurs after the [InfoBar](infobar.md) is closed.
+
 ## -remarks
 
 ## -see-also

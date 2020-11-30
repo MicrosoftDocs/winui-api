@@ -11,8 +11,10 @@ public static Windows.UI.Xaml.DependencyProperty IsIconVisibleProperty { get; }
 
 
 ## -description
+Identifies the [IsIconVisible](infobar_isiconvisible.md) dependency property.
 
 ## -property-value
+The identifier for the [IsIconVisible](infobar_isiconvisible.md) dependency property.
 
 ## -remarks
 

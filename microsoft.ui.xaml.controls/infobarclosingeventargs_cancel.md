@@ -12,6 +12,8 @@ public bool Cancel { get; set; }
 
 ## -description
 
+Gets or sets a value that indicates whether the Closing event should be canceled in the [InfoBar](infobar.md).
+
 ## -property-value
 
 ## -remarks

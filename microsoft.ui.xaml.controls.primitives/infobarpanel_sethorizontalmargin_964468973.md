@@ -11,6 +11,7 @@ public static void SetHorizontalMargin (Windows.UI.Xaml.DependencyObject object,
 
 
 ## -description
+Sets the margin of the [InfoBarPanel](infobarpanel.md) when its items are horizontally aligned. This property is reserved for internal use and is not intended to be used in your code.
 
 ## -parameters
 

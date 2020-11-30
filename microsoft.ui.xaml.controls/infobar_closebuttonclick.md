@@ -12,6 +12,8 @@ public event Windows.Foundation.TypedEventHandler<Microsoft.UI.Xaml.Controls.Inf
 
 ## -description
 
+Occurs after the close button is clicked in the [InfoBar](infobar.md).
+
 ## -remarks
 
 ## -see-also

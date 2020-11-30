@@ -12,6 +12,8 @@ public Microsoft.UI.Xaml.Controls.InfoBarCloseReason Reason { get; }
 
 ## -description
 
+Gets a constant that specifies whether the cause of the Closed event was due to user interaction (Close button click) or programmatic closure.
+
 ## -property-value
 
 ## -remarks

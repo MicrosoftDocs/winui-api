@@ -11,8 +11,10 @@ public static Windows.UI.Xaml.DependencyProperty CloseButtonCommandParameterProp
 
 
 ## -description
+Identifies the [CloseButtonCommandParameter](infobar_closebuttoncommandparameter.md) dependency property.
 
 ## -property-value
+The identifier for the [CloseButtonCommandParameter](infobar_closebuttoncommandparameter.md) dependency property.
 
 ## -remarks
 

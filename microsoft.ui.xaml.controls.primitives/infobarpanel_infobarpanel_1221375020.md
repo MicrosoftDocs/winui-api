@@ -12,6 +12,8 @@ public InfoBarPanel ();
 
 ## -description
 
+Initializes a new instance of the [InfoBarPanel](infobarpanel.md) class.
+
 ## -remarks
 
 ## -see-also

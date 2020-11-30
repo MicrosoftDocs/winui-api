@@ -12,6 +12,8 @@ public InfoBar ();
 
 ## -description
 
+Initializes a new instance of the [InfoBar](infobar.md) class.
+
 ## -remarks
 
 ## -see-also

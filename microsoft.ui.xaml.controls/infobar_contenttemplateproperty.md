@@ -11,8 +11,10 @@ public static Windows.UI.Xaml.DependencyProperty ContentTemplateProperty { get; 
 
 
 ## -description
+Identifies the [ContentTemplate](infobar_contenttemplate.md) dependency property.
 
 ## -property-value
+The identifier for the [ContentTemplate](infobar_contenttemplate.md) dependency property.
 
 ## -remarks
 

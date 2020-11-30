@@ -12,9 +12,13 @@ public class InfoBarClosedEventArgs
 
 ## -description
 
+Provides data for the [InfoBar.Closed](infobar_closed.md) event.
+
 ## -remarks
 
 ## -see-also
+
+[InfoBar](infobar.md), [InfoBar.Closing](infobar_closing.md)
 
 ## -examples
 

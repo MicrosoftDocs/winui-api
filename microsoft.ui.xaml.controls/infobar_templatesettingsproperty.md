@@ -11,8 +11,10 @@ public static Windows.UI.Xaml.DependencyProperty TemplateSettingsProperty { get;
 
 
 ## -description
+Identifies the [TemplateSettings](infobar_templatesettings.md) dependency property.
 
 ## -property-value
+The identifier for the [TemplateSettings](infobar_templatesettings.md) dependency property.
 
 ## -remarks
 

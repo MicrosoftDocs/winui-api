@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.IconElement IconElement { get; set; }
 
 ## -description
 
+Gets the icon element.
+
 ## -property-value
 
 ## -remarks

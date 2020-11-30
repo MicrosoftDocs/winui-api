@@ -11,6 +11,7 @@ public static Windows.UI.Xaml.Thickness GetVerticalMargin (Windows.UI.Xaml.Depen
 
 
 ## -description
+Gets the margin of the [InfoBarPanel](infobarpanel.md) when its items are horizontally aligned. This property is reserved for internal use and is not intended to be used in your code.
 
 ## -parameters
 

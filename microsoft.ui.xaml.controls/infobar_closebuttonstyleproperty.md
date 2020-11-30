@@ -11,8 +11,10 @@ public static Windows.UI.Xaml.DependencyProperty CloseButtonStyleProperty { get;
 
 
 ## -description
+Identifies the [CloseButtonStyle](infobar_closebuttonstyle.md) dependency property.
 
 ## -property-value
+The identifier for the [CloseButtonStyle](infobar_closebuttonstyle.md) dependency property.
 
 ## -remarks
 

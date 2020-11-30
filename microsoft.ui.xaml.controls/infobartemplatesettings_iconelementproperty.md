@@ -11,8 +11,10 @@ public static Windows.UI.Xaml.DependencyProperty IconElementProperty { get; }
 
 
 ## -description
+Identifies the [InfoBarTemplateSettings.IconElement](infobartemplatesettings_iconelement.md) dependency property.
 
 ## -property-value
+The identifier for the [InfoBarTemplateSettings.IconElement](infobartemplatesettings_iconelement.md) dependency property.
 
 ## -remarks
 

@@ -12,7 +12,11 @@ public string Message { get; set; }
 
 ## -description
 
+Gets or sets the message of the [InfoBar](infobar.md).
+
 ## -property-value
+
+The message of the [InfoBar](infobar.md). The default is an empty string.
 
 ## -remarks
 

@@ -12,7 +12,11 @@ public bool IsIconVisible { get; set; }
 
 ## -description
 
+Gets or sets a value that indicates whether the icon is visible in the [InfoBar](infobar.md).
+
 ## -property-value
+
+`true` if the icon is visible; otherwise, `false`. The default is `true`.
 
 ## -remarks
 
