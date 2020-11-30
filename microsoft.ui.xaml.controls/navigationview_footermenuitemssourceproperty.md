@@ -11,8 +11,10 @@ public static Windows.UI.Xaml.DependencyProperty FooterMenuItemsSourceProperty {
 
 
 ## -description
+Identifies the FooterMenuItemsSource dependency property.
 
 ## -property-value
+The identifier for the FooterMenuItemsSource dependency property.
 
 ## -remarks
 
