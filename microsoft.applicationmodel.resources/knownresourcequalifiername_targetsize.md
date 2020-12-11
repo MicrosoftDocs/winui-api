@@ -12,7 +12,7 @@ public static string TargetSize { get; }
 
 ## -description
 
-Gets the recommended name for a qualifier based on the system theme.
+Gets the recommended name for a qualifier based on target size.
 
 ## -property-value
 

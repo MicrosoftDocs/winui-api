@@ -12,7 +12,7 @@ public sealed class ResourceCandidate
 
 ## -description
 
-Represents a single possible value for a given [NamedResource](namedresource.md), the qualifiers associated with that resource, and how well those qualifiers match the context against which it was resolved.
+Represents a single possible value for a given resource, the qualifiers associated with that resource, and how well those qualifiers match the context against which it was resolved.
 
 ## -remarks
 

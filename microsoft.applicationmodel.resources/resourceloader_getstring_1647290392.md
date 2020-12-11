@@ -10,7 +10,7 @@ public string GetString(System.String resource)
 # Microsoft.ApplicationModel.Resources.ResourceLoader.GetString
 
 ## -description
-Returns the most appropriate string value of a resource, specified by resource identifier, for the default [ResourceContext](resourcecontext.md) of the view in which the [ResourceLoader](resourceloader.md) was obtained using [ResourceLoader.GetForCurrentView](resourceloader_getforcurrentview_1363600702.md).
+Returns the most appropriate string value of a resource, specified by resource identifier.
 
 
 <!--Writer todo: Link to how to create and identify resources.-->
@@ -20,7 +20,7 @@ Returns the most appropriate string value of a resource, specified by resource i
 The resource identifier of the resource to be resolved.
 
 > [!NOTE]
-> The resource identifier is treated as a Uniform Resource Identifier (URI) fragment, subject to Uniform Resource Identifier (URI) semantics. For example, **getString** ("Caption%20") is treated as **getString** ("Caption "). Do not use "?" or "#" in resource identifiers, as they terminate the named resource path. For example, "Foo?3" is treated as "Foo".
+> The resource identifier is treated as a Uniform Resource Identifier (URI) fragment, subject to Uniform Resource Identifier (URI) semantics. For example, **getString** ("Caption%20") is treated as **getString** ("Caption "). Do not use "?" or "#" in resource identifiers, as they terminate the resource path. For example, "Foo?3" is treated as "Foo".
 
 ## -returns
 The most appropriate string value of the specified resource for the default [ResourceContext](resourcecontext.md).

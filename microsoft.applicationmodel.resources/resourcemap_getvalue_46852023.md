@@ -32,7 +32,7 @@ A [ResourceCandidate](resourcecandidate.md) that describes the most appropriate 
 
 Some resources are loaded according to the scale of the view where they will be displayed, and different views within an app might be displayed on different devices with different scales. Scale is a per-view characteristic.
 
-Since the GetValue method selects the best candidate for the specified resource in relation to a runtime context, and since the scale qualifier of a ResourceContext depends on the associated view, GetValue should always be called with a ResourceContext object obtained from the view in which the resource will be used. Call ResourceContext.GetForCurrentView to retrieve the appropriate ResourceContext.
+Since the GetValue method selects the best candidate for the specified resource in relation to a runtime context, and since the scale qualifier of a ResourceContext depends on the associated view, GetValue should always be called with a ResourceContext object obtained from the view in which the resource will be used.
 
 ## -see-also
 

@@ -12,7 +12,7 @@ public System.Collections.Generic.KeyValuePair<string,Microsoft.ApplicationModel
 
 ## -description
 
-Returns the [NamedResource](namedresource.md) at the specified index in the default context.
+Returns the resource at the specified index in the default context.
 
 ## -parameters
 

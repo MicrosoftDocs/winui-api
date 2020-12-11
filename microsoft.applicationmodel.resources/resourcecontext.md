@@ -15,7 +15,7 @@ Encapsulates all of the factors ([ResourceQualifiers](resourcequalifiers.md)) th
 
 ## -remarks
 
-Resources can be sensitive to scale, and different views owned by an app are able to display simultaneously on different display devices, which might use different scales. For that reason, a ResourceContext is generally associated with a specific view, and should be obtained using GetForCurrentView. (A view-independent ResourceContext can be obtained using GetForViewIndependentUse, but note that scale-dependent functionality will fail if invoked on a ResourceContext that is not associated with a view.)
+Resources can be sensitive to scale, and different views owned by an app are able to display simultaneously on different display devices, which might use different scales.
 
 Do not create an instance of ResourceContext using the constructor, as it is deprecated and subject to removal in a future release.
 
