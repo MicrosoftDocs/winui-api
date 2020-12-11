@@ -22,10 +22,6 @@ Many methods of this class use resource identifiers as parameters. The resource 
 
 Do not use "?" or "#" in resource identifiers, because they terminate the resource path evaluation. For example, "MyResource?3" is treated as "MyResource".
 
-### Collection member lists
-
-For JavaScript, ResourceMap supports using an index to access items.
-
 ## -see-also
 
 ## -examples
