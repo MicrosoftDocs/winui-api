@@ -24,10 +24,10 @@ The format for the frame-rate counter displayed in the window chrome is: <table>
 </table>
 
 
-+ **App fps: ** The app's UI thread frame rate, in frames per second.
-+ **App CPU: ** The CPU usage of the app's UI thread per frame, in milliseconds.
-+ **Sys fps: ** The system-wide composition engine frame rate, in frames per second. This is typically pegged to 60.
-+ **Sys CPU: ** The system-wide overall CPU usage of the composition thread per frame, in milliseconds.
++ **App fps:** The app's UI thread frame rate, in frames per second.
++ **App CPU:** The CPU usage of the app's UI thread per frame, in milliseconds.
++ **Sys fps:** The system-wide composition engine frame rate, in frames per second. This is typically pegged to 60.
++ **Sys CPU:** The system-wide overall CPU usage of the composition thread per frame, in milliseconds.
 
 
 The *App fps* value is specifically reporting on the UI thread. There could be a much higher apparent refresh rate happening in your app that's related to the composition thread, but not to the UI thread. For more info on what each thread is responsible for, see [Performance best practices for ](/previous-versions/windows/apps/hh750313(v=win.10)).
