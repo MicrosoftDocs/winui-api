@@ -19,7 +19,7 @@ Gets or sets the title to be optionally set above the headers.
 
 
 ## -property-value
-Returns [String](/dotnet/api/system.string?redirectedfrom=MSDN).
+Returns [String](/dotnet/api/system.string?view=dotnet-uwp-10.0&preserve-view=true).
 
 ## -remarks
 

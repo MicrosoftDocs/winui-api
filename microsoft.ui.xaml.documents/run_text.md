@@ -21,7 +21,7 @@ Gets or sets the text contents of the [Run](run.md).
 
 
 ## -property-value
-A string that specifies the text contents of the [Run](run.md). The default is [String.Empty](/dotnet/api/system.string.empty?redirectedfrom=MSDN).
+A string that specifies the text contents of the [Run](run.md). The default is [String.Empty](/dotnet/api/system.string.empty?view=dotnet-uwp-10.0&preserve-view=true).
 
 ## -remarks
 

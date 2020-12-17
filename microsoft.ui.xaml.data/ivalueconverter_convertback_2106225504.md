@@ -17,7 +17,7 @@ Modifies the target data before passing it to the source object. This method is 
 The target data being passed to the source.
 
 ### -param targetType
-The type of the target property, as a type reference ([System.Type](/dotnet/api/system.type?redirectedfrom=MSDN) for Microsoft .NET, a [TypeName](/uwp/api/windows.ui.xaml.interop.typename) helper struct for Visual C++ component extensions (C++/CX)).
+The type of the target property, as a type reference ([System.Type](/dotnet/api/system.type?view=dotnet-uwp-10.0&preserve-view=true) for Microsoft .NET, a [TypeName](/uwp/api/windows.ui.xaml.interop.typename) helper struct for Visual C++ component extensions (C++/CX)).
 
 ### -param parameter
 An optional parameter to be used in the converter logic.

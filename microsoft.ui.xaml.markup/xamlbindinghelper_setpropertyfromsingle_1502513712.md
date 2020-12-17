@@ -10,7 +10,7 @@ public void SetPropertyFromSingle(System.Object dependencyObject, Windows.UI.Xam
 # Microsoft.UI.Xaml.Markup.XamlBindingHelper.SetPropertyFromSingle
 
 ## -description
-Sets a [DependencyProperty](../microsoft.ui.xaml/dependencyproperty.md) from a [Single](/dotnet/api/system.single?redirectedfrom=MSDN) value.
+Sets a [DependencyProperty](../microsoft.ui.xaml/dependencyproperty.md) from a [Single](/dotnet/api/system.single?view=dotnet-uwp-10.0&preserve-view=true) value.
 
 ## -parameters
 ### -param dependencyObject

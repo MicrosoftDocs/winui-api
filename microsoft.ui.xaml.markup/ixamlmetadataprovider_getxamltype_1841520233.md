@@ -23,7 +23,7 @@ The schema context's implementation of the [IXamlType](ixamltype.md) concept.
 > [!NOTE]
 > 
 
-If you are programming using a Microsoft .NET language (C# or Microsoft Visual Basic), the [TypeName](/uwp/api/windows.ui.xaml.interop.typename) type projects as [System.Type](/dotnet/api/system.type?redirectedfrom=MSDN).
+If you are programming using a Microsoft .NET language (C# or Microsoft Visual Basic), the [TypeName](/uwp/api/windows.ui.xaml.interop.typename) type projects as [System.Type](/dotnet/api/system.type?view=dotnet-uwp-10.0&preserve-view=true).
 
 For more info on [IXamlMetadataProvider](ixamlmetadataprovider.md), [IXamlType](ixamltype.md) and [IXamlMember](ixamlmember.md) and how these are used for XAML custom types, see "Remarks" section of [IXamlType](ixamltype.md).
 

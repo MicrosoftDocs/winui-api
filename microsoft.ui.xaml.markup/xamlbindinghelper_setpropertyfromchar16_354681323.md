@@ -10,7 +10,7 @@ public void SetPropertyFromChar16(System.Object dependencyObject, Windows.UI.Xam
 # Microsoft.UI.Xaml.Markup.XamlBindingHelper.SetPropertyFromChar16
 
 ## -description
-Sets a [DependencyProperty](../microsoft.ui.xaml/dependencyproperty.md) from a [Char](/dotnet/api/system.char?redirectedfrom=MSDN) value.
+Sets a [DependencyProperty](../microsoft.ui.xaml/dependencyproperty.md) from a [Char](/dotnet/api/system.char?view=dotnet-uwp-10.0&preserve-view=true) value.
 
 ## -parameters
 ### -param dependencyObject

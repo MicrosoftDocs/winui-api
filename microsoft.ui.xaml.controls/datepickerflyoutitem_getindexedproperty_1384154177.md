@@ -17,7 +17,7 @@ Retrieves a custom property's [ICustomProperty](../microsoft.ui.xaml.data/icusto
 The name of the custom property.
 
 ### -param type
-The type of the indexed collection, specified as a [TypeName](/uwp/api/windows.ui.xaml.interop.typename) (for Visual C++ component extensions (C++/CX)) or [System.Type](/dotnet/api/system.type?redirectedfrom=MSDN) (for C#/VB).
+The type of the indexed collection, specified as a [TypeName](/uwp/api/windows.ui.xaml.interop.typename) (for Visual C++ component extensions (C++/CX)) or [System.Type](/dotnet/api/system.type?view=dotnet-uwp-10.0&preserve-view=true) (for C#/VB).
 
 ## -returns
 The returned support object for the custom property, or **null**.

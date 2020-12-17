@@ -15,7 +15,7 @@ Gets or sets the minimum height of each item.
 
 ## -property-value
 
-The minimum height (in pixels) of each item. The default is [NaN](/dotnet/api/system.double.nan), in which case the height of the first item is used as the minimum.
+The minimum height (in pixels) of each item. The default is [NaN](/dotnet/api/system.double.nan?view=dotnet-uwp-10.0&preserve-view=true), in which case the height of the first item is used as the minimum.
 
 ## -remarks
 

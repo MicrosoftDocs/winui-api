@@ -21,7 +21,7 @@ The [CollectionGroups](icollectionview_collectiongroups.md) property is of type 
 
 ### Interface inheritance
 
-ICollectionView inherits [IObservableVector](/uwp/api/windows.foundation.collections.iobservablevector`1), [IVector](/uwp/api/windows.foundation.collections.ivector`1) and [IIterable](/uwp/api/windows.foundation.collections.iiterable`1) . Types that implement ICollectionView also implement the interface members of [IObservableVector](/uwp/api/windows.foundation.collections.iobservablevector`1), and either [IVector](/uwp/api/windows.foundation.collections.ivector`1) and [IIterable](/uwp/api/windows.foundation.collections.iiterable`1) for C++ usage or [IList](/dotnet/api/system.collections.generic.ilist-1)and [IEnumerable](/dotnet/api/system.collections.generic.ienumerable-1) for Microsoft .NET usage.
+ICollectionView inherits [IObservableVector](/uwp/api/windows.foundation.collections.iobservablevector`1), [IVector](/uwp/api/windows.foundation.collections.ivector`1) and [IIterable](/uwp/api/windows.foundation.collections.iiterable`1) . Types that implement ICollectionView also implement the interface members of [IObservableVector](/uwp/api/windows.foundation.collections.iobservablevector`1), and either [IVector](/uwp/api/windows.foundation.collections.ivector`1) and [IIterable](/uwp/api/windows.foundation.collections.iiterable`1) for C++ usage or [IList](/dotnet/api/system.collections.generic.ilist-1?view=dotnet-uwp-10.0&preserve-view=true) and [IEnumerable](/dotnet/api/system.collections.generic.ienumerable-1?view=dotnet-uwp-10.0&preserve-view=true) for Microsoft .NET usage.
 
 ## -examples
 

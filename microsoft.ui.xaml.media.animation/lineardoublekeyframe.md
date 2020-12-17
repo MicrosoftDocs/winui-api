@@ -10,7 +10,7 @@ public class LinearDoubleKeyFrame : Windows.UI.Xaml.Media.Animation.DoubleKeyFra
 # Microsoft.UI.Xaml.Media.Animation.LinearDoubleKeyFrame
 
 ## -description
-Animates from the [Double](/dotnet/api/system.double?redirectedfrom=MSDN) value of the previous key frame to its own [Value](doublekeyframe_value.md) using linear interpolation.
+Animates from the [Double](/dotnet/api/system.double?view=dotnet-uwp-10.0&preserve-view=true) value of the previous key frame to its own [Value](doublekeyframe_value.md) using linear interpolation.
 
 ## -xaml-syntax
 ```xaml

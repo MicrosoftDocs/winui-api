@@ -11,7 +11,7 @@ public Windows.Foundation.Rect Intersect(Windows.Foundation.Rect target, Windows
 
 ## -description
 
-Returns the areas of two specified [Rect](/uwp/api/windows.foundation.rect) values that intersect, as a new [Rect](/uwp/api/windows.foundation.rect). C# and Microsoft Visual Basic code should use [Rect.Intersect](/dotnet/api/windows.foundation.rect.intersect) instead.
+Returns the areas of two specified [Rect](/uwp/api/windows.foundation.rect) values that intersect, as a new [Rect](/uwp/api/windows.foundation.rect). C# and Microsoft Visual Basic code should use [Rect.Intersect](/dotnet/api/windows.foundation.rect.intersect?view=dotnet-uwp-10.0&preserve-view=true) instead.
 
 ## -parameters
 

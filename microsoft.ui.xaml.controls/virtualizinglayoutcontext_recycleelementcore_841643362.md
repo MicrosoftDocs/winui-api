@@ -23,7 +23,7 @@ The element to clear.
 
 This method provides the behavior when [RecycleElement](virtualizinglayoutcontext_recycleelement_37257770.md) is called.
 
-The base implementation throws a [NotImplementedException](/dotnet/api/system.notimplementedexception) ([winrt::hresult_not_implemented](/uwp/cpp-ref-for-winrt/error-handling/hresult-not-implemented)).
+The base implementation throws a [NotImplementedException](/dotnet/api/system.notimplementedexception?view=dotnet-uwp-10.0&preserve-view=true) ([winrt::hresult_not_implemented](/uwp/cpp-ref-for-winrt/error-handling/hresult-not-implemented)).
 
 ## -see-also
 

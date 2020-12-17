@@ -23,28 +23,28 @@ Use the ItemsSource property to specify the collection to use to generate the co
 
 This list shows available interfaces and when to consider using each one.
 
-- [IEnumerable&lt;T&gt;](/dotnet/api/system.collections.generic.ienumerable-1) (.NET) / [IIterable&lt;T&gt;](/uwp/api/windows.foundation.collections.iiterable_t_)
+- [IEnumerable&lt;T&gt;](/dotnet/api/system.collections.generic.ienumerable-1?view=dotnet-uwp-10.0&preserve-view=true) (.NET) / [IIterable&lt;T&gt;](/uwp/api/windows.foundation.collections.iiterable_t_)
 
   - Can be used for small, static data sets.
 
     At a minimum, the data source must implement the IEnumerable / IIterable interface. If this is all that's supported then the control will iterate through everything once to create a copy that it can use to access items via an index value.
 
-- [IReadonlyList](/dotnet/api/system.collections.generic.ireadonlylist-1&lt;T&gt;) (.NET) / [IVectorView&lt;T&gt;](/uwp/api/windows.foundation.collections.ivectorview_t_)
+- [IReadonlyList&lt;T&gt;](/dotnet/api/system.collections.generic.ireadonlylist-1?view=dotnet-uwp-10.0&preserve-view=true) (.NET) / [IVectorView&lt;T&gt;](/uwp/api/windows.foundation.collections.ivectorview_t_)
 
   - Can be used for static, read-only data sets.
 
     Enables the control to access items by index and avoids the redundant internal copy.
 
-- [IList&lt;T&gt;](/dotnet/api/system.collections.generic.ilist-1) (.NET) / [IVector&lt;T&gt;](/uwp/api/windows.foundation.collections.ivector_t_)
+- [IList&lt;T&gt;](/dotnet/api/system.collections.generic.ilist-1?view=dotnet-uwp-10.0&preserve-view=true) (.NET) / [IVector&lt;T&gt;](/uwp/api/windows.foundation.collections.ivector_t_)
 
   - Can be used for static data sets.
 
     Enables the control to access items by index and avoids the redundant internal copy.
 
     **Warning**:
-    Changes to the list/vector without implementing [INotifyCollectionChanged](/dotnet/api/system.collections.specialized.inotifycollectionchanged) won't be reflected in the UI.
+    Changes to the list/vector without implementing [INotifyCollectionChanged](/dotnet/api/system.collections.specialized.inotifycollectionchanged?view=dotnet-uwp-10.0&preserve-view=true) won't be reflected in the UI.
 
-- [INotifyCollectionChanged](/dotnet/api/system.collections.specialized.inotifycollectionchanged) (.NET)
+- [INotifyCollectionChanged](/dotnet/api/system.collections.specialized.inotifycollectionchanged?view=dotnet-uwp-10.0&preserve-view=true) (.NET)
 
   - Recommended to support change notification.
 
@@ -57,7 +57,7 @@ This list shows available interfaces and when to consider using each one.
     Like the **INotifyCollectionChanged** interface, this enables the control to observe and react to changes in the data source.
 
     **Warning**:
-    The Windows.Foundation.IObservableVector\<T> doesn’t support a 'Move' action. This can cause the UI for an item to lose its visual state.  For example, an item that is currently selected and/or has focus where the move is achieved by a ‘Remove’ followed by an ‘Add’ will lose focus and no longer be selected.
+    The Windows.Foundation.IObservableVector\<T> doesn't support a 'Move' action. This can cause the UI for an item to lose its visual state.  For example, an item that is currently selected and/or has focus where the move is achieved by a 'Remove' followed by an 'Add' will lose focus and no longer be selected.
 
     The Platform.Collections.Vector\<T> uses IObservableVector\<T> and has this same limitation. If support for a 'Move' action is required then use the **INotifyCollectionChanged** interface.  The .NET ObservableCollection\<T> class uses **INotifyCollectionChanged**.
 

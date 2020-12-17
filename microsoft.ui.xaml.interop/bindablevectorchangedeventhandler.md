@@ -19,9 +19,9 @@ Event data, loosely typed.
 
 
 ## -remarks
-Analogous to the [VectorChangedEventHandler<T>](/uwp/api/windows.foundation.collections.vectorchangedeventhandler`1) delegate. Although the parameter *e* is of type [Object](/dotnet/api/system.object?redirectedfrom=MSDN), you can cast it to type [IVectorChangedEventArgs](/uwp/api/windows.foundation.collections.ivectorchangedeventargs).
+Analogous to the [VectorChangedEventHandler<T>](/uwp/api/windows.foundation.collections.vectorchangedeventhandler`1) delegate. Although the parameter *e* is of type [Object](/dotnet/api/system.object?view=dotnet-uwp-10.0&preserve-view=true), you can cast it to type [IVectorChangedEventArgs](/uwp/api/windows.foundation.collections.ivectorchangedeventargs).
 
-This delegate supports the creation of data bindable collections in C++. When programming with .NET, you should use [ObservableCollection(Of T)](/dotnet/api/system.collections.objectmodel.observablecollection-1) or implement [IList](/dotnet/api/system.collections.ilist?redirectedfrom=MSDN) and [INotifyCollectionChanged](/dotnet/api/system.collections.specialized.inotifycollectionchanged?redirectedfrom=MSDN). For more info, see [Binding to collections](/windows/uwp/data-binding/data-binding-quickstart).
+This delegate supports the creation of data bindable collections in C++. When programming with .NET, you should use [ObservableCollection(Of T)](/dotnet/api/system.collections.objectmodel.observablecollection-1?view=dotnet-uwp-10.0&preserve-view=true) or implement [IList](/dotnet/api/system.collections.ilist?view=dotnet-uwp-10.0&preserve-view=true) and [INotifyCollectionChanged](/dotnet/api/system.collections.specialized.inotifycollectionchanged?view=dotnet-uwp-10.0&preserve-view=true). For more info, see [Binding to collections](/windows/uwp/data-binding/data-binding-quickstart).
 
 ## -examples
 

@@ -15,7 +15,7 @@ Provides a base class for defining the command behavior of an interactive UI ele
 
 ## -remarks
 
-Implements the ICommand interface ([Windows.UI.Xaml.Input.ICommand](icommand.md) for C++ or [System.Windows.Input.ICommand](/dotnet/api/system.windows.input.icommand) for C#), adding various UI properties, methods, and events.
+Implements the ICommand interface ([Windows.UI.Xaml.Input.ICommand](icommand.md) for C++ or [System.Windows.Input.ICommand](/dotnet/api/system.windows.input.icommand?view=dotnet-uwp-10.0&preserve-view=true) for C#), adding various UI properties, methods, and events.
 
 ### XamlUICommand derived classes
 

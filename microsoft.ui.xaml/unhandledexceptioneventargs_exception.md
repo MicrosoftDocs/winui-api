@@ -13,7 +13,7 @@ public Windows.Foundation.HResult Exception { get; }
 Gets the **HRESULT** code associated with the unhandled exception.
 
 ## -property-value
-The **HRESULT** code (for Visual C++ component extensions (C++/CX)), or a mapped common language runtime (CLR)  [System.Exception](/dotnet/api/system.exception?redirectedfrom=MSDN).
+The **HRESULT** code (for Visual C++ component extensions (C++/CX)), or a mapped common language runtime (CLR)  [System.Exception](/dotnet/api/system.exception?view=dotnet-uwp-10.0&preserve-view=true).
 
 ## -remarks
 

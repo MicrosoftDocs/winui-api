@@ -27,7 +27,7 @@ The data item at the specified index.
 
 This method provides the behavior when [GetItemAt](virtualizinglayoutcontext_getitemat_1630001961.md) is called.
 
-The base implementation throws a [NotImplementedException](/dotnet/api/system.notimplementedexception) ([winrt::hresult_not_implemented](/uwp/cpp-ref-for-winrt/error-handling/hresult-not-implemented)).
+The base implementation throws a [NotImplementedException](/dotnet/api/system.notimplementedexception?view=dotnet-uwp-10.0&preserve-view=true) ([winrt::hresult_not_implemented](/uwp/cpp-ref-for-winrt/error-handling/hresult-not-implemented)).
 
 ## -see-also
 

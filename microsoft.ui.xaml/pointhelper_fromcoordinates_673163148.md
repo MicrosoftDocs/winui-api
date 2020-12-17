@@ -11,7 +11,7 @@ public Windows.Foundation.Point FromCoordinates(System.Single x, System.Single y
 
 ## -description
 
-Creates a new [Point](/uwp/api/windows.foundation.point) value using x- and y-coordinate values in pixels. C# and Microsoft Visual Basic code should use the [Point(Double,Double)](/dotnet/api/windows.foundation.point.-ctor) constructor instead.
+Creates a new [Point](/uwp/api/windows.foundation.point) value using x- and y-coordinate values in pixels. C# and Microsoft Visual Basic code should use the [Point(Double,Double)](/dotnet/api/windows.foundation.point.-ctor?view=dotnet-uwp-10.0&preserve-view=true) constructor instead.
 
 ## -parameters
 

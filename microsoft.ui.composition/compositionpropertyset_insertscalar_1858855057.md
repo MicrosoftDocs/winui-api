@@ -10,7 +10,7 @@ public void InsertScalar(System.String propertyName, System.Single value)
 # Microsoft.UI.Composition.CompositionPropertySet.InsertScalar
 
 ## -description
-Inserts a [Single](/dotnet/api/system.single?redirectedfrom=MSDN) key-value pair.
+Inserts a [Single](/dotnet/api/system.single?view=dotnet-uwp-10.0&preserve-view=true) key-value pair.
 
 ## -parameters
 ### -param propertyName

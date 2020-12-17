@@ -15,10 +15,10 @@ Extends [IIterable](/uwp/api/windows.foundation.collections.iiterable`1) to enab
 
 
 > **.NET**
-> This interface appears as [System.Collections.IEnumerable](/dotnet/api/system.collections.ienumerable?redirectedfrom=MSDN).
+> This interface appears as [System.Collections.IEnumerable](/dotnet/api/system.collections.ienumerable?view=dotnet-uwp-10.0&preserve-view=true).
 
 ## -remarks
-When programming with .NET, this interface is hidden and developers should use the [System.Collections.IEnumerable](/dotnet/api/system.collections.ienumerable?redirectedfrom=MSDN) interface.
+When programming with .NET, this interface is hidden and developers should use the [System.Collections.IEnumerable](/dotnet/api/system.collections.ienumerable?view=dotnet-uwp-10.0&preserve-view=true) interface.
 
 ## -examples
 

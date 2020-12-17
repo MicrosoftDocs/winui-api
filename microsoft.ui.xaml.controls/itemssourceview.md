@@ -15,7 +15,7 @@ Represents a standardized view of the supported interactions between a given Ite
 
 ## -remarks
 
-Components written to work with [ItemsRepeater](itemsrepeater.md) should consume the [ItemsSource](itemsrepeater_itemssource.md) via ItemsSourceView since this provides a normalized view of the ItemsSource. That way, each component does not need to know if the source is an [IEnumerable](/dotnet/api/system.collections.generic.ienumerable-1), an [IVector](/uwp/api/windows.foundation.collections.ivector_t_), or something else.
+Components written to work with [ItemsRepeater](itemsrepeater.md) should consume the [ItemsSource](itemsrepeater_itemssource.md) via ItemsSourceView since this provides a normalized view of the ItemsSource. That way, each component does not need to know if the source is an [IEnumerable](/dotnet/api/system.collections.generic.ienumerable-1?view=dotnet-uwp-10.0&preserve-view=true), an [IVector](/uwp/api/windows.foundation.collections.ivector_t_), or something else.
 
 ## -see-also
 

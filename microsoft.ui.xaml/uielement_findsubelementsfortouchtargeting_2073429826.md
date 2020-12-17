@@ -27,7 +27,7 @@ Points in the list are in descending z-order: topmost in the rendering stack app
 
 [FindElementsInHostCoordinates](/uwp/api/windows.ui.xaml.media.visualtreehelper.findelementsinhostcoordinates(windows.foundation.point,windows.ui.xaml.uielement)) is a similar static-class helper method that is also used for hit testing and general object tree examination. However, FindSubElementsForTouchTargeting adds the refinement of a [Rect](/uwp/api/windows.foundation.rect) input to use for touch tolerance.
 
-If you are programming using C# or Microsoft Visual Basic, the return value type of this method is projected as an [IEnumerable](/dotnet/api/system.collections.generic.ienumerable-1) generic collection that contains [UIElement](uielement.md) items. If you are programming using Visual C++ component extensions (C++/CX), the return type of this method is [IIterable<UIElement>](/uwp/api/windows.foundation.collections.iiterable`1).
+If you are programming using C# or Microsoft Visual Basic, the return value type of this method is projected as an [IEnumerable](/dotnet/api/system.collections.generic.ienumerable-1?view=dotnet-uwp-10.0&preserve-view=true) generic collection that contains [UIElement](uielement.md) items. If you are programming using Visual C++ component extensions (C++/CX), the return type of this method is [IIterable<UIElement>](/uwp/api/windows.foundation.collections.iiterable`1).
 
 ## -examples
 

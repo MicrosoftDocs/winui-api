@@ -24,9 +24,9 @@ A type reference for the content to load.
 The [INavigate](inavigate.md) interface is mainly infrastructure. It's not expected that typical UWP app will implement this interface.
 
 > [!IMPORTANT]
-> If you are programming using a Microsoft .NET language (C# or Microsoft Visual Basic), the [TypeName](/uwp/api/windows.ui.xaml.interop.typename) type projects as [System.Type](/dotnet/api/system.type?redirectedfrom=MSDN).
+> If you are programming using a Microsoft .NET language (C# or Microsoft Visual Basic), the [TypeName](/uwp/api/windows.ui.xaml.interop.typename) type projects as [System.Type](/dotnet/api/system.type?view=dotnet-uwp-10.0&preserve-view=true).
 
 ## -examples
 
 ## -see-also
-[Frame.Navigate](frame_navigate_1557370995.md), [HyperlinkButton](hyperlinkbutton.md), [System.Type](/dotnet/api/system.type?redirectedfrom=MSDN)
+[Frame.Navigate](frame_navigate_1557370995.md), [HyperlinkButton](hyperlinkbutton.md), [System.Type](/dotnet/api/system.type?view=dotnet-uwp-10.0&preserve-view=true)

@@ -14,7 +14,7 @@ Causes the [Frame](frame.md) to load content represented by the specified [Page]
 
 ## -parameters
 ### -param sourcePageType
-The page to navigate to, specified as a type reference to its partial class type. (A type reference is given as [System.Type](/dotnet/api/system.type?redirectedfrom=MSDN) for Microsoft .NET, or a [TypeName](/uwp/api/windows.ui.xaml.interop.typename) helper struct for Visual C++ component extensions (C++/CX)).
+The page to navigate to, specified as a type reference to its partial class type. (A type reference is given as [System.Type](/dotnet/api/system.type?view=dotnet-uwp-10.0&preserve-view=true) for Microsoft .NET, or a [TypeName](/uwp/api/windows.ui.xaml.interop.typename) helper struct for Visual C++ component extensions (C++/CX)).
 
 ## -returns
 **false** if a [NavigationFailed](frame_navigationfailed.md) event handler has set [Handled](../microsoft.ui.xaml.navigation/navigationfailedeventargs_handled.md) to **true**; otherwise, **true**. See Remarks for more info.
@@ -27,7 +27,7 @@ Apps typically use [GetNavigationState](frame_getnavigationstate_1352043812.md) 
 The parameter value can have a complex type if you do not use [GetNavigationState](frame_getnavigationstate_1352043812.md). However, you should still use only basic types in order to avoid excess memory usage caused by the frame’s navigation stack holding a reference to the parameter. A preferred approach is to not pass the actual object, but instead pass an identifier that you can use to look up the object in the target landing page. For example, instead of passing a `Customer` object, pass a reference to the `CustomerID`, then look up the `Customer` after the navigation is complete.
 
 > [!TIP]
-> If you are programming using a Microsoft .NET language (C# or Microsoft Visual Basic), the [TypeName](/uwp/api/windows.ui.xaml.interop.typename) type projects as [System.Type](/dotnet/api/system.type?redirectedfrom=MSDN). When programming using C#, it is common to use the **typeof** operator to get references to the [System.Type](/dotnet/api/system.type?redirectedfrom=MSDN) of a type. In Microsoft Visual Basic, use **GetType**. If you're using Visual C++ component extensions (C++/CX), where you'll need to create a [TypeName](/uwp/api/windows.ui.xaml.interop.typename) helper struct, you can use the [typeid component extension](/cpp/windows/typeid-cpp-component-extensions).
+> If you are programming using a Microsoft .NET language (C# or Microsoft Visual Basic), the [TypeName](/uwp/api/windows.ui.xaml.interop.typename) type projects as [System.Type](/dotnet/api/system.type?view=dotnet-uwp-10.0&preserve-view=true). When programming using C#, it is common to use the **typeof** operator to get references to the [System.Type](/dotnet/api/system.type?view=dotnet-uwp-10.0&preserve-view=true) of a type. In Microsoft Visual Basic, use **GetType**. If you're using Visual C++ component extensions (C++/CX), where you'll need to create a [TypeName](/uwp/api/windows.ui.xaml.interop.typename) helper struct, you can use the [typeid component extension](/cpp/windows/typeid-cpp-component-extensions).
 
 ## -examples
 

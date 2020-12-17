@@ -17,4 +17,4 @@ Specifies that a control can be in a certain state and that a [VisualState](visu
 ## -examples
 
 ## -see-also
-[Attribute](/dotnet/api/system.attribute?redirectedfrom=MSDN)
+[Attribute](/dotnet/api/system.attribute?view=dotnet-uwp-10.0&preserve-view=true)
