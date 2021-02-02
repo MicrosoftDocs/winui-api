@@ -86,14 +86,6 @@ Obviously, not every control is intended to display text within it. For example,
 
 Text properties on Control also inherit implicitly for a control that has a [ContentPresenter](contentpresenter.md) within it that displays text. For example, if you set [FontSize](control_fontsize.md) on a [Button](button.md), there's no explicit [{TemplateBinding} markup extension](/windows/uwp/xaml-platform/templatebinding-markup-extension) in its template or [ContentPresenter](contentpresenter.md) part that controls what the template does with a top-level [FontSize](control_fontsize.md) value. But the [Control.FontSize](control_fontsize.md) value is implicitly inherited by [ContentPresenter.FontSize](contentpresenter_fontsize.md) based on the context within the template's definition, so the text within the [Button](button.md) will be presented using the [Control.FontSize](control_fontsize.md) you set.
 
-<!--IsEnabled, hit testing-->
-
-<!--accessibility-->
-
-<!--Margin and Padding interactions-->
-
-<!--Content alignment and content presenters-->
-
 ### **Control** derived classes
 
 **Control** is the parent class for these immediately derived control classes. Some of these are practical controls. Others are intermediate base classes for various controls that share characteristics.

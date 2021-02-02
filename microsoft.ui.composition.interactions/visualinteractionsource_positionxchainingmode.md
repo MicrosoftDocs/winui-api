@@ -4,26 +4,29 @@
 ---
 
 <!-- Property syntax
-public Windows.UI.Composition.Interactions.InteractionChainingMode PositionXChainingMode { get;  set; }
+public Windows.UI.Composition.Interactions.InteractionChainingMode PositionXChainingMode { get; set; }
 -->
 
 # Microsoft.UI.Composition.Interactions.VisualInteractionSource.PositionXChainingMode
 
 ## -description
-The PositionXChainingMode property defines the chaining behavior for an InteractionSource in the X direction. There are three types of [InteractionChainingMode](interactionchainingmode.md) s: 
-    **Auto**
-  , 
-    **Always**
-  , 
-    **Never**
-  . When chaining in the X direction is enabled, input will flow to the nearest ancestor's [VisualInteractionSource](visualinteractionsource.md) whenever the interaction (such as panning) would otherwise take [InteractionTracker](interactiontracker.md) ’s position past its minimum or maximum X position.
+
+The PositionXChainingMode property defines the chaining behavior for an InteractionSource in the X direction. There are three [InteractionChainingMode](interactionchainingmode.md) types:
+
+- **Auto**
+- **Always**
+- **Never**
+
+When chaining in the X direction is enabled, input will flow to the nearest ancestor's [VisualInteractionSource](visualinteractionsource.md) whenever the interaction (such as panning) would otherwise take [InteractionTracker](interactiontracker.md) ’s position past its minimum or maximum X position.
 
 ## -property-value
+
 Chaining mode for the X-axis.
 
 ## -remarks
 
 ## -examples
+
 ```csharp
 
 void SetupInteractionSource(ContainerVisual container, InteractionTracker tracker)
@@ -37,7 +40,5 @@ void SetupInteractionSource(ContainerVisual container, InteractionTracker tracke
 }
           
 ```
-
-
 
 ## -see-also
