@@ -4,7 +4,7 @@
 ---
 
 <!-- Method syntax
-public ResourceLoader(System.String name)
+public ResourceLoader(System.String fileName)
 -->
 
 # Microsoft.ApplicationModel.Resources.ResourceLoader.ResourceLoader
@@ -14,7 +14,7 @@ public ResourceLoader(System.String name)
 Constructs a new [ResourceLoader](resourceloader.md) object for the specified [ResourceMap](resourcemap.md).
 
 ## -parameters
-### -param name
+### -param fileName
 The resource identifier of the [ResourceMap](resourcemap.md) that the new resource loader uses for unqualified resource references. It can then retrieve resources relative to those references.
 
 > [!NOTE]

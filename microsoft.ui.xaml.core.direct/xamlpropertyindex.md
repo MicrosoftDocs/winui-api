@@ -552,6 +552,8 @@ The _CanDrag_ property for the [UIElement](/uwp/api/windows.ui.xaml.uielement) t
 ### -field UIElement_CanBeScrollAnchor:2276
 The _CanBeScrollAnchor_ property for the [UIElement](/uwp/api/windows.ui.xaml.uielement) type.
 
+### -field ThemeShadow_Receivers:2279
+The *Receivers* property for the [ThemeShadow](../microsoft.ui.xaml.media/themeshadow.md) type.
 
 
 ### -field UIElement_CacheMode:293
@@ -572,6 +574,29 @@ The _AccessKeyScopeOwner_ property for the [UIElement](/uwp/api/windows.ui.xaml.
 ### -field UIElement_AccessKey:1803
 The _AccessKey_ property for the [UIElement](/uwp/api/windows.ui.xaml.uielement) type.
 
+
+### -field FlyoutBase_ShouldConstrainToRootBounds:2378
+The *ShouldConstrainToRootBounds* property for the [FlyoutBase](../microsoft.ui.xaml.controls.primitives/flyoutbase.md) type.
+### -field Popup_ShouldConstrainToRootBounds:2379
+The *ShouldConstrainToRootBounds* property for the [Popup](../microsoft.ui.xaml.controls.primitives/popup.md) type.
+### -field FlyoutPresenter_IsDefaultShadowEnabled:2380
+The *IsDefaultShadowEnabled* property for the [FlyoutBase](../microsoft.ui.xaml.controls.primitives/flyoutbase.md) type.
+### -field MenuFlyoutPresenter_IsDefaultShadowEnabled:2381
+The *IsDefaultShadowEnabled* property for the [FlyoutBase](../microsoft.ui.xaml.controls.primitives/flyoutbase.md) type.
+### -field UIElement_ActualOffset:2382
+The *ActualOffset* property for the [UIElement](/uwp/api/windows.ui.xaml.uielement) type.
+### -field UIElement_ActualSize:2383
+The *ActualSize* property for the [UIElement](/uwp/api/windows.ui.xaml.uielement) type.
+
+
+### -field CommandBarTemplateSettings_OverflowContentCompactYTranslation:2384
+The *OverflowContentCompactYTranslation* property for the [CommandBarTemplateSettings](../microsoft.ui.xaml.controls.primitives/commandbartemplatesettings.md) type.
+### -field CommandBarTemplateSettings_OverflowContentHiddenYTranslation:2385
+The *OverflowContentHiddenYTranslation* property for the [CommandBarTemplateSettings](../microsoft.ui.xaml.controls.primitives/commandbartemplatesettings.md) type.
+### -field CommandBarTemplateSettings_OverflowContentMinimalYTranslation:2386
+The *OverflowContentMinimalYTranslation* property for the [CommandBarTemplateSettings](../microsoft.ui.xaml.controls.primitives/commandbartemplatesettings.md) type.
+### -field UIElement_RasterizationScale:2394
+The *RasterizationScale* property for the [UIElement](/uwp/api/windows.ui.xaml.uielement) type.
 
 
 ### -field Typography_Variants:70
@@ -972,6 +997,12 @@ The _Time_ property for the [TimePicker](/uwp/api/windows.ui.xaml.controls.timep
 ### -field TimePicker_SelectedTime:2356
 The _SelectedTime_ property for the [TimePicker](/uwp/api/windows.ui.xaml.controls.timepicker) type.
 
+### -field AppBarTemplateSettings_NegativeCompactVerticalDelta:2367
+The *NegativeCompactVerticalDelta* property for the [AppBarTemplateSettings](../microsoft.ui.xaml.controls.primitives/appbartemplatesettings.md) type.
+### -field AppBarTemplateSettings_NegativeHiddenVerticalDelta:2368
+The *NegativeHiddenVerticalDelta* property for the [AppBarTemplateSettings](../microsoft.ui.xaml.controls.primitives/appbartemplatesettings.md) type.
+### -field AppBarTemplateSettings_NegativeMinimalVerticalDelta:2369
+The *NegativeMinimalVerticalDelta* property for the [AppBarTemplateSettings](../microsoft.ui.xaml.controls.primitives/appbartemplatesettings.md) type.
 
 
 ### -field TimePicker_MinuteIncrement:989
@@ -1492,7 +1523,8 @@ The _Path_ property for the [TargetPropertyPath](/uwp/api/windows.ui.xaml.target
 ### -field SymbolIconSource_Symbol:2123
 The _Symbol_ property for the [SymbolIconSource](../microsoft.ui.xaml.controls/symboliconsource.md) type.
 
-
+### -field UIElement_Shadow:2130
+The *Shadow* property for the [UIElement](../microsoft.ui.xaml/uielement.md) type.
 
 ### -field SymbolIcon_Symbol:963
 The _Symbol_ property for the [SymbolIcon](/uwp/api/windows.ui.xaml.controls.symbolicon) type.
@@ -2742,6 +2774,23 @@ The _DesiredCandidateWindowAlignment_ property for the [RichEditBox](/uwp/api/wi
 ### -field RichEditBox_Description:2316
 The _Description_ property for the [RichEditBox](/uwp/api/windows.ui.xaml.controls.richeditbox) type.
 
+### -field TextBox_ErrorTemplate:2324
+The *ErrorTemplate* property for the [TextBox](../microsoft.ui.xaml.controls/textbox.md) type.
+
+### -field TextBox_HasValidationErrors:2325
+The *HasValidationErrors* property for the [TextBox](../microsoft.ui.xaml.controls/textbox.md) type.
+
+### -field TextBox_InputValidationKind:2326
+The *InputValidationKind* property for the [TextBox](../microsoft.ui.xaml.controls/textbox.md) type.
+
+### -field TextBox_InputValidationMode:2327
+The *InputValidationMode* property for the [TextBox](../microsoft.ui.xaml.controls/textbox.md) type.
+
+### -field TextBox_ValidationContext:2329
+The *ValidationContext* property for the [TextBox](../microsoft.ui.xaml.controls/textbox.md) type.
+
+### -field TextBox_ValidationErrors:2330
+The *ValidationErrors* property for the [TextBox](../microsoft.ui.xaml.controls/textbox.md) type.
 
 
 ### -field RichEditBox_ContentLinkProviders:2078
@@ -3455,8 +3504,25 @@ The _Header_ property for the [PasswordBox](/uwp/api/windows.ui.xaml.controls.pa
 
 
 ### -field PasswordBox_Description:2308
-The _Description_ property for the [PasswordBox](/uwp/api/windows.ui.xaml.controls.passwordbox) type.
+The *Description* property for the [PasswordBox](/uwp/api/windows.ui.xaml.controls.passwordbox) type.
 
+### -field PasswordBox_ErrorTemplate:2309
+The *ErrorTemplate* property for the [PasswordBox](/uwp/api/windows.ui.xaml.controls.passwordbox) type.
+
+### -field PasswordBox_HasValidationErrors:2310
+The *HasValidationErrors* property for the [PasswordBox](/uwp/api/windows.ui.xaml.controls.passwordbox) type.
+
+### -field PasswordBox_InputValidationKind:2311
+The *InputValidationKind* property for the [PasswordBox](/uwp/api/windows.ui.xaml.controls.passwordbox) type.
+
+### -field PasswordBox_InputValidationMode:2312
+The *InputValidationMode* property for the [PasswordBox](/uwp/api/windows.ui.xaml.controls.passwordbox) type.
+
+### -field PasswordBox_ValidationContext:2314
+The *ValidationContext* property for the [PasswordBox](/uwp/api/windows.ui.xaml.controls.passwordbox) type.
+
+### -field PasswordBox_ValidationErrors:2315
+The *ValidationErrors* property for the [PasswordBox](/uwp/api/windows.ui.xaml.controls.passwordbox) type.
 
 
 ### -field PasswordBox_CanPasteClipboardContent:2137
@@ -6587,6 +6653,18 @@ The _Header_ property for the [ComboBox](/uwp/api/windows.ui.xaml.controls.combo
 ### -field ComboBox_Description:2339
 The _Description_ property for the [ComboBox](/uwp/api/windows.ui.xaml.controls.combobox) type.
 
+### -field ComboBox_ErrorTemplate:2340
+The *ErrorTemplate* property for the [ComboBox](/uwp/api/windows.ui.xaml.controls.combobox) type.
+### -field ComboBox_HasValidationErrors:2341
+The *HasValidationErrors* property for the [ComboBox](/uwp/api/windows.ui.xaml.controls.combobox) type.
+### -field ComboBox_InputValidationKind:2342
+The *InputValidationKind* property for the [ComboBox](/uwp/api/windows.ui.xaml.controls.combobox) type.
+### -field ComboBox_InputValidationMode:2343
+The *InputValidationMode* property for the [ComboBox](/uwp/api/windows.ui.xaml.controls.combobox) type.
+### -field ComboBox_ValidationContext:2345
+The *ValidationContext* property for the [ComboBox](/uwp/api/windows.ui.xaml.controls.combobox) type.
+### -field ComboBox_ValidationErrors:2346
+The *ValidationErrors* property for the [ComboBox](/uwp/api/windows.ui.xaml.controls.combobox) type.
 
 
 ### -field ColumnDefinition_Width:95
@@ -7617,6 +7695,18 @@ The _Header_ property for the [AutoSuggestBox](/uwp/api/windows.ui.xaml.controls
 ### -field AutoSuggestBox_Description:2331
 The _Description_ property for the [AutoSuggestBox](/uwp/api/windows.ui.xaml.controls.autosuggestbox) type.
 
+### -field AutoSuggestBox_ErrorTemplate:2332
+The *ErrorTemplate* property for the [AutoSuggestBox](/uwp/api/windows.ui.xaml.controls.autosuggestbox) type.
+### -field AutoSuggestBox_HasValidationErrors:2333
+The *HasValidationErrors* property for the [AutoSuggestBox](/uwp/api/windows.ui.xaml.controls.autosuggestbox) type.
+### -field AutoSuggestBox_InputValidationKind:2334
+The *InputValidationKind* property for the [AutoSuggestBox](/uwp/api/windows.ui.xaml.controls.autosuggestbox) type.
+### -field AutoSuggestBox_InputValidationMode:2335
+The *InputValidationMode* property for the [AutoSuggestBox](/uwp/api/windows.ui.xaml.controls.autosuggestbox) type.
+### -field AutoSuggestBox_ValidationContext:2337
+The *ValidationContext* property for the [AutoSuggestBox](/uwp/api/windows.ui.xaml.controls.autosuggestbox) type.
+### -field AutoSuggestBox_ValidationErrors:2338
+The *ValidationErrors* property for the [AutoSuggestBox](/uwp/api/windows.ui.xaml.controls.autosuggestbox) type.
 
 
 ### -field AutoSuggestBox_AutoMaximizeSuggestionArea:1019

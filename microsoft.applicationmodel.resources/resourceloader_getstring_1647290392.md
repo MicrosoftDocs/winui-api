@@ -4,7 +4,7 @@
 ---
 
 <!-- Method syntax
-public string GetString(System.String resource)
+public string GetString(System.String resourceId)
 -->
 
 # Microsoft.ApplicationModel.Resources.ResourceLoader.GetString
@@ -16,7 +16,7 @@ Returns the most appropriate string value of a resource, specified by resource i
 <!--Writer todo: Link to how to create and identify resources.-->
 
 ## -parameters
-### -param resource
+### -param resourceId
 The resource identifier of the resource to be resolved.
 
 > [!NOTE]

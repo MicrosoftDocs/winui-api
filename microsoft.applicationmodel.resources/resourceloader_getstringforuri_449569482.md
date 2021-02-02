@@ -4,7 +4,7 @@
 ---
 
 <!-- Method syntax
-public string GetStringForUri(Windows.Foundation.Uri uri)
+public string GetStringForUri(Windows.Foundation.Uri resourceUri)
 -->
 
 # Microsoft.ApplicationModel.Resources.ResourceLoader.GetStringForUri
@@ -13,7 +13,7 @@ public string GetStringForUri(Windows.Foundation.Uri uri)
 Returns the most appropriate string value of a resource, specified by a Uniform Resource Identifier (URI) resource identifier, for the default [ResourceContext](resourcecontext.md) of the currently running app.
 
 ## -parameters
-### -param uri
+### -param resourceUri
 A Uniform Resource Identifier (URI) that represents the resource to be retrieved.
 
 ## -returns
