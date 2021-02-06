@@ -11,7 +11,7 @@ public NavigationViewBackButtonVisible IsBackButtonVisible { get;  set; }
 
 ## -description
 
-Gets or sets a value that indicates whether the back button is enabled or disabled.
+Gets or sets a value that indicates whether the back button is visible or not. The value "Auto" indicates that the NavigationView determines whether the back button is visible or not depending on the display mode of the NavigationView.
 
 
 ## -property-value
