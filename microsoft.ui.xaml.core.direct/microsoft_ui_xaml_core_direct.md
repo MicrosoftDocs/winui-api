@@ -64,7 +64,7 @@ IXamlDirect button = xd.CreateInstance(XamlTypeIndex.Button);
 xd.AddToCollection(childrenCollection, button);
 ```
 
-```CPP
+```c++
 XamlDirect^ xd = XamlDirect::GetDefault();
 
 IXamlDirect^ relativePanel = xd->CreateInstance(XamlTypeIndex::RelativePanel);
