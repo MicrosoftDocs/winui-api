@@ -11,7 +11,7 @@ public sealed class ResourceContext
 
 ## -description
 
-Encapsulates all of the factors ([ResourceQualifiers](resourcequalifiers.md)) that might affect resource selection.
+Encapsulates all of the factors that might affect resource selection.
 
 ## -remarks
 
