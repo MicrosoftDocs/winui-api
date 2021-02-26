@@ -19,10 +19,6 @@ A double that represents the orientation-specific x- or y-value that is the"From
 
 ## -remarks
 
-This property enables dual, concurrent animations as demonstrated here:
-
-![ProgressRing with dual animations](./images/progressring.gif)
-
 ## -see-also
 
  [ContainerAnimationEndPosition](progressbartemplatesettings_containeranimationendposition.md), [Container2AnimationStartPosition](progressbartemplatesettings_container2animationstartposition.md), [Container2AnimationEndPosition](progressbartemplatesettings_container2animationendposition.md), [ContainerAnimationMidPosition](progressbartemplatesettings_containeranimationmidposition.md)

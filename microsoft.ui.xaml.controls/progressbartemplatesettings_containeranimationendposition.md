@@ -19,10 +19,6 @@ A double that represents the orientation-specific x- or y-value that is the targ
 
 ## -remarks
 
-This property enables dual, concurrent animations as demonstrated here:
-
-![ProgressRing with dual animations](./images/progressring.gif)
-
 ## -see-also
 
 [ContainerAnimationStartPosition](progressbartemplatesettings_containeranimationstartposition.md), [Container2AnimationEndPosition](progressbartemplatesettings_container2animationendposition.md), [Container2AnimationStartPosition](progressbartemplatesettings_container2animationstartposition.md), [ContainerAnimationMidPosition](progressbartemplatesettings_containeranimationmidposition.md)
