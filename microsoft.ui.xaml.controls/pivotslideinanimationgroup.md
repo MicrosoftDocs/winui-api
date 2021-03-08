@@ -12,6 +12,11 @@ public enum Windows.UI.Xaml.Controls.PivotSlideInAnimationGroup : int
 ## -description
 Defines constants that specify the different slide-in animation groups that [Pivot](pivot.md) elements can belong to.
 
+> [!Important]
+> The **Pivot** control is no longer recommended and could be removed in future releases of the Windows UI Library (WinUI). Note that information and images in this topic might be out of date.
+>
+> Please use the [NavigationView](navigationview.md) ([NavigationViewPaneDisplayMode](navigationviewpanedisplaymode.md) of Top) instead.
+
 ## -enum-fields
 ### -field Default:0
 The element belongs to the default animation group. It slides in after the [Pivot](pivot.md) header.

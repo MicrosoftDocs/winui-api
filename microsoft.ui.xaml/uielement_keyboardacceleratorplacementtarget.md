@@ -19,10 +19,6 @@ The control tooltip that displays the accelerator key combination.
 
 ## -remarks
 
-<!-- 
-Use the [KeyboardAcceleratorToolTipTarget](uielement_keyboardacceleratortooltiptarget.md) property to specify the control tooltip that displays the accelerator key combination. For example, a Pivot control can display the tooltip for a PivotItem with the Pivot header.  
--->
-
 Use the [KeyboardAcceleratorPlacementMode](uielement_keyboardacceleratorplacementmode.md) property to specify whether the control tooltip displays the key combination for it's associated keyboard accelerator.
 
 ## -examples
@@ -42,7 +38,7 @@ Use the [KeyboardAcceleratorPlacementMode](uielement_keyboardacceleratorplacemen
 </Grid>
 ```
 
-In some cases, you might need to present a tooltip relative to another element (typically a container object). For example, a Pivot control that displays the tooltip for a PivotItem with the Pivot header. 
+In some cases, you might need to present a tooltip relative to another element (typically a container object).
 
 Here, we show how to use the KeyboardAcceleratorPlacementTarget property to display the keyboard accelerator key combination for a Save button with the Grid container instead of the button.
 

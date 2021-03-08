@@ -13,6 +13,11 @@ public class Pivot : Windows.UI.Xaml.Controls.ItemsControl, Windows.UI.Xaml.Cont
 
 Represents a control that provides quick navigation of views within an app.
 
+> [!Important]
+> The **Pivot** control is no longer recommended and could be removed in future releases of the Windows UI Library (WinUI). Note that information and images in this topic might be out of date.
+>
+> Please use the [NavigationView](navigationview.md) ([NavigationViewPaneDisplayMode](navigationviewpanedisplaymode.md) of Top) instead.
+
 ## -xaml-syntax
 
 ```xaml

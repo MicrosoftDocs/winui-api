@@ -12,6 +12,11 @@ public class PivotItem : Windows.UI.Xaml.Controls.ContentControl, Windows.UI.Xam
 ## -description
 Represents the container for an item in a [Pivot](pivot.md) control.
 
+> [!Important]
+> The **Pivot** control is no longer recommended and could be removed in future releases of the Windows UI Library (WinUI). Note that information and images in this topic might be out of date.
+>
+> Please use the [NavigationView](navigationview.md) ([NavigationViewPaneDisplayMode](navigationviewpanedisplaymode.md) of Top) instead.
+
 ## -xaml-syntax
 ```xaml
 <PivotItem .../>

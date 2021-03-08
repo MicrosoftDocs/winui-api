@@ -11,13 +11,13 @@ public class TabView : Windows.UI.Xaml.Controls.Control
 
 ## -description
 
-The TabView control is a way to display a set of tabs and their respective content. Tab controls are useful for displaying several pages (or documents) of content while giving a user the capability to rearrange, open, or close new tabs. 
+The TabView control is a way to display a set of tabs and their respective content. Tab controls are useful for displaying several pages (or documents) of content while giving a user the capability to rearrange, open, or close new tabs.
 
 **Is this the right control?**
 
-Use a TabView to help the user manage multiple app pages or documents within the same window. 
+Use a TabView to help the user manage multiple app pages or documents within the same window.
 
-Do not use a TabView to display a static set of tabs that the user cannot rearrange, open, or close. Use a Pivot or top NavigationView instead. 
+Do not use a TabView to display a static set of tabs that the user cannot rearrange, open, or close. Use a [NavigationView](navigationview.md) ([NavigationViewPaneDisplayMode](navigationviewpanedisplaymode.md) of Top) instead.
 
 ## -remarks
 
