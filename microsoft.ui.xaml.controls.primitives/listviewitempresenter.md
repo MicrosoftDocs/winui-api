@@ -23,15 +23,6 @@ The XAML usage shown is intended to be part of a XAML template or style for a [L
 
 For a custom ListViewItemPresenter, use the name of your class as the string within the object element syntax for XAML. You'll probably have to map an **xmlns** definition with a prefix to refer to your class definition. For more info, see [XAML namespaces and namespace mapping](/windows/uwp/xaml-platform/xaml-namespaces-and-namespace-mapping).
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1709 | 16299 | RevealBackground |
-| 1709 | 16299 | RevealBackgroundShowsAboveContent |
-| 1709 | 16299 | RevealBorderBrush |
-| 1709 | 16299 | RevealBorderThickness |
-
 ## -examples
 
 ## -see-also

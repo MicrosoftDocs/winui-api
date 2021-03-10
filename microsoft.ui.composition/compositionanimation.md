@@ -20,15 +20,6 @@ Use the [CompostionObject.StartAnimation](compositionobject_startanimation_39440
 
 Value parameters (as opposed to reference parameters which are set using [SetReferenceParameter](compositionanimation_setreferenceparameter_1113449737.md)) are copied and "embedded" into an expression at the time [CompositionObject.StartAnimation](compositionobject_startanimation_394405412.md) is called. Changing the value of the variable after [CompositionObject.StartAnimation](compositionobject_startanimation_394405412.md) is called will not affect the value of the [ExpressionAnimation](expressionanimation.md). See the remarks section of [ExpressionAnimation](expressionanimation.md) for additional information.
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1607 | 14393 | SetBooleanParameter |
-| 1607 | 14393 | Target |
-| 1709 | 16299 | InitialValueExpressions |
-| 1809 | 17763 | SetExpressionReferenceParameter |
-
 ## -examples
 
 ## -see-also

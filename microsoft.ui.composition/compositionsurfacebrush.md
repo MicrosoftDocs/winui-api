@@ -14,7 +14,7 @@ Paints a [SpriteVisual](spritevisual.md) with pixels from an ICompositionSurface
 
 ## -remarks
 
-The Stretch property, in conjunction with the HorizontalAlignmentRatio and VerticalAlignmentRatio properties, is used to specify the scale and positioning of the CompositionSurfaceBrush’s contents when painted onto a SpriteVisual.
+The Stretch property, in conjunction with the HorizontalAlignmentRatio and VerticalAlignmentRatio properties, is used to specify the scale and positioning of the CompositionSurfaceBrush's contents when painted onto a SpriteVisual.
 
 CompositionSurfaceBrush also has the following properties that enable custom transformations:
 
@@ -32,20 +32,7 @@ The order of transformation operations on a CompositionSurfaceBrush is as follow
 
 1. Any other transformation properties set on the CompositionSurfaceBrush are applied.
 
-    Custom transformations applied to a CompositionSurfaceBrush are therefore evaluated in the coordinate space of the SpriteVisual that the brush is painted onto. For example, setting an Offset of Vector2(100, 0) offsets the brush’s stretched and aligned contents by 100 units to the right relative to the left edge of the [SpriteVisual](spritevisual.md) it is painted onto.
-
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1607 | 14393 | AnchorPoint |
-| 1607 | 14393 | CenterPoint |
-| 1607 | 14393 | Offset |
-| 1607 | 14393 | RotationAngle |
-| 1607 | 14393 | RotationAngleInDegrees |
-| 1607 | 14393 | Scale |
-| 1607 | 14393 | TransformMatrix |
-| 1903 | 18362 | SnapToPixels |
+    Custom transformations applied to a CompositionSurfaceBrush are therefore evaluated in the coordinate space of the SpriteVisual that the brush is painted onto. For example, setting an Offset of Vector2(100, 0) offsets the brush's stretched and aligned contents by 100 units to the right relative to the left edge of the [SpriteVisual](spritevisual.md) it is painted onto.
 
 ## -examples
 Draw an image asset onto a SpriteVisual

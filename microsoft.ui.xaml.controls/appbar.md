@@ -28,7 +28,7 @@ Represents the container control that holds app UI components for commanding and
 > [!IMPORTANT]
 > You should use the AppBar only when you are upgrading a Universal Windows 8 app that uses the AppBar, and need to minimize changes. For new apps in Windows 10, we recommend using the [CommandBar](commandbar.md) control instead.
 
-An app bar is a UI element that's typically used to present commands and tools to the user, but can also be used for navigation. An app bar can appear at the top of the page, at the bottom of the page, or both. By default, its shown in a minimal state. Its content is shown or hidden when the user presses the ellipsis [•••], or performs a right-click that is not otherwise handled by the app.
+An app bar is a UI element that's typically used to present commands and tools to the user, but can also be used for navigation. An app bar can appear at the top of the page, at the bottom of the page, or both. By default, its shown in a minimal state. Its content is shown or hidden when the user presses the ellipsis [***], or performs a right-click that is not otherwise handled by the app.
 
 Here's an app bar in it's minimal state.
 
@@ -40,7 +40,7 @@ Here's the app bar when it's open.
 
 You can open and close the app bar programmatically by setting the [IsOpen](appbar_isopen.md) property. You can use the [Opening](appbar_opening.md), [Opened](appbar_opened.md), [Closing](appbar_closing.md), and [Closed](appbar_closed.md) events to respond to the app bar being opened or closed.
 
-By default, the app bar is dismissed (closed) when the user interacts with the app anywhere outside of the app bar. Closing the app bar this way is called *light dismiss*. You can control how the app bar is dismissed by setting the [IsSticky](appbar_issticky.md) property. When the app bar is *sticky*, it's not closed by a *light dismiss* gesture. The app bar remains visible until the user right clicks or presses the ellipsis [•••].
+By default, the app bar is dismissed (closed) when the user interacts with the app anywhere outside of the app bar. Closing the app bar this way is called *light dismiss*. You can control how the app bar is dismissed by setting the [IsSticky](appbar_issticky.md) property. When the app bar is *sticky*, it's not closed by a *light dismiss* gesture. The app bar remains visible until the user right clicks or presses the ellipsis [***].
 
 To add an app bar in Extensible Application Markup Language (XAML), you assign an AppBar control to a [Page](page.md)'s [TopAppBar](page_topappbar.md) or [BottomAppBar](page_bottomappbar.md) property. A single app bar can be shared across multiple pages. You can add and remove commands programmatically based on the page context.
 
@@ -70,12 +70,6 @@ This table shows the resources used by the AppBar control.
    <tr><td>AppBarEllipsisButtonBorderBrushPressed</td><td>Border color of ellipsis when pressed</td></tr>
    <tr><td>AppBarEllipsisButtonBorderBrushDisabled</td><td>Border color of ellipsis when disabled</td></tr>
 </table>
-
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1607 | 14393 | LightDismissOverlayMode |
 
 ## -examples
 

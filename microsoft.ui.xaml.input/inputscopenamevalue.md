@@ -206,12 +206,6 @@ Expected input does not include emoji. Advises input processors to not show the 
 > [!NOTE]
 > Support for a given input scope value can vary across input methods.
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1607 | 14393 | ChatWithoutEmoji |
-
 ## -examples
 
 ## -see-also

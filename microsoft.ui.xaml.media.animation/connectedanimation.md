@@ -21,15 +21,6 @@ There is a known limitation where ConnectedAnimation does not work well with the
 
 See the [Connected animation sample](https://github.com/microsoft/WindowsCompositionSamples/tree/master/SampleGallery/Samples/SDK 14393/ConnectedAnimationSample) for a complete example of ConnectedAnimation.
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1703 | 15063 | IsScaleAnimationEnabled |
-| 1703 | 15063 | SetAnimationComponent |
-| 1703 | 15063 | TryStart(UIElement,IEnumerable<UIElement>) |
-| 1809 | 17763 | Configuration |
-
 ## -examples
 
 > [!TIP]

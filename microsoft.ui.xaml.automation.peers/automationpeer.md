@@ -62,31 +62,6 @@ The "Core" methods are the standard implementations that perform the default act
 
 The base implementation for AutomationPeer returns null. Peers that represent items may defer the result to their container.
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1511 | 10586 | GetLandmarkType |
-| 1511 | 10586 | GetLandmarkTypeCore |
-| 1511 | 10586 | GetLocalizedLandmarkType |
-| 1511 | 10586 | GetLocalizedLandmarkTypeCore |
-| 1607 | 14393 | GetDescribedByCore |
-| 1607 | 14393 | GetFlowsFromCore |
-| 1607 | 14393 | GetFlowsToCore |
-| 1607 | 14393 | GetFullDescription |
-| 1607 | 14393 | GetFullDescriptionCore |
-| 1607 | 14393 | IsDataValidForForm |
-| 1607 | 14393 | IsDataValidForFormCore |
-| 1607 | 14393 | IsPeripheral |
-| 1607 | 14393 | IsPeripheralCore |
-| 1703 | 15063 | GetCulture |
-| 1703 | 15063 | GetCultureCore |
-| 1709 | 16299 | RaiseNotificationEvent |
-| 1803 | 17134 | GetHeadingLevel |
-| 1803 | 17134 | GetHeadingLevelCore |
-| 1809 | 17763 | IsDialog |
-| 1809 | 17763 | IsDialogCore |
-
 ## -examples
 
 ## -see-also

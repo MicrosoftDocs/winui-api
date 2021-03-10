@@ -14,7 +14,7 @@ Represents a control that allows a user to pick a date from a calendar display.
 
 ## -remarks
 
-CalendarDatePicker is a drop down control that’s optimized for picking a single date from a calendar view where contextual information like the day of the week or fullness of the calendar is important. It’s similar to the [DatePicker](datepicker.md) control, but the [DatePicker](datepicker.md) is optimized for picking a known date, such as a date of birth, where the context of the calendar is not important.
+CalendarDatePicker is a drop down control that's optimized for picking a single date from a calendar view where contextual information like the day of the week or fullness of the calendar is important. It's similar to the [DatePicker](datepicker.md) control, but the [DatePicker](datepicker.md) is optimized for picking a known date, such as a date of birth, where the context of the calendar is not important.
 
 You can use the CalendarDatePicker control in its default form with a minimal amount of Extensible Application Markup Language (XAML) or other code, or you can customize it in various ways to suit your app. Here's a simple CalendarDatePicker created in Extensible Application Markup Language (XAML) and code.
 
@@ -117,13 +117,6 @@ This table shows the resources used by the CalendarDatePicker control.
    <tr><td>CalendarDatePickerBorderBrushPressed</td><td>Border color when pressed</td></tr>
    <tr><td>CalendarDatePickerBorderBrushDisabled</td><td>Border color when disabled</td></tr>
 </table>
-
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1607 | 14393 | LightDismissOverlayMode |
-| 1809 | 17763 | Description |
 
 ## -examples
 

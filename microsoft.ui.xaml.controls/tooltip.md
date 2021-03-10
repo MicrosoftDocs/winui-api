@@ -94,12 +94,6 @@ This table shows the resources used by the ToolTip control.
 
    ToolTip is displayed only within the bounds of the app window. It's placement might be adjusted to stay within those bounds.
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1809 | 17763 | PlacementRect |
-
 ## -examples
 
 > [!TIP]

@@ -53,12 +53,6 @@ In the following example, we get extended pointer properties through the [Pointe
 
 Typically, the object returned by this method is used to feed pointer data to a [GestureRecognizer](/uwp/api/windows.ui.input.gesturerecognizer). Another scenario is getting the [MouseWheelDelta](/uwp/api/windows.ui.input.pointerpointproperties.mousewheeldelta) for a [PointerWheelChanged](../microsoft.ui.xaml/uielement_pointerwheelchanged.md) event; that value is in [PointerPointProperties](/uwp/api/windows.ui.input.pointerpointproperties).
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1709 | 16299 | IsGenerated |
-
 ## -examples
 The following code example shows scenario 2 from the [Input sample](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/411c271e537727d737a53fa2cbe99eaecac00cc0/Official%20Windows%20Platform%20Sample/Input%20XAML%20user%20input%20events%20sample). This code shows some usage patterns for direct manipulation using the [PointerPressed](../microsoft.ui.xaml/uielement_pointerpressed.md), [PointerReleased](../microsoft.ui.xaml/uielement_pointerreleased.md), [PointerEntered](../microsoft.ui.xaml/uielement_pointerentered.md), [PointerExited](../microsoft.ui.xaml/uielement_pointerexited.md), and [PointerMoved](../microsoft.ui.xaml/uielement_pointermoved.md) events.
 

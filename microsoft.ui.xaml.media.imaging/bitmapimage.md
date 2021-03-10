@@ -126,16 +126,6 @@ void playButton_Click(object sender, RoutedEventArgs e)
 
 For more examples, see the [Animated GIF playback sample](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/XamlAnimatedGif).
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1607 | 14393 | AutoPlay |
-| 1607 | 14393 | IsAnimatedBitmap |
-| 1607 | 14393 | IsPlaying |
-| 1607 | 14393 | Play |
-| 1607 | 14393 | Stop |
-
 ## -examples
 
 Here's an example of using a BitmapImage object to set [Image.Source](../microsoft.ui.xaml.controls/image_source.md) in C#. In this example, the [Image](../microsoft.ui.xaml.controls/image.md) object was created in XAML but doesn't have a source or any other property values; instead these values are provided at run-time when the [Image](../microsoft.ui.xaml.controls/image.md) is loaded from XAML.

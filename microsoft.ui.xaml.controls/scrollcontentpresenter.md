@@ -24,13 +24,6 @@ content
 
 ## -remarks
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1809 | 17763 | CanContentRenderOutsideBounds |
-| 1809 | 17763 | SizesContentToTemplatedParent |
-
 ## -examples
 
 ## -see-also

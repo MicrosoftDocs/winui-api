@@ -64,26 +64,6 @@ The default color of the hyperlink is the accent color of the system. You can se
 
 By default, Hyperlink is underlined. This underline is important because it helps meet accessibility requirements. Color-blind users use the underline to distinguish between hyperlinks and other text. You can set the [UnderlineStyle](hyperlink_underlinestyle.md) property to disable the underline. If you disable underlines, you should consider adding some other type of formatting difference to distinguish hyperlinks from other text, such as [FontWeight](textelement_fontweight.md) or [FontStyle](textelement_fontstyle.md).
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1607 | 14393 | ElementSoundMode |
-| 1607 | 14393 | XYFocusDown |
-| 1607 | 14393 | XYFocusLeft |
-| 1607 | 14393 | XYFocusRight |
-| 1607 | 14393 | XYFocusUp |
-| 1703 | 15063 | Focus |
-| 1703 | 15063 | FocusState |
-| 1703 | 15063 | GotFocus |
-| 1703 | 15063 | LostFocus |
-| 1703 | 15063 | XYFocusDownNavigationStrategy |
-| 1703 | 15063 | XYFocusLeftNavigationStrategy |
-| 1703 | 15063 | XYFocusRightNavigationStrategy |
-| 1703 | 15063 | XYFocusUpNavigationStrategy |
-| 1709 | 16299 | IsTabStop |
-| 1709 | 16299 | TabIndex |
-
 ## -examples
 Here's an example of a simple Hyperlink element in a [TextBlock](../microsoft.ui.xaml.controls/textblock.md).
 

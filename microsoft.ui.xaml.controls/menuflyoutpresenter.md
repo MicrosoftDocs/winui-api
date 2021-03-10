@@ -41,13 +41,6 @@ This table shows the resources used by the MenuFlyoutPresenter control.
    <tr><td>MenuFlyoutPresenterBorderBrush</td><td>Border color of entire control bounds</td></tr>
 </table>
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1511 | 10586 | TemplateSettings |
-| 1903 | 18362 | IsDefaultShadowEnabled |
-
 ## -examples
 
 ## -see-also

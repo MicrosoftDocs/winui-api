@@ -26,12 +26,6 @@ Adjusts the scroll offset to keep the last visible item in the viewport when ite
 ## -remarks
 See [ItemsStackPanel.ItemsUpdatingScrollMode](itemsstackpanel_itemsupdatingscrollmode.md) for more info.
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1607 | 14393 | KeepLastItemInView |
-
 ## -examples
 
 ## -see-also

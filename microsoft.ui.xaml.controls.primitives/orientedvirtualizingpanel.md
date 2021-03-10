@@ -17,12 +17,6 @@ Adds infrastructure (provides base class) for virtualizing layout containers tha
 
 OrientedVirtualizingPanel is the parent class for [VirtualizingStackPanel](../microsoft.ui.xaml.controls/virtualizingstackpanel.md) and [WrapGrid](../microsoft.ui.xaml.controls/wrapgrid.md).
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1607 | 14393 | GetInsertionIndexes |
-
 ## -examples
 
 ## -see-also

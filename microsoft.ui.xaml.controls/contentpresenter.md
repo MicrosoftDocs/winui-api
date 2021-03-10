@@ -42,13 +42,6 @@ ContentPresenter is the parent class for these classes:
 + [GridViewItemPresenter](../microsoft.ui.xaml.controls.primitives/gridviewitempresenter.md)
 + [ListViewItemPresenter](../microsoft.ui.xaml.controls.primitives/listviewitempresenter.md)
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1809 | 17763 | BackgroundSizing |
-| 1809 | 17763 | BackgroundTransition |
-
 ## -examples
 This example shows a typical placement of a ContentPresenter object element as part of the [ControlTemplate](controltemplate.md) for a [ContentControl](contentcontrol.md). This example is a simplification of the Windows Runtime XAML default style for [HyperlinkButton](hyperlinkbutton.md). One example [VisualState](../microsoft.ui.xaml/visualstate.md) is included to show how the ContentPresenter properties are changed based on state. The ContentPresenter is within a [Border](border.md) in the composition; it's common for content controls to have the ContentPresenter nested within one other parent element, and that parent element often template-binds some of the control properties that a ContentPresenter doesn't have. Note also how the ContentPresenter uses [{TemplateBinding} markup extension](/windows/uwp/xaml-platform/templatebinding-markup-extension) to bind [HorizontalAlignment](../microsoft.ui.xaml/frameworkelement_horizontalalignment.md) / [VerticalAlignment](../microsoft.ui.xaml/frameworkelement_verticalalignment.md) values to the control properties of where the template is applied.
 

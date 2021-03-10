@@ -162,21 +162,6 @@ Most aspects of this behavior change don't affect apps at all. However, your app
 
 Apps that were compiled for Windows 8 but running on Windows 8.1 continue to use the Windows 8 behavior.
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1809 | 17763 | AnchorRequested |
-| 1809 | 17763 | CanContentRenderOutsideBounds |
-| 1809 | 17763 | CurrentAnchor |
-| 1809 | 17763 | GetCanContentRenderOutsideBounds |
-| 1809 | 17763 | HorizontalAnchorRatio |
-| 1809 | 17763 | ReduceViewportForCoreInputViewOcclusions |
-| 1809 | 17763 | RegisterAnchorCandidate |
-| 1809 | 17763 | SetCanContentRenderOutsideBounds |
-| 1809 | 17763 | UnregisterAnchorCandidate |
-| 1809 | 17763 | VerticalAnchorRatio |
-
 ## -examples
 
 > [!TIP]

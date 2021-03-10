@@ -30,13 +30,6 @@ App code typically doesn't call [SelectTemplate](datatemplateselector_selecttemp
 
 For example XAML that references a custom DataTemplateSelector as the [HeaderTemplateSelector](groupstyle_headertemplateselector.md) value, and example code that shows the overrides for [HeaderTemplateSelector](groupstyle_headertemplateselector.md) methods, see [How to group items in a list or grid](/previous-versions/windows/apps/hh780627(v=win.10)).
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1809 | 17763 | GetElement |
-| 1809 | 17763 | RecycleElement |
-
 ## -examples
 
 ## -see-also

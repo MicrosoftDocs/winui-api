@@ -26,7 +26,7 @@ Represents a text control that makes suggestions to users as they enter text usi
 
 Use an AutoSuggestBox to provide a list of suggestions for a user to select from as they type.
 
-By default, the text entry box doesn’t have a query button shown. You can set the [QueryIcon](autosuggestbox_queryicon.md) property to add a button with the specified icon on the right side of the text box. For example, to make the AutoSuggestBox look like a typical search box, add a ‘find’ icon, like this.
+By default, the text entry box doesn't have a query button shown. You can set the [QueryIcon](autosuggestbox_queryicon.md) property to add a button with the specified icon on the right side of the text box. For example, to make the AutoSuggestBox look like a typical search box, add a 'find' icon, like this.
 
 ```xaml
 <AutoSuggestBox QueryIcon="Find"/>
@@ -142,13 +142,6 @@ This table shows the resources used by the AutoSuggestBox control. Resources tha
    <tr><td>TextControlButtonForegroundPointerOver</td><td>Foreground color of delete button on hover</td></tr>
    <tr><td>TextControlButtonForegroundPressed</td><td>Foreground color of delete button when pressed</td></tr>
 </table>
-
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1607 | 14393 | LightDismissOverlayMode |
-| 1809 | 17763 | Description |
 
 ## -examples
 

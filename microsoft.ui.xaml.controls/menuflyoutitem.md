@@ -49,14 +49,6 @@ This table shows the resources used by the MenuFlyoutItem control.
    <tr><td>MenuFlyoutItemForegroundDisabled</td><td>Text color when disabled</td></tr>
 </table>
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1703 | 15063 | Icon |
-| 1803 | 17134 | KeyboardAcceleratorTextOverride |
-| 1803 | 17134 | TemplateSettings |
-
 ## -examples
 
 > [!TIP]

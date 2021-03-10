@@ -27,12 +27,6 @@ The main purpose of the FlyoutPresenter class is to be the default internal pres
 
 FlyoutPresenter exists as a class and has a default constructor basically to satisfy XAML infrastructure support, when it's specified as the [TargetType](../microsoft.ui.xaml/style_targettype.md) of the [Style](../microsoft.ui.xaml/style.md) used for a [FlyoutPresenterStyle](flyout_flyoutpresenterstyle.md) value.
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1903 | 18362 | IsDefaultShadowEnabled |
-
 ## -examples
 
 ## -see-also

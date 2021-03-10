@@ -73,14 +73,6 @@ This table shows the resources used by the DatePicker control.
    <tr><td>DateTimePickerFlyoutButtonBorderBrushPressed</td><td>Flyout button border color when pressed</td></tr>
 </table>
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1607 | 14393 | LightDismissOverlayMode |
-| 1809 | 17763 | SelectedDate |
-| 1809 | 17763 | SelectedDateChanged |
-
 ## -examples
 
 > [!TIP]

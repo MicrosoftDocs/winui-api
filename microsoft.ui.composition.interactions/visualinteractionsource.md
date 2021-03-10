@@ -77,24 +77,6 @@ The chaining configuration indicates whether input that is processed by one Visu
 </section>
 -->
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1703 | 15063 | ConfigureCenterPointXModifiers |
-| 1703 | 15063 | ConfigureCenterPointYModifiers |
-| 1703 | 15063 | ConfigureDeltaPositionXModifiers |
-| 1703 | 15063 | ConfigureDeltaPositionYModifiers |
-| 1703 | 15063 | ConfigureDeltaScaleModifiers |
-| 1703 | 15063 | DeltaPosition |
-| 1703 | 15063 | DeltaScale |
-| 1703 | 15063 | Position |
-| 1703 | 15063 | PositionVelocity |
-| 1703 | 15063 | Scale |
-| 1703 | 15063 | ScaleVelocity |
-| 1809 | 17763 | PointerWheelConfig |
-| 1903 | 18362 | CreateFromIVisualElement |
-
 ## -examples
 ```csharp
 

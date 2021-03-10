@@ -89,14 +89,6 @@ In order to support XAML processor access to the attached properties, and also t
 | Row | Gets or sets the row alignment of an element when child layout is processed by a parent Grid layout container.<ul><li>Type: int</li><li>Identifier field: <a href="/uwp/api/windows.ui.xaml.controls.grid.rowproperty">RowProperty</a></li><li>Accessor methods: <a href="/uwp/api/windows.ui.xaml.controls.grid.getrow">GetRow</a>, <a href="/uwp/api/windows.ui.xaml.controls.grid.setrow">SetRow</a></li></ul>The value is the zero-based index of the Grid row that the element should appear within. Negative values are not permitted.|
 | RowSpan | Gets or sets a value that indicates the total number of rows that the element content spans within a parent Grid.<ul><li>Type: int</li><li>Identifier field: <a href="/uwp/api/windows.ui.xaml.controls.grid.rowspanproperty">RowSpanProperty</a></li><li>Accessor methods: <a href="/uwp/api/windows.ui.xaml.controls.grid.getrowspan">GetRowSpan</a>, <a href="/uwp/api/windows.ui.xaml.controls.grid.setrowspan">SetRowSpan</a></li></ul> Zero or negative integer values are not permitted. Values that are greater than the total number of rows are treated as if they specified the total number and will span all rows.|
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1709 | 16299 | ColumnSpacing |
-| 1709 | 16299 | RowSpacing |
-| 1809 | 17763 | BackgroundSizing |
-
 ## -examples
 
 > [!TIP]

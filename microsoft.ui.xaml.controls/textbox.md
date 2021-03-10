@@ -59,7 +59,7 @@ You can use a TextBox control to display and edit unformatted text. If you need 
 
 ### Use TextBox for data input in a form
 
-It’s common to use a TextBox to accept data input on a form, and use the [Text](textbox_text.md) property to get the complete text string from the TextBox. You typically use an event like a submit button Click to access the [Text](textbox_text.md) property, but you can handle the [TextChanged](textbox_textchanged.md) or [TextChanging](textbox_textchanging.md) event if you need to do something when the text changes. You can add a [Header](textbox_header.md) (or label) and [PlaceholderText](textbox_placeholdertext.md) (or watermark) to the TextBox to give the user an indication of what the TextBox is for. To customize the look of the header, you can set the [HeaderTemplate](textbox_headertemplate.md) property instead of [Header](textbox_header.md). For design info, see [Guidelines for labels](/windows/uwp/controls-and-patterns/labels).
+It's common to use a TextBox to accept data input on a form, and use the [Text](textbox_text.md) property to get the complete text string from the TextBox. You typically use an event like a submit button Click to access the [Text](textbox_text.md) property, but you can handle the [TextChanged](textbox_textchanged.md) or [TextChanging](textbox_textchanging.md) event if you need to do something when the text changes. You can add a [Header](textbox_header.md) (or label) and [PlaceholderText](textbox_placeholdertext.md) (or watermark) to the TextBox to give the user an indication of what the TextBox is for. To customize the look of the header, you can set the [HeaderTemplate](textbox_headertemplate.md) property instead of [Header](textbox_header.md). For design info, see [Guidelines for labels](/windows/uwp/controls-and-patterns/labels).
 
 You can restrict the number of characters the user can type by setting the [MaxLength](textbox_maxlength.md) property. However, [MaxLength](textbox_maxlength.md) does not restrict the length of pasted text. Use the [Paste](textbox_paste.md) event to modify pasted text if this is important for your app.
 
@@ -83,7 +83,7 @@ You can make a TextBox read-only by setting the [IsReadOnly](textbox_isreadonly.
 There are two properties that control whether the TextBox displays text on more than one line. 
 + To let the text box allow and display the newline or return characters, set the [AcceptsReturn](textbox_acceptsreturn.md) property to **true**.
 + To enable text wrapping, set the [TextWrapping](textbox_textwrapping.md) property to **Wrap**. (TextBox doesn't support the **TextWrapping.WrapWholeWords** enumeration value.)
- A multi-line TextBox will continue to grow vertically as text is entered unless it’s constrained by its [Height](../microsoft.ui.xaml/frameworkelement_height.md) or [MaxHeight](../microsoft.ui.xaml/frameworkelement_maxheight.md) property, or by a parent container. You should test that a multi-line TextBox doesn’t grow beyond its visible area, and constrain its growth if it does. Scrolling using a scroll-wheel or touch is automatically enabled when needed. However, vertical scrollbars are not shown by default. You can show the vertical scrollbars by setting the [ScrollViewer.VerticalScrollBarVisibility](scrollviewer_verticalscrollbarvisibility.md) to **Auto** on the embedded [ScrollViewer](scrollviewer.md), as shown here.
+ A multi-line TextBox will continue to grow vertically as text is entered unless it's constrained by its [Height](../microsoft.ui.xaml/frameworkelement_height.md) or [MaxHeight](../microsoft.ui.xaml/frameworkelement_maxheight.md) property, or by a parent container. You should test that a multi-line TextBox doesn't grow beyond its visible area, and constrain its growth if it does. Scrolling using a scroll-wheel or touch is automatically enabled when needed. However, vertical scrollbars are not shown by default. You can show the vertical scrollbars by setting the [ScrollViewer.VerticalScrollBarVisibility](scrollviewer_verticalscrollbarvisibility.md) to **Auto** on the embedded [ScrollViewer](scrollviewer.md), as shown here.
 
 ```xaml
 <TextBox AcceptsReturn="True" TextWrapping="Wrap" 
@@ -213,34 +213,6 @@ This table shows the resources used by the TextBox control. Resources that start
    <tr><td>TextControlButtonForegroundPointerOver</td><td>Foreground color of delete button on hover</td></tr>
    <tr><td>TextControlButtonForegroundPressed</td><td>Foreground color of delete button when pressed</td></tr>
 </table>
-
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1511 | 10586 | GetLinguisticAlternativesAsync |
-| 1703 | 15063 | SelectionHighlightColorWhenNotFocused |
-| 1709 | 16299 | BeforeTextChanging |
-| 1709 | 16299 | CharacterCasing |
-| 1709 | 16299 | CopyingToClipboard |
-| 1709 | 16299 | CuttingToClipboard |
-| 1709 | 16299 | HorizontalTextAlignment |
-| 1709 | 16299 | PlaceholderForeground |
-| 1803 | 17134 | HandwritingView |
-| 1803 | 17134 | IsHandwritingViewEnabled |
-| 1809 | 17763 | CanPasteClipboardContent |
-| 1809 | 17763 | CanRedo |
-| 1809 | 17763 | CanUndo |
-| 1809 | 17763 | ClearUndoRedoHistory |
-| 1809 | 17763 | CopySelectionToClipboard |
-| 1809 | 17763 | CutSelectionToClipboard |
-| 1809 | 17763 | Description |
-| 1809 | 17763 | PasteFromClipboard |
-| 1809 | 17763 | ProofingMenuFlyout |
-| 1809 | 17763 | Redo |
-| 1809 | 17763 | SelectionChanging |
-| 1809 | 17763 | SelectionFlyout |
-| 1809 | 17763 | Undo |
 
 ## -examples
 

@@ -17,13 +17,7 @@ A LayerVisual is a special input type that can be used to select a tree of visua
 
 + If the effect has one input, the EffectBrush uses the subtree rooted at the LayerVisual as the input.
 + If the effect has 2 inputs, the first unbounded input of the EffectBrush uses the subtree rooted at the LayerVisual as the input.
-+ The system does not allow an effect with 0 inputs or effects with all inputs bounded to SurfaceBrush to be set as the EffectBrush on LayerVisual’s Effect property. This will throw an exception.
-
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1709 | 16299 | Shadow |
++ The system does not allow an effect with 0 inputs or effects with all inputs bounded to SurfaceBrush to be set as the EffectBrush on LayerVisual's Effect property. This will throw an exception.
 
 ## -examples
 Apply Effects to a LayerVisual

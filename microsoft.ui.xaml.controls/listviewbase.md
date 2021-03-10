@@ -21,15 +21,6 @@ For user interface purposes, ListViewBase should be thought of as an abstract ba
 
 ListViewBase is the parent class for [GridView](gridview.md) and [ListView](listview.md).
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1607 | 14393 | IsDragSource |
-| 1607 | 14393 | SingleSelectionFollowsFocus |
-| 1703 | 15063 | PrepareConnectedAnimation |
-| 1703 | 15063 | TryStartConnectedAnimationAsync |
-
 ## -examples
 
 ## -see-also

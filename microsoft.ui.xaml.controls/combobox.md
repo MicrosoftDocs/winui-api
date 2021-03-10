@@ -72,19 +72,6 @@ This table shows the resources used by the ComboBox control.
    <tr><td>ComboBoxDropDownBorderBrush</td><td>Border color around control's popup when selecting items</td></tr>
 </table>
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1607 | 14393 | IsTextSearchEnabled |
-| 1607 | 14393 | LightDismissOverlayMode |
-| 1703 | 15063 | SelectionChangedTrigger |
-| 1709 | 16299 | PlaceholderForeground |
-| 1809 | 17763 | Description |
-| 1809 | 17763 | Text |
-| 1809 | 17763 | TextBoxStyle |
-| 1809 | 17763 | TextSubmitted |
-
 ## -examples
 
 > [!TIP]

@@ -34,7 +34,7 @@ TextBlock is the primary control for displaying read-only text in apps. You can 
 
 <img alt="Text block control" src="images/controls/TextBlock.png" />
 
- TextBlock is typically easier to use and provides better text rendering performance than [RichTextBlock](richtextblock.md), so it's preferred for most app UI text. It also provides many of the same formatting options for customizing how your text is rendered. Although you can put line breaks in the text, TextBlock is designed to display a single paragraph and doesn’t support text indentation. Consider a [RichTextBlock](richtextblock.md) if you need support for multiple paragraphs, multi-column text, or inline UI elements like images.
+ TextBlock is typically easier to use and provides better text rendering performance than [RichTextBlock](richtextblock.md), so it's preferred for most app UI text. It also provides many of the same formatting options for customizing how your text is rendered. Although you can put line breaks in the text, TextBlock is designed to display a single paragraph and doesn't support text indentation. Consider a [RichTextBlock](richtextblock.md) if you need support for multiple paragraphs, multi-column text, or inline UI elements like images.
 
 ### Text performance
 
@@ -69,19 +69,6 @@ By default TextBlock supports display color fonts. The default color font on the
 The rendered text looks like this:
 
 <img alt="Text block with color font" src="images/TextBlock_ColorFonts.png" />
-
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1607 | 14393 | GetAlphaMask |
-| 1703 | 15063 | TextDecorations |
-| 1709 | 16299 | HorizontalTextAlignment |
-| 1709 | 16299 | IsTextTrimmed |
-| 1709 | 16299 | IsTextTrimmedChanged |
-| 1709 | 16299 | TextHighlighters |
-| 1809 | 17763 | CopySelectionToClipboard |
-| 1809 | 17763 | SelectionFlyout |
 
 ## -examples
 

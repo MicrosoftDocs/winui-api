@@ -38,20 +38,6 @@ An effect can be simple operations such as a desaturation, more complicated oper
 
 See the remarks section of [CompositionEffectBrush](compositioneffectbrush.md) for additional information on creating and using effects.
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1607 | 14393 | Comment |
-| 1607 | 14393 | ImplicitAnimations |
-| 1607 | 14393 | StartAnimationGroup |
-| 1607 | 14393 | StopAnimationGroup |
-| 1709 | 16299 | DispatcherQueue |
-| 1803 | 17134 | TryGetAnimationController |
-| 1809 | 17763 | PopulatePropertyInfo |
-| 1809 | 17763 | StartAnimationGroupWithIAnimationObject |
-| 1809 | 17763 | StartAnimationWithIAnimationObject |
-
 ## -examples
 This sample shows how the composition API can be used to create a self-contained app without using XAML, WWA, or DirectX. The sample initializes a new [Compositor](compositor.md), and then creates a scene graph with two [SpriteVisual](spritevisual.md) objects.
 

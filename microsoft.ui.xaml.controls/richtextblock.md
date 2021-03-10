@@ -29,7 +29,7 @@ Represents a rich text display container that supports formatted text, hyperlink
 
 The RichTextBlock control displays read-only text, and provides several features for advanced text layout. Use a RichTextBlock when you need support for paragraphs, inline UI elements, or overflow text.
 
-[TextBlock](textblock.md) provides a simpler content model, so it’s typically easier to use, and it can provide better text rendering performance than RichTextBlock. It also provides many of the same formatting options for customizing how your text is rendered. However, RichTextBlock provides several unique features that [TextBlock](textblock.md) doesn’t provide.
+[TextBlock](textblock.md) provides a simpler content model, so it's typically easier to use, and it can provide better text rendering performance than RichTextBlock. It also provides many of the same formatting options for customizing how your text is rendered. However, RichTextBlock provides several unique features that [TextBlock](textblock.md) doesn't provide.
 
 For more info and examples, see the [RichTextBlock control guide](/windows/uwp/controls-and-patterns/rich-text-block).
 
@@ -50,18 +50,6 @@ You can use a RichTextBlock with [RichTextBlockOverflow](richtextblockoverflow.m
 ### Font fallback
 
 The default [FontFamily](richtextblock_fontfamily.md) for RichTextBlock is Segoe UI and the default [FontSize](richtextblock_fontsize.md) is 15 device-independent pixel (DIP). By default, RichTextBlock utilizes a font fallback mechanism to show glyphs that are not included in the specified font. If the glyph that is needed in a RichTextBlock is not available in the specified font, the font fallback mechanism goes through a list of fonts on the system to try and display the required characters in a different font.
-
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1703 | 15063 | TextDecorations |
-| 1709 | 16299 | HorizontalTextAlignment |
-| 1709 | 16299 | IsTextTrimmed |
-| 1709 | 16299 | IsTextTrimmedChanged |
-| 1709 | 16299 | TextHighlighters |
-| 1809 | 17763 | CopySelectionToClipboard |
-| 1809 | 17763 | SelectionFlyout |
 
 ## -examples
 

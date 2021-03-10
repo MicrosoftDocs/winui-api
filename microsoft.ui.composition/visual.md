@@ -78,14 +78,6 @@ Public ReadWrite Property IsHitTestVisible As bool
 
 `true` if the visual sub-tree rooted at this visual participates in hit testing; otherwise, `false`. The default is `true`.
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1703 | 15063 | ParentForTransform |
-| 1703 | 15063 | RelativeOffsetAdjustment |
-| 1703 | 15063 | RelativeSizeAdjustment |
-
 ## -examples
 
 ## -see-also

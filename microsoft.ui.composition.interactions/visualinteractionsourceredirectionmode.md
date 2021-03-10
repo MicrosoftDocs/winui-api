@@ -33,13 +33,6 @@ Pointer input goes to the UI thread, mouse wheel input goes to the compositor.
 
 ## -remarks
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1803 | 17134 | CapableTouchpadAndPointerWheel |
-| 1803 | 17134 | PointerWheelOnly |
-
 ## -examples
 
 ## -see-also

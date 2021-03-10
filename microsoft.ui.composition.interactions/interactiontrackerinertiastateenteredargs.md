@@ -16,19 +16,12 @@ The [InteractionTrackerOwner.InertiaStateEntered](iinteractiontrackerowner_inert
 
 ## -remarks
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1809 | 17763 | IsInertiaFromImpulse |
-| 1903 | 18362 | IsFromBinding |
-
 ## -examples
 
 
 ```csharp
 
-public void InertiaStateEntered(InteractionTracker sender, 	InteractionTrackerInertiaStateEnteredArgs args)
+public void InertiaStateEntered(InteractionTracker sender,     InteractionTrackerInertiaStateEnteredArgs args)
 {
   // Natural and Modified Resting Positions and Scale
   Vector3 naturalRestPos = args.NaturalRestingPosition;

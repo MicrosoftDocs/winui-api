@@ -14,12 +14,6 @@ Provides data for the [FocusEngaged](control_focusengaged.md) event.
 
 ## -remarks
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1703 | 15063 | Handled |
-
 ## -examples
 
 ## -see-also

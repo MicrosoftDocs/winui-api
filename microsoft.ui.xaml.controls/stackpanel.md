@@ -46,14 +46,6 @@ StackPanel defines border properties that let you draw a border around the Stack
 </StackPanel>
 ```
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1607 | 14393 | GetInsertionIndexes |
-| 1709 | 16299 | Spacing |
-| 1809 | 17763 | BackgroundSizing |
-
 ## -examples
 
 > [!TIP]

@@ -15,15 +15,6 @@ Represents the options that can be applied when an element is brought into view.
 ## -remarks
 For more info, see the [UIElement.StartBringIntoView](uielement_startbringintoview_98767959.md) method.
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1803 | 17134 | HorizontalAlignmentRatio |
-| 1803 | 17134 | HorizontalOffset |
-| 1803 | 17134 | VerticalAlignmentRatio |
-| 1803 | 17134 | VerticalOffset |
-
 ## -see-also
 
 ## -examples

@@ -26,7 +26,7 @@ Use carriage return/line feed (CR/LF) in place of a carriage return.
 Retrieve text including the alternate text for the images in the range.
 
 ### -field AllowFinalEop:8
-Allow retrieving the final end-of-paragraph (EOP) if it’s included in the range. This EOP exists in all rich-text controls and cannot be deleted. It does not exist in plain-text controls.
+Allow retrieving the final end-of-paragraph (EOP) if it's included in the range. This EOP exists in all rich-text controls and cannot be deleted. It does not exist in plain-text controls.
 
 ### -field NoHidden:32
 Don't include hidden text.
@@ -43,12 +43,6 @@ Use line feed (LF) in place of all carriage returns.
 
 ## -remarks
 If both UseLf and UseCrLf are used an invalid argument exception is thrown. 
-
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1703 | 15063 | UseLf |
 
 ## -examples
 

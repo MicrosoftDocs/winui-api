@@ -29,12 +29,6 @@ This table shows the resources used by the TimePickerFlyoutPresenter control.
    <tr><td>TimePickerFlyoutPresenterHighlightFill</td><td>Highlight color</td></tr>
 </table>
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1903 | 18362 | IsDefaultShadowEnabled |
-
 ## -examples
 
 ## -see-also

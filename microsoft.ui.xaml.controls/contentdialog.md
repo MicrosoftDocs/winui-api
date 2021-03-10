@@ -39,7 +39,7 @@ The ContentDialog has 3 built-in buttons that describe the actions that the user
 Use the [CloseButtonText](contentdialog_closebuttontext.md) and property to set the display text for the safe, non-destructive button. The dialog's close button will also be invoked when the user performs a Cancel action, like pressing the ESC key or pressing the system back button.
 Use the [PrimaryButtonText](contentdialog_primarybuttontext.md) and [SecondaryButtonText](contentdialog_secondarybuttontext.md) properties to display responses to the main question or action posed by the dialog.
 
-The [CloseButtonText](contentdialog_closebuttontext.md) property is not available prior to Windows 10, version 1703. If your app’s 'minimum platform version' setting in Microsoft Visual Studio is less than the 'introduced version' shown in the Requirements block later in this page, you should use the [SecondaryButtonText](contentdialog_secondarybuttontext.md) property instead. For more info, see [Version adaptive code](/windows/uwp/debug-test-perf/version-adaptive-code).
+The [CloseButtonText](contentdialog_closebuttontext.md) property is not available prior to Windows 10, version 1703. If your app's 'minimum platform version' setting in Microsoft Visual Studio is less than the 'introduced version' shown in the Requirements block later in this page, you should use the [SecondaryButtonText](contentdialog_secondarybuttontext.md) property instead. For more info, see [Version adaptive code](/windows/uwp/debug-test-perf/version-adaptive-code).
 
 To show the dialog, call the [ShowAsync](contentdialog_showasync_606257163.md) method. Use the result of this method to determine which of the buttons was clicked, if any button was clicked. If the user presses ESC, the system back arrow, or Gamepad B, the result of this method will be None.
 
@@ -95,20 +95,6 @@ This table shows the resources used by the ContentDialog control.
    <tr><td>ContentDialogBackground</td><td>Background color</td></tr>
    <tr><td>ContentDialogBorderBrush</td><td>Border color</td></tr>
 </table>
-
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1703 | 15063 | CloseButtonClick |
-| 1703 | 15063 | CloseButtonCommand |
-| 1703 | 15063 | CloseButtonCommandParameter |
-| 1703 | 15063 | CloseButtonStyle |
-| 1703 | 15063 | CloseButtonText |
-| 1703 | 15063 | DefaultButton |
-| 1703 | 15063 | PrimaryButtonStyle |
-| 1703 | 15063 | SecondaryButtonStyle |
-| 1709 | 16299 | ShowAsync(ContentDialogPlacement) |
 
 ## -examples
 

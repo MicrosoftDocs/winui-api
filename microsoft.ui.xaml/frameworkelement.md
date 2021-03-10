@@ -76,24 +76,6 @@ FrameworkElement is the parent class for several immediately derived classes tha
 + The [IconElement](../microsoft.ui.xaml.controls/iconelement.md) base class: parent class for [FontIcon](../microsoft.ui.xaml.controls/fonticon.md), [SymbolIcon](../microsoft.ui.xaml.controls/symbolicon.md) and so on.
 + Miscellaneous UI elements: [Popup](../microsoft.ui.xaml.controls.primitives/popup.md), [TickBar](../microsoft.ui.xaml.controls.primitives/tickbar.md), [Viewbox](../microsoft.ui.xaml.controls/viewbox.md).
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1607 | 14393 | AllowFocusOnInteraction |
-| 1607 | 14393 | AllowFocusWhenDisabled |
-| 1607 | 14393 | FocusVisualMargin |
-| 1607 | 14393 | FocusVisualPrimaryBrush |
-| 1607 | 14393 | FocusVisualPrimaryThickness |
-| 1607 | 14393 | FocusVisualSecondaryBrush |
-| 1607 | 14393 | FocusVisualSecondaryThickness |
-| 1703 | 15063 | DeferTree |
-| 1709 | 16299 | ActualTheme |
-| 1709 | 16299 | ActualThemeChanged |
-| 1809 | 17763 | EffectiveViewportChanged |
-| 1809 | 17763 | InvalidateViewport |
-| 1809 | 17763 | IsLoaded |
-
 ## -examples
 
 ## -see-also

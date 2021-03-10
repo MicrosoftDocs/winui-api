@@ -39,7 +39,7 @@ AppBarButton has two sizes; normal and compact. By default, it's shown with a te
 
 When used in the [CommandBar](commandbar.md) control as part of the [PrimaryCommands](commandbar_primarycommands.md) collection, the [CommandBar](commandbar.md) sets the [IsCompact](appbarbutton_iscompact.md) property automatically as the control opens and closes. If you use an app bar button elsewhere, like in the [Content](contentcontrol_content.md) of a [CommandBar](commandbar.md), in an [AppBar](appbar.md), or the app canvas, you need to set the [IsCompact](appbarbutton_iscompact.md) property appropriately in your code. When used outside of an app bar, Windows guidelines indicate that the button should always be in its compact state. You should also include a [ToolTip](tooltip.md) to display the text label.
 
-You use the [Label](appbarbutton_label.md) and [Icon](appbarbutton_icon.md) properties to define the content of the app bar buttons. Set the [Label](appbarbutton_label.md) property to a string to specify the text label. It’s shown by default, and is hidden when the button is in its compact state, so you also need to define a meaningful icon. To define the app bar button icon, set the [Icon](appbarbutton_icon.md) property to an element derived from the [IconElement](iconelement.md) class. There are four kinds of icon elements provided:
+You use the [Label](appbarbutton_label.md) and [Icon](appbarbutton_icon.md) properties to define the content of the app bar buttons. Set the [Label](appbarbutton_label.md) property to a string to specify the text label. It's shown by default, and is hidden when the button is in its compact state, so you also need to define a meaningful icon. To define the app bar button icon, set the [Icon](appbarbutton_icon.md) property to an element derived from the [IconElement](iconelement.md) class. There are four kinds of icon elements provided:
 
 + [FontIcon](fonticon.md) - the icon is based on a glyph from the specified font family.
 + [BitmapIcon](bitmapicon.md) - the icon is based on a bitmap image file with the specified **Uri**.
@@ -71,16 +71,6 @@ This table shows the resources used by the AppBarButton control.
    <tr><td>AppBarButtonBorderBrushPressed</td><td>Border color when pressed</td></tr>
    <tr><td>AppBarButtonBorderBrushDisabled</td><td>Border color when disabled</td></tr>
 </table>
-
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1607 | 14393 | DynamicOverflowOrder |
-| 1607 | 14393 | IsInOverflow |
-| 1607 | 14393 | LabelPosition |
-| 1803 | 17134 | KeyboardAcceleratorTextOverride |
-| 1803 | 17134 | TemplateSettings |
 
 ## -examples
 

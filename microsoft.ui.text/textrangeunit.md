@@ -120,12 +120,6 @@ ContentLink text.
 
 ## -remarks
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1803 | 17134 | ContentLink |
-
 ## -examples
 
 ## -see-also

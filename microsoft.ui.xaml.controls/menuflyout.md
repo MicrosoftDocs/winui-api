@@ -48,12 +48,6 @@ In addition to the members listed above, there are other members of the base cla
 + [FlyoutBase.AttachedFlyout](/windows/winui/api/microsoft.ui.xaml.controls.primitives.flyoutbase#xaml-attached-properties): an attached property that associates a MenuFlyout with a particular UI element (this can be any [FrameworkElement](../microsoft.ui.xaml/frameworkelement.md) derived class).
 + [ShowAttachedFlyout](/uwp/api/windows.ui.xaml.controls.primitives.flyoutbase.showattachedflyout(windows.ui.xaml.frameworkelement)): a static method that can determine whether a flyout is already associated with a UI element through a [FlyoutBase.AttachedFlyout](/windows/winui/api/microsoft.ui.xaml.controls.primitives.flyoutbase#xaml-attached-properties) usage. If so, the method calls [ShowAt](/uwp/api/windows.ui.xaml.controls.primitives.flyoutbase.showat(windows.ui.xaml.frameworkelement)) internally, using the [FrameworkElement](../microsoft.ui.xaml/frameworkelement.md) that you specified.
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1809 | 17763 | ShowAt |
-
 ## -examples
 
 > [!TIP]

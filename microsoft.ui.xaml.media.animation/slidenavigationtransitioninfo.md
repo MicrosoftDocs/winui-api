@@ -22,12 +22,6 @@ Provides the parameters for a slide navigation transition.
 
 ## -remarks
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1809 | 17763 | Effect |
-
 ## -examples
 
 ## -see-also

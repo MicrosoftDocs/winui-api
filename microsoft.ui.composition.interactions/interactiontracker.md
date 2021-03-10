@@ -22,7 +22,7 @@ Handles the logic of input that can be used as targets in ExpressionAnimations�
 IneractionTracker is intended to be used for:
 
 + Adding custom swipe behavior, for example swiping ListView items or other visuals to delete/dismiss
-+ Transitions tied to panning, for example swiping to transition between “closed” and “open” states
++ Transitions tied to panning, for example swiping to transition between "closed" and "open" states
 + Input-driven animation of an effect, for example panning causes the screen to blur
 + Custom Controls, for example creating a custom implementation of a ScrollViewer with different panning speeds or the ability to be controlled programmatically
 
@@ -49,12 +49,12 @@ The following describes what triggers each state change to happen:
    <tr><td>Idle</td><td>Interacting</td><td>This state transition only happens when a user manipulation that aligns with a VisualInteractionSource associated with the InteractionTracker is being performed.</td></tr>
    <tr><td>Idle</td><td>Inertia</td><td>This state transition only happens when the InteractionTracker is in the Idle state and TryUpdatePositionWithVelocity or TryUpdateScaleWithVelocity is called.</td></tr>
    <tr><td>Idle</td><td>CustomAnimation</td><td>This state transition happens when InteractionTracker is in the Idle state and TryUpdatePositionWithAnimation or TryUpdateScaleWithAnimation is called.</td></tr>
-   <tr><td>Interacting</td><td>Inertia</td><td>This state transition only happens when a user manipulation that has been sent to the InteractionTracker completes. When the active input ends, the InteractionTracker will enter the Inertia state, and information such as the finger’s release velocity and the InertiaDecayRate will determine the behavior during the Inertia state.</td></tr>
+   <tr><td>Interacting</td><td>Inertia</td><td>This state transition only happens when a user manipulation that has been sent to the InteractionTracker completes. When the active input ends, the InteractionTracker will enter the Inertia state, and information such as the finger's release velocity and the InertiaDecayRate will determine the behavior during the Inertia state.</td></tr>
    <tr><td>Inertia</td><td>Idle</td><td>This state transition happens when the function(s) being used to update position and/or scale are no longer resulting in change. In other words, position and scale velocity have both gotten to zero. This state transition can also happen if a call is made to explicitly update position or scale without animation or velocity. These calls will end inertia and transition to Idle with the updated property values.</td></tr>
    <tr><td>Inertia</td><td>Inertia</td><td>This state transition happens when TryUpdatePositionWithVelocity or TryUpdateScaleWithVelocity is called when already in the Inertia state. Re-entering Inertia will cause all InertiaStateEntered properties to be reevaluated.</td></tr>
    <tr><td>Inertia</td><td>CustomAnimation</td><td>This state transition happens when a call to TryUpdatePositionWithAnimation or TryUpdateScaleWithAnimation is made while in the Inertia sate.</td></tr>
    <tr><td>Inertia</td><td>Interacting</td><td>This state transition happens when active input from the user that hit-tests to the VisualInteractionSource comes in before Inertia has completed.</td></tr>
-   <tr><td>CustomAnimation</td><td>Idle</td><td>This state transition happens when all animations set on the InteractionTracker’s position and scale properties have completed.</td></tr>
+   <tr><td>CustomAnimation</td><td>Idle</td><td>This state transition happens when all animations set on the InteractionTracker's position and scale properties have completed.</td></tr>
    <tr><td>CustomAnimation</td><td>CustomAnimation</td><td>This state transition happens when a call to TryUpdatePositionWithAnimation or TryUpdateScaleWithAnimation is made while already in the CustomAnimation state.</td></tr>
    <tr><td>CustomAnimation</td><td>Inertia</td><td>This state transition happens when a call to TryUpdatePositionWithVelocity or TryUpdateScaleWithVelocity is made when in the CustomAnimation state.</td></tr>
    <tr><td>CustomAnimation</td><td>Interacting</td><td>This state transition happens when a user manipulation that hit-tests to a VisualInteractionSource associated with the InteractionTracker is being performed.</td></tr>
@@ -66,9 +66,9 @@ Any state transition made by the InteractionTracker will produce a callback indi
 
 The two most commonly used properties of the InteractionTracker are position and scale. Whenever there is a change to one or both of these properties the ValuesChanged callback will be sent with information on the current values. Due to the asynchronous nature of InteractionTracker, values received through InteractionTracker callbacks are the best way to update application logic on the current state and values of InteractionTracker and its properties.
 
-An important distinction about the InteractionTracker is that its position and scale are not associated with the coordinate space of any particular visual. At the time the InteractionTracker is created, its position will have the x, y and z subchannels of the vector set to 0, and scale will be set to 1. Only active input or Try* calls can cause these values to change. The minimum and maximum values for each property will dictate the range in which values can fluctuate. The one exception is the concept of “overpan” or “overzoom”, where an active manipulation can cause values to go slightly beyond the minimum or maximum during the Interacting state. When the manipulation completes, however, the values will always come to rest within the set range. CustomAnimations will always be clamped within the ranges set for position and scale.
+An important distinction about the InteractionTracker is that its position and scale are not associated with the coordinate space of any particular visual. At the time the InteractionTracker is created, its position will have the x, y and z subchannels of the vector set to 0, and scale will be set to 1. Only active input or Try* calls can cause these values to change. The minimum and maximum values for each property will dictate the range in which values can fluctuate. The one exception is the concept of "overpan" or "overzoom", where an active manipulation can cause values to go slightly beyond the minimum or maximum during the Interacting state. When the manipulation completes, however, the values will always come to rest within the set range. CustomAnimations will always be clamped within the ranges set for position and scale.
 
-The InteractionTracker coordinate space concept aligns with the concept of screen coordinates in that an up/left motion increases the position value and an down/right motion decreases the position value. As a result, it is very common to negate the position property when attaching it to a Visual’s Offset.
+The InteractionTracker coordinate space concept aligns with the concept of screen coordinates in that an up/left motion increases the position value and an down/right motion decreases the position value. As a result, it is very common to negate the position property when attaching it to a Visual's Offset.
 
 By default, the minimum and maximum position channels are all 0, and the minimum and maximum scale values are 1. If the desired behavior for either property is to allow it to change outside of these starting values, the minimum/maximum values need to be updated.
 
@@ -81,20 +81,6 @@ As mentioned above, the two most commonly used properties of the InteractionTrac
 ### Directing Input to the InteractionTracker
 
 After being configured, InteractionTracker still requires one last step to actually receive touch input and respond. Please see the documentation on VisualInteractionSource.[TryRedirectForManipulation](visualinteractionsource_tryredirectformanipulation_1406704629.md) for more information on configuring incoming input to flow into the InteractionTracker.
-
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1703 | 15063 | ConfigureCenterPointXInertiaModifiers |
-| 1703 | 15063 | ConfigureCenterPointYInertiaModifiers |
-| 1709 | 16299 | ConfigureVector2PositionInertiaModifiers |
-| 1809 | 17763 | IsInertiaFromImpulse |
-| 1809 | 17763 | TryUpdatePosition(Vector3,InteractionTrackerClampingOption) |
-| 1809 | 17763 | TryUpdatePositionBy(Vector3,InteractionTrackerClampingOption) |
-| 1903 | 18362 | GetBindingMode |
-| 1903 | 18362 | SetBindingMode |
-| 2004 | 19041 | TryUpdatePosition(Vector3,InteractionTrackerClampingOption,InteractionTrackerPositionUpdateOption) |
 
 ## -examples
 

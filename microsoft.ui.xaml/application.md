@@ -61,17 +61,6 @@ The following events and virtual methods are **not** invoked when running in a D
 * `EventHandler&lt;Object&gt; Resuming`
 
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1607 | 14393 | EnteredBackground |
-| 1607 | 14393 | FocusVisualKind |
-| 1607 | 14393 | LeavingBackground |
-| 1607 | 14393 | OnBackgroundActivated |
-| 1607 | 14393 | RequiresPointerMode |
-| 1703 | 15063 | HighContrastAdjustment |
-
 ## -examples
 
 ## -see-also

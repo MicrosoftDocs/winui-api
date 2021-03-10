@@ -15,12 +15,6 @@ Provides event data for the [TextBox.TextChanging](textbox_textchanging.md) even
 ## -remarks
 An instance of this class is passed as a parameter to the [TextChanging](textbox_textchanging.md) event handler.
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1703 | 15063 | IsContentChanging |
-
 ## -examples
 
 ## -see-also

@@ -17,12 +17,6 @@ CompositionGradientBrush is supported only with Rgb and RgbLinear CompositionCol
 
 ## -remarks
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1809 | 17763 | MappingMode |
-
 ## -see-also
 
 ## -examples

@@ -14,12 +14,6 @@ Provides data for the [PartialMediaFailureDetected](../microsoft.ui.xaml.control
 
 ## -remarks
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1511 | 10586 | ExtendedError |
-
 ## -examples
 
 ## -see-also

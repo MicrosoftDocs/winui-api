@@ -38,24 +38,6 @@ TextElement is a class derived from [DependencyObject](../microsoft.ui.xaml/depe
 
 TextElement is the parent class for two derived classes that split the text object model into two text usage conventions: [Block](block.md), and [Inline](inline.md). [Block](block.md) and [Inline](inline.md) are both considered base classes (you don't typically see a `<Block>` tag in XAML) and exist in the hierarchy mainly to be the parent class of other practical text elements. For example, [Block](block.md) is the parent class of [Paragraph](paragraph.md). For more info on how to use block and inline elements, see [Quickstart: Displaying text](/previous-versions/windows/apps/hh700392(v=win.10)).
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1607 | 14393 | AccessKey |
-| 1607 | 14393 | AllowFocusOnInteraction |
-| 1607 | 14393 | ExitDisplayModeOnAccessKeyInvoked |
-| 1703 | 15063 | AccessKeyDisplayDismissed |
-| 1703 | 15063 | AccessKeyDisplayRequested |
-| 1703 | 15063 | AccessKeyInvoked |
-| 1703 | 15063 | AccessKeyScopeOwner |
-| 1703 | 15063 | IsAccessKeyScope |
-| 1703 | 15063 | KeyTipHorizontalOffset |
-| 1703 | 15063 | KeyTipPlacementMode |
-| 1703 | 15063 | KeyTipVerticalOffset |
-| 1703 | 15063 | TextDecorations |
-| 1903 | 18362 | XamlRoot |
-
 ## -examples
 
 ## -see-also

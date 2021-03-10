@@ -14,16 +14,6 @@ Provides calculated values that can be referenced as **TemplatedParent** sources
 
 ## -remarks
 
-### Version history
-
-| Windows version | SDK version | Value added |
-| -- | -- | -- |
-| 1511 | 10586 | OverflowContentMaxWidth |
-| 1607 | 14393 | EffectiveOverflowButtonVisibility |
-| 1903 | 18362 | OverflowContentCompactYTranslation |
-| 1903 | 18362 | OverflowContentHiddenYTranslation |
-| 1903 | 18362 | OverflowContentMinimalYTranslation |
-
 ## -examples
 
 ## -see-also
