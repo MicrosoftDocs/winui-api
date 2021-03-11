@@ -24,7 +24,7 @@ The namespaces and APIs documented here are valid for both versions.
 
   WinUI 3 Previews can be used in all Desktop apps. Download and install the [WinUI 3 Preview VSIX package](https://aka.ms/winui3/previewdownload). This adds both the WinUI 3 project templates and the NuGet package containing the WinUI 3 libraries to Visual Studio 2019.
 
-  For instructions and more details, see [Windows UI Library 3 Preview 3 (November 2020)](/windows/apps/winui/winui3/).
+  For instructions and more details, see [Windows UI Library 3 - Project Reunion 0.5 Preview (March 2021)](/windows/apps/winui/winui3/).
 
 ### Samples
 
