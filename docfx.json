@@ -56,9 +56,9 @@
       "extendBreadcrumb": true,
       "hideEdit": "true",
       "ms.prod": "uwp",
-      "ms.technology": "winui",
+      "ms.technology": "winui-reference",
       "ms.topic": "managed-reference",
-      "ms.date": "11/26/2019",
+      "ms.date": "03/01/2021",
       "keywords": "windows 10, uwp, winrt, api, winui, Windows UI Library",
       "searchScope": ["UWP"]  
     },
