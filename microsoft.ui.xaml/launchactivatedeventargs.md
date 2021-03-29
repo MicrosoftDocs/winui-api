@@ -9,13 +9,12 @@
 public sealed class LaunchActivatedEventArgs
 -->
 
-
 ## -description
+
+Contains the window's launch state information returned by the [Application.OnLaunched](application_onlaunched_1344752508.md) event.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

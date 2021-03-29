@@ -9,16 +9,16 @@
 public Microsoft.UI.Xaml.WindowActivationState WindowActivationState { get; }
 -->
 
-
 ## -description
-Gets the activation state of the window at 
-the time the event was raised.
+
+Gets the [WindowActivationState](windowactivationstate.md) at the time the event was raised.
+
 ## -property-value
+
+The activation state of the window.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

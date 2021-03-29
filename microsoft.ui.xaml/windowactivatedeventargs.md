@@ -9,14 +9,12 @@
 public sealed class WindowActivatedEventArgs
 -->
 
-
 ## -description
-Contains the Windows activation state information returned by the [Window.Activated](window_activated.md) event.
+
+Contains the window's activation state information returned by the [Window.Activated](window_activated.md) event.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

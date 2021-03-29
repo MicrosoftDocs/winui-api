@@ -8,17 +8,22 @@ public delegate void LeavingBackgroundEventHandler(System.Object sender, Windows
 # Microsoft.UI.Xaml.LeavingBackgroundEventHandler
 
 ## -description
-Represents the method that will handle the [Application.LeavingBackground](application_leavingbackground.md) event.
+
+The handler for the [Application.LeavingBackground](application_leavingbackground.md) event.
 
 ## -parameters
+
 ### -param sender
+
 The object where the handler is attached.
 
 ### -param e
+
 Event data for the event.
 
-
 ## -remarks
+
+This event is not invoked by desktop applications.
 
 ## -examples
 

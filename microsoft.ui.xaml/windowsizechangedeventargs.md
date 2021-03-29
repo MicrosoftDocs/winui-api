@@ -9,13 +9,12 @@
 public sealed class WindowSizeChangedEventArgs
 -->
 
-
 ## -description
-Contains the argument returned by a [Window.SizeChanged](window_sizechanged.md) event.
+
+Contains the window's size state information returned by the [Window.SizeChanged](window_sizechanged.md) event.
+
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

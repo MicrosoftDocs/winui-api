@@ -9,26 +9,22 @@
 public bool ExtendsContentIntoTitleBar { get; set; }
 -->
 
-
 ## -description
-Gets or sets a value that specifies whether the default window title bar should be removed, creating more space for content.
 
-Setting this property to true causes the built-in title bar to be removed.
+Gets or sets a value that specifies whether the default title bar of the window should be removed to create space for app content.
 
 ## -property-value
 
+True, if the default title bar should be removed. Otherwise, false.
+
 ## -remarks
-Setting this property only effects rendering, it does not affect pointer (such as mouse) behavior. 
-For example, you can still use the mouse to click down in the area at the top of the window and 
-drag the window around the desktop. To change that behavior, use the [Window.SetTitleBar](window_settitlebar_1494775390.md) API.
 
-Extending the content into the title bar does not impact the Window buttons 
-(Minimize, Maximize, and Close).
+Setting this property only affects rendering, it does not affect pointer (such as mouse) behavior. For example, you can still use the mouse to click down in the area at the top of the window and drag the window around the desktop. To change this behavior, use [Window.SetTitleBar](window_settitlebar_1494775390.md).
 
-See  [Window.SetTitleBar](window_settitlebar_1494775390.md) for an example of ExtendsContentIntoTitleBar.
+Extending app content into the title bar does not affect the window buttons (Minimize, Maximize, and Close).
+
+See [Window.SetTitleBar](window_settitlebar_1494775390.md) for an example of this property.
 
 ## -see-also
 
-- [SetTitleBar](window_settitlebar_1494775390.md)
-
-
+[SetTitleBar](window_settitlebar_1494775390.md), [IWindowNative](/windows/apps/winui/reference/iwindownative)

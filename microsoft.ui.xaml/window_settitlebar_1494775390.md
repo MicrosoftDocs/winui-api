@@ -9,46 +9,35 @@
 public void SetTitleBar (Microsoft.UI.Xaml.UIElement titleBar);
 -->
 
-
 ## -description
-Makes a XAML element interact with the system as if it’s the title bar.
 
+Enables title bar behavior on a XAML element.
 
 ## -parameters
 
 ### -param titleBar
 
+The element to support title bar behavior.
+
 ## -remarks
-When this method is used, a user can move the window by dragging the XAML UIElement, or a user can invoke the window context menu by right-clicking it. As a consequence the app no longer
-receives pointer input when the user interacts with the target UIElement or its children using touch, mouse, or pen. 
-The UIElement does still receive keyboard input.
 
-Only one UIElement can act as Title bar, so the last set wins. To use multiple objects, 
-you need to wrap them in a container element (for example a Grid).
+Only a single element can be specified. If multiple elements are required, they can be specified as child elements of a single container (such as a [Grid](../microsoft.ui.xaml.controls/grid.md) or [StackPanel](../microsoft.ui.xaml.controls/stackpanel.md)). If multiple elements are specified instead of a container, the last element specified is used.
 
-The rectangular area occupied by the element acts as the title bar for pointer purposes,
-even if the element is blocked by another element,
-and even if the element is transparent.
+The specified element supports the same system interactions as the standard title bar, including drag, double-click resize, and right-click window context menu. As a result, pointer input (mouse, touch, pen, and so on) is no longer recognized by the element and its child elements.
 
-This method is typically used with the Window's [ExtendsContentIntoTitleBar](window_extendscontentintotitlebar.md) property 
-set to true in order to hide the default system title bar.
-However, even when the default system title bar is not hidden, SetTitleBar can be used to make 
-additional regions in your app behave like the title bar.
+The rectangular area occupied by the specified element acts as the title bar for pointer purposes, even if the element is blocked by another element, or the element is transparent.
 
-Title bars should have background and foreground colors based on
-whether the window is current foreground (active) or background. Additionally, there's an 
-option in Windows Settings to use the user's accent color as the foreground of the title bar.
+Keyboard input is recognized by the specified element.
 
-## -see-also
-- [ExtendsContentIntoTitleBar](window_extendscontentintotitlebar.md) 
+This method is typically used when the [ExtendsContentIntoTitleBar](window_extendscontentintotitlebar.md) property of the window is set to true (in order to hide the default system title bar). However, even when the default system title bar is not hidden, this method can still be used to make additional regions in your application behave like the title bar.
+
+Title bars should have foreground and background colors based on whether the window is currently active (in the foreground) or not. Users can also specify their own accent color to use for title bars (**Settings -> Personalization -> Colors -> Choose your accent color**).
 
 ## -examples
 
-The following shows a Window with a no built-in title bar. 
-Instead it uses the whole window as its content area. To enable features such as window dragging, 
-it designates a TextBlock as the title bar.
+The following shows how to override the system title bar and extend the window's content area. To provide title bar features, a TextBlock is designated as the title bar.
 
-```xml
+```xaml
 <Window ...>
     <Grid>
         <!-- ... -->
@@ -57,7 +46,6 @@ it designates a TextBlock as the title bar.
 
         <!-- ... -->
     </Grid>
-
 </Window>
 ```
 
@@ -68,9 +56,13 @@ protected override void OnLaunched(Microsoft.UI.Xaml.XamlLaunchActivatedEventArg
 {
     m_window = new MainWindow();
 
-    m_window.ExtendContentIntoTitleBar = true;
+    m_window.ExtendsContentIntoTitleBar = true;
     m_window.SetTitleBar(m_window.CustomTitleBar);
 
     m_window.Activate();
 }
 ```
+
+## -see-also
+
+[ExtendsContentIntoTitleBar](window_extendscontentintotitlebar.md), [IWindowNative](/windows/apps/winui/reference/iwindownative)

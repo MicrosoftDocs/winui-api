@@ -9,16 +9,16 @@
 public bool Handled { get; set; }
 -->
 
-
 ## -description
-Gets or sets whether the [Window.Activated](window_activated.md) event was handled. 
+
+Gets or sets whether the [Window.VisibilityChanged](window_visibilitychanged.md) event was handled.
+
 ## -property-value
-**True** 
-if the event has been handled by the appropriate delegate; **false** if it has not.
+
+**True**, if the event has been handled by the appropriate delegate. Otherwise, **false**.
+
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

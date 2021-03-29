@@ -9,13 +9,12 @@
 public sealed class WindowVisibilityChangedEventArgs
 -->
 
-
 ## -description
-Contains the arguments returned by the event fired when a Window instance's visibility changes.
+
+Contains the window's visibility state information returned by the [Window.VisibilityChanged](window_visibilitychanged.md) event.
+
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

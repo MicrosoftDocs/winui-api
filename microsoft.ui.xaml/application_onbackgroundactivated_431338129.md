@@ -10,10 +10,13 @@ virtual protected void OnBackgroundActivated(Windows.ApplicationModel.Activation
 # Microsoft.UI.Xaml.Application.OnBackgroundActivated
 
 ## -description
-Invoked when the application is activated in the background.
+
+Invoked when a UWP application is activated in the background. This event is not invoked by desktop applications.
 
 ## -parameters
+
 ### -param args
+
 Data about the background activation.
 
 ## -remarks
@@ -21,3 +24,5 @@ Data about the background activation.
 ## -examples
 
 ## -see-also
+
+[OnActivated](application_onactivated_603737819.md), [Launching and resuming apps](/windows/uwp/launch-resume/)

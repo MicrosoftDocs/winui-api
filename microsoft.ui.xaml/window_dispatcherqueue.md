@@ -9,14 +9,19 @@
 public Microsoft.System.DispatcherQueue DispatcherQueue { get; }
 -->
 
-
 ## -description
-Gets the [DispatcherQueue](https://docs.microsoft.com/uwp/api/Windows.System.DispatcherQueue) object for the Window.
+
+Gets the [DispatcherQueue](https://docs.microsoft.com/uwp/api/Windows.System.DispatcherQueue) object for the window.
+
 ## -property-value
 
+The [DispatcherQueue](https://docs.microsoft.com/uwp/api/Windows.System.DispatcherQueue) object for the window.
+
 ## -remarks
-Most members of the Window class can only be accessed when running on the thread the object was
-created on. This property, though, can be called from any thread.
+
+The DispatcherQueue represents a facility that can access the DependencyObject on the UI thread even if the code is initiated by a non-UI thread.
+
+Most members of the Window class can only be accessed when running on the thread the object was created on. However, this property can be called from any thread.
 
 ## -see-also
 

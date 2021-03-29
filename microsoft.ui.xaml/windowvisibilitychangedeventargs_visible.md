@@ -9,15 +9,16 @@
 public bool Visible { get; }
 -->
 
-
 ## -description
-Gets a value that indicates whether the Window is visible or not. 
+
+Gets a value that indicates whether the window is visible or not.
+
 ## -property-value
-**True** if the Window is visible; otherwise **false**.
+
+**True**, if the window is visible. Otherwise, **false**.
+
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

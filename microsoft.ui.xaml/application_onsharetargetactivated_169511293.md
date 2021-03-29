@@ -10,13 +10,17 @@ virtual protected void OnShareTargetActivated(Windows.ApplicationModel.Activatio
 # Microsoft.UI.Xaml.Application.OnShareTargetActivated
 
 ## -description
-Invoked when the application is activated through sharing association.
+
+Invoked when a UWP application is activated through sharing association. This event is not invoked by desktop applications.
 
 ## -parameters
+
 ### -param args
+
 Event data for the event.
 
 ## -remarks
+
 All [Application](application.md) overrides involved in an activation scenario should call [Window.Activate](window_activate_1797342875.md) in their implementations.
 
 For example code, see [Share target activation sample](https://github.com/microsoft/Windows-universal-samples/tree/master/Samples/ShareTarget).
@@ -29,4 +33,5 @@ For example code, see [Share target activation sample](https://github.com/micros
 ## -examples
 
 ## -see-also
-[ShareOperation](/uwp/api/windows.applicationmodel.datatransfer.sharetarget.shareoperation), [Share target activation sample](https://github.com/microsoft/Windows-universal-samples/tree/master/Samples/ShareTarget)
+
+[OnActivated](application_onactivated_603737819.md), [ShareOperation](/uwp/api/windows.applicationmodel.datatransfer.sharetarget.shareoperation), [Share target activation sample](https://github.com/microsoft/Windows-universal-samples/tree/master/Samples/ShareTarget), [Launching and resuming apps](/windows/uwp/launch-resume/)

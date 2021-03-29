@@ -10,13 +10,17 @@ virtual protected void OnFileActivated(Windows.ApplicationModel.Activation.FileA
 # Microsoft.UI.Xaml.Application.OnFileActivated
 
 ## -description
-Invoked when the application is activated through file-open.
+
+Invoked when a UWP application is activated through file-open. This event is not invoked by desktop applications.
 
 ## -parameters
+
 ### -param args
+
 Event data for the event.
 
 ## -remarks
+
 OnFileActivated is a pre-defined activation point handler that is invoked for a core [Activated](/uwp/api/windows.ui.core.corewindow.activated) event when the [ActivationKind](/uwp/api/windows.applicationmodel.activation.activationkind) is **File**.
 
 An app can register to become the default handler for a certain file type. You should only register for a file type if you expect to handle all file launches for that type of file. In addition to overriding OnFileActivated, your app must also specify an extension point in the package manifest. For more info, see [How to handle file activation](/previous-versions/windows/apps/hh779669(v=win.10)).
@@ -26,4 +30,5 @@ All [Application](application.md) overrides involved in an activation scenario s
 ## -examples
 
 ## -see-also
-[How to handle file activation](/previous-versions/windows/apps/hh779669(v=win.10)), [Handle app activation](/windows/uwp/launch-resume/activate-an-app), [Association launching sample](https://github.com/microsoft/Windows-universal-samples/tree/master/Samples/AssociationLaunching)
+
+[OnActivated](application_onactivated_603737819.md), [How to handle file activation](/previous-versions/windows/apps/hh779669(v=win.10)), [Handle app activation](/windows/uwp/launch-resume/activate-an-app), [Association launching sample](https://github.com/microsoft/Windows-universal-samples/tree/master/Samples/AssociationLaunching), [Launching and resuming apps](/windows/uwp/launch-resume/)

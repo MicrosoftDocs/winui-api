@@ -9,9 +9,10 @@
 public Windows.Foundation.Size Size { get; }
 -->
 
-
 ## -description
-Gets the new size of the Window in units of effective (view) pixels.
+
+Gets a value that indicates the size of the window in units of effective (view) pixels.
+
 ## -property-value
 
 ## -remarks
@@ -19,5 +20,3 @@ Gets the new size of the Window in units of effective (view) pixels.
 ## -see-also
 
 ## -examples
-
-
