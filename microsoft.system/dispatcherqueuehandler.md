@@ -21,7 +21,7 @@ A callback that will be executed on the **DispatcherQueue** thread.
 ## -examples
 
 ```csharp
-Windows.System.DispatcherQueueHandler handler = () =>
+Microsoft.System.DispatcherQueueHandler handler = () =>
                                 {
                                     // code for DispatcherQueue to run
                                 };
