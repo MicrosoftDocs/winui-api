@@ -42,7 +42,7 @@ The following shows how to override the system title bar and extend the window's
     <Grid>
         <!-- ... -->
 
-        <TextBlock x:Name="CustomTitleBar">Custom title text</TextBlock>
+        <TextBlock x:Name="CustomTitleBar" x:FieldModifier="Public">Custom title text</TextBlock>
 
         <!-- ... -->
     </Grid>
@@ -50,7 +50,7 @@ The following shows how to override the system title bar and extend the window's
 ```
 
 ```CS
-private Window m_window;
+private MainWindow m_window;
 
 protected override void OnLaunched(Microsoft.UI.Xaml.XamlLaunchActivatedEventArgs args)
 {
