@@ -15,13 +15,13 @@ Represents the window of the current [Application](application.md).
 
 ## -remarks
 
-This object can be used in both Desktop and UWP applications.
+This object can be used in both Desktop and UWP applications. 
 
-For Desktop apps, you can create more than one Window per thread. However, for UWP apps, you can create only a single Window per thread. See [Create a new Window](#create-a-new-window) in [Examples](#-examples).
+**In Preview versions of WinUI 3**: You can create more than one Window per thread in Desktop apps. For UWP apps, you can create only a single Window per thread. See [Create a new Window](#create-a-new-window) in [Examples](#-examples).
 
-> In a UWP app, each UI thread already has a Window that can be retrieved using the static [Window.Current](window_current.md) property. Additional windows can be created with [CoreApplicationView](/uwp/api/Windows.ApplicationModel.Core.CoreApplicationView) objects, which are always created on a new thread, and which automatically create an [ApplicationView](/uwp/api/Windows.UI.ViewManagement.ApplicationView), [CoreWindow](/uwp/api/windows.ui.core.corewindow), and Window for the new thread.
+In a UWP app, each UI thread already has a Window that can be retrieved using the static [Window.Current](window_current.md) property. Additional windows can be created with [CoreApplicationView](/uwp/api/Windows.ApplicationModel.Core.CoreApplicationView) objects, which are always created on a new thread, and which automatically create an [ApplicationView](/uwp/api/Windows.UI.ViewManagement.ApplicationView), [CoreWindow](/uwp/api/windows.ui.core.corewindow), and Window for the new thread.
 
-For Desktop apps, Window implements [IWindowNative](/windows/apps/winui/reference/iwindownative) to enable interop through the Window's HWND ([WindowHandle](/windows/apps/winui/reference/iwindownative-windowhandle).
+For Desktop apps, Window implements [IWindowNative](/windows/apps/winui/reference/iwindownative) to enable interop through the Window's HWND ([WindowHandle](/windows/apps/winui/reference/iwindownative-windowhandle)).
 
 For UWP apps, both the static [Application](application_application_1221375020.md) property and the static [Current](application_current.md) property return the Window object. From this object, an app can use the [Dispatcher](window_dispatcher.md) object or determine the size of the Window from the [Bounds](window_bounds.md) property.
 
@@ -31,9 +31,11 @@ Ensure you call [Activate](window_activate_1797342875.md) on any Window used on 
 
 ## -examples
 
+> [!NOTE]
+> Building UWP apps is currently only supported in Preview versions of WinUI 3.
 ### OnLaunched
 
-The following code example shows the [OnLaunched](application_onlaunched_859642554.md) method override generated for the **WinUI in UWP** template in Microsoft Visual Studio. This code demonstrates typical usage patterns for the [Current](window_current.md) and [Content](window_content.md) properties and the [Activate](window_activate_1797342875.md) method.
+The following code example shows the [OnLaunched](application_onlaunched_859642554.md) method override generated for the **WinUI in UWP (Experimental)** template in Microsoft Visual Studio. This code demonstrates typical usage patterns for the [Current](window_current.md) and [Content](window_content.md) properties and the [Activate](window_activate_1797342875.md) method.  
 
 ```csharp
 protected override void OnLaunched(Microsoft.UI.Xaml.LaunchActivatedEventArgs e)
@@ -87,7 +89,7 @@ For comparison, here's the same override generated for the **WinUI in Desktop** 
 
 ### Create a new Window
 
-In a Desktop app you can create each Window explicitly (more than one Window per thread is supported).
+In a Desktop app you can create each Window explicitly. Creating more than one Window is only supported in Preview versions of WinUI 3. 
 
 ```csharp
 Window window = new Window();
@@ -126,6 +128,8 @@ window.Activate();
 ### Create a new Window on a new thread
 
 In a UWP app, each UI thread already has a Window that can be retrieved with the static [Window.Current](window_current.md) property. You can create additional windows using [CoreApplicationView](/uwp/api/Windows.ApplicationModel.Core.CoreApplicationView), which is always created on a new thread (along with corresponding [ApplicationView](/uwp/api/Windows.UI.ViewManagement.ApplicationView), [CoreWindow](/uwp/api/windows.ui.core.corewindow), and Window objects).
+
+Note that creating multiple windows is only supported when using a Preview version of WinUI 3.
 
 ```csharp
 _ = CoreApplication.CreateNewView().DispatcherQueue.TryEnqueue(() =>
