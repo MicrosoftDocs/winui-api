@@ -14,8 +14,6 @@ Gets or sets the collection of [PathFigure](pathfigure.md) objects that describe
 
 ## -xaml-syntax
 ```xaml
-<PathGeometry Figures="moveAndDrawCommands"/>
-- or -
 <PathGeometry>
   <PathGeometry.Figures>
     oneOrMoreFigures
@@ -25,7 +23,7 @@ Gets or sets the collection of [PathFigure](pathfigure.md) objects that describe
 
 
 ## -xaml-values
-<dl><dt>moveAndDrawCommands</dt><dd>moveAndDrawCommandsA string that defines move and draw commands. For more info see Move and draw commands syntax.</dd>
+<dl>
 <dt>oneOrMoreFigures</dt><dd>oneOrMoreFiguresOne or more PathFigure object elements.</dd>
 </dl>
 ## -property-value
@@ -37,4 +35,4 @@ The main reason you'd want more than one [PathFigure](pathfigure.md) is if you w
 ## -examples
 
 ## -see-also
-[PathFigure](pathfigure.md), [Path](../microsoft.ui.xaml.shapes/path.md), [IsClosed](pathfigure_isclosed.md), [Move and draw commands syntax](/windows/uwp/xaml-platform/move-draw-commands-syntax)
+[PathFigure](pathfigure.md), [Path](../microsoft.ui.xaml.shapes/path.md), [IsClosed](pathfigure_isclosed.md)
