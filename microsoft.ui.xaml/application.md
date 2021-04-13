@@ -10,21 +10,24 @@ public class Application : Windows.UI.Xaml.IApplication, Windows.UI.Xaml.IApplic
 # Microsoft.UI.Xaml.Application
 
 ## -description
-Encapsulates the app and its available services.
+
+Represents the current application and its available services.
 
 ## -xaml-syntax
+
 ```xaml
 <Application />
  
 ```
 
-
 ## -remarks
-The Application class encapsulates an app and provides the following services: 
-+ app entry point, particularly for various activation contracts
-+ app lifetime management
-+ app-scoped resources
-+ unhandled exception detection
+
+The Application class encapsulates an app and provides the following services:
+
+- app entry point, particularly for various activation contracts
+- app lifetime management
+- app-scoped resources
+- unhandled exception detection
 
 The Application object is typically provided in the initial XAML for App.xaml. The default project templates in Visual Studio generate an `App` class that derives from Application and provides an entry point where you can add initialization code.
 
@@ -36,10 +39,10 @@ For UWP apps, you should handle the [Suspending](application_suspending.md) even
 
 Because of its position in the application model, codegen, and activation sequence, Application has some restrictions on its XAML usage:
 
-+ Other than the xmlns declarations and **x:Class**, no other attribute can appear on the `Application` root tag.
-+ Don't attempt to change **x:Class** values that come from the project template App.xaml pages, there are additional dependencies on using that naming scheme that exist in the build actions.
-+ Don't wire the Application event handlers in XAML. All event wiring should be done in code (usually in the constructor). Also, you generally use method overrides rather than event syntax for an event (for example, you override [OnActivated](application_onactivated_603737819.md) to respond to that phase of the application life cycle.)
-+ The only expected properties on an Application instance in XAML is the set of elements to populate the [Application.Resources](application_resources.md) property, using a XAML property element usage. For more info, see [Resources](application_resources.md).
+- Other than the xmlns declarations and **x:Class**, no other attribute can appear on the `Application` root tag.
+- Don't attempt to change **x:Class** values that come from the project template App.xaml pages, there are additional dependencies on using that naming scheme that exist in the build actions.
+- Don't wire the Application event handlers in XAML. All event wiring should be done in code (usually in the constructor). Also, you generally use method overrides rather than event syntax for an event (for example, you override [OnActivated](application_onactivated_603737819.md) to respond to that phase of the application life cycle.)
+- The only expected properties on an Application instance in XAML is the set of elements to populate the [Application.Resources](application_resources.md) property, using a XAML property element usage. For more info, see [Resources](application_resources.md).
 To provide general error handling for any exceptions that your app code doesn't catch, handle the [UnhandledException](application_unhandledexception.md) event.
 
 > [!NOTE]
@@ -47,21 +50,21 @@ To provide general error handling for any exceptions that your app code doesn't 
 
 The following events and virtual methods are **not** invoked when running in a Desktop app:
 
-* `void OnWindowCreated(Windows.UI.Xaml.WindowCreatedEventArgs args)`
-* `void overridable OnActivated(IActivatedEventArgs args)`
-* `void overridable OnBackgroundActivated (BackgroundActivatedEventArgs)`
-* `void overridable OnCachedFileUpdaterActivated (CachedFileUpdaterActivatedEventArgs)`
-* `void overridable OnFileActivated (FileActivatedEventArgs)`
-* `void overridable OnFileOpenPickerActivated (FileOpenPickerActivatedEventArgs)`
-* `void overridable OnFileSavePickerActivated (FileSavePickerActivatedEventArgs)`
-* `void overridable OnSearchActivated (SearchActivatedEventArgs)`
-* `void overridable OnShareTargetActivated (ShareTargetActivatedEventArgs)`
-* `EnteredBackgroundEventHandler EnteredBackground;`
-* `LeavingBackgroundEventHandler LeavingBackground;`
-* `EventHandler&lt;Object&gt; Resuming`
-
+- `void OnWindowCreated(Windows.UI.Xaml.WindowCreatedEventArgs args)`
+- `void overridable OnActivated(IActivatedEventArgs args)`
+- `void overridable OnBackgroundActivated (BackgroundActivatedEventArgs)`
+- `void overridable OnCachedFileUpdaterActivated (CachedFileUpdaterActivatedEventArgs)`
+- `void overridable OnFileActivated (FileActivatedEventArgs)`
+- `void overridable OnFileOpenPickerActivated (FileOpenPickerActivatedEventArgs)`
+- `void overridable OnFileSavePickerActivated (FileSavePickerActivatedEventArgs)`
+- `void overridable OnSearchActivated (SearchActivatedEventArgs)`
+- `void overridable OnShareTargetActivated (ShareTargetActivatedEventArgs)`
+- `EnteredBackgroundEventHandler EnteredBackground;`
+- `LeavingBackgroundEventHandler LeavingBackground;`
+- `EventHandler<Object> Resuming`
 
 ## -examples
 
 ## -see-also
+
 [Handle app activation](/windows/uwp/launch-resume/activate-an-app), [Handle app suspend](/windows/uwp/launch-resume/suspend-an-app), [Handle app resume](/windows/uwp/launch-resume/resume-an-app), [Window](window.md)

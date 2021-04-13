@@ -15,7 +15,7 @@ Represents the window of the current [Application](application.md).
 
 ## -remarks
 
-This object can be used in both Desktop and UWP applications. 
+This object can be used in both Desktop and UWP applications.
 
 **In Preview versions of WinUI 3**: You can create more than one Window per thread in Desktop apps. For UWP apps, you can create only a single Window per thread. See [Create a new Window](#create-a-new-window) in [Examples](#-examples).
 
@@ -29,10 +29,15 @@ Typically, Window is used to set a [UIElement](uielement.md) to the [Content](wi
 
 Ensure you call [Activate](window_activate_1797342875.md) on any Window used on initial activation. If you use the default app templates from Microsoft Visual Studio, [Window.Activate](window_activate_1797342875.md) is included in the app.xaml code-behind file.
 
+## -see-also
+
+[IWindowNative](/windows/apps/winui/reference/iwindownative), [Handle app activation](/windows/uwp/launch-resume/activate-an-app), [CoreWindow](/uwp/api/windows.ui.core.corewindow), [CoreApplicationView](/uwp/api/Windows.ApplicationModel.Core.CoreApplicationView), [ApplicationView](/uwp/api/Windows.UI.ViewManagement.ApplicationView)
+
 ## -examples
 
 > [!NOTE]
 > Building UWP apps is currently only supported in Preview versions of WinUI 3.
+
 ### OnLaunched
 
 The following code example shows the [OnLaunched](application_onlaunched_859642554.md) method override generated for the **WinUI in UWP (Experimental)** template in Microsoft Visual Studio. This code demonstrates typical usage patterns for the [Current](window_current.md) and [Content](window_content.md) properties and the [Activate](window_activate_1797342875.md) method.  
@@ -43,20 +48,20 @@ protected override void OnLaunched(Microsoft.UI.Xaml.LaunchActivatedEventArgs e)
     Frame rootFrame = Window.Current.Content as Frame;
 
     // Do not repeat app initialization when the Window already has content,
-    // just ensure that the window is active
+    // just ensure that the window is active.
     if (rootFrame == null)
     {
-        // Create a Frame to act as the navigation context and navigate to the first page
+        // Create a Frame to act as the navigation context and navigate to the first page.
         rootFrame = new Frame();
 
         rootFrame.NavigationFailed += OnNavigationFailed;
 
         if (e.UWPLaunchActivatedEventArgs.PreviousExecutionState == ApplicationExecutionState.Terminated)
         {
-            //TODO: Load state from previously suspended application
+            //TODO: Load state from previously suspended application.
         }
 
-        // Place the frame in the current Window
+        // Place the frame in the current Window.
         Window.Current.Content = rootFrame;
     }
 
@@ -66,10 +71,10 @@ protected override void OnLaunched(Microsoft.UI.Xaml.LaunchActivatedEventArgs e)
         {
             // When the navigation stack isn't restored navigate to the first page,
             // configuring the new page by passing required information as a navigation
-            // parameter
+            // parameter.
             rootFrame.Navigate(typeof(MainPage), e.Arguments);
         }
-        // Ensure the current window is active
+        // Ensure the current window is active.
         Window.Current.Activate();
     }
 }
@@ -89,7 +94,7 @@ For comparison, here's the same override generated for the **WinUI in Desktop** 
 
 ### Create a new Window
 
-In a Desktop app you can create each Window explicitly. Creating more than one Window is only supported in Preview versions of WinUI 3. 
+In a Desktop app you can create each Window explicitly. Creating more than one Window is only supported in Preview versions of WinUI 3.
 
 ```csharp
 Window window = new Window();
@@ -159,7 +164,3 @@ var thread = new Thread(() =>
 thread.SetApartmentState(ApartmentState.STA);
 thread.Start(); 
 ```
-
-## -see-also
-
-[IWindowNative](/windows/apps/winui/reference/iwindownative), [Handle app activation](/windows/uwp/launch-resume/activate-an-app), [CoreWindow](/uwp/api/windows.ui.core.corewindow), [CoreApplicationView](/uwp/api/Windows.ApplicationModel.Core.CoreApplicationView), [ApplicationView](/uwp/api/Windows.UI.ViewManagement.ApplicationView)
