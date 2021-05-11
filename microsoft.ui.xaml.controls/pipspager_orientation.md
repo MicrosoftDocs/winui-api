@@ -9,15 +9,18 @@
 public Windows.UI.Xaml.Controls.Orientation Orientation { get; set; }
 -->
 
-
 ## -description
 
+Gets or sets the orientation of the pips and navigation buttons in the [PipsPager](pipspager.md).
+
 ## -property-value
+
+The orientation of the pips and navigation buttons in the PipsPager. The default is [Horizontal](orientation.md).
 
 ## -remarks
 
 ## -see-also
 
+[PipsPager](pipspager.md), [Orientation](orientation.md), [PipsPager overview](/windows/uwp/design/controls-and-patterns/pipspager)
+
 ## -examples
-
-

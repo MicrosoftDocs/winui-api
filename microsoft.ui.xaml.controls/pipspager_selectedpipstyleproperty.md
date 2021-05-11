@@ -9,15 +9,18 @@
 public static Windows.UI.Xaml.DependencyProperty SelectedPipStyleProperty { get; }
 -->
 
-
 ## -description
 
+Identifies the [SelectedPipStyle](pipspager_selectedpipstyle.md) dependency property.
+
 ## -property-value
+
+The identifier for the [SelectedPipStyle](pipspager_selectedpipstyle.md) dependency property.
 
 ## -remarks
 
 ## -see-also
 
+[PipsPager](pipspager.md), [PipsPager overview](/windows/uwp/design/controls-and-patterns/pipspager)
+
 ## -examples
-
-

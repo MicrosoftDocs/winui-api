@@ -9,15 +9,18 @@
 public static Windows.UI.Xaml.DependencyProperty NextButtonVisibilityProperty { get; }
 -->
 
-
 ## -description
 
+Identifies the [NextButtonVisibility](pipspager_nextbuttonvisibility.md) dependency property.
+
 ## -property-value
+
+The identifier for the [NextButtonVisibility](pipspager_nextbuttonvisibility.md) dependency property.
 
 ## -remarks
 
 ## -see-also
 
+[PipsPager](pipspager.md), [PipsPager overview](/windows/uwp/design/controls-and-patterns/pipspager)
+
 ## -examples
-
-

@@ -9,15 +9,18 @@
 public static Windows.UI.Xaml.DependencyProperty OrientationProperty { get; }
 -->
 
-
 ## -description
 
+Identifies the [Orientation](pipspager_orientation.md) dependency property.
+
 ## -property-value
+
+The identifier for the [Orientation](pipspager_orientation.md) dependency property.
 
 ## -remarks
 
 ## -see-also
 
+[PipsPager](pipspager.md), [PipsPager overview](/windows/uwp/design/controls-and-patterns/pipspager)
+
 ## -examples
-
-

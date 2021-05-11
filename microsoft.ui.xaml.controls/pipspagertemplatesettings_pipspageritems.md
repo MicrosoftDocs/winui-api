@@ -9,8 +9,9 @@
 public System.Collections.Generic.IList<int> PipsPagerItems { get; }
 -->
 
-
 ## -description
+
+Gets or sets the list of integers to represent the pips in the [PipsPager](pipspager.md).
 
 ## -property-value
 
@@ -18,6 +19,6 @@ public System.Collections.Generic.IList<int> PipsPagerItems { get; }
 
 ## -see-also
 
+[PipsPager](pipspager.md), [PipsPager overview](/windows/uwp/design/controls-and-patterns/pipspager)
+
 ## -examples
-
-

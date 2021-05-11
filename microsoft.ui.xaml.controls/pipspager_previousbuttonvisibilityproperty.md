@@ -9,15 +9,18 @@
 public static Windows.UI.Xaml.DependencyProperty PreviousButtonVisibilityProperty { get; }
 -->
 
-
 ## -description
 
+Identifies the [PreviousButtonVisibility](pipspager_previousbuttonvisibility.md) dependency property.
+
 ## -property-value
+
+The identifier for the [PreviousButtonVisibility](pipspager_previousbuttonvisibility.md) dependency property.
 
 ## -remarks
 
 ## -see-also
 
+[PipsPager](pipspager.md), [PipsPager overview](/windows/uwp/design/controls-and-patterns/pipspager)
+
 ## -examples
-
-

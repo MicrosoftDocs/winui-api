@@ -9,15 +9,18 @@
 public Windows.UI.Xaml.Style SelectedPipStyle { get; set; }
 -->
 
-
 ## -description
 
+Gets or sets the style to apply to the selected pip in the [PipsPager](pipspager.md).
+
 ## -property-value
+
+The style to apply to the selected pip in the PipsPager.
 
 ## -remarks
 
 ## -see-also
 
+[PipsPager](pipspager.md), [PipsPager.NormalPipStyle](pipspager_normalpipstyle.md), [PipsPager overview](/windows/uwp/design/controls-and-patterns/pipspager)
+
 ## -examples
-
-

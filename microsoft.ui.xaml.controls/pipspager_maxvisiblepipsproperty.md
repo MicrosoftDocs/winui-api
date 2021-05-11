@@ -9,15 +9,18 @@
 public static Windows.UI.Xaml.DependencyProperty MaxVisiblePipsProperty { get; }
 -->
 
-
 ## -description
 
+Identifies the [MaxVisiblePips](pipspager_maxvisiblepips.md) dependency property.
+
 ## -property-value
+
+The identifier for the [MaxVisiblePips](pipspager_maxvisiblepips.md) dependency property.
 
 ## -remarks
 
 ## -see-also
 
+[PipsPager](pipspager.md), [PipsPager overview](/windows/uwp/design/controls-and-patterns/pipspager)
+
 ## -examples
-
-

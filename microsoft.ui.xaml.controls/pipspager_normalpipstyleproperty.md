@@ -9,15 +9,18 @@
 public static Windows.UI.Xaml.DependencyProperty NormalPipStyleProperty { get; }
 -->
 
-
 ## -description
 
+Identifies the [NormalPipStyle](pipspager_normalpipstyle.md) dependency property.
+
 ## -property-value
+
+The identifier for the [NormalPipStyle](pipspager_normalpipstyle.md) dependency property.
 
 ## -remarks
 
 ## -see-also
 
+[PipsPager](pipspager.md), [PipsPager overview](/windows/uwp/design/controls-and-patterns/pipspager)
+
 ## -examples
-
-

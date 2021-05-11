@@ -9,15 +9,18 @@
 public static Windows.UI.Xaml.DependencyProperty SelectedPageIndexProperty { get; }
 -->
 
-
 ## -description
 
+Identifies the [SelectedPageIndex](pipspager_selectedpageindex.md) dependency property.
+
 ## -property-value
+
+The identifier for the [SelectedPageIndex](pipspager_selectedpageindex.md) dependency property.
 
 ## -remarks
 
 ## -see-also
 
+[PipsPager](pipspager.md), [PipsPager overview](/windows/uwp/design/controls-and-patterns/pipspager)
+
 ## -examples
-
-

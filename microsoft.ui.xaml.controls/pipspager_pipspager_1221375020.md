@@ -9,13 +9,14 @@
 public PipsPager ();
 -->
 
-
 ## -description
+
+Initializes a new instance of the [PipsPager](pipspager.md) class.
 
 ## -remarks
 
 ## -see-also
 
+[PipsPager overview](/windows/uwp/design/controls-and-patterns/pipspager)
+
 ## -examples
-
-

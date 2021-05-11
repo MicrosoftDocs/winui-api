@@ -9,15 +9,18 @@
 public static Windows.UI.Xaml.DependencyProperty PreviousButtonStyleProperty { get; }
 -->
 
-
 ## -description
 
+Identifies the [PreviousButtonStyle](pipspager_previousbuttonstyle.md) dependency property.
+
 ## -property-value
+
+The identifier for the [PreviousButtonStyle](pipspager_previousbuttonstyle.md) dependency property.
 
 ## -remarks
 
 ## -see-also
 
+[PipsPager](pipspager.md), [PipsPager overview](/windows/uwp/design/controls-and-patterns/pipspager)
+
 ## -examples
-
-

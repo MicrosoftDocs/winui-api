@@ -9,15 +9,18 @@
 public Microsoft.UI.Xaml.Controls.PipsPagerButtonVisibility PreviousButtonVisibility { get; set; }
 -->
 
-
 ## -description
 
+Gets or sets the display state of the Previous button.
+
 ## -property-value
+
+The display state of the Previous button. The default value is 'Collapsed'.
 
 ## -remarks
 
 ## -see-also
 
+[PipsPager](pipspager.md), [PipsPagerButtonVisibility](pipspagerbuttonvisibility.md), [PipsPager.NextButtonVisibility](pipspager_nextbuttonvisibility.md), [PipsPager overview](/windows/uwp/design/controls-and-patterns/pipspager)
+
 ## -examples
-
-

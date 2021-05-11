@@ -9,15 +9,18 @@
 public Windows.UI.Xaml.Style NormalPipStyle { get; set; }
 -->
 
-
 ## -description
 
+Gets or sets the style for the default, unselected pips in the [PipsPager](pipspager.md).
+
 ## -property-value
+
+The style for the default, unselected pips in the PipsPager.
 
 ## -remarks
 
 ## -see-also
 
+[PipsPager](pipspager.md), [PipsPager.SelectedPipStyle](pipspager_selectedpipstyle.md), [PipsPager overview](/windows/uwp/design/controls-and-patterns/pipspager)
+
 ## -examples
-
-

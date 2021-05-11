@@ -9,15 +9,18 @@
 public int SelectedPageIndex { get; set; }
 -->
 
-
 ## -description
 
+Gets or sets the 0 based index of the currently selected pip in the [PipsPager](pipspager.md). A pip is always selected.
+
 ## -property-value
+
+The 0 based index of the currently selected pip in the [PipsPager](pipspager.md). The default value is 0.
 
 ## -remarks
 
 ## -see-also
 
+[PipsPager](pipspager.md), [PipsPager.SelectedIndexChanged](pipspager_selectedindexchanged.md), [PipsPager overview](/windows/uwp/design/controls-and-patterns/pipspager)
+
 ## -examples
-
-
