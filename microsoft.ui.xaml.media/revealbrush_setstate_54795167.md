@@ -11,6 +11,9 @@ public void RevealBrush.SetState(UIElement element, RevealBrushState value)
 
 ## -description
 
+> [!Important]
+> RevealBrush is available for use in the operating systems specified in the Requirements section. However, we do not recommend its use as it may be altered or unavailable in subsequent versions.
+
 Sets the value of the RevealBrush.State XAML attached property for the target element.
 
 ## -parameters
@@ -27,6 +30,6 @@ One of the values from the enumeration.
 
 ## -see-also
 
-[GetState](revealbrush_getstate_1650021429.md), [Reveal highlight overview](/windows/uwp/design/style/reveal)
+[GetState](revealbrush_getstate_1650021429.md)
 
 ## -examples

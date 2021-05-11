@@ -10,13 +10,14 @@ public class RevealBrush : XamlCompositionBrushBase, XamlCompositionBrushBase
 
 ## -description
 
+> [!Important]
+> RevealBrush is available for use in the operating systems specified in the Requirements section. However, we do not recommend its use as it may be altered or unavailable in subsequent versions.
+
 Base class for brushes that use composition effects and lighting to implement the reveal visual design treatment.
 
 ## -remarks
 
 ## -see-also
-
-[Reveal highlight overview](/windows/uwp/design/style/reveal)
 
 ## -examples
 
