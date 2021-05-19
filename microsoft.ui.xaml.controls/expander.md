@@ -12,7 +12,7 @@ public class Expander : Windows.UI.Xaml.Controls.ContentControl
 ## -description
 
 ::: moniker range="winui-3.0-preview"
-> [!Important]
+> [!CAUTION]
 > This API is in development and considered experimental in the WinUI version selected. It might be altered or unavailable in other versions.
 ::: moniker-end
 
