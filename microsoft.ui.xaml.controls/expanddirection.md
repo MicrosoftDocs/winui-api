@@ -9,9 +9,7 @@
 public enum ExpandDirection
 -->
 
-
 ## -description
-
 ::: moniker range="winui-3.0-preview"
 > [!CAUTION]
 > This API is in development and considered experimental in the WinUI version selected. It might be altered or unavailable in other versions.
@@ -28,5 +26,3 @@ public enum ExpandDirection
 ## -see-also
 
 ## -examples
-
-

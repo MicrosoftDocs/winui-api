@@ -9,8 +9,10 @@
 public static Microsoft.UI.Input.Experimental.ExpInputSite GetOrCreateForContent (Microsoft.UI.Composition.Experimental.ExpCompositionContent content);
 -->
 
-
 ## -description
+
+> [!CAUTION]
+> This API is in development and considered experimental in the WinUI version selected. It might be altered or unavailable in other versions.
 
 ## -parameters
 
@@ -23,5 +25,3 @@ public static Microsoft.UI.Input.Experimental.ExpInputSite GetOrCreateForContent
 ## -see-also
 
 ## -examples
-
-

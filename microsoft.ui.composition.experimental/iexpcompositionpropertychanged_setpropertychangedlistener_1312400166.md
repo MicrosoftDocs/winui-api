@@ -12,6 +12,9 @@ public void SetPropertyChangedListener (Microsoft.UI.Composition.Experimental.Ex
 
 ## -description
 
+> [!CAUTION]
+> This API is in development and considered experimental in the WinUI version selected. It might be altered or unavailable in other versions.
+
 ## -parameters
 
 ### -param property

@@ -9,8 +9,10 @@
 public enum ExpFocusChangedDirection
 -->
 
-
 ## -description
+
+> [!CAUTION]
+> This API is in development and considered experimental in the WinUI version selected. It might be altered or unavailable in other versions.
 
 ## -enum-fields
 
@@ -33,5 +35,3 @@ public enum ExpFocusChangedDirection
 ## -see-also
 
 ## -examples
-
-

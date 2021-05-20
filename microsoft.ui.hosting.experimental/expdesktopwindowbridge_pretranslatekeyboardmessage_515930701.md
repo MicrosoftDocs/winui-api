@@ -9,8 +9,10 @@
 public bool PreTranslateKeyboardMessage (ulong windowHandle, uint keyboardMessage, uint virtualKey, ulong keyInfo);
 -->
 
-
 ## -description
+
+> [!CAUTION]
+> This API is in development and considered experimental in the WinUI version selected. It might be altered or unavailable in other versions.
 
 ## -parameters
 
@@ -29,5 +31,3 @@ public bool PreTranslateKeyboardMessage (ulong windowHandle, uint keyboardMessag
 ## -see-also
 
 ## -examples
-
-

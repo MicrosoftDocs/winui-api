@@ -9,8 +9,10 @@
 public void SetOverrideScaleFactor (float value);
 -->
 
-
 ## -description
+
+> [!CAUTION]
+> This API is in development and considered experimental in the WinUI version selected. It might be altered or unavailable in other versions.
 
 ## -parameters
 
@@ -21,5 +23,3 @@ public void SetOverrideScaleFactor (float value);
 ## -see-also
 
 ## -examples
-
-

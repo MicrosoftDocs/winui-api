@@ -9,8 +9,10 @@
 public System.Numerics.Vector2 RequestedSize { get; set; }
 -->
 
-
 ## -description
+
+> [!CAUTION]
+> This API is in development and considered experimental in the WinUI version selected. It might be altered or unavailable in other versions.
 
 ## -property-value
 
@@ -19,5 +21,3 @@ public System.Numerics.Vector2 RequestedSize { get; set; }
 ## -see-also
 
 ## -examples
-
-

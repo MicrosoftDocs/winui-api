@@ -9,8 +9,10 @@
 public static Microsoft.UI.Input.Experimental.ExpIndependentPointerInputObserver CreateForVisual (Microsoft.UI.Composition.Visual visual, Windows.UI.Core.CoreInputDeviceTypes deviceTypes);
 -->
 
-
 ## -description
+
+> [!CAUTION]
+> This API is in development and considered experimental in the WinUI version selected. It might be altered or unavailable in other versions.
 
 ## -parameters
 
@@ -25,5 +27,3 @@ public static Microsoft.UI.Input.Experimental.ExpIndependentPointerInputObserver
 ## -see-also
 
 ## -examples
-
-

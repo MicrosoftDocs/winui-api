@@ -9,8 +9,10 @@
 public static Microsoft.UI.Hosting.Experimental.ExpCoreWindowBridge Create (Microsoft.UI.Composition.Compositor compositor, Windows.UI.Core.CoreWindow coreWindow);
 -->
 
-
 ## -description
+
+> [!CAUTION]
+> This API is in development and considered experimental in the WinUI version selected. It might be altered or unavailable in other versions.
 
 ## -parameters
 
@@ -25,5 +27,3 @@ public static Microsoft.UI.Hosting.Experimental.ExpCoreWindowBridge Create (Micr
 ## -see-also
 
 ## -examples
-
-

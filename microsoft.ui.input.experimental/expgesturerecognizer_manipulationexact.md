@@ -9,15 +9,22 @@
 public bool ManipulationExact { get; set; }
 -->
 
-
 ## -description
 
+> [!CAUTION]
+> This API is in development and considered experimental in the WinUI version selected. It might be altered or unavailable in other versions.
+
+Gets or sets a value that indicates whether the exact distance from initial contact to end of the interaction is reported.
+
+> [!NOTE]
+> By default, a small distance threshold is subtracted from the first delta reported by the system. This distance threshold is intended to account for slight movements of the contact when processing a tap gesture. If this flag is set, the distance threshold is not subtracted from the first delta.
+
 ## -property-value
+
+True, if the distance threshold is subtracted. Otherwise false. The default value is false.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

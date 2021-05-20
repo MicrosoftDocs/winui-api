@@ -9,8 +9,10 @@
 public static bool IsSupported ();
 -->
 
-
 ## -description
+
+> [!CAUTION]
+> This API is in development and considered experimental in the WinUI version selected. It might be altered or unavailable in other versions.
 
 ## -returns
 
@@ -19,5 +21,3 @@ public static bool IsSupported ();
 ## -see-also
 
 ## -examples
-
-

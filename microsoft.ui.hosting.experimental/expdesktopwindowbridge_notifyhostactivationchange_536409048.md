@@ -9,8 +9,10 @@
 public void NotifyHostActivationChange (bool active);
 -->
 
-
 ## -description
+
+> [!CAUTION]
+> This API is in development and considered experimental in the WinUI version selected. It might be altered or unavailable in other versions.
 
 ## -parameters
 
@@ -21,5 +23,3 @@ public void NotifyHostActivationChange (bool active);
 ## -see-also
 
 ## -examples
-
-

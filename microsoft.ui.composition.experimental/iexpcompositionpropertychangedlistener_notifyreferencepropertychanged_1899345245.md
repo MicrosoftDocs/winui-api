@@ -12,6 +12,9 @@ public void NotifyReferencePropertyChanged (Microsoft.UI.Composition.Composition
 
 ## -description
 
+> [!CAUTION]
+> This API is in development and considered experimental in the WinUI version selected. It might be altered or unavailable in other versions.
+
 ## -parameters
 
 ### -param target

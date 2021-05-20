@@ -9,8 +9,10 @@
 public static Microsoft.UI.Composition.CompositionVisualSurface CreateVisualSurface (Microsoft.UI.Composition.Compositor compositor, Windows.Graphics.SizeInt32 realizationSize, bool frozen);
 -->
 
-
 ## -description
+
+> [!CAUTION]
+> This API is in development and considered experimental in the WinUI version selected. It might be altered or unavailable in other versions.
 
 ## -parameters
 
@@ -27,5 +29,3 @@ public static Microsoft.UI.Composition.CompositionVisualSurface CreateVisualSurf
 ## -see-also
 
 ## -examples
-
-

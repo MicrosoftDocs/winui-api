@@ -9,8 +9,10 @@
 public static Microsoft.UI.Composition.Experimental.ExpCompositionContentEnvironment Create ();
 -->
 
-
 ## -description
+
+> [!CAUTION]
+> This API is in development and considered experimental in the WinUI version selected. It might be altered or unavailable in other versions.
 
 ## -returns
 
@@ -19,5 +21,3 @@ public static Microsoft.UI.Composition.Experimental.ExpCompositionContentEnviron
 ## -see-also
 
 ## -examples
-
-
