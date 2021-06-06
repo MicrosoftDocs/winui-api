@@ -21,7 +21,7 @@ Occurs when the input device changes position during a manipulation.
 
 ## -remarks
 
-For custom controls and interaction experiences, see [GestureRecognizer](/uwp/api/windows.ui.input.gesturerecognizer).
+For custom controls and interaction experiences, see [ExpGestureRecognizer](../microsoft.ui.input.experimental/expgesturerecognizer.md).
 
 An element must have a [ManipulationMode](uielement_manipulationmode.md) value other than **None** or **System** to be a manipulation event source. The default value of [ManipulationMode](uielement_manipulationmode.md) is **System**, which enables built-in control logic to process manipulations, but doesn't permit app code to handle manipulation events. If you want to handle manipulations, set [ManipulationMode](uielement_manipulationmode.md) to **All**, or to specific [ManipulationModes](../microsoft.ui.xaml.input/manipulationmodes.md) values. For more info, see [ManipulationMode](uielement_manipulationmode.md).
 
@@ -35,4 +35,4 @@ ManipulationDelta supports the ability to attach event handlers to the route tha
 
 ## -see-also
 
-[ManipulationDeltaRoutedEventArgs](../microsoft.ui.xaml.input/manipulationdeltaroutedeventargs.md), [OnManipulationDelta](/uwp/api/windows.ui.xaml.controls.control.onmanipulationdelta(windows.ui.xaml.input.manipulationdeltaroutedeventargs)), [ManipulationStarted](uielement_manipulationstarted.md), [Delta](/uwp/api/windows.ui.input.manipulationdelta), [Using manipulation events](/previous-versions/windows/apps/hh465387(v=win.10)), [XAML user input events sample](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/Official%20Windows%20Platform%20Sample/Input%20XAML%20user%20input%20events%20sample)
+[ManipulationDeltaRoutedEventArgs](../microsoft.ui.xaml.input/manipulationdeltaroutedeventargs.md), [OnManipulationDelta](/uwp/api/windows.ui.xaml.controls.control.onmanipulationdelta(windows.ui.xaml.input.manipulationdeltaroutedeventargs)), [ManipulationStarted](uielement_manipulationstarted.md),  [Delta](/uwp/api/windows.ui.input.manipulationdelta), [Using manipulation events](/previous-versions/windows/apps/hh465387(v=win.10)), [XAML user input events sample](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/Official%20Windows%20Platform%20Sample/Input%20XAML%20user%20input%20events%20sample)

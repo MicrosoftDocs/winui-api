@@ -19,7 +19,7 @@ In most cases, we recommend that you get pointer info through the event argument
 
 If the event argument doesn't intrinsically expose the pointer details required by your app, you can get access to extended pointer data through the [GetCurrentPoint](pointerroutedeventargs_getcurrentpoint_293890010.md) and [GetIntermediatePoints](pointerroutedeventargs_getintermediatepoints_516826524.md) methods of [PointerRoutedEventArgs](pointerroutedeventargs.md). We recommend using these methods as you can specify the context of the pointer data.
 
-The static [PointerPoint](/uwp/api/windows.ui.input.pointerpoint) methods, [GetCurrentPoint](/uwp/api/windows.ui.input.pointerpoint.getcurrentpoint(system.uint32)) and [GetIntermediatePoints](/uwp/api/windows.ui.input.pointerpoint.getintermediatepoints(system.uint32)), always use the context of the app.
+The static [ExpPointerPoint](../microsoft.ui.input.experimental/exppointerpoint.md) methods, [GetCurrentPoint(System.UInt32)](../microsoft.ui.input.experimental/exppointerpoint_getcurrentpoint_131721878.md) and [GetIntermediatePoints(System.UInt32)](../microsoft.ui.input.experimental/exppointerpoint_getintermediatepoints_143894736.md), always use the context of the app.
 Pointer is an abstract class that is used to describe an input device. This class identifies the input device (such as stylus, finger, or mouse) for each pointer event that occurs.
 
 ## -examples

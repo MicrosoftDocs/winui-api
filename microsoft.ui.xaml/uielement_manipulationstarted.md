@@ -21,7 +21,7 @@ Occurs when an input device begins a manipulation on the [UIElement](uielement.m
 
 ## -remarks
 
-For custom controls and interaction experiences, see [GestureRecognizer.ManipulationStarted](/uwp/api/windows.ui.input.gesturerecognizer.manipulationstarted).
+For custom controls and interaction experiences, see [ExpGestureRecognizer.ManipulationStarted](../microsoft.ui.input.experimental/expgesturerecognizer_manipulationstarted.md).
 
 ManipulationStarted represents that the manipulation recognition logic has detected pointer movement. In this case it's the second manipulation event to fire in a typical sequence, firing after ManipulationStarting, but before ManipulationDelta or other events such as ManipulationInertiaStarting.
 
