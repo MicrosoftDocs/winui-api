@@ -9,13 +9,12 @@
 public AnimatedFindVisualSource ();
 -->
 
-
 ## -description
+
+Initializes a new instance of the [AnimatedFindVisualSource](AnimatedFindVisualSource.md) class.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

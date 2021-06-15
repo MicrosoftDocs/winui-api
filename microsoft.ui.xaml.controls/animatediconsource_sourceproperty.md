@@ -9,15 +9,16 @@
 public static Windows.UI.Xaml.DependencyProperty SourceProperty { get; }
 -->
 
-
 ## -description
 
+Identifies the [Source](animatediconsource_source.md) dependency property.
+
 ## -property-value
+
+The identifier for the **Source** dependency property.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

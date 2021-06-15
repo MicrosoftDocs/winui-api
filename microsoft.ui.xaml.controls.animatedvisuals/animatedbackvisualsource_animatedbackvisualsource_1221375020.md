@@ -9,13 +9,12 @@
 public AnimatedBackVisualSource ();
 -->
 
-
 ## -description
+
+Initializes a new instance of the [AnimatedBackVisualSource](AnimatedBackVisualSource.md) class.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

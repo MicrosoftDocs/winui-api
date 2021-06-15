@@ -9,13 +9,12 @@
 public AnimatedIconSource ();
 -->
 
-
 ## -description
+
+Initializes a new instance of the [AnimatedIconSource](animatediconsource.md) class.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

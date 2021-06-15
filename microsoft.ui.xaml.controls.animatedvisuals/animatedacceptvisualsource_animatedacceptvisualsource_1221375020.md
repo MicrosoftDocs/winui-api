@@ -9,13 +9,12 @@
 public AnimatedAcceptVisualSource ();
 -->
 
-
 ## -description
+
+Initializes a new instance of the [AnimatedAcceptVisualSource](AnimatedAcceptVisualSource.md) class.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

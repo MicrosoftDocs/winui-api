@@ -9,13 +9,12 @@
 public AnimatedChevronDownSmallVisualSource ();
 -->
 
-
 ## -description
+
+Initializes a new instance of the [AnimatedChevronDownSmallVisualSource](AnimatedChevronDownSmallVisualSource.md) class.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

@@ -123,12 +123,12 @@ This table shows the resources used by the CommandBar control.
 
 ## -examples
 
-> [!TIP]
-> For more info, design guidance, and code examples, see [Command bar](/windows/uwp/design/controls-and-patterns/app-bars).
->
-> If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the CommandBar in action](xamlcontrolsgallery:/item/CommandBar).
-> + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
-> + [Get the source code (GitHub)](https://github.com/Microsoft/Xaml-Controls-Gallery)
+For more info, design guidance, and code examples, see [Command bar](/windows/uwp/design/controls-and-patterns/app-bars).
+
+If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the CommandBar in action](xamlcontrolsgallery:/item/CommandBar).
+
+- [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
+- [Get the source code (GitHub)](https://github.com/Microsoft/Xaml-Controls-Gallery)
 
 This example creates the command bar shown in Remarks.
 

@@ -9,13 +9,12 @@
 public AnimatedGlobalNavigationButtonVisualSource ();
 -->
 
-
 ## -description
+
+Initializes a new instance of the [AnimatedGlobalNavigationButtonVisualSource](AnimatedGlobalNavigationButtonVisualSource.md) class.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

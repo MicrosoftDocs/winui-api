@@ -22,4 +22,3 @@ The size of the animated visual.
 ## -see-also
 
 ## -examples
-

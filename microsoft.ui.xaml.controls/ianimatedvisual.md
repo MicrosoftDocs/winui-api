@@ -11,11 +11,10 @@ public interface IAnimatedVisual : IClosable
 
 ## -description
 
- An animated visual that can be played by the [AnimatedVisualPlayer](animatedvisualplayer.md).
+ An animated [Composition.Visual](../microsoft.ui.composition/visual.md) that can be used by other objects, such as an [AnimatedVisualPlayer](animatedvisualplayer.md) or [AnimatedIcon](animatedicon.md).
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
