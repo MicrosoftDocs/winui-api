@@ -14,6 +14,8 @@ public Windows.UI.Input.CrossSlidingState CrossSlidingState { get; }
 > [!CAUTION]
 > This API is in development and considered experimental in the WinUI version selected. It might be altered or unavailable in other versions.
 
+For more details on this API, please see the the UWP WinRT [CrossSlidingState](/uwp/api/windows.ui.input.crossslidingeventargs.crossslidingstate) topic.
+
 ## -property-value
 
 ## -remarks

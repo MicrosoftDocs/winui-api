@@ -14,6 +14,8 @@ public sealed class ExpMouseWheelParameters
 > [!CAUTION]
 > This API is in development and considered experimental in the WinUI version selected. It might be altered or unavailable in other versions.
 
+For more details on this API, please see the the UWP WinRT [MouseWheelParameters](/uwp/api/windows.ui.input.mousewheelparameters) topic.
+
 ## -remarks
 
 ## -see-also

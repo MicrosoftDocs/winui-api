@@ -14,6 +14,8 @@ public Windows.UI.Input.ManipulationDelta Cumulative { get; }
 > [!CAUTION]
 > This API is in development and considered experimental in the WinUI version selected. It might be altered or unavailable in other versions.
 
+For more details on this API, please see the the UWP WinRT [Cumulative](/uwp/api/windows.ui.input.manipulationupdatedeventargs.cumulative) topic.
+
 ## -property-value
 
 ## -remarks

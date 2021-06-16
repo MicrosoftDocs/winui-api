@@ -16,6 +16,8 @@ public void ProcessMouseWheelEvent (Microsoft.UI.Input.Experimental.ExpPointerPo
 
 Processes pointer input and raises the [ExpGestureRecognizer](expgesturerecognizer.md) events appropriate to a mouse wheel action (for the gestures and manipulations specified by the [GestureSettings](expgesturerecognizer_gesturesettings.md) property).
 
+For more details on this API, please see the the UWP WinRT [ProcessMouseWheelEvent](/uwp/api/windows.ui.input.gesturerecognizer.processmousewheelevent) topic.
+
 ## -parameters
 
 ### -param value

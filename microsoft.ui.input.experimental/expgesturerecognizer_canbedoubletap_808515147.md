@@ -16,6 +16,8 @@ public bool CanBeDoubleTap (Microsoft.UI.Input.Experimental.ExpPointerPoint valu
 
 Identifies whether a tap can still be interpreted as the second tap of a double tap gesture.
 
+For more details on this API, please see the the UWP WinRT [CanBeDoubleTap](/uwp/api/windows.ui.input.gesturerecognizer.canbedoubletap) topic.
+
 ## -parameters
 
 ### -param value

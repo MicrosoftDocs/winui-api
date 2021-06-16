@@ -14,11 +14,11 @@ public Windows.Foundation.Point Position { get; }
 > [!CAUTION]
 > This API is in development and considered experimental in the WinUI version selected. It might be altered or unavailable in other versions.
 
-Gets the location of the pointer input in client coordinates.
+Gets the location of the input pointer.
 
 ## -property-value
 
-The client coordinates, in device-independent pixel (DIP).
+The coordinates, in device-independent pixels (DIPs).
 
 ## -remarks
 

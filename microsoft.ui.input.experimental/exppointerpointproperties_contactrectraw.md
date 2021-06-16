@@ -18,7 +18,7 @@ Gets the bounding rectangle of the raw input (typically from touch input).
 
 ## -property-value
 
-The bounding rectangle of the raw input, in device-independent pixel (DIP)
+The bounding rectangle of the raw input, in device-independent pixels (DIPs).
 
 ## -remarks
 

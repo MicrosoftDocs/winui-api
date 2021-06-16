@@ -14,7 +14,7 @@ public System.Collections.Generic.IList<Microsoft.UI.Input.Experimental.ExpPoint
 > [!CAUTION]
 > This API is in development and considered experimental in the WinUI version selected. It might be altered or unavailable in other versions.
 
-Retrieves the pointer data for the prior 64 pointer locations (maximum) since the last pointer event.
+Retrieves the pointer data for up to the last 64 pointer locations since the last pointer event.
 
 ## -returns
 

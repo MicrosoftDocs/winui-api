@@ -16,6 +16,8 @@ public void ProcessDownEvent (Microsoft.UI.Input.Experimental.ExpPointerPoint va
 
 Processes pointer input and raises the [ExpGestureRecognizer](expgesturerecognizer.md) events appropriate to a pointer down action (for the gestures and manipulations specified by the [GestureSettings](expgesturerecognizer_gesturesettings.md) property).
 
+For more details on this API, please see the the UWP WinRT [ProcessDownEvent](/uwp/api/windows.ui.input.gesturerecognizer.processdownevent) topic.
+
 ## -parameters
 
 ### -param value

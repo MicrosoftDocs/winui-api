@@ -16,6 +16,8 @@ public event Windows.Foundation.TypedEventHandler<Microsoft.UI.Input.Experimenta
 
 Occurs when the pointer input is interpreted as a tap gesture.
 
+For more details on this API, please see the the UWP WinRT [Tapped](/uwp/api/windows.ui.input.gesturerecognizer.tapped) topic.
+
 ## -remarks
 
 ## -see-also

@@ -16,6 +16,8 @@ public void CompleteGesture ();
 
 Causes the gesture recognizer to finalize an interaction.
 
+For more details on this API, please see the the UWP WinRT [CompleteGesture](/uwp/api/windows.ui.input.gesturerecognizer.completegesture) topic.
+
 ## -remarks
 
 ## -see-also

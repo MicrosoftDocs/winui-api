@@ -16,6 +16,8 @@ public event Windows.Foundation.TypedEventHandler<Microsoft.UI.Input.Experimenta
 
 Occurs when a user performs a [slide](/windows/uwp/input-and-devices/guidelines-for-cross-slide) or [swipe](/windows/uwp/input-and-devices/guidelines-for-cross-slide) gesture with a mouse or pen/stylus (single contact).
 
+For more details on this API, please see the the UWP WinRT [Dragging](/uwp/api/windows.ui.input.gesturerecognizer.dragging) topic.
+
 ## -remarks
 
 ## -see-also

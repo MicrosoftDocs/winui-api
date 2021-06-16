@@ -16,6 +16,8 @@ public event Windows.Foundation.TypedEventHandler<Microsoft.UI.Input.Experimenta
 
 Occurs when all contact points are lifted during a manipulation and the velocity of the manipulation is significant enough to initiate inertia behavior (translation, expansion, or rotation continue after the input pointers are lifted).
 
+For more details on this API, please see the the UWP WinRT [ManipulationInertiaStarting](/uwp/api/windows.ui.input.gesturerecognizer.manipulationinertiastarting) topic.
+
 ## -remarks
 
 ## -see-also

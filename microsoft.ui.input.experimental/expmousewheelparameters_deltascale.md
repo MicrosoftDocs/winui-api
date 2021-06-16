@@ -14,6 +14,8 @@ public float DeltaScale { get; set; }
 > [!CAUTION]
 > This API is in development and considered experimental in the WinUI version selected. It might be altered or unavailable in other versions.
 
+For more details on this API, please see the the UWP WinRT [DeltaScale](/uwp/api/windows.ui.input.mousewheelparameters.deltascale) topic.
+
 ## -property-value
 
 ## -remarks

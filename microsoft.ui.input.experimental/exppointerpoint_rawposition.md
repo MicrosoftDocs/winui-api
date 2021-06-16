@@ -14,11 +14,11 @@ public Windows.Foundation.Point RawPosition { get; }
 > [!CAUTION]
 > This API is in development and considered experimental in the WinUI version selected. It might be altered or unavailable in other versions.
 
-Gets the client coordinates of the input pointer as reported by the input device.
+Gets the location of the input pointer as reported by the input device without any pointer prediction modifications.
 
 ## -property-value
 
-The client coordinates, in device-independent pixels (DIP).
+The coordinates, in device-independent pixels (DIPs).
 
 ## -remarks
 

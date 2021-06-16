@@ -16,6 +16,8 @@ public bool IsInertial { get; }
 
 Gets a value that indicates whether a manipulation is still being processed during inertia (no input points are active).
 
+For more details on this API, please see the the UWP WinRT [IsInertial](/uwp/api/windows.ui.input.gesturerecognizer.isinertial) topic.
+
 ## -property-value
 
 True, if the manipulation is still being processed during inertia. Otherwise, false. The default value is false.

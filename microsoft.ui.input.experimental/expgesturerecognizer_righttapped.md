@@ -22,6 +22,8 @@ Examples include:
 - Pen barrel button click
 - Touch or pen press and hold
 
+For more details on this API, please see the the UWP WinRT [RightTapped](/uwp/api/windows.ui.input.gesturerecognizer.righttapped) topic.
+
 ## -remarks
 
 ## -see-also

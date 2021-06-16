@@ -18,7 +18,7 @@ Gets the bounding rectangle of the contact area (typically from touch input).
 
 ## -property-value
 
-The bounding rectangle of the contact area, using client window coordinates in device-independent pixel (DIP).
+The bounding rectangle of the contact area, in device-independent pixels (DIPs).
 
 ## -remarks
 

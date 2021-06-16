@@ -16,6 +16,8 @@ public sealed class ExpGestureRecognizer
 
 Provides gesture and manipulation recognition, event listeners, and settings.
 
+For more details on this API, please see the the UWP WinRT [GestureRecognizer](/uwp/api/windows.ui.input.gesturerecognizer) topic.
+
 ## -remarks
 
 ## -see-also

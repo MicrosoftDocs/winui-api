@@ -14,6 +14,8 @@ public sealed class ExpRightTappedEventArgs
 > [!CAUTION]
 > This API is in development and considered experimental in the WinUI version selected. It might be altered or unavailable in other versions.
 
+For more details on this API, please see the the UWP WinRT [RightTappedEventArgs](/uwp/api/windows.ui.input.righttappedeventargs) topic.
+
 ## -remarks
 
 ## -see-also
