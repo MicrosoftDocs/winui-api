@@ -33,10 +33,14 @@ This table shows the resources used by the InfoBar control.
 | InfoBarWarningSeverityBackgroundBrush | Warning Severity background color 
 | InfoBarSuccessSeverityBackgroundBrush | Success Severity background color 
 | InfoBarInformationalSeverityBackgroundBrush | Informational Severity background color
-| InfoBarErrorSeverityIconForeground | Error Severity icon color
-| InfoBarWarningSeverityIconForeground | Warning Severity icon color
-| InfoBarSuccessSeverityIconForeground | Success Severity icon color
-| InfoBarInformationalSeverityIconForeground | Informational Severity icon color
+| InfoBarErrorSeverityIconBackground | Error Severity icon background color
+| InfoBarWarningSeverityIconBackground | Warning Severity icon background color
+| InfoBarSuccessSeverityIconBackground | Success Severity icon background color
+| InfoBarInformationalSeverityIconBackground | Informational Severity icon background color
+| InfoBarErrorSeverityIconForeground | Error Severity icon foreground color
+| InfoBarWarningSeverityIconForeground | Warning Severity foreground icon color
+| InfoBarSuccessSeverityIconForeground | Success Severity foreground icon color
+| InfoBarInformationalSeverityIconForeground | Informational Severity foreground icon color
 | InfoBarTitleForeground | Title text color
 | InfoBarMessageForeground | Message text color 
 | InfoBarHyperlinkButtonForeground | Hyperlink button text color
@@ -49,6 +53,8 @@ This table shows the resources used by the InfoBar control.
 | InfoBarMinHeight | Minimum height of InfoBar
 | InfoBarCloseButtonSize | Close button size
 | InfoBarCloseButtonGlyphSize | Close button glyph size
+| InfoBarHyperlinkButtonMargin | Hyperlink button margin thickness
+| InfoBarIconBackgroundGlyph | Background glyph behind each default icon
 | InfoBarInformationalIconGlyph | Informational Severity icon glyph
 | InfoBarErrorIconGlyph | Error Severity icon glyph
 | InfoBarWarningIconGlyph | Warning Severity icon glyph
@@ -65,13 +71,6 @@ This table shows the resources used by the InfoBar control.
 | InfoBarMessageVerticalOrientationMargin | Message margin thickness in the vertical, multiline layout
 | InfoBarActionHorizontalOrientationMargin | Action content margin thickness in the horizontal, single-line layout
 | InfoBarActionVerticalOrientationMargin | Action content margin thickness in the vertical, multiline layout
-| InfoBarActionButtonMinWidth | Action button minimum width
-| InfoBarActionButtonHeight | Action button height
-| InfoBarActionButtonPadding | Action button padding thickness
-| InfoBarActionButtonCornerRadius | Action button corner radius
-| InfoBarHyperlinkButtonFontSize | Hyperlink button font size
-| InfoBarHyperlinkButtonHeight | Hyperlink button height
-| InfoBarHyperlinkButtonPadding | Hyperlink button padding thickness
 | InfoBarCloseButtonSymbol | Close button symbol glyph
 | InfoBarCloseButtonStyle | Close button style
 
