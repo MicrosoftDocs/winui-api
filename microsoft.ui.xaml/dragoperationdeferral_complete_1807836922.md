@@ -18,4 +18,4 @@ Indicates that the content for an asynchronous drag-and-drop operation is ready 
 
 ## -see-also
 
-[Drag-and-drop overview](/windows/uwp/design/input/drag-and-drop)
+[Drag-and-drop overview](/windows/apps/design/input/drag-and-drop)

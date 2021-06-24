@@ -15,7 +15,7 @@ Represents a control that shows a group of related options from which one can be
 
 ## -remarks
 
-> For more info, design guidance, and code examples, see [Radio buttons](/windows/uwp/design/controls-and-patterns/radio-button).
+> For more info, design guidance, and code examples, see [Radio buttons](/windows/apps/design/controls/radio-button).
 
 ![Example of a RadioButtons group, with one radio button selected](images/radiobuttons/radiobuttons-default-group.png)
 
@@ -31,7 +31,7 @@ The `RadioButtons` control uses a content model similar to an [ItemsControl](/uw
 
 ## -see-also
 
-[Radio buttons](/windows/uwp/design/controls-and-patterns/radio-button)
+[Radio buttons](/windows/apps/design/controls/radio-button)
 
 ## -examples
 

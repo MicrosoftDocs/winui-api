@@ -20,10 +20,10 @@ Transient UI, such as a [Flyout](../microsoft.ui.xaml.controls/flyout.md) or [Me
 
 By default, the "overlay" is darkened on the Xbox, and not darkened on other devices families. You can set LightDismissOverlayMode to `On` to make your app darken the "overlay" area on all device families, or set it to `Off` to not darken the "overlay" area on all device families.
 
-For more info, see [Light dismiss behavior](/windows/uwp/design/controls-and-patterns/dialogs-and-flyouts/flyouts#light-dismiss-behavior) in the Flyouts article.
+For more info, see [Light dismiss behavior](/windows/apps/design/controls/dialogs-and-flyouts/flyouts#light-dismiss-behavior) in the Flyouts article.
 
 ## -examples
 
 ## -see-also
 
-[Flyouts](/windows/uwp/design/controls-and-patterns/dialogs-and-flyouts/flyouts), [OverlayInputPassThroughElement](flyoutbase_overlayinputpassthroughelement.md)
+[Flyouts](/windows/apps/design/controls/dialogs-and-flyouts/flyouts), [OverlayInputPassThroughElement](flyoutbase_overlayinputpassthroughelement.md)

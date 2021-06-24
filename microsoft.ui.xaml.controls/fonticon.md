@@ -27,7 +27,7 @@ Use `FontIcon` to specify an icon using a [Glyph](fonticon_glyph.md) value from 
 
 If you don't specify a `FontFamily`, or you specify a `FontFamily` that is not available on the system at runtime, the `FontIcon` falls back to the default font family defined by the `SymbolThemeFontFamily` theme resource.
 
-By default, Windows uses the [**Segoe Fluent Icon**](/windows/uwp/design/style/segoe-ui-symbol-font) font family. If your app is run on Windows 10, version 20H2 or earlier, the Segoe Fluent Icon font family is not available and the `SymbolThemeFontFamily` resource falls back to the [**Segoe MDL2 Asset**](/windows/uwp/design/style/segoe-ui-symbol-font) font family instead. To use glyphs from the default system font, don't set the `FontFamily` property, let it use its default value.
+By default, Windows uses the [**Segoe Fluent Icon**](/windows/apps/design/style/segoe-ui-symbol-font) font family. If your app is run on Windows 10, version 20H2 or earlier, the Segoe Fluent Icon font family is not available and the `SymbolThemeFontFamily` resource falls back to the [**Segoe MDL2 Asset**](/windows/apps/design/style/segoe-ui-symbol-font) font family instead. To use glyphs from the default system font, don't set the `FontFamily` property, let it use its default value.
 
 > [!TIP]
 > Many common glyphs from the `SymbolThemeFontFamily` are included in the [Symbol](symbol.md) enumeration. If the glyph you need is available as a `Symbol`, you can use a [SymbolIcon](symbolicon.md) anywhere you would use a `FontIcon` with the default font family.
@@ -83,4 +83,4 @@ newAppBarButton.Icon(fontIcon);
 ```
 
 ## -see-also
-[IconElement](iconelement.md), [AppBarButton](appbarbutton.md), [SymbolIcon](symbolicon.md), [Icons for Windows apps](/windows/uwp/design/style/icons)
+[IconElement](iconelement.md), [AppBarButton](appbarbutton.md), [SymbolIcon](symbolicon.md), [Icons for Windows apps](/windows/apps/design/style/icons)

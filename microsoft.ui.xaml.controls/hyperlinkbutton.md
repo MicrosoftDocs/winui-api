@@ -68,7 +68,7 @@ There's nothing you can do within the [Click](../microsoft.ui.xaml.controls.prim
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Hyperlinks](/windows/uwp/design/controls-and-patterns/hyperlinks).
+> For more info, design guidance, and code examples, see [Hyperlinks](/windows/apps/design/controls/hyperlinks).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the HyperlinkButton in action](xamlcontrolsgallery:/item/HyperlinkButton).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
@@ -79,4 +79,4 @@ Here's a HyperlinkButton as declared in XAML. It declares a string value for [Co
 [!code-xaml[BasicHyperlinkButtonXAML](../microsoft.ui.xaml.controls/code/BasicControlSnippets/CS/MainPage.xaml#SnippetBasicHyperlinkButtonXAML)]
 
 ## -see-also
-[ButtonBase](../microsoft.ui.xaml.controls.primitives/buttonbase.md), [HyperlinkButton styles and templates](/windows/uwp/design/controls-and-patterns/xaml-styles), [Hyperlinks overview](/windows/uwp/design/controls-and-patterns/hyperlinks)
+[ButtonBase](../microsoft.ui.xaml.controls.primitives/buttonbase.md), [HyperlinkButton styles and templates](/windows/apps/design/style/xaml-styles), [Hyperlinks overview](/windows/apps/design/controls/hyperlinks)

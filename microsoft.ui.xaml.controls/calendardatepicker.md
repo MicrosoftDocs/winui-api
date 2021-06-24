@@ -121,11 +121,11 @@ This table shows the resources used by the CalendarDatePicker control.
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Calendar date picker](/windows/uwp/design/controls-and-patterns/calendar-date-picker).
+> For more info, design guidance, and code examples, see [Calendar date picker](/windows/apps/design/controls/calendar-date-picker).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the CalendarDatePicker in action](xamlcontrolsgallery:/item/CalendarDatePicker).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
 > + [Get the source code (GitHub)](https://github.com/Microsoft/Xaml-Controls-Gallery)
 
 ## -see-also
-[Control](control.md), [CalendarDatePicker styles and templates](/windows/uwp/design/controls-and-patterns/xaml-styles)
+[Control](control.md), [CalendarDatePicker styles and templates](/windows/apps/design/style/xaml-styles)

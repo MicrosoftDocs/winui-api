@@ -19,7 +19,7 @@ The maximum number of columns the radio buttons are arranged in. The default is 
 
 ## -remarks
 
-> For more info, design guidance, and code examples, see [Radio buttons](/windows/uwp/design/controls-and-patterns/radio-button).
+> For more info, design guidance, and code examples, see [Radio buttons](/windows/apps/design/controls/radio-button).
 
 By default, the `RadioButtons` control arranges its radio buttons vertically in a single column. You can set the `MaxColumns` property to make the control arrange the radio buttons in multiple columns. (When you do this, they are laid out in column-major order, where items fill in from top to bottom, then left to right.)
 

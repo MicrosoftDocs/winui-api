@@ -35,7 +35,7 @@ Selected TabViewItems that are closable always show their close button regardles
 
 ## -see-also
 
-[TabView](tabview.md), [TabViewItem](tabviewitem.md), [Guidelines for TabView](/windows/uwp/design/controls-and-patterns/tab-view)
+[TabView](tabview.md), [TabViewItem](tabviewitem.md), [Guidelines for TabView](/windows/apps/design/controls/tab-view)
 
 ## -examples
 

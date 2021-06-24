@@ -73,7 +73,7 @@ This example shows how to let the [FlyoutPresenter](flyoutpresenter.md) receive 
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Flyouts](/windows/uwp/design/controls-and-patterns/dialogs-and-flyouts/flyouts).
+> For more info, design guidance, and code examples, see [Flyouts](/windows/apps/design/controls/dialogs-and-flyouts/flyouts).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the Flyout in action](xamlcontrolsgallery:/item/Flyout).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
@@ -81,4 +81,4 @@ This example shows how to let the [FlyoutPresenter](flyoutpresenter.md) receive 
 
 ## -see-also
 
-[Flyouts](/windows/uwp/design/controls-and-patterns/dialogs-and-flyouts/flyouts), [FlyoutBase](../microsoft.ui.xaml.controls.primitives/flyoutbase.md), [FlyoutPresenter](flyoutpresenter.md), [Button.Flyout](button_flyout.md), [MenuFlyout](menuflyout.md), [Dialogs v. flyouts](/windows/uwp/controls-and-patterns/dialogs), [Attached properties overview](/windows/uwp/xaml-platform/attached-properties-overview), [Commanding sample (Windows 10)](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/XamlCommanding), [XAML Flyout and MenuFlyout sample (Windows 8)](https://go.microsoft.com/fwlink/p/?LinkID=310074)
+[Flyouts](/windows/apps/design/controls/dialogs-and-flyouts/flyouts), [FlyoutBase](../microsoft.ui.xaml.controls.primitives/flyoutbase.md), [FlyoutPresenter](flyoutpresenter.md), [Button.Flyout](button_flyout.md), [MenuFlyout](menuflyout.md), [Dialogs v. flyouts](/windows/uwp/controls-and-patterns/dialogs), [Attached properties overview](/windows/uwp/xaml-platform/attached-properties-overview), [Commanding sample (Windows 10)](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/XamlCommanding), [XAML Flyout and MenuFlyout sample (Windows 8)](https://go.microsoft.com/fwlink/p/?LinkID=310074)

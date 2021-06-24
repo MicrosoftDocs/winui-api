@@ -27,6 +27,7 @@ The flags indicating the current state of the supplied virtual key when the inpu
 ## -remarks
 
 ## -see-also
-(CoreVirtualKeyStates enum)[https://docs.microsoft.com/en-us/uwp/api/windows.ui.core.corevirtualkeystates], (VirtualKey enum)[https://docs.microsoft.com/en-us/uwp/api/windows.system.virtualkey]
+
+[CoreVirtualKeyStates enum](/uwp/api/windows.ui.core.corevirtualkeystates), [VirtualKey enum](/uwp/api/windows.system.virtualkey)
 
 ## -examples

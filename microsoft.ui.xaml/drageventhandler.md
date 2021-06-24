@@ -39,4 +39,4 @@ The Windows Runtime implementation of drag-drop concepts permits only certain co
 ## -examples
 
 ## -see-also
-[Drag-and-drop overview](/windows/uwp/design/input/drag-and-drop), [Events and routed events overview](/windows/uwp/xaml-platform/events-and-routed-events-overview), [DragEventArgs](drageventargs.md)
+[Drag-and-drop overview](/windows/apps/design/input/drag-and-drop), [Events and routed events overview](/windows/uwp/xaml-platform/events-and-routed-events-overview), [DragEventArgs](drageventargs.md)

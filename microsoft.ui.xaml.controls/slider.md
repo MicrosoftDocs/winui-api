@@ -21,7 +21,7 @@ Represents a control that lets the user select from a range of values by moving 
 ## -remarks
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Sliders](/windows/uwp/design/controls-and-patterns/slider).
+> For more info, design guidance, and code examples, see [Sliders](/windows/apps/design/controls/slider).
 
 Slider is a control that lets the user select from a range of values by moving a [Thumb](../microsoft.ui.xaml.controls.primitives/thumb.md) control along a track.
 
@@ -76,7 +76,7 @@ This table shows the resources used by the Slider control.
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Sliders](/windows/uwp/design/controls-and-patterns/slider).
+> For more info, design guidance, and code examples, see [Sliders](/windows/apps/design/controls/slider).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the Slider in action](xamlcontrolsgallery:/item/Slider).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
@@ -93,4 +93,4 @@ The following code example shows several slider controls and how to handle the [
 [!code-vb[11](../microsoft.ui.xaml.data/code/System.Windows.Controls.Extended.SliderSL/vbnet/Page.xaml.vb#Snippet11)]
 
 ## -see-also
-[Sliders overview](/windows/uwp/controls-and-patterns/slider), [Slider styles and templates](/windows/uwp/design/controls-and-patterns/xaml-styles), [RangeBase](../microsoft.ui.xaml.controls.primitives/rangebase.md), [ComboBox](combobox.md), [ListBox](listbox.md), [Controls list](/windows/uwp/design/controls-and-patterns/), [Controls by function](/windows/uwp/controls-and-patterns/controls-by-function)
+[Sliders overview](/windows/uwp/controls-and-patterns/slider), [Slider styles and templates](/windows/apps/design/style/xaml-styles), [RangeBase](../microsoft.ui.xaml.controls.primitives/rangebase.md), [ComboBox](combobox.md), [ListBox](listbox.md), [Controls list](/windows/apps/design/controls/), [Controls by function](/windows/uwp/controls-and-patterns/controls-by-function)

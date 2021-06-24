@@ -64,4 +64,4 @@ private bool VerifyDateIsFuture(DateTimeOffset date)
 
 ## -see-also
 
-[Date](datepicker_date.md), [SelectedDate](datepicker_selecteddate.md), [DatePickerValueChangedEventArgs](datepickervaluechangedeventargs.md), [Date picker](/windows/uwp/design/controls-and-patterns/date-picker)
+[Date](datepicker_date.md), [SelectedDate](datepicker_selecteddate.md), [DatePickerValueChangedEventArgs](datepickervaluechangedeventargs.md), [Date picker](/windows/apps/design/controls/date-picker)

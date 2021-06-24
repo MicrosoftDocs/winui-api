@@ -34,7 +34,7 @@ Another possible technique is to define a date that's available as a data object
 
 ## -see-also
 
-[SelectedDateChanged](datepicker_selecteddatechanged.md), [DatePickerSelectedValueChangedEventArgs](datepickerselectedvaluechangedeventargs.md), [Date picker](/windows/uwp/design/controls-and-patterns/date-picker)
+[SelectedDateChanged](datepicker_selecteddatechanged.md), [DatePickerSelectedValueChangedEventArgs](datepickerselectedvaluechangedeventargs.md), [Date picker](/windows/apps/design/controls/date-picker)
 
 ## -examples
 

@@ -31,7 +31,7 @@ The teaching tip was programmatically closed.
 
 ## -see-also
 
-[TeachingTip](teachingtip.md), [TeachingTip.Closed](teachingtip_closed.md), [TeachingTip.Closing](teachingtip_closing.md), [Teaching tip overview](/windows/uwp/design/controls-and-patterns/dialogs-and-flyouts/teaching-tip)
+[TeachingTip](teachingtip.md), [TeachingTip.Closed](teachingtip_closed.md), [TeachingTip.Closing](teachingtip_closing.md), [Teaching tip overview](/windows/apps/design/controls/dialogs-and-flyouts/teaching-tip)
 
 ## -examples
 

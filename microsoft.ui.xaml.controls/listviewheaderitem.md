@@ -36,4 +36,4 @@ This table shows the resources used by the ListViewHeaderItem control.
 ## -examples
 
 ## -see-also
-[ListViewBaseHeaderItem](listviewbaseheaderitem.md), [ListView](listview.md), [GroupStyle property](itemscontrol_groupstyle.md), [GroupStyle.HeaderTemplate](groupstyle_headertemplate.md), [ListViewHeaderItem styles and templates](/windows/uwp/design/controls-and-patterns/xaml-styles)
+[ListViewBaseHeaderItem](listviewbaseheaderitem.md), [ListView](listview.md), [GroupStyle property](itemscontrol_groupstyle.md), [GroupStyle.HeaderTemplate](groupstyle_headertemplate.md), [ListViewHeaderItem styles and templates](/windows/apps/design/style/xaml-styles)

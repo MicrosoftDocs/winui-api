@@ -19,7 +19,7 @@ Teaching tips are often used for informing, reminding, and teaching users about 
 
 ## -see-also
 
-[TeachingTipClosedEventArgs](teachingtipclosedeventargs.md), [TeachingTipCloseReason](teachingtipclosereason.md), [TeachingTipClosingEventArgs](teachingtipclosingeventargs.md), [TeachingTipHeroContentPlacementMode](teachingtipherocontentplacementmode.md), [TeachingTipPlacementMode](teachingtipplacementmode.md), [TeachingTipTailVisibility](teachingtiptailvisibility.md), [TeachingTipTemplateSettings](teachingtiptemplatesettings.md), [Teaching tip overview](/windows/uwp/design/controls-and-patterns/dialogs-and-flyouts/teaching-tip)
+[TeachingTipClosedEventArgs](teachingtipclosedeventargs.md), [TeachingTipCloseReason](teachingtipclosereason.md), [TeachingTipClosingEventArgs](teachingtipclosingeventargs.md), [TeachingTipHeroContentPlacementMode](teachingtipherocontentplacementmode.md), [TeachingTipPlacementMode](teachingtipplacementmode.md), [TeachingTipTailVisibility](teachingtiptailvisibility.md), [TeachingTipTemplateSettings](teachingtiptemplatesettings.md), [Teaching tip overview](/windows/apps/design/controls/dialogs-and-flyouts/teaching-tip)
 
 ## -examples
 

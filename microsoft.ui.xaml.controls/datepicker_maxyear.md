@@ -47,4 +47,4 @@ public MainPage()
 
 ## -see-also
 
-[MinYear](datepicker_minyear.md), [Date picker](/windows/uwp/design/controls-and-patterns/date-picker)
+[MinYear](datepicker_minyear.md), [Date picker](/windows/apps/design/controls/date-picker)

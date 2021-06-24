@@ -36,7 +36,7 @@ This enumeration provides values for the [RefreshContainer.PullDirection](refres
 
 ## -see-also
 
-[Pull to refresh](/windows/uwp/design/controls-and-patterns/pull-to-refresh)
+[Pull to refresh](/windows/apps/design/controls/pull-to-refresh)
 
 ## -examples
 

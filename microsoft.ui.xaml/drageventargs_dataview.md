@@ -21,4 +21,4 @@ A read-only copy of the [Data](drageventargs_data.md) object.
 
 ## -see-also
 
-[Drag-and-drop overview](/windows/uwp/design/input/drag-and-drop)
+[Drag-and-drop overview](/windows/apps/design/input/drag-and-drop)

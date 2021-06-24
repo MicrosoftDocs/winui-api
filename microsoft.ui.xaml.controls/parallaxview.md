@@ -16,7 +16,7 @@ Represents a container that associates the scroll position of a foreground eleme
 
 ## -see-also
 
-[Parallax overview](https://docs.microsoft.com/windows/uwp/design/motion/parallax)
+[Parallax overview](https://docs.microsoft.com/windows/apps/design/motion/parallax)
 
 ## -examples
 

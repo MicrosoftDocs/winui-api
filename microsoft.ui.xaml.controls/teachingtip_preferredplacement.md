@@ -20,7 +20,7 @@ Placement is relative to its target if Target is non-null or to the parent windo
 
 Teaching tip replicates Flyout's [FlyoutPlacementMode](/uwp/api/Windows.UI.Xaml.Controls.Primitives.FlyoutPlacementMode) placement behavior with the TeachingTipPlacementMode property. The default placement mode will try to place a targeted teaching tip above its target and a non-targeted teaching tip centered at the bottom of the xaml root. As with Flyout, if the preferred placement mode would not leave room for the teaching tip to show, another placement mode will be automatically chosen. 
 
-If you anticipate that your app will be used with gamepad input, please see [gamepad and remote control interactions](/windows/uwp/design/input/gamepad-and-remote-interactions#xy-focus-navigation-and-interaction). It is encouraged to test gamepad accessibility of each teaching tip using all possible configurations of an app's UI.
+If you anticipate that your app will be used with gamepad input, please see [gamepad and remote control interactions](/windows/apps/design/input/gamepad-and-remote-interactions#xy-focus-navigation-and-interaction). It is encouraged to test gamepad accessibility of each teaching tip using all possible configurations of an app's UI.
 
 ## -see-also
 

@@ -31,7 +31,7 @@ Only one pane is shown.
 
 ## -see-also
 
-[TwoPaneView](twopaneview.md), [TwoPaneView.Mode](twopaneview_mode.md), [Two-pane view overview](/windows/uwp/design/controls-and-patterns/two-pane-view)
+[TwoPaneView](twopaneview.md), [TwoPaneView.Mode](twopaneview_mode.md), [Two-pane view overview](/windows/apps/design/controls/two-pane-view)
 
 ## -examples
 

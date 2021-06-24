@@ -18,7 +18,7 @@ For more info, see [Sound in UWP apps](/windows/uwp/style/sound).
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Sound](/windows/uwp/design/style/sound).
+> For more info, design guidance, and code examples, see [Sound](/windows/apps/design/style/sound).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the ElementSoundPlayer in action](xamlcontrolsgallery:/item/Sound).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)

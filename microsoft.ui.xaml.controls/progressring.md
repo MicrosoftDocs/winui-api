@@ -20,7 +20,7 @@ ProgressRing is a control that visually indicates progress of an operation with 
 <img src="images/controls/ProgressRing_Indeterminate.gif" alt="Indeterminate progress ring control"/>
 <img src="images/controls/ProgressRing_Determinate.gif" alt="Determinate progress ring control"/>
 
-Use a ProgressRing to visually indicate that an operation is in progress. Set the [IsActive](progressring_isactive.md) property to turn the ProgressRing on or off. If  [IsActive](progressring_isactive.md) is false, the ProgressRing is not shown, but space is reserved for it in the UI layout. To not reserve space for the ProgressRing, set its [Visibility](https://docs.microsoft.com/en-us/uwp/api/windows.ui.xaml.uielement.visibility) property to [Collapsed](/uwp/api/windows.ui.xaml.visibility).
+Use a ProgressRing to visually indicate that an operation is in progress. Set the [IsActive](progressring_isactive.md) property to turn the ProgressRing on or off. If  [IsActive](progressring_isactive.md) is false, the ProgressRing is not shown, but space is reserved for it in the UI layout. To not reserve space for the ProgressRing, set its [Visibility](/uwp/api/windows.ui.xaml.uielement.visibility) property to [Collapsed](/uwp/api/windows.ui.xaml.visibility).
 
 The [IsIndeterminate](progressring_isindeterminate.md) property determines the appearence of a ProgressRing. 
 - Set [IsIndeterminate](progressring_isindeterminate.md) to **true** to display a repeating animation. (This is the default)
@@ -28,7 +28,7 @@ The [IsIndeterminate](progressring_isindeterminate.md) property determines the a
 
 ## -see-also
 
-[Progress controls overview](/windows/uwp/controls-and-patterns/progress-controls), [ProgressBar](progressbar.md), [Controls list](/windows/uwp/design/controls-and-patterns/), [Controls by function](/windows/uwp/design/controls-and-patterns/controls-by-function)
+[Progress controls overview](/windows/uwp/controls-and-patterns/progress-controls), [ProgressBar](progressbar.md), [Controls list](/windows/apps/design/controls/), [Controls by function](/windows/apps/design/controls/controls-by-function)
 
 ## -examples
 

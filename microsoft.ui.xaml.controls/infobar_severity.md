@@ -22,7 +22,7 @@ The style of the `InfoBar` that indicates the criticality of the notification. T
 
 ## -see-also
 
-[InfoBarSeverity enum](infobarseverity.md), [NotificationProcessing](/win32/api/uiautomationcore/ne-uiautomationcore-notificationprocessing.md), [InfoBar overview](/windows/uwp/design/controls-and-patterns/infobar)
+[InfoBarSeverity enum](infobarseverity.md), [NotificationProcessing](/win32/api/uiautomationcore/ne-uiautomationcore-notificationprocessing.md), [InfoBar overview](/windows/apps/design/controls/infobar)
 
 ## -examples
 

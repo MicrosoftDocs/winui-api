@@ -16,7 +16,7 @@ Provides calculated values that can be referenced as **TemplatedParent** sources
 
 ## -see-also
 
-[TreeView](treeview.md), [TreeViewItem](treeviewitem.md), [TreeView overview](/windows/uwp/design/controls-and-patterns/tree-view)
+[TreeView](treeview.md), [TreeViewItem](treeviewitem.md), [TreeView overview](/windows/apps/design/controls/tree-view)
 
 ## -examples
 

@@ -21,9 +21,9 @@ Occurs when an otherwise unhandled **Tap** interaction occurs over the hit test 
 
 ## -remarks
 
-Touch, mouse devices and pen devices can all produce a **Tap** action. For more info, see [Handle pointer input](/windows/uwp/design/input/handle-pointer-input).
+Touch, mouse devices and pen devices can all produce a **Tap** action. For more info, see [Handle pointer input](/windows/apps/design/input/handle-pointer-input).
 
-See [Touch interaction design](/windows/uwp/design/input/touch-interactions) for more info on how to use a **Tap** interaction in your app design. The general idea is that a **Tap** interaction on an element invokes the element's primary action in your app.
+See [Touch interaction design](/windows/apps/design/input/touch-interactions) for more info on how to use a **Tap** interaction in your app design. The general idea is that a **Tap** interaction on an element invokes the element's primary action in your app.
 
 A Tapped event represents a gesture, whereas a [PointerPressed](uielement_pointerpressed.md) event is a lower-level input event. Tapped and [PointerPressed](uielement_pointerpressed.md) events can be raised as the result of a single user interaction. If the event source has a nondefault [ManipulationMode](uielement_manipulationmode.md), [ManipulationStarting](uielement_manipulationstarting.md) can be raised too. Even if a control is already handling [PointerPressed](uielement_pointerpressed.md) in the control logic, or is handling manipulations, that doesn't prevent Tapped from being raised.
 
@@ -59,4 +59,4 @@ These controls do not raise the **Tapped** event:
 
 ## -see-also
 
-[TappedRoutedEventArgs](../microsoft.ui.xaml.input/tappedroutedeventargs.md), [IsTapEnabled](uielement_istapenabled.md), [PointerPressed](uielement_pointerpressed.md), [DoubleTapped](uielement_doubletapped.md), [Handle pointer input](/windows/uwp/design/input/handle-pointer-input), [XAML user input events sample](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/Official%20Windows%20Platform%20Sample/Input%20XAML%20user%20input%20events%20sample)
+[TappedRoutedEventArgs](../microsoft.ui.xaml.input/tappedroutedeventargs.md), [IsTapEnabled](uielement_istapenabled.md), [PointerPressed](uielement_pointerpressed.md), [DoubleTapped](uielement_doubletapped.md), [Handle pointer input](/windows/apps/design/input/handle-pointer-input), [XAML user input events sample](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/Official%20Windows%20Platform%20Sample/Input%20XAML%20user%20input%20events%20sample)

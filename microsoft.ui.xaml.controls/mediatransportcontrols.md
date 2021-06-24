@@ -182,7 +182,7 @@ In the compact mode, the [Slider](slider.md) and [CommandBar](commandbar.md) are
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Create custom transport controls](/windows/uwp/design/controls-and-patterns/custom-transport-controls).
+> For more info, design guidance, and code examples, see [Create custom transport controls](/windows/apps/design/controls/custom-transport-controls).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the MediaPlayerElement with transport controls in action](xamlcontrolsgallery:/item/MediaPlayerElement).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)

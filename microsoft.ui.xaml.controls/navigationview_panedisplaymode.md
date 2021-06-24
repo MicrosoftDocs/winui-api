@@ -24,7 +24,7 @@ A value of the enumeration that indicates how and where the NavigationView pane 
 
 ## -see-also
 
-[Navigation view - display modes](/windows/uwp/design/controls-and-patterns/navigationview#display-modes)
+[Navigation view - display modes](/windows/apps/design/controls/navigationview#display-modes)
 
 
 ## -examples

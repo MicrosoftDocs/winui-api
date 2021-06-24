@@ -27,4 +27,4 @@ Identifies a particular named input scope that is relevant to an overall [InputS
 ## -examples
 
 ## -see-also
-[DependencyObject](../microsoft.ui.xaml/dependencyobject.md), [TextBox.InputScope](../microsoft.ui.xaml.controls/textbox_inputscope.md), [RichEditBox.InputScope](../microsoft.ui.xaml.controls/richeditbox_inputscope.md), [InputScope](inputscope.md), [InputScopeNameValue](inputscopenamevalue.md), [Use input scope to change the touch keyboard](/windows/uwp/design/input/use-input-scope-to-change-the-touch-keyboard)
+[DependencyObject](../microsoft.ui.xaml/dependencyobject.md), [TextBox.InputScope](../microsoft.ui.xaml.controls/textbox_inputscope.md), [RichEditBox.InputScope](../microsoft.ui.xaml.controls/richeditbox_inputscope.md), [InputScope](inputscope.md), [InputScopeNameValue](inputscopenamevalue.md), [Use input scope to change the touch keyboard](/windows/apps/design/input/use-input-scope-to-change-the-touch-keyboard)

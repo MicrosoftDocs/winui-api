@@ -16,7 +16,7 @@ Provides event data for the [TreeView.DragItemsCompleted](treeview_dragitemscomp
 
 ## -see-also
 
-[TreeView](treeview.md), [TreeViewDragItemsStartingEventArgs](treeviewdragitemsstartingeventargs.md), [TreeView overview](/windows/uwp/design/controls-and-patterns/tree-view)
+[TreeView](treeview.md), [TreeViewDragItemsStartingEventArgs](treeviewdragitemsstartingeventargs.md), [TreeView overview](/windows/apps/design/controls/tree-view)
 
 ## -examples
 

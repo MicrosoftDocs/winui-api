@@ -18,7 +18,7 @@ The identifier for the [Modifiers](keyboardaccelerator_modifiers.md) dependency 
 ## -remarks
 
 ## -see-also
-[Keyboard Accelerators](/windows/uwp/design/input/keyboard-accelerators)
+[Keyboard Accelerators](/windows/apps/design/input/keyboard-accelerators)
 
 ## -examples
 

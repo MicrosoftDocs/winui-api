@@ -17,7 +17,7 @@ Provides calculated values that can be referenced as **TemplatedParent** sources
 
 ## -see-also
 
-[TeachingTip.TemplateSettings](teachingtip_templatesettings.md), [Teaching tip overview](/windows/uwp/design/controls-and-patterns/dialogs-and-flyouts/teaching-tip)
+[TeachingTip.TemplateSettings](teachingtip_templatesettings.md), [Teaching tip overview](/windows/apps/design/controls/dialogs-and-flyouts/teaching-tip)
 
 ## -examples
 

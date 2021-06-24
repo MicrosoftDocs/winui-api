@@ -16,7 +16,7 @@ Represents a button with two parts that can be invoked separately. One part beha
 
 ## -see-also
 
-[Buttons](/windows/uwp/design/controls-and-patterns/buttons)
+[Buttons](/windows/apps/design/controls/buttons)
 
 ## -examples
 

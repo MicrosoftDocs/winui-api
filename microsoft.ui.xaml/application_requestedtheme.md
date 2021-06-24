@@ -27,7 +27,7 @@ A value of the enumeration. The initial value is the default theme set by the us
 
 There are two built in themes: "Light" and "Dark". By default your app runs using the theme set by the user in Windows settings (Settings > Personalization > Colors > Choose your default app mode). You can set the app's RequestedTheme property to override the user default and specify which theme is used.
 
-The theme can only be set when the app is started, not while it's running. Attempting to set RequestedTheme while the app is running throws an exception (**NotSupportedException** for Microsoft .NET code). If you give the user an option to pick a theme that's part of app UI, you must save the setting in the app data and apply it when the app is restarted. (For more info about app settings, see [Store and retrieve settings and other app data](/windows/uwp/design/app-settings/store-and-retrieve-app-data)).
+The theme can only be set when the app is started, not while it's running. Attempting to set RequestedTheme while the app is running throws an exception (**NotSupportedException** for Microsoft .NET code). If you give the user an option to pick a theme that's part of app UI, you must save the setting in the app data and apply it when the app is restarted. (For more info about app settings, see [Store and retrieve settings and other app data](/windows/apps/design/app-settings/store-and-retrieve-app-data)).
 
 You can change specific theme values at run-time after Application.RequestedTheme is applied, if you use the [FrameworkElement.RequestedTheme](frameworkelement_requestedtheme.md) property and sets values on specific elements in the UI.
 

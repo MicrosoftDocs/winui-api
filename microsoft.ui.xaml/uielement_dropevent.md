@@ -21,4 +21,4 @@ The identifier for the [Drop](uielement_drop.md) routed event.
 
 ## -see-also
 
-[Events and routed events overview](/windows/uwp/xaml-platform/events-and-routed-events-overview), [AddHandler](uielement_addhandler_1350394113.md), [Drag and drop overview](/windows/uwp/design/input/drag-and-drop)
+[Events and routed events overview](/windows/uwp/xaml-platform/events-and-routed-events-overview), [AddHandler](uielement_addhandler_1350394113.md), [Drag and drop overview](/windows/apps/design/input/drag-and-drop)

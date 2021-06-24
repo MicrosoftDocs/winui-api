@@ -20,4 +20,4 @@ Gets or sets a value that marks the routed event as handled. A **true** value fo
 ## -examples
 
 ## -see-also
-[Access keys](/windows/uwp/design/input/access-keys)
+[Access keys](/windows/apps/design/input/access-keys)

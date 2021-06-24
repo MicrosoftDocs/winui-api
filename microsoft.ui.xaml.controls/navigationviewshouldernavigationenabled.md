@@ -30,7 +30,7 @@ Gamepad bumpers always navigate the top-level navigation items.
 
 ## -see-also
 
-[Designing for Xbox and TV](/windows/uwp/design/devices/designing-for-tv#hardware-buttons)
+[Designing for Xbox and TV](/windows/apps/design/devices/designing-for-tv#hardware-buttons)
 
 ## -examples
 

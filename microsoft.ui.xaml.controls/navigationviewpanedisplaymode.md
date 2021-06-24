@@ -38,7 +38,7 @@ The pane is shown on the left side of the control, and changes between minimal, 
 
 ## -see-also
 
-[NavigationView.DisplayMode](navigationview_displaymode.md), [Navigation view - display modes](/windows/uwp/design/controls-and-patterns/navigationview#display-modes)
+[NavigationView.DisplayMode](navigationview_displaymode.md), [Navigation view - display modes](/windows/apps/design/controls/navigationview#display-modes)
 
 ## -examples
 

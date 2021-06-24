@@ -65,4 +65,4 @@ julianDatePicker.CalendarIdentifier = Windows.Globalization.CalendarIdentifiers.
 
 ## -see-also
 
-[CalendarIdentifiers](../windows.globalization/calendaridentifiers.md), [DateTimeFormatter.Calendar](../windows.globalization.datetimeformatting/datetimeformatter_calendar.md), [Date picker](/windows/uwp/design/controls-and-patterns/date-picker)
+[CalendarIdentifiers](../windows.globalization/calendaridentifiers.md), [DateTimeFormatter.Calendar](../windows.globalization.datetimeformatting/datetimeformatter_calendar.md), [Date picker](/windows/apps/design/controls/date-picker)

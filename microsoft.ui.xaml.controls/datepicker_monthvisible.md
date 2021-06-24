@@ -42,4 +42,4 @@ It's typically not useful to show the day field without the month for context. A
 
 ## -see-also
 
-[DayVisible](datepicker_dayvisible.md), [YearVisible](datepicker_yearvisible.md), [MonthFormat](datepicker_monthformat.md), [Date picker](/windows/uwp/design/controls-and-patterns/date-picker)
+[DayVisible](datepicker_dayvisible.md), [YearVisible](datepicker_yearvisible.md), [MonthFormat](datepicker_monthformat.md), [Date picker](/windows/apps/design/controls/date-picker)

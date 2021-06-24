@@ -52,4 +52,4 @@ This table shows the resources used by the MenuFlyoutSubItem control.
 
 ## -see-also
 
-[MenuFlyoutItemBase](menuflyoutitembase.md), [MenuFlyoutSubItem styles and templates](/windows/uwp/design/controls-and-patterns/xaml-styles), [Context menu (XAML) sample](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/XamlContextMenu)
+[MenuFlyoutItemBase](menuflyoutitembase.md), [MenuFlyoutSubItem styles and templates](/windows/apps/design/style/xaml-styles), [Context menu (XAML) sample](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/XamlContextMenu)

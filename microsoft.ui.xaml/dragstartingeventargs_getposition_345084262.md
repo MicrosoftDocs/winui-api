@@ -25,4 +25,4 @@ A point in the coordinate system that is relative to the element specified in *r
 
 ## -see-also
 
-[Drag-and-drop overview](/windows/uwp/design/input/drag-and-drop)
+[Drag-and-drop overview](/windows/apps/design/input/drag-and-drop)

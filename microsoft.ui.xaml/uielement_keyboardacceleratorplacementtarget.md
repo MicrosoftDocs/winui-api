@@ -57,4 +57,4 @@ Here, we show how to use the KeyboardAcceleratorPlacementTarget property to disp
 
 ## -see-also
 
-[Keyboard Accelerators](/windows/uwp/design/input/keyboard-accelerators)
+[Keyboard Accelerators](/windows/apps/design/input/keyboard-accelerators)

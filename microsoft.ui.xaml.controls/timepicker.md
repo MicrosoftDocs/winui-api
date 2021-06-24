@@ -24,7 +24,7 @@ Use a `TimePicker` to let a user enter a single time value. You can customize th
 
 ![A time picker control.](images/date-time/time-picker-closed.png)
 
-For more info, design guidance, and code examples, see [Time picker](/windows/uwp/design/controls-and-patterns/time-picker).
+For more info, design guidance, and code examples, see [Time picker](/windows/apps/design/controls/time-picker).
 
 ### 12-hour and 24-hour clocks
 
@@ -77,7 +77,7 @@ You can set the time value as an attribute in XAML. This is probably easiest if 
 To use the time value in your app, you typically use a data binding to the [SelectedTime](/uwp/api/windows.ui.xaml.controls.timepicker.selectedtime) or [Time](/uwp/api/windows.ui.xaml.controls.timepicker.time) property, use the time properties directly in your code, or handle the [SelectedTimeChanged](/uwp/api/windows.ui.xaml.controls.timepicker.selectedtimechanged) or [TimeChanged](/uwp/api/windows.ui.xaml.controls.timepicker.timechanged) event.
 
 > [!TIP]
-> For an example of using a `DatePicker` and `TimePicker` together to update a single `DateTime` value, see [Calendar, date, and time controls - Use a date picker and time picker together](/windows/uwp/design/controls-and-patterns/date-and-time#use-a-date-picker-and-time-picker-together).
+> For an example of using a `DatePicker` and `TimePicker` together to update a single `DateTime` value, see [Calendar, date, and time controls - Use a date picker and time picker together](/windows/apps/design/controls/date-and-time#use-a-date-picker-and-time-picker-together).
 
 
 ### Control style and template
@@ -121,7 +121,7 @@ This table shows the resources used by the TimePicker control.
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Time picker](/windows/uwp/design/controls-and-patterns/time-picker).
+> For more info, design guidance, and code examples, see [Time picker](/windows/apps/design/controls/time-picker).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the TimePicker in action](xamlcontrolsgallery:/item/TimePicker).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
@@ -140,4 +140,4 @@ arrivalTimePicker.Header = "Arrival time";
 
 ## -see-also
 
-[Time picker overview](/windows/uwp/design/controls-and-patterns/time-picker), [Windows.Globalization.ClockIdentifiers](/uwp/api/windows.globalization.clockidentifiers), [System.TimeSpan (C#/VB)](/dotnet/api/system.timespan?view=dotnet-uwp-10.0&preserve-view=true), [Windows::Foundation::TimeSpan (C++)](/windows/desktop/api/windows.foundation/ns-windows-foundation-timespan), [DatePicker](datepicker.md), [Controls list](/windows/uwp/design/controls-and-patterns/)
+[Time picker overview](/windows/apps/design/controls/time-picker), [Windows.Globalization.ClockIdentifiers](/uwp/api/windows.globalization.clockidentifiers), [System.TimeSpan (C#/VB)](/dotnet/api/system.timespan?view=dotnet-uwp-10.0&preserve-view=true), [Windows::Foundation::TimeSpan (C++)](/windows/desktop/api/windows.foundation/ns-windows-foundation-timespan), [DatePicker](datepicker.md), [Controls list](/windows/apps/design/controls/)

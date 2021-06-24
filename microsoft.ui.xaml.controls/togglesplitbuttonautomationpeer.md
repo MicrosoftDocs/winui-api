@@ -16,7 +16,7 @@ Exposes [ToggleSplitButton](togglesplitbutton.md) types to [Microsoft UI Automat
 
 ## -see-also
 
-[Toggle split button overview](/windows/uwp/design/controls-and-patterns/buttons#create-a-toggle-split-button)
+[Toggle split button overview](/windows/apps/design/controls/buttons#create-a-toggle-split-button)
 
 ## -examples
 

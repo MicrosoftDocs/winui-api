@@ -15,7 +15,7 @@ Represents a control that enables a user to select a date by using a visual cale
 ## -remarks
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Calendar view](/windows/uwp/design/controls-and-patterns/calendar-view).
+> For more info, design guidance, and code examples, see [Calendar view](/windows/apps/design/controls/calendar-view).
 
 The CalendarView gives you a standardized way to let users view and interact with a calendar. If you need to let a user select multiple dates, you must use a CalendarView. If you need to let a user pick only a single date and don't need a calendar to be always visible, consider using a [CalendarDatePicker](calendardatepicker.md) or [DatePicker](datepicker.md) control. You can use the CalendarView control in its default form with a minimal amount of Extensible Application Markup Language (XAML) or other code, or you can customize it in various ways to suit your app.
 
@@ -142,7 +142,7 @@ This table shows the resources used by the CalendarView control.
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Calendar view](/windows/uwp/design/controls-and-patterns/calendar-view).
+> For more info, design guidance, and code examples, see [Calendar view](/windows/apps/design/controls/calendar-view).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the CalendarView in action](xamlcontrolsgallery:/item/CalendarView).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
@@ -214,4 +214,4 @@ private void CalendarView_CalendarViewDayItemChanging(CalendarView sender,
 
 
 ## -see-also
-[Control](control.md), [Windows.Globalization.CalendarIdentifiers](/uwp/api/windows.globalization.calendaridentifiers), [System.DateTimeOffset (C#/VB)](/dotnet/api/system.datetimeoffset?view=dotnet-uwp-10.0&preserve-view=true), [Windows::Foundation::DateTime (C++)](/windows/desktop/api/windows.foundation/ns-windows-foundation-datetime), [Windows.Globalization.Calendar](/uwp/api/windows.globalization.calendar), [CalendarView styles and templates](/windows/uwp/design/controls-and-patterns/xaml-styles), [CalendarDatePicker](calendardatepicker.md), [DatePicker](datepicker.md), [TimePicker](timepicker.md), [Controls list](/windows/uwp/design/controls-and-patterns/), [Controls by function](/windows/uwp/controls-and-patterns/controls-by-function)
+[Control](control.md), [Windows.Globalization.CalendarIdentifiers](/uwp/api/windows.globalization.calendaridentifiers), [System.DateTimeOffset (C#/VB)](/dotnet/api/system.datetimeoffset?view=dotnet-uwp-10.0&preserve-view=true), [Windows::Foundation::DateTime (C++)](/windows/desktop/api/windows.foundation/ns-windows-foundation-datetime), [Windows.Globalization.Calendar](/uwp/api/windows.globalization.calendar), [CalendarView styles and templates](/windows/apps/design/style/xaml-styles), [CalendarDatePicker](calendardatepicker.md), [DatePicker](datepicker.md), [TimePicker](timepicker.md), [Controls list](/windows/apps/design/controls/), [Controls by function](/windows/uwp/controls-and-patterns/controls-by-function)

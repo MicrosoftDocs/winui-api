@@ -18,7 +18,7 @@ The identifier for the [AppBarToggleButton.KeyboardAcceleratorTextOverride](appb
 ## -remarks
 
 ## -see-also
-[Keyboard Accelerators](/windows/uwp/design/input/keyboard-accelerators)
+[Keyboard Accelerators](/windows/apps/design/input/keyboard-accelerators)
 
 ## -examples
 

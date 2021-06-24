@@ -70,7 +70,7 @@ private void Button_Loaded(object sender, RoutedEventArgs e)
 }
 ```
 ## -see-also
-[Keyboard Accelerators](/windows/uwp/design/input/keyboard-accelerators)
+[Keyboard Accelerators](/windows/apps/design/input/keyboard-accelerators)
 
 ## -examples
 

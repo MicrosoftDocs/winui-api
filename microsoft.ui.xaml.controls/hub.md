@@ -24,7 +24,7 @@ Represents a control that displays groups of content in a panning view.
 
 ## -remarks
 
-**For Windows 10 and later: We recommend against using this control; use one of the other navigation controls instead. For a list, see the [Navigation basics](/windows/uwp/design/basics/navigation-basics) article.**
+**For Windows 10 and later: We recommend against using this control; use one of the other navigation controls instead. For a list, see the [Navigation basics](/windows/apps/design/basics/navigation-basics) article.**
 
 Use a Hub to show different collections of data, either from the same source or from different sources.
 
@@ -118,4 +118,4 @@ private void Hub_SectionHeaderClick(object sender, HubSectionHeaderClickEventArg
 
 
 ## -see-also
-[Navigation basics](/windows/uwp/design/basics/navigation-basics)
+[Navigation basics](/windows/apps/design/basics/navigation-basics)

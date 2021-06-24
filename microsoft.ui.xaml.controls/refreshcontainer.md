@@ -16,7 +16,7 @@ Represents a container control that provides a [RefreshVisualizer](refreshvisual
 
 ## -see-also
 
-[RefreshVisualizer](refreshvisualizer.md), [Pull to refresh](/windows/uwp/design/controls-and-patterns/pull-to-refresh)
+[RefreshVisualizer](refreshvisualizer.md), [Pull to refresh](/windows/apps/design/controls/pull-to-refresh)
 
 ## -examples
 

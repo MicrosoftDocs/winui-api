@@ -17,7 +17,7 @@ Provides data for the [TabView.TabDroppedOutside](tabview_tabdroppedoutside.md) 
 
 ## -see-also
 
-[TabView](tabview.md), [Guidelines for TabView](/windows/uwp/design/controls-and-patterns/tab-view)
+[TabView](tabview.md), [Guidelines for TabView](/windows/apps/design/controls/tab-view)
 
 ## -examples
 

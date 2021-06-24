@@ -17,7 +17,7 @@ Exposes [SplitButton](splitbutton.md) types to [Microsoft UI Automation](/window
 
 ## -see-also
 
-[Buttons](/windows/uwp/design/controls-and-patterns/buttons)
+[Buttons](/windows/apps/design/controls/buttons)
 
 ## -examples
 

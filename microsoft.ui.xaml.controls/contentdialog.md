@@ -27,7 +27,7 @@ Represents a dialog box that can be customized to contain checkboxes, hyperlinks
 ## -remarks
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Dialog controls](/windows/uwp/design/controls-and-patterns/dialogs-and-flyouts/dialogs
+> For more info, design guidance, and code examples, see [Dialog controls](/windows/apps/design/controls/dialogs-and-flyouts/dialogs
 ).
 
 Use a ContentDialog to request input from the user, or to show information in a modal dialog. You can add a ContentDialog to an app page using code or XAML, or you can create a custom dialog class that's derived from ContentDialog. Both ways are shown in the examples section of this topic.
@@ -99,7 +99,7 @@ This table shows the resources used by the ContentDialog control.
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Dialog controls](/windows/uwp/design/controls-and-patterns/dialogs-and-flyouts/dialogs
+> For more info, design guidance, and code examples, see [Dialog controls](/windows/apps/design/controls/dialogs-and-flyouts/dialogs
 ).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the ContentDialog in action](xamlcontrolsgallery:/item/ContentDialog).
@@ -420,4 +420,4 @@ private async void ShowSignInDialogButton_Click(object sender, RoutedEventArgs e
 
 
 ## -see-also
-[ContentControl](contentcontrol.md), [ContentDialog styles and templates](/windows/uwp/design/controls-and-patterns/xaml-styles), [Dialogs and flyouts](/windows/uwp/design/controls-and-patterns/dialogs)
+[ContentControl](contentcontrol.md), [ContentDialog styles and templates](/windows/apps/design/style/xaml-styles), [Dialogs and flyouts](/windows/apps/design/controls/dialogs)

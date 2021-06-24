@@ -20,7 +20,7 @@ Gets or sets a value that indicates whether the default shadow effect is shown.
 ## -remarks
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Z-depth and shadow](/windows/uwp/design/layout/depth-shadow).
+> For more info, design guidance, and code examples, see [Z-depth and shadow](/windows/apps/design/layout/depth-shadow).
 
 Many common controls automatically cast shadows using a [ThemeShadow](../microsoft.ui.xaml.media/themeshadow.md). 
 

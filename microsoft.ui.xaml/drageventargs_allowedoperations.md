@@ -23,4 +23,4 @@ This value is set in the [DragStarting](uielement_dragstarting.md) event handler
 ## -examples
 
 ## -see-also
-[Drag-and-drop overview](/windows/uwp/design/input/drag-and-drop), [DragStarting](uielement_dragstarting.md), DragStartingEventArgs.AllowedOperations, [CoreDragOperation.AllowedOperations](/uwp/api/windows.applicationmodel.datatransfer.dragdrop.core.coredragoperation.allowedoperations)
+[Drag-and-drop overview](/windows/apps/design/input/drag-and-drop), [DragStarting](uielement_dragstarting.md), DragStartingEventArgs.AllowedOperations, [CoreDragOperation.AllowedOperations](/uwp/api/windows.applicationmodel.datatransfer.dragdrop.core.coredragoperation.allowedoperations)

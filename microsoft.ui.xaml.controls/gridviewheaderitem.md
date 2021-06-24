@@ -36,4 +36,4 @@ This table shows the resources used by the GridViewHeaderItem control.
 ## -examples
 
 ## -see-also
-[ListViewBaseHeaderItem](listviewbaseheaderitem.md), [GridView](gridview.md), [GroupStyle property](itemscontrol_groupstyle.md), [GroupStyle.HeaderTemplate](groupstyle_headertemplate.md), [GridViewHeaderItem styles and templates](/windows/uwp/design/controls-and-patterns/xaml-styles)
+[ListViewBaseHeaderItem](listviewbaseheaderitem.md), [GridView](gridview.md), [GroupStyle property](itemscontrol_groupstyle.md), [GroupStyle.HeaderTemplate](groupstyle_headertemplate.md), [GridViewHeaderItem styles and templates](/windows/apps/design/style/xaml-styles)

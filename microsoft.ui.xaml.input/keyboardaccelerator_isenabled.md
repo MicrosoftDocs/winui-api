@@ -18,7 +18,7 @@ Gets or sets whether a keyboard shortcut (accelerator) is available to the user.
 ## -remarks
 
 ## -see-also
-[Keyboard Accelerators](/windows/uwp/design/input/keyboard-accelerators)
+[Keyboard Accelerators](/windows/apps/design/input/keyboard-accelerators)
 
 ## -examples
 

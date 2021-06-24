@@ -17,4 +17,4 @@ Initializes a new instance of the [AccessKeyDisplayDismissedEventArgs](accesskey
 ## -examples
 
 ## -see-also
-[Access keys](/windows/uwp/design/input/access-keys)
+[Access keys](/windows/apps/design/input/access-keys)

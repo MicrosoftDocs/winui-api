@@ -22,7 +22,7 @@ Represents a control that can be used to display and edit plain text (single or 
 ## -remarks
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Text box](/windows/uwp/design/controls-and-patterns/text-box).
+> For more info, design guidance, and code examples, see [Text box](/windows/apps/design/controls/text-box).
 
 <img alt="Text box control" src="images/controls/TextBox.png" />
 
@@ -147,7 +147,7 @@ Starting with Windows 10, version 1803, XAML text input boxes feature embedded s
 
 <img src="images/controls/handwritingview-inksuggestion1.gif" alt="Text box with ink and suggestions" />
 
-For more info, see [Text input with the handwriting view](/windows/uwp/design/controls-and-patterns/text-handwriting-view).
+For more info, see [Text input with the handwriting view](/windows/apps/design/controls/text-handwriting-view).
 
 ### Modify the context menu
 
@@ -160,7 +160,7 @@ By default, the commands shown in the TextBox context menu depend on the state o
    <tr><td>Undo</td><td>text has been changed.</td></tr>
 </table>
 
-To modify the commands shown in the context menu, handle the [ContextMenuOpening](textbox_contextmenuopening.md) event. For an example of this, see the **Customizing RichEditBox's CommandBarFlyout - adding 'Share'** example in the <a href="xamlcontrolsgallery:/item/RichEditBox">XAML Controls Gallery</a>. For design info, see [Guidelines for context menus](/windows/uwp/design/controls-and-patterns/menus).
+To modify the commands shown in the context menu, handle the [ContextMenuOpening](textbox_contextmenuopening.md) event. For an example of this, see the **Customizing RichEditBox's CommandBarFlyout - adding 'Share'** example in the <a href="xamlcontrolsgallery:/item/RichEditBox">XAML Controls Gallery</a>. For design info, see [Guidelines for context menus](/windows/apps/design/controls/menus).
 
 ### Selection, copy, and paste
 
@@ -172,7 +172,7 @@ TextBox supports copy and paste by default. You can provide custom handling of t
 
 The touch keyboard can be used for text entry when your app runs on a device with a touch screen. TextBox provides properties you can set to make it much faster and easier for users to enter data in your app using the touch keyboard. Set the [InputScope](textbox_inputscope.md) property to match the kind of data the user is expected to enter. For example, if a TextBox is used only to enter a 4-digit PIN, set the [InputScope](textbox_inputscope.md) property to Number. This tells the system to show the number keypad layout, which makes it easier for the user to enter the PIN.
 
-Other properties that affect the touch keyboard are [IsSpellCheckEnabled](textbox_isspellcheckenabledproperty.md), [IsTextPredictionEnabled](textbox_istextpredictionenabledproperty.md), and [PreventKeyboardDisplayOnProgrammaticFocus](textbox_preventkeyboarddisplayonprogrammaticfocus.md). ([IsSpellCheckEnabled](textbox_isspellcheckenabledproperty.md) also affects the TextBox when a hardware keyboard is used.) For more info and examples, see [Use input scope to change the touch keyboard](/windows/uwp/design/input/use-input-scope-to-change-the-touch-keyboard), and the property documentation.
+Other properties that affect the touch keyboard are [IsSpellCheckEnabled](textbox_isspellcheckenabledproperty.md), [IsTextPredictionEnabled](textbox_istextpredictionenabledproperty.md), and [PreventKeyboardDisplayOnProgrammaticFocus](textbox_preventkeyboarddisplayonprogrammaticfocus.md). ([IsSpellCheckEnabled](textbox_isspellcheckenabledproperty.md) also affects the TextBox when a hardware keyboard is used.) For more info and examples, see [Use input scope to change the touch keyboard](/windows/apps/design/input/use-input-scope-to-change-the-touch-keyboard), and the property documentation.
 
 ### Control style and template
 
@@ -217,7 +217,7 @@ This table shows the resources used by the TextBox control. Resources that start
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Text box](/windows/uwp/design/controls-and-patterns/text-box).
+> For more info, design guidance, and code examples, see [Text box](/windows/apps/design/controls/text-box).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the TextBox in action](xamlcontrolsgallery:/item/TextBox).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
@@ -249,4 +249,4 @@ private void Button_Click(object sender, RoutedEventArgs e)
 
 ## -see-also
 
-[Text box overview](/windows/uwp/design/controls-and-patterns/text-box), [How to use input scope to change the touch keyboard](/windows/uwp/design/input/use-input-scope-to-change-the-touch-keyboard), [XAML text editing sample](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/Official%20Windows%20Platform%20Sample/XAML%20text%20editing%20sample), [Guidelines for spell checking](/windows/uwp/controls-and-patterns/spell-checking-and-prediction), [PasswordBox](passwordbox.md), [RichEditBox](richeditbox.md), [RichTextBlock](richtextblock.md), [SearchBox](searchbox.md), [Controls list](/windows/uwp/design/controls-and-patterns/), [Controls by function](/windows/uwp/controls-and-patterns/controls-by-function), [Touch keyboard text input sample (Windows 10)](https://go.microsoft.com/fwlink/p/?LinkId=690716)
+[Text box overview](/windows/apps/design/controls/text-box), [How to use input scope to change the touch keyboard](/windows/apps/design/input/use-input-scope-to-change-the-touch-keyboard), [XAML text editing sample](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/Official%20Windows%20Platform%20Sample/XAML%20text%20editing%20sample), [Guidelines for spell checking](/windows/uwp/controls-and-patterns/spell-checking-and-prediction), [PasswordBox](passwordbox.md), [RichEditBox](richeditbox.md), [RichTextBlock](richtextblock.md), [SearchBox](searchbox.md), [Controls list](/windows/apps/design/controls/), [Controls by function](/windows/uwp/controls-and-patterns/controls-by-function), [Touch keyboard text input sample (Windows 10)](https://go.microsoft.com/fwlink/p/?LinkId=690716)

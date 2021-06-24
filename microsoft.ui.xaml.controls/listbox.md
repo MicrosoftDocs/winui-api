@@ -24,7 +24,7 @@ Presents a list of items the user can select from.
 ## -remarks
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Lists](/windows/uwp/design/controls-and-patterns/lists#list-boxes).
+> For more info, design guidance, and code examples, see [Lists](/windows/apps/design/controls/lists#list-boxes).
 
 ListBox lets users select from a pre-defined list of options presented like a text control. Use a ListBox when you want the options to be visible all the time or when users can select more than one option at a time. ListBox controls are always open, so several items can be displayed without user interaction.
 
@@ -52,7 +52,7 @@ ListBox has many similarities with [ListView](listview.md) or [GridView](gridvie
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Lists](/windows/uwp/design/controls-and-patterns/lists#list-boxes).
+> For more info, design guidance, and code examples, see [Lists](/windows/apps/design/controls/lists#list-boxes).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the ListBox in action](xamlcontrolsgallery:/item/ListBox).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
@@ -106,4 +106,4 @@ End Sub
 
 
 ## -see-also
-[Selector](../microsoft.ui.xaml.controls.primitives/selector.md), [ItemsControl](itemscontrol.md), [ListBoxItem](listboxitem.md), [ListBox styles and templates](/windows/uwp/design/controls-and-patterns/xaml-styles), [ComboBox](combobox.md), [Controls list](/windows/uwp/design/controls-and-patterns/), [Controls by function](/windows/uwp/controls-and-patterns/controls-by-function)
+[Selector](../microsoft.ui.xaml.controls.primitives/selector.md), [ItemsControl](itemscontrol.md), [ListBoxItem](listboxitem.md), [ListBox styles and templates](/windows/apps/design/style/xaml-styles), [ComboBox](combobox.md), [Controls list](/windows/apps/design/controls/), [Controls by function](/windows/uwp/controls-and-patterns/controls-by-function)

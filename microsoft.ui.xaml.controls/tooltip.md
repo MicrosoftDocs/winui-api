@@ -97,7 +97,7 @@ This table shows the resources used by the ToolTip control.
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Tooltips](/windows/uwp/design/controls-and-patterns/tooltips).
+> For more info, design guidance, and code examples, see [Tooltips](/windows/apps/design/controls/tooltips).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the ToolTip in action](xamlcontrolsgallery:/item/ToolTip).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
@@ -108,4 +108,4 @@ This example demonstrates basic tooltips and the properties for placement.
 [!code-xaml[1](../microsoft.ui.xaml.controls.primitives/code/System.Windows.Controls.ToolTip/csharp/Page.xaml#Snippet1)]
 
 ## -see-also
-[ContentControl](contentcontrol.md), [ToolTipService](tooltipservice.md), [Tooltips overview](/windows/uwp/design/controls-and-patterns/tooltips), [ToolTip styles and templates](/windows/uwp/design/controls-and-patterns/xaml-styles), [XAML essential controls sample](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/Official%20Windows%20Platform%20Sample/Windows%208.1%20Store%20app%20samples/99866-Windows%208.1%20Store%20app%20samples/XAML%20essential%20controls%20sample)
+[ContentControl](contentcontrol.md), [ToolTipService](tooltipservice.md), [Tooltips overview](/windows/apps/design/controls/tooltips), [ToolTip styles and templates](/windows/apps/design/style/xaml-styles), [XAML essential controls sample](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/Official%20Windows%20Platform%20Sample/Windows%208.1%20Store%20app%20samples/99866-Windows%208.1%20Store%20app%20samples/XAML%20essential%20controls%20sample)

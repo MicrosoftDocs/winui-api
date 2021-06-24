@@ -21,7 +21,7 @@ Represents a selection control that combines a non-editable text box and a drop-
 ## -remarks
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Combo box](/windows/uwp/design/controls-and-patterns/combo-box).
+> For more info, design guidance, and code examples, see [Combo box](/windows/apps/design/controls/combo-box).
 
 ComboBox presents a drop-down list of items a user can select from.
 
@@ -75,7 +75,7 @@ This table shows the resources used by the ComboBox control.
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Combo box](/windows/uwp/design/controls-and-patterns/combo-box).
+> For more info, design guidance, and code examples, see [Combo box](/windows/apps/design/controls/combo-box).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the ComboBox in action](xamlcontrolsgallery:/item/ComboBox).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
@@ -109,4 +109,4 @@ public MainPage()
 <!--<auto_snippet sample_id="ComboBoxBoundEx" snippet_id="2"/>-->
 
 ## -see-also
-[Selector](../microsoft.ui.xaml.controls.primitives/selector.md), [ComboBox styles and templates](/windows/uwp/design/controls-and-patterns/xaml-styles), [ListBox](listbox.md), [Controls list](/windows/uwp/design/controls-and-patterns/), [Controls by function](/windows/uwp/controls-and-patterns/controls-by-function)
+[Selector](../microsoft.ui.xaml.controls.primitives/selector.md), [ComboBox styles and templates](/windows/apps/design/style/xaml-styles), [ListBox](listbox.md), [Controls list](/windows/apps/design/controls/), [Controls by function](/windows/uwp/controls-and-patterns/controls-by-function)

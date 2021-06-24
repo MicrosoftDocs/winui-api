@@ -13,6 +13,6 @@ Defines the built-in animated visuals that can be played by an [AnimatedIcon](..
 
 ## -see-also
 
-[Animated icons guidance](/windows/uwp/design/controls-and-patterns/animated-icon)
+[Animated icons guidance](/windows/apps/design/controls/animated-icon)
 
 ## -examples

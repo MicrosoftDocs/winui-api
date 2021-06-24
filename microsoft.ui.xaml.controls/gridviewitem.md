@@ -69,4 +69,4 @@ In Windows 8.1, the item container's [DataContext](../microsoft.ui.xaml/framewo
 ## -examples
 
 ## -see-also
-[SelectorItem](../microsoft.ui.xaml.controls.primitives/selectoritem.md), [GridView](gridview.md), [ItemContainerStyle](itemscontrol_itemcontainerstyle.md), [GridViewItem styles and templates](/windows/uwp/design/controls-and-patterns/xaml-styles), [Item templates for GridView](/windows/uwp/controls-and-patterns/item-templates-gridview)
+[SelectorItem](../microsoft.ui.xaml.controls.primitives/selectoritem.md), [GridView](gridview.md), [ItemContainerStyle](itemscontrol_itemcontainerstyle.md), [GridViewItem styles and templates](/windows/apps/design/style/xaml-styles), [Item templates for GridView](/windows/uwp/controls-and-patterns/item-templates-gridview)

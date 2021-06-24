@@ -21,4 +21,4 @@ Gets or sets a value that indicates whether the glyph is shown.
 
 ## -see-also
 
-[Drag-and-drop overview](/windows/uwp/design/input/drag-and-drop)
+[Drag-and-drop overview](/windows/apps/design/input/drag-and-drop)

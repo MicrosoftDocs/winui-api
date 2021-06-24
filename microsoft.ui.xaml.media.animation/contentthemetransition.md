@@ -93,4 +93,4 @@ void MyPage::ContentHost_PointerPressed(Object^ sender, PointerRoutedEventArgs^ 
 ```
 
 ## -see-also
-[Transition](transition.md), [Guidelines for content transition animations](/windows/uwp/design/motion/content-transition-animations)
+[Transition](transition.md), [Guidelines for content transition animations](/windows/apps/design/motion/content-transition-animations)

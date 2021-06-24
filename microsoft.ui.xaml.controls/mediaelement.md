@@ -26,7 +26,7 @@ Represents an object that renders audio and video to the display. See Remarks.
 > **MediaPlayerElement**.
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Media playback](/windows/uwp/design/controls-and-patterns/media-playback).
+> For more info, design guidance, and code examples, see [Media playback](/windows/apps/design/controls/media-playback).
 
 Use a MediaElement control to play audio and video files in your app. Built– in media transport controls let users interact with their media by providing a default playback experience comprised of various buttons including play, pause, closed captions, and others. See [MediaTransportControls](mediatransportcontrols.md) for more info.
 
@@ -255,7 +255,7 @@ Windows Phone 8.x app must use [PickSingleFileAndContinue](/uwp/api/windows.stor
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Media playback](/windows/uwp/design/controls-and-patterns/media-playback).
+> For more info, design guidance, and code examples, see [Media playback](/windows/apps/design/controls/media-playback).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the MediaElement in action](xamlcontrolsgallery:/item/MediaElement).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
@@ -330,4 +330,4 @@ private void ShowPopupClicked(object sender, RoutedEventArgs e)
 
 ## -see-also
 
-[Control](control.md), [MediaElement control guide](/windows/uwp/design/controls-and-patterns/media-playback), [Create custom transport controls](/windows/uwp/controls-and-patterns/custom-transport-controls), [Media transport controls sample](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/XamlCustomMediaTransportControls?amp;amp;clcid=0x409), [Video playback sample](https://go.microsoft.com/fwlink/p/?LinkId=620020&amp;amp;clcid=0x409), [Real-time communication sample (Windows 10)](https://go.microsoft.com/fwlink/p/?LinkId=620600), [Real-time communication sample (Windows 10)](https://go.microsoft.com/fwlink/p/?LinkId=620600), [Version adaptive code sample](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/VersionAdaptiveCode)
+[Control](control.md), [MediaElement control guide](/windows/apps/design/controls/media-playback), [Create custom transport controls](/windows/uwp/controls-and-patterns/custom-transport-controls), [Media transport controls sample](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/XamlCustomMediaTransportControls?amp;amp;clcid=0x409), [Video playback sample](https://go.microsoft.com/fwlink/p/?LinkId=620020&amp;amp;clcid=0x409), [Real-time communication sample (Windows 10)](https://go.microsoft.com/fwlink/p/?LinkId=620600), [Real-time communication sample (Windows 10)](https://go.microsoft.com/fwlink/p/?LinkId=620600), [Version adaptive code sample](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/VersionAdaptiveCode)

@@ -26,7 +26,7 @@ Represents a control that displays data items in rows and columns.
 ## -remarks
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [List view and grid view](/windows/uwp/design/controls-and-patterns/listview-and-gridview).
+> For more info, design guidance, and code examples, see [List view and grid view](/windows/apps/design/controls/listview-and-gridview).
 
 Use a **GridView** to display a collection of items in rows and columns that can scroll vertically. Data is stacked horizontally until it fills the columns, then continues with the next row. It's often used when you need to show a rich visualization of each item that takes more space, such as a photo gallery.
 
@@ -105,7 +105,7 @@ List controls that derive from [Selector](../microsoft.ui.xaml.controls.primitiv
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [List view and grid view](/windows/uwp/design/controls-and-patterns/listview-and-gridview).
+> For more info, design guidance, and code examples, see [List view and grid view](/windows/apps/design/controls/listview-and-gridview).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the GridView in action](xamlcontrolsgallery:/item/GridView).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
@@ -234,4 +234,4 @@ namespace GroupedGridViewApp
 ```
 
 ## -see-also
-[List view and grid view](/windows/uwp/design/controls-and-patterns/listview-and-gridview), [ListViewBase](listviewbase.md), [ISemanticZoomInformation](isemanticzoominformation.md), [GridView styles and templates](/windows/uwp/design/controls-and-patterns/xaml-styles), [Item templates for GridView](/windows/uwp/controls-and-patterns/item-templates-gridview), [Data binding overview](/windows/uwp/data-binding/data-binding-quickstart), [ListView](listview.md), [SemanticZoom](semanticzoom.md), [ListView and GridView sample (Windows 10)](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/XamlListView)
+[List view and grid view](/windows/apps/design/controls/listview-and-gridview), [ListViewBase](listviewbase.md), [ISemanticZoomInformation](isemanticzoominformation.md), [GridView styles and templates](/windows/apps/design/style/xaml-styles), [Item templates for GridView](/windows/uwp/controls-and-patterns/item-templates-gridview), [Data binding overview](/windows/uwp/data-binding/data-binding-quickstart), [ListView](listview.md), [SemanticZoom](semanticzoom.md), [ListView and GridView sample (Windows 10)](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/XamlListView)

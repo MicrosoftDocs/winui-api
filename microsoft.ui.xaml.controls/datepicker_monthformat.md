@@ -67,4 +67,4 @@ Here's a [DatePicker](datepicker.md) that combines 2 format patterns to display 
 
 ## -see-also
 
-[DateTimeFormatter](../windows.globalization.datetimeformatting/datetimeformatter.md), [DayFormat](datepicker_dayformat.md), [YearFormat](datepicker_yearformat.md), [MonthVisible](datepicker_monthvisible.md), [Date picker](/windows/uwp/design/controls-and-patterns/date-picker), [Use templates and patterns to format dates and times](/windows/uwp/design/globalizing/use-patterns-to-format-dates-and-times
+[DateTimeFormatter](../windows.globalization.datetimeformatting/datetimeformatter.md), [DayFormat](datepicker_dayformat.md), [YearFormat](datepicker_yearformat.md), [MonthVisible](datepicker_monthvisible.md), [Date picker](/windows/apps/design/controls/date-picker), [Use templates and patterns to format dates and times](/windows/apps/design/globalizing/use-patterns-to-format-dates-and-times

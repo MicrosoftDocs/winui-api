@@ -33,4 +33,4 @@ You typically set IsSwipeEnabled to **false** to disable *swipe* animations when
 ## -examples
 
 ## -see-also
-[Touch interactions](/windows/uwp/design/input/touch-interactions)
+[Touch interactions](/windows/apps/design/input/touch-interactions)

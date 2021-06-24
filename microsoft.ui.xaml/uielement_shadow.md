@@ -20,7 +20,7 @@ The shadow effect cast by the element.
 ## -remarks
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Z-depth and shadow](/windows/uwp/design/layout/depth-shadow).
+> For more info, design guidance, and code examples, see [Z-depth and shadow](/windows/apps/design/layout/depth-shadow).
 
 Many common controls automatically cast shadows using a [ThemeShadow](../microsoft.ui.xaml.media/themeshadow.md). 
 
@@ -28,12 +28,12 @@ The UIElement.Shadow property can be used to cast shadows from additional visual
 
 ## -see-also
 
-[Z-depth and shadow](/windows/uwp/design/layout/depth-shadow), [ThemeShadow](../microsoft.ui.xaml.media/themeshadow.md)
+[Z-depth and shadow](/windows/apps/design/layout/depth-shadow), [ThemeShadow](../microsoft.ui.xaml.media/themeshadow.md)
 
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Z-depth and shadow](/windows/uwp/design/layout/depth-shadow).
+> For more info, design guidance, and code examples, see [Z-depth and shadow](/windows/apps/design/layout/depth-shadow).
 >
 > Many common controls automatically cast shadows using a [ThemeShadow](../microsoft.ui.xaml.media/themeshadow.md). 
 >

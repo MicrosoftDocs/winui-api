@@ -22,7 +22,7 @@ Represents a text control that makes suggestions to users as they enter text usi
 ## -remarks
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Auto-suggest box](/windows/uwp/design/controls-and-patterns/auto-suggest-box).
+> For more info, design guidance, and code examples, see [Auto-suggest box](/windows/apps/design/controls/auto-suggest-box).
 
 Use an AutoSuggestBox to provide a list of suggestions for a user to select from as they type.
 
@@ -75,7 +75,7 @@ If you are using an assistive technology, such as [Narrator](https://support.mic
 + Know how many suggestions are available
 + Be able to move Narrator focus to the list
 + Be able to Navigate through a suggestion with all other reading modes
-See [Auto-suggest accessibility](/windows/uwp/design/accessibility/accessible-text-requirements#auto-suggest-accessibility) for more information.
+See [Auto-suggest accessibility](/windows/apps/design/accessibility/accessible-text-requirements#auto-suggest-accessibility) for more information.
 
 ## Pen input
 
@@ -99,7 +99,7 @@ You can configure the handwriting view of the AutoSuggestBox through its TextBox
 
 <img src="images/controls/handwritingview-inksuggestion1.gif" alt="Text box with ink and suggestions" />
 
-For more info, see [Text input with the handwriting view](/windows/uwp/design/controls-and-patterns/text-handwriting-view).
+For more info, see [Text input with the handwriting view](/windows/apps/design/controls/text-handwriting-view).
 
 ### Control style and template
 
@@ -146,7 +146,7 @@ This table shows the resources used by the AutoSuggestBox control. Resources tha
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Auto-suggest box](/windows/uwp/design/controls-and-patterns/auto-suggest-box).
+> For more info, design guidance, and code examples, see [Auto-suggest box](/windows/apps/design/controls/auto-suggest-box).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the AutoSuggestBox in action](xamlcontrolsgallery:/item/AutoSuggestBox).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/p/xaml-controls-gallery/9msvh128x2zt)
@@ -199,4 +199,4 @@ private void AutoSuggestBox_QuerySubmitted(AutoSuggestBox sender, AutoSuggestBox
 
 
 ## -see-also
-[ItemsControl](itemscontrol.md), [IItemContainerMapping](iitemcontainermapping.md), [AutoSuggestBox styles and templates](/windows/uwp/design/controls-and-patterns/xaml-styles), [AutoSuggestBox migration sample (Windows 10)](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/XamlAutoSuggestBox), [Guidelines for auto-suggest boxes](/windows/uwp/design/controls-and-patterns/auto-suggest-box), [Search and find-in-page](/windows/uwp/design/controls-and-patterns/search)
+[ItemsControl](itemscontrol.md), [IItemContainerMapping](iitemcontainermapping.md), [AutoSuggestBox styles and templates](/windows/apps/design/style/xaml-styles), [AutoSuggestBox migration sample (Windows 10)](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/XamlAutoSuggestBox), [Guidelines for auto-suggest boxes](/windows/apps/design/controls/auto-suggest-box), [Search and find-in-page](/windows/apps/design/controls/search)

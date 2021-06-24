@@ -16,11 +16,11 @@ Represents a button that includes a chevron to indicate a menu can be opened.
 
 The chevron is a visual indicator that a flyout is available with a menu of options. The DropDownButton has the same behavior as a standard Button with a flyout (only the appearance is different).
 
-For more info and examples, see [Buttons](/windows/uwp/design/controls-and-patterns/buttons#create-a-drop-down-button).
+For more info and examples, see [Buttons](/windows/apps/design/controls/buttons#create-a-drop-down-button).
 
 ## -see-also
 
-[Buttons](/windows/uwp/design/controls-and-patterns/buttons#create-a-drop-down-button)
+[Buttons](/windows/apps/design/controls/buttons#create-a-drop-down-button)
 
 ## -examples
 

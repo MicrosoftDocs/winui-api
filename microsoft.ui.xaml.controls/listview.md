@@ -26,7 +26,7 @@ Represents a control that displays data items in a vertical stack.
 ## -remarks
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [List view and grid view](/windows/uwp/design/controls-and-patterns/listview-and-gridview).
+> For more info, design guidance, and code examples, see [List view and grid view](/windows/apps/design/controls/listview-and-gridview).
 
 Use a ListView to display a collection of items stacked vertically or horizontally. To display a collection in rows and columns, use a [GridView](gridview.md).
 
@@ -82,7 +82,7 @@ List controls that derive from [Selector](../microsoft.ui.xaml.controls.primitiv
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [List view and grid view](/windows/uwp/design/controls-and-patterns/listview-and-gridview).
+> For more info, design guidance, and code examples, see [List view and grid view](/windows/apps/design/controls/listview-and-gridview).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the ListView in action](xamlcontrolsgallery:/item/ListView).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
@@ -113,4 +113,4 @@ In this example, the [ItemTemplate](itemscontrol_itemtemplate.md) of a ListView 
 
 ## -see-also
 
-[Lists overview](/windows/uwp/controls-and-patterns/lists), [ListViewBase](listviewbase.md), [ListView styles and templates](/windows/uwp/design/controls-and-patterns/xaml-styles), [Item templates for ListView](/windows/uwp/controls-and-patterns/item-templates-listview), [Data binding overview](/windows/uwp/data-binding/data-binding-quickstart), [RSS reader end-to-end (JavaScript) sample (Windows 10)](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/FeedReader), [ListView and GridView sample (Windows 10)](https://go.microsoft.com/fwlink/p/?LinkId=619900), [Navigation menu (XAML) sample (Windows 10)](https://go.microsoft.com/fwlink/p/?LinkId=619902)
+[Lists overview](/windows/uwp/controls-and-patterns/lists), [ListViewBase](listviewbase.md), [ListView styles and templates](/windows/apps/design/style/xaml-styles), [Item templates for ListView](/windows/uwp/controls-and-patterns/item-templates-listview), [Data binding overview](/windows/uwp/data-binding/data-binding-quickstart), [RSS reader end-to-end (JavaScript) sample (Windows 10)](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/FeedReader), [ListView and GridView sample (Windows 10)](https://go.microsoft.com/fwlink/p/?LinkId=619900), [Navigation menu (XAML) sample (Windows 10)](https://go.microsoft.com/fwlink/p/?LinkId=619902)

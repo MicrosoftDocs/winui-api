@@ -48,4 +48,4 @@ public MainPage()
 
 ## -see-also
 
-[DateChanged](datepicker_datechanged.md), [Date picker](/windows/uwp/design/controls-and-patterns/date-picker)
+[DateChanged](datepicker_datechanged.md), [Date picker](/windows/apps/design/controls/date-picker)

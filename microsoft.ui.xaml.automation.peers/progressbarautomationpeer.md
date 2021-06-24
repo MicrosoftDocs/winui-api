@@ -17,7 +17,7 @@ Exposes [ProgressBar](../microsoft.ui.xaml.controls/progressbar.md) types to [Mi
 
 ## -see-also
 
-[RangeBaseAutomationPeer](/uwp/api/windows.ui.xaml.automation.peers.rangebaseautomationpeer), [Custom automation peers](/windows/uwp/design/accessibility/custom-automation-peers), [Expose basic accessibility information](/windows/uwp/design/accessibility/basic-accessibility-information), [Accessibility Insights](https://accessibilityinsights.io/)
+[RangeBaseAutomationPeer](/uwp/api/windows.ui.xaml.automation.peers.rangebaseautomationpeer), [Custom automation peers](/windows/apps/design/accessibility/custom-automation-peers), [Expose basic accessibility information](/windows/apps/design/accessibility/basic-accessibility-information), [Accessibility Insights](https://accessibilityinsights.io/)
 
 ## -examples
 

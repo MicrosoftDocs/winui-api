@@ -30,7 +30,7 @@ A RepeatButton is a button that raises [Click](buttonbase_click.md) events repea
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Buttons](/windows/uwp/design/controls-and-patterns/buttons).
+> For more info, design guidance, and code examples, see [Buttons](/windows/apps/design/controls/buttons).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the RepeatButton in action](xamlcontrolsgallery:/item/RepeatButton).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)

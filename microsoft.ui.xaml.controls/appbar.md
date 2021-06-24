@@ -98,4 +98,4 @@ This example shows a top app bar with a group of navigation buttons and a search
 
 ## -see-also
 
-[Guidelines for command and app bars](/windows/uwp/controls-and-patterns/app-bars), [AppBar styles and templates](/windows/uwp/design/controls-and-patterns/xaml-styles), [AppBarButton](appbarbutton.md), [CommandBar](commandbar.md), [Commanding sample](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/XamlCommanding)
+[Guidelines for command and app bars](/windows/uwp/controls-and-patterns/app-bars), [AppBar styles and templates](/windows/apps/design/style/xaml-styles), [AppBarButton](appbarbutton.md), [CommandBar](commandbar.md), [Commanding sample](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/XamlCommanding)

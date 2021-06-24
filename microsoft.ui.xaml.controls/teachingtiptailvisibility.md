@@ -31,7 +31,7 @@ The teaching tip's tail is visible.
 
 ## -see-also
 
-[TeachingTip.TailVisibility](teachingtip_tailvisibility.md), [Teaching tip overview](/windows/uwp/design/controls-and-patterns/dialogs-and-flyouts/teaching-tip)
+[TeachingTip.TailVisibility](teachingtip_tailvisibility.md), [Teaching tip overview](/windows/apps/design/controls/dialogs-and-flyouts/teaching-tip)
 
 ## -examples
 

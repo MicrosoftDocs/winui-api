@@ -30,7 +30,7 @@ The pane that has priority is shown on the left, the other pane is shown on the 
 
 ## -see-also
 
-[TwoPaneView](twopaneview.md), [TwoPaneView.WideModeConfiguration](twopaneview_widemodeconfiguration.md), [Two-pane view overview](/windows/uwp/design/controls-and-patterns/two-pane-view)
+[TwoPaneView](twopaneview.md), [TwoPaneView.WideModeConfiguration](twopaneview_widemodeconfiguration.md), [Two-pane view overview](/windows/apps/design/controls/two-pane-view)
 
 ## -examples
 

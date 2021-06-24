@@ -15,7 +15,7 @@ Occurs when the currently selected item changes.
 
 ## -remarks
 
-> For more info, design guidance, and code examples, see [Radio buttons](/windows/uwp/design/controls-and-patterns/radio-button).
+> For more info, design guidance, and code examples, see [Radio buttons](/windows/apps/design/controls/radio-button).
 
 Handle the `SelectionChanged` event to take action when an option is chosen.
 

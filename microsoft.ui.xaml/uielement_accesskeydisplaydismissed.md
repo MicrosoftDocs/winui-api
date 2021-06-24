@@ -27,4 +27,4 @@ This event notifies an element to hide access key visuals.
 
 ## -see-also
 
-[AccessKeyDisplayDismissedEventArgs](../microsoft.ui.xaml.input/accesskeydisplaydismissedeventargs.md), [Access keys](/windows/uwp/design/input/access-keys)
+[AccessKeyDisplayDismissedEventArgs](../microsoft.ui.xaml.input/accesskeydisplaydismissedeventargs.md), [Access keys](/windows/apps/design/input/access-keys)

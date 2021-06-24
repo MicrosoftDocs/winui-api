@@ -16,7 +16,7 @@ Represents a flattened list of tree view items so that operations such as keyboa
 
 ## -see-also
 
-[TreeView](treeview.md), [TreeViewItem](treeviewitem.md), [TreeView overview](/windows/uwp/design/controls-and-patterns/tree-view)
+[TreeView](treeview.md), [TreeViewItem](treeviewitem.md), [TreeView overview](/windows/apps/design/controls/tree-view)
 
 ## -examples
 

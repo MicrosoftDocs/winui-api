@@ -44,4 +44,4 @@ This table shows the resources used by the CommandBarOverflowPresenter control.
 ## -examples
 
 ## -see-also
-[ItemsControl](itemscontrol.md), [IItemContainerMapping](iitemcontainermapping.md), [CommandBarOverflowPresenter styles and templates](/windows/uwp/design/controls-and-patterns/xaml-styles)
+[ItemsControl](itemscontrol.md), [IItemContainerMapping](iitemcontainermapping.md), [CommandBarOverflowPresenter styles and templates](/windows/apps/design/style/xaml-styles)

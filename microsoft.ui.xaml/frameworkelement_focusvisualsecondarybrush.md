@@ -21,7 +21,7 @@ The default colors are dependent on the [RequestedTheme](application_requestedth
 
 [HighVisibility](focusvisualkind.md) and [Reveal](focusvisualkind.md) focus visuals are rendered with an outer (primary) and inner (secondary) border.
 
-For more info, see [High Visibility Focus Visuals](/windows/uwp/design/input/guidelines-for-visualfeedback#high-visibility-focus-visuals) and [Reveal focus](/windows/uwp/design/style/reveal-focus).
+For more info, see [High Visibility Focus Visuals](/windows/apps/design/input/guidelines-for-visualfeedback#high-visibility-focus-visuals) and [Reveal focus](/windows/apps/design/style/reveal-focus).
 
 ## -examples
 
@@ -39,4 +39,4 @@ For more info, see [High Visibility Focus Visuals](/windows/uwp/design/input/gui
 
 ## -see-also
 
-[High Visibility Focus Visuals](/windows/uwp/design/input/guidelines-for-visualfeedback#high-visibility-focus-visuals), [Reveal focus](/windows/uwp/design/style/reveal-focus), [FocusVisualPrimaryBrush](frameworkelement_focusvisualprimarybrush.md), [FocusVisualPrimaryThickness](frameworkelement_focusvisualprimarythickness.md), [FocusVisualSecondaryThickness](frameworkelement_focusvisualsecondarythickness.md)
+[High Visibility Focus Visuals](/windows/apps/design/input/guidelines-for-visualfeedback#high-visibility-focus-visuals), [Reveal focus](/windows/apps/design/style/reveal-focus), [FocusVisualPrimaryBrush](frameworkelement_focusvisualprimarybrush.md), [FocusVisualPrimaryThickness](frameworkelement_focusvisualprimarythickness.md), [FocusVisualSecondaryThickness](frameworkelement_focusvisualsecondarythickness.md)

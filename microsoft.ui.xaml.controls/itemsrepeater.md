@@ -31,4 +31,4 @@ You can also view, clone, and build the XAML Controls Gallery source code from [
 
 ## -see-also
 
-[ItemsRepeater guidelines](https://docs.microsoft.com/en-us/windows/uwp/design/controls-and-patterns/items-repeater)
+[ItemsRepeater guidelines](/windows/apps/design/controls/items-repeater)

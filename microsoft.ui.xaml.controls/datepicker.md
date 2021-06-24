@@ -24,7 +24,7 @@ Use a `DatePicker` to let a user enter a date value. The user picks the date usi
 
 ![A date picker control.](images/date-time/date-picker-closed.png)
 
-For more info, design guidance, and code examples, see [Date picker](/windows/uwp/design/controls-and-patterns/date-picker).
+For more info, design guidance, and code examples, see [Date picker](/windows/apps/design/controls/date-picker).
 
 The `DatePicker` supports each of the calendar systems supported by Windows. These calendars are specified in the [Windows.Globalization.CalendarIdentifiers](../windows.globalization/calendaridentifiers.md) class. The `DatePicker` uses the correct calendar for your app's default language, or you can set the [CalendarIdentifier](datepicker_calendaridentifier.md) property to use a specific calendar system.
 
@@ -113,7 +113,7 @@ This table shows the resources used by the DatePicker control.
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Date picker](/windows/uwp/design/controls-and-patterns/date-picker).
+> For more info, design guidance, and code examples, see [Date picker](/windows/apps/design/controls/date-picker).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the DatePicker in action](xamlcontrolsgallery:/item/DatePicker).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
@@ -134,4 +134,4 @@ DatePicker birthDatePicker = new DatePicker()
 
 ## -see-also
 
-[Date picker](/windows/uwp/design/controls-and-patterns/date-picker), [Windows.Globalization.CalendarIdentifiers](../windows.globalization/calendaridentifiers.md), [System.DateTimeOffset (C#/VB)](/dotnet/api/system.datetimeoffset?view=dotnet-uwp-10.0&preserve-view=true), [Windows::Foundation::DateTime (C++)](/windows/desktop/api/windows.foundation/ns-windows-foundation-datetime), [Windows.Globalization.Calendar](../windows.globalization/calendar.md), [TimePicker](timepicker.md), [Controls list](/windows/uwp/design/controls-and-patterns/)
+[Date picker](/windows/apps/design/controls/date-picker), [Windows.Globalization.CalendarIdentifiers](../windows.globalization/calendaridentifiers.md), [System.DateTimeOffset (C#/VB)](/dotnet/api/system.datetimeoffset?view=dotnet-uwp-10.0&preserve-view=true), [Windows::Foundation::DateTime (C++)](/windows/desktop/api/windows.foundation/ns-windows-foundation-datetime), [Windows.Globalization.Calendar](../windows.globalization/calendar.md), [TimePicker](timepicker.md), [Controls list](/windows/apps/design/controls/)

@@ -47,4 +47,4 @@ public MainPage()
 
 ## -see-also
 
-[MaxYear](datepicker_maxyear.md), [Date picker](/windows/uwp/design/controls-and-patterns/date-picker)
+[MaxYear](datepicker_maxyear.md), [Date picker](/windows/apps/design/controls/date-picker)

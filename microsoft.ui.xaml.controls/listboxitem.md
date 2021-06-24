@@ -29,7 +29,7 @@ You can specify the look of the ListBoxItem by setting the [ListBox](listbox.md)
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [List boxes](/windows/uwp/design/controls-and-patterns/lists#list-boxes).
+> For more info, design guidance, and code examples, see [List boxes](/windows/apps/design/controls/lists#list-boxes).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the ListBox in action](xamlcontrolsgallery:/item/ListBox).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
@@ -37,4 +37,4 @@ You can specify the look of the ListBoxItem by setting the [ListBox](listbox.md)
 
 ## -see-also
 
-[SelectorItem](../microsoft.ui.xaml.controls.primitives/selectoritem.md), [ListBox](listbox.md), [ItemContainerStyle](itemscontrol_itemcontainerstyle.md), [ListBoxItem styles and templates](/windows/uwp/design/controls-and-patterns/xaml-styles)
+[SelectorItem](../microsoft.ui.xaml.controls.primitives/selectoritem.md), [ListBox](listbox.md), [ItemContainerStyle](itemscontrol_itemcontainerstyle.md), [ListBoxItem styles and templates](/windows/apps/design/style/xaml-styles)

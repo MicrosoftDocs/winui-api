@@ -76,7 +76,7 @@ This table shows the resources used by the InfoBar control.
 
 ## -see-also
 
-[InfoBar overview](/windows/uwp/design/controls-and-patterns/infobar)
+[InfoBar overview](/windows/apps/design/controls/infobar)
 
 ## -examples
 

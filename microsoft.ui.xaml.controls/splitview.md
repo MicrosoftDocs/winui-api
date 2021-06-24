@@ -30,9 +30,9 @@ Represents a container with two views; one view for the main content and another
 ## -remarks
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Split view](/windows/uwp/design/controls-and-patterns/split-view).
+> For more info, design guidance, and code examples, see [Split view](/windows/apps/design/controls/split-view).
 
-The SplitView control presents two areas of content: a [Pane](splitview_pane.md) and the main [Content](splitview_content.md). You typically use a SplitView to create a top-level navigation experience that adapts to different screen widths following the [nav pane pattern](/windows/uwp/controls-and-patterns/nav-pane) or the [master/details pattern](/windows/uwp/design/controls-and-patterns/master-details), but it's not strictly limited to use for navigation.
+The SplitView control presents two areas of content: a [Pane](splitview_pane.md) and the main [Content](splitview_content.md). You typically use a SplitView to create a top-level navigation experience that adapts to different screen widths following the [nav pane pattern](/windows/uwp/controls-and-patterns/nav-pane) or the [master/details pattern](/windows/apps/design/controls/master-details), but it's not strictly limited to use for navigation.
 
 The XAML for this SplitView is shown in the Examples section.
 
@@ -51,7 +51,7 @@ Set the [DisplayMode](splitview_displaymode.md) property to configure the intera
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Split view](/windows/uwp/design/controls-and-patterns/split-view).
+> For more info, design guidance, and code examples, see [Split view](/windows/apps/design/controls/split-view).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the SplitView in action](xamlcontrolsgallery:/item/SplitView).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
@@ -81,4 +81,4 @@ Here's a SplitView control with an open [Pane](splitview_pane.md) appearing inli
 
 ## -see-also
 
-[Split view control overview](/windows/uwp/design/controls-and-patterns/split-view)
+[Split view control overview](/windows/apps/design/controls/split-view)

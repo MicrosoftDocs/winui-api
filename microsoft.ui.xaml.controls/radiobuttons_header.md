@@ -19,7 +19,7 @@ The content of the group header. The default is `null`.
 
 ## -remarks
 
-> For more info, design guidance, and code examples, see [Radio buttons](/windows/uwp/design/controls-and-patterns/radio-button).
+> For more info, design guidance, and code examples, see [Radio buttons](/windows/apps/design/controls/radio-button).
 
 You typically use a string for the header, which is displayed as a text label above the radio buttons group. Other objects can also be used instead of a string.
 

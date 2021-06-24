@@ -17,7 +17,7 @@ Represents a container with two views that size and position content in the avai
 
 ## -see-also
 
-[TwoPaneViewMode](twopaneviewmode.md), [TwoPaneViewPriority](twopaneviewpriority.md), [TwoPaneViewTallModeConfiguration](twopaneviewtallmodeconfiguration.md), [TwoPaneViewWideModeConfiguration](twopaneviewwidemodeconfiguration.md), [Two-pane view overview](/windows/uwp/design/controls-and-patterns/two-pane-view)
+[TwoPaneViewMode](twopaneviewmode.md), [TwoPaneViewPriority](twopaneviewpriority.md), [TwoPaneViewTallModeConfiguration](twopaneviewtallmodeconfiguration.md), [TwoPaneViewWideModeConfiguration](twopaneviewwidemodeconfiguration.md), [Two-pane view overview](/windows/apps/design/controls/two-pane-view)
 
 ## -examples
 

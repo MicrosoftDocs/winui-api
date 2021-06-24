@@ -16,7 +16,7 @@ Represents a control that displays the avatar image for a person, if one is avai
 
 ## -see-also
 
-[Person picture control](https://docs.microsoft.com/windows/uwp/design/controls-and-patterns/person-picture)
+[Person picture control](https://docs.microsoft.com/windows/apps/design/controls/person-picture)
 
 ## -examples
 

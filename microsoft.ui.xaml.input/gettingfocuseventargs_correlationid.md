@@ -41,6 +41,6 @@ A new CorrelationId is generated when:
 
 ## -see-also
 
-[LosingFocusEventArgs.CorrelationId](losingfocuseventargs_correlationid.md), [Keyboard interactions](/windows/uwp/design/input/keyboard-interactions), [Focus navigation for keyboard, gamepad, remote control, and accessibility tools](/windows/uwp/design/input/focus-navigation), [Programmatic focus navigation](/windows/uwp/design/input/focus-navigation-programmatic)
+[LosingFocusEventArgs.CorrelationId](losingfocuseventargs_correlationid.md), [Keyboard interactions](/windows/apps/design/input/keyboard-interactions), [Focus navigation for keyboard, gamepad, remote control, and accessibility tools](/windows/apps/design/input/focus-navigation), [Programmatic focus navigation](/windows/apps/design/input/focus-navigation-programmatic)
 
 ## -examples

@@ -16,7 +16,7 @@ Represents a top-level menu in a [MenuBar](menubar.md) control.
 
 ## -see-also
 
-[MenuBarItemFlyout](menubaritemflyout.md), [Menus and context menus](/windows/uwp/design/controls-and-patterns/menus)
+[MenuBarItemFlyout](menubaritemflyout.md), [Menus and context menus](/windows/apps/design/controls/menus)
 
 ## -examples
 

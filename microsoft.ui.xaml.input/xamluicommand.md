@@ -32,7 +32,7 @@ XamlUICommand lets you specify UI through the control binding, such as an icon, 
 
 ## -see-also
 
-[StandardUICommand](standarduicommand.md), [Commanding in Universal Windows Platform apps using StandardUICommand, XamlUICommand, and ICommand](/windows/uwp/design/controls-and-patterns/commanding)
+[StandardUICommand](standarduicommand.md), [Commanding in Universal Windows Platform apps using StandardUICommand, XamlUICommand, and ICommand](/windows/apps/design/controls/commanding)
 
 ## -examples
 

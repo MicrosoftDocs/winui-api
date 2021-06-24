@@ -16,7 +16,7 @@ Represents a specialized container that presents a set of menus in a horizontal 
 
 ## -see-also
 
-[MenuBarItem](menubaritem.md), [MenuBarItemFlyout](menubaritemflyout.md), [Menus and context menus](/windows/uwp/design/controls-and-patterns/menus)
+[MenuBarItem](menubaritem.md), [MenuBarItemFlyout](menubaritemflyout.md), [Menus and context menus](/windows/apps/design/controls/menus)
 
 ## -examples
 

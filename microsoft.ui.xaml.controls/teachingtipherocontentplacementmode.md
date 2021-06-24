@@ -33,7 +33,7 @@ The header of the teaching tip.
 
 ## -see-also
 
-[TeachingTip.HeroContentPlacement](teachingtip_herocontentplacement.md), [Teaching tip overview](/windows/uwp/design/controls-and-patterns/dialogs-and-flyouts/teaching-tip)
+[TeachingTip.HeroContentPlacement](teachingtip_herocontentplacement.md), [Teaching tip overview](/windows/apps/design/controls/dialogs-and-flyouts/teaching-tip)
 
 ## -examples
 

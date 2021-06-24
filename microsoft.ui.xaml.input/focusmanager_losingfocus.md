@@ -36,6 +36,6 @@ UIElement focus events bubble up to the FocusManager in the following order:
 
 ## -see-also
 
-[LosingFocusEventArgs](../microsoft.ui.xaml.input/losingfocuseventargs.md), [UIElement.LosingFocus](../microsoft.ui.xaml/uielement_losingfocus.md), [UIElement.LosingFocusEvent](../microsoft.ui.xaml/uielement_losingfocusevent.md), [Keyboard interactions](/windows/uwp/design/input/keyboard-interactions), [Focus navigation for keyboard, gamepad, remote control, and accessibility tools](/windows/uwp/design/input/focus-navigation), [Programmatic focus navigation](/windows/uwp/design/input/focus-navigation-programmatic)
+[LosingFocusEventArgs](../microsoft.ui.xaml.input/losingfocuseventargs.md), [UIElement.LosingFocus](../microsoft.ui.xaml/uielement_losingfocus.md), [UIElement.LosingFocusEvent](../microsoft.ui.xaml/uielement_losingfocusevent.md), [Keyboard interactions](/windows/apps/design/input/keyboard-interactions), [Focus navigation for keyboard, gamepad, remote control, and accessibility tools](/windows/apps/design/input/focus-navigation), [Programmatic focus navigation](/windows/apps/design/input/focus-navigation-programmatic)
 
 ## -examples

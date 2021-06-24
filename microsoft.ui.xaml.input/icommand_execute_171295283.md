@@ -25,4 +25,4 @@ Data used by the command. If the command does not require data to be passed, thi
 
 ## -see-also
 
-[Command design basics](/windows/uwp/layout/commanding-basics), [Commanding in Universal Windows Platform apps using StandardUICommand, XamlUICommand, and ICommand](/windows/uwp/design/controls-and-patterns/commanding), [XamlUICommand](xamluicommand.md), [StandardUICommand](standarduicommand.md)
+[Command design basics](/windows/uwp/layout/commanding-basics), [Commanding in Universal Windows Platform apps using StandardUICommand, XamlUICommand, and ICommand](/windows/apps/design/controls/commanding), [XamlUICommand](xamluicommand.md), [StandardUICommand](standarduicommand.md)

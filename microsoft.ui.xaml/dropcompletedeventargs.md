@@ -18,4 +18,4 @@ Provides event data for the [DropCompleted](uielement_dropcompleted.md) event.
 
 ## -see-also
 
-[Drag-and-drop overview](/windows/uwp/design/input/drag-and-drop), [RoutedEventArgs](routedeventargs.md)
+[Drag-and-drop overview](/windows/apps/design/input/drag-and-drop), [RoutedEventArgs](routedeventargs.md)

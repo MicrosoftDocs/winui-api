@@ -54,7 +54,7 @@ A Duration value is used for these properties:
 + [RepeatBehavior.Duration](../windows.ui.xaml.media.animation/repeatbehavior_duration.md)
 + [MediaElement.NaturalDuration](../microsoft.ui.xaml.controls/mediaelement_naturalduration.md) (this usage isn't part of the storyboarded animation scenario; all the others are)
 
-For more info on how to use a Duration as part of a [Timeline](../microsoft.ui.xaml.media.animation/timeline.md), including code examples, see [Storyboarded animations](/windows/uwp/design/motion/storyboarded-animations) or [Timeline.Duration](../microsoft.ui.xaml.media.animation/timeline_duration.md).
+For more info on how to use a Duration as part of a [Timeline](../microsoft.ui.xaml.media.animation/timeline.md), including code examples, see [Storyboarded animations](/windows/apps/design/motion/storyboarded-animations) or [Timeline.Duration](../microsoft.ui.xaml.media.animation/timeline_duration.md).
 
 ### XAML usage
 

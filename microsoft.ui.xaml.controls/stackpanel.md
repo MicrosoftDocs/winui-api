@@ -26,7 +26,7 @@ Arranges child elements into a single line that can be oriented horizontally or 
 ## -remarks
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Layout panels](/windows/uwp/design/layout/layout-panels#stackpanel).
+> For more info, design guidance, and code examples, see [Layout panels](/windows/apps/design/layout/layout-panels#stackpanel).
 
 StackPanel is a layout panel that arranges child elements into a single line that can be oriented horizontally or vertically.
 
@@ -49,7 +49,7 @@ StackPanel defines border properties that let you draw a border around the Stack
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Layout panels](/windows/uwp/design/layout/layout-panels#stackpanel).
+> For more info, design guidance, and code examples, see [Layout panels](/windows/apps/design/layout/layout-panels#stackpanel).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the StackPanel in action](xamlcontrolsgallery:/item/StackPanel).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
@@ -66,5 +66,5 @@ The following example shows how to create a StackPanel of items.
 [!code-vb[01](../microsoft.ui.xaml.controls/code/StackPanel1/vbnet/Page.xaml.vb#Snippet01)]
 
 ## -see-also
-[Panel](panel.md), [IScrollSnapPointsInfo](../microsoft.ui.xaml.controls.primitives/iscrollsnappointsinfo.md), [Define layouts](/windows/uwp/layout/layouts-with-xaml), [Alignment, margin, and padding](/windows/uwp/layout/alignment-margin-padding), [Canvas](canvas.md), [Grid](grid.md), [ItemsStackPanel](itemsstackpanel.md), [VariableSizedWrapGrid](variablesizedwrapgrid.md), [VirtualizingStackPanel](virtualizingstackpanel.md), [Controls list](/windows/uwp/design/controls-and-patterns/), [Controls by function](/windows/uwp/controls-and-patterns/controls-by-function)
+[Panel](panel.md), [IScrollSnapPointsInfo](../microsoft.ui.xaml.controls.primitives/iscrollsnappointsinfo.md), [Define layouts](/windows/uwp/layout/layouts-with-xaml), [Alignment, margin, and padding](/windows/uwp/layout/alignment-margin-padding), [Canvas](canvas.md), [Grid](grid.md), [ItemsStackPanel](itemsstackpanel.md), [VariableSizedWrapGrid](variablesizedwrapgrid.md), [VirtualizingStackPanel](virtualizingstackpanel.md), [Controls list](/windows/apps/design/controls/), [Controls by function](/windows/uwp/controls-and-patterns/controls-by-function)
 347b-91d6-4659-91f2-80ecf7bbb596)

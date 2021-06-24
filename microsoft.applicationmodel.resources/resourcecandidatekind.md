@@ -32,7 +32,7 @@ The resource is embedded data in some containing resource file (such as a .resw 
 
 ## -remarks
 
-Note that the enum values are different than those in [Windows.ApplicationModel.Resources.Core.ResourceCandidateKind](https://docs.microsoft.com/en-us/uwp/api/windows.applicationmodel.resources.core.resourcecandidatekind).
+Note that the enum values are different than those in [Windows.ApplicationModel.Resources.Core.ResourceCandidateKind](/uwp/api/windows.applicationmodel.resources.core.resourcecandidatekind).
 
 ## -see-also
 

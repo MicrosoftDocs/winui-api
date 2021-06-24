@@ -27,7 +27,7 @@ Occurs when the value of the `SelectedTime` property is changed.
 
 ## -examples
 
-For an example of using a `DatePicker` and `TimePicker` together to update a single `DateTime` value, see [Calendar, date, and time controls - Use a date picker and time picker together](/windows/uwp/design/controls-and-patterns/date-and-time#use-a-date-picker-and-time-picker-together).
+For an example of using a `DatePicker` and `TimePicker` together to update a single `DateTime` value, see [Calendar, date, and time controls - Use a date picker and time picker together](/windows/apps/design/controls/date-and-time#use-a-date-picker-and-time-picker-together).
 
 ```xaml
  <TimePicker SelectedTimeChanged="TimePicker_SelectedTimeChanged"/>

@@ -21,11 +21,11 @@ Occurs when an otherwise unhandled **Hold** interaction occurs over the hit test
 
 ## -remarks
 
-Touch can produce a **Holding** action, but mouse devices generally can't. For more info, see [Handle pointer input](/windows/uwp/design/input/handle-pointer-input).
+Touch can produce a **Holding** action, but mouse devices generally can't. For more info, see [Handle pointer input](/windows/apps/design/input/handle-pointer-input).
 
 The [Tapped](uielement_tapped.md), [DoubleTapped](uielement_doubletapped.md), and [RightTapped](uielement_righttapped.md) events occur only after the touch point is removed. But the initial Holding event occurs while the touch point is still in contact. The event occurs if the touch point remains in approximately the same [ExpPointerPoint](../microsoft.ui.input.experimental/exppointerpoint.md) position for a period of time. The exact timing of what the system interprets as a holding action is adjustable by users through system settings.
 
-Holding is intended for informational UI, but for interactions like displaying a context menu you should use [RightTapped](uielement_righttapped.md) instead. You might handle Holding first to display a hint that a menu will appear, but to display the menu itself, use a [RightTapped](uielement_righttapped.md) handler. See [Touch interaction design](https://msdn.microsoft.com/library/9ba7f613-e5d1-40d4-920b-143094209e3a) or [UX guidelines for custom user interactions](/windows/uwp/design/layout/index) for more info on how to use a **Hold** interaction in your app design.
+Holding is intended for informational UI, but for interactions like displaying a context menu you should use [RightTapped](uielement_righttapped.md) instead. You might handle Holding first to display a hint that a menu will appear, but to display the menu itself, use a [RightTapped](uielement_righttapped.md) handler. See [Touch interaction design](https://msdn.microsoft.com/library/9ba7f613-e5d1-40d4-920b-143094209e3a) or [UX guidelines for custom user interactions](/windows/apps/design/layout/index) for more info on how to use a **Hold** interaction in your app design.
 
 Holding events generally occur in pairs. When the action is first interpreted as a **Hold** action based on no movement for a period of time, Holding fires, with  [HoldingState](../microsoft.ui.input.experimental/expholdingeventargs_holdingstate.md) value of **Started** in the [HoldingRoutedEventArgs](../microsoft.ui.xaml.input/holdingroutedeventargs.md) event data. When the **Hold** action ends, another Holding event fires, this time with [HoldingState](../microsoft.ui.input.experimental/expholdingeventargs_holdingstate.md) of either **Completed** or **Canceled**.
 
@@ -60,4 +60,4 @@ Mouse input doesn't produce Holding events by default, no matter how long a mous
 
 ## -see-also
 
-[HoldingRoutedEventArgs](../microsoft.ui.xaml.input/holdingroutedeventargs.md), [RightTapped](uielement_righttapped.md), [OnHolding](/uwp/api/windows.ui.xaml.controls.control.onholding(windows.ui.xaml.input.holdingroutedeventargs)), [IsHoldingEnabled](uielement_isholdingenabled.md), [Handle pointer input](/windows/uwp/design/input/handle-pointer-input), [Events and routed events overview](/windows/uwp/xaml-platform/events-and-routed-events-overview)
+[HoldingRoutedEventArgs](../microsoft.ui.xaml.input/holdingroutedeventargs.md), [RightTapped](uielement_righttapped.md), [OnHolding](/uwp/api/windows.ui.xaml.controls.control.onholding(windows.ui.xaml.input.holdingroutedeventargs)), [IsHoldingEnabled](uielement_isholdingenabled.md), [Handle pointer input](/windows/apps/design/input/handle-pointer-input), [Events and routed events overview](/windows/uwp/xaml-platform/events-and-routed-events-overview)

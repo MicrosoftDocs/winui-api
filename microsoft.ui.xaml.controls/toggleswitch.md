@@ -25,7 +25,7 @@ Represents a switch that can be toggled between two states.
 ## -remarks
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Toggle switches](/windows/uwp/design/controls-and-patterns/toggles).
+> For more info, design guidance, and code examples, see [Toggle switches](/windows/apps/design/controls/toggles).
 
 ToggleSwitch is a control that can be toggled between 2 states.
 
@@ -80,7 +80,7 @@ This table shows the resources used by the ToggleSwitch control.
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Toggle switches](/windows/uwp/design/controls-and-patterns/toggles).
+> For more info, design guidance, and code examples, see [Toggle switches](/windows/apps/design/controls/toggles).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the ToggleSwitch in action](xamlcontrolsgallery:/item/ToggleSwitch).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
@@ -120,4 +120,4 @@ This example shows how to set the [Header](toggleswitch_header.md), [OnContent](
 
 
 ## -see-also
-[Toggle switches overview](/windows/uwp/controls-and-patterns/toggles), [ToggleSwitch styles and templates](/windows/uwp/design/controls-and-patterns/xaml-styles), [CheckBox](checkbox.md), [RadioButton](radiobutton.md), [Controls list](/windows/uwp/design/controls-and-patterns/), [Controls by function](/windows/uwp/controls-and-patterns/controls-by-function)
+[Toggle switches overview](/windows/uwp/controls-and-patterns/toggles), [ToggleSwitch styles and templates](/windows/apps/design/style/xaml-styles), [CheckBox](checkbox.md), [RadioButton](radiobutton.md), [Controls list](/windows/apps/design/controls/), [Controls by function](/windows/uwp/controls-and-patterns/controls-by-function)

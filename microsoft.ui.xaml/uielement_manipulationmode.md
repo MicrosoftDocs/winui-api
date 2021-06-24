@@ -33,7 +33,7 @@ Gets or sets the [ManipulationModes](../microsoft.ui.xaml.input/manipulationmode
 A value or values of the enumeration. The default is typically **System**, but this can vary on specific controls and elements. See Remarks.
 
 ## -remarks
-You must set the ManipulationMode to a value other than **System** or **None** if you want to handle manipulation events such as [ManipulationStarted](uielement_manipulationstarted.md) from UI elements in your app code. For more info on manipulations, see [Handle pointer input](/windows/uwp/design/input/handle-pointer-input).
+You must set the ManipulationMode to a value other than **System** or **None** if you want to handle manipulation events such as [ManipulationStarted](uielement_manipulationstarted.md) from UI elements in your app code. For more info on manipulations, see [Handle pointer input](/windows/apps/design/input/handle-pointer-input).
 
 The typical default value of ManipulationMode is **System** rather than **None**. When the value is **System**, manipulations that originate from the element can be handled by the Windows Runtime infrastructure, which is based on the [Direct Manipulation](/previous-versions/windows/desktop/directmanipulation/direct-manipulation-portal)  API. For example, [ScrollViewer](../microsoft.ui.xaml.controls/scrollviewer.md) handles user manipulations in its control logic and processes them as scrolling actions for the control. The **System** value also enables personality animations that respond to manipulation events.
 
@@ -58,4 +58,4 @@ Apps that were compiled for Windows 8 but running on Windows 8.1 use the new b
 ## -examples
 
 ## -see-also
-[ManipulationStarted](uielement_manipulationstarted.md), [ManipulationDelta](uielement_manipulationdelta.md), [ManipulationCompleted](uielement_manipulationcompleted.md), [ManipulationModes](../microsoft.ui.xaml.input/manipulationmodes.md), [Handle pointer input](/windows/uwp/design/input/handle-pointer-input), [Direct Manipulation Reference](/previous-versions/windows/desktop/directmanipulation/direct-manipulation-reference), [Basic input sample (Windows 10)](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/BasicInput)
+[ManipulationStarted](uielement_manipulationstarted.md), [ManipulationDelta](uielement_manipulationdelta.md), [ManipulationCompleted](uielement_manipulationcompleted.md), [ManipulationModes](../microsoft.ui.xaml.input/manipulationmodes.md), [Handle pointer input](/windows/apps/design/input/handle-pointer-input), [Direct Manipulation Reference](/previous-versions/windows/desktop/directmanipulation/direct-manipulation-reference), [Basic input sample (Windows 10)](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/BasicInput)

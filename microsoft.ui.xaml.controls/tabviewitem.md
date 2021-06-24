@@ -19,7 +19,7 @@ A TabViewItem contains both the elements within the tab's header as well as the 
 
 ## -see-also
 
-[TabView](tabview.md), [TabViewCloseButtonOverlayMode](tabviewclosebuttonoverlaymode.md), [Guidelines for TabView](/windows/uwp/design/controls-and-patterns/tab-view)
+[TabView](tabview.md), [TabViewCloseButtonOverlayMode](tabviewclosebuttonoverlaymode.md), [Guidelines for TabView](/windows/apps/design/controls/tab-view)
 
 ## -examples
 

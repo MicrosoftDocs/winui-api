@@ -33,7 +33,7 @@ Represents a control that provides quick navigation of views within an app.
 ## -remarks
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Pivot](/windows/uwp/design/controls-and-patterns/pivot).
+> For more info, design guidance, and code examples, see [Pivot](/windows/apps/design/controls/pivot).
 
 Use a Pivot to present groups of content that a user can swipe through. You typically use a Pivot as the top level control on a page.
 
@@ -90,7 +90,7 @@ In order to support XAML processor access to the attached properties, and also t
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Pivot](/windows/uwp/design/controls-and-patterns/pivot).
+> For more info, design guidance, and code examples, see [Pivot](/windows/apps/design/controls/pivot).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the Pivot in action](xamlcontrolsgallery:/item/Pivot).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
@@ -155,4 +155,4 @@ private void NextButton_Click(object sender, RoutedEventArgs e)
 
 ## -see-also
 
-[Pivot overview](/windows/uwp/design/controls-and-patterns/pivot)
+[Pivot overview](/windows/apps/design/controls/pivot)

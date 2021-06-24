@@ -52,11 +52,11 @@ When you use a [GridView](gridview.md) in a SemanticZoom control, always set the
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Semantic zoom](/windows/uwp/design/controls-and-patterns/semantic-zoom).
+> For more info, design guidance, and code examples, see [Semantic zoom](/windows/apps/design/controls/semantic-zoom).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the SemanticZoom in action](xamlcontrolsgallery:/item/SemanticZoom).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
 > + [Get the source code (GitHub)](https://github.com/Microsoft/Xaml-Controls-Gallery)
 
 ## -see-also
-[Control](control.md), [SemanticZoom styles and templates](/windows/uwp/design/controls-and-patterns/xaml-styles), [Semantic zoom overview](/windows/uwp/design/controls-and-patterns/semantic-zoom), [GridView](gridview.md), [Hub](hub.md), [ListView](listview.md),
+[Control](control.md), [SemanticZoom styles and templates](/windows/apps/design/style/xaml-styles), [Semantic zoom overview](/windows/apps/design/controls/semantic-zoom), [GridView](gridview.md), [Hub](hub.md), [ListView](listview.md),

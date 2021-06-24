@@ -21,4 +21,4 @@ The events that use [DragEventArgs](drageventargs.md) for event data are routed 
 ## -examples
 
 ## -see-also
-[Drag-and-drop overview](/windows/uwp/design/input/drag-and-drop), [Events and routed events overview](/windows/uwp/xaml-platform/events-and-routed-events-overview)
+[Drag-and-drop overview](/windows/apps/design/input/drag-and-drop), [Events and routed events overview](/windows/uwp/xaml-platform/events-and-routed-events-overview)

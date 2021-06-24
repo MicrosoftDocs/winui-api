@@ -25,7 +25,7 @@ content
 ## -remarks
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Scroll viewer controls](/windows/uwp/design/controls-and-patterns/scroll-controls).
+> For more info, design guidance, and code examples, see [Scroll viewer controls](/windows/apps/design/controls/scroll-controls).
 
 ScrollViewer is a container control that lets the user pan and zoom its content.
 
@@ -165,7 +165,7 @@ Apps that were compiled for Windows 8 but running on Windows 8.1 continue to u
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Scroll viewer controls](/windows/uwp/design/controls-and-patterns/scroll-controls).
+> For more info, design guidance, and code examples, see [Scroll viewer controls](/windows/apps/design/controls/scroll-controls).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the ScrollViewer in action](xamlcontrolsgallery:/item/ScrollViewer).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
@@ -176,4 +176,4 @@ The following XAML creates a large [TextBlock](textblock.md) inside a ScrollView
 [!code-xaml[1](../microsoft.ui.xaml.data/code/System.Windows.Controls.ScrollViewer/csharp/Page.xaml#Snippet1)]
 
 ## -see-also
-[Scroll viewer controls overview](/windows/uwp/design/controls-and-patterns/scroll-controls)
+[Scroll viewer controls overview](/windows/apps/design/controls/scroll-controls)

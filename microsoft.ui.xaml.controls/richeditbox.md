@@ -23,7 +23,7 @@ Represents a rich text editing control that supports formatted text, hyperlinks,
 ## -remarks
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Rich edit box](/windows/uwp/design/controls-and-patterns/rich-edit-box).
+> For more info, design guidance, and code examples, see [Rich edit box](/windows/apps/design/controls/rich-edit-box).
 
 RichEditBox is a control that lets a user enter formatted text such as bold, italic, and underlined. RichEditBox can also display Rich Text Format (.rtf) documents including hyperlinks and images (.jpg, .png, etc). This control is designed for advanced text editing scenarios. For simple plain text input, like on a form, consider using [TextBox](textbox.md).
 
@@ -37,7 +37,7 @@ Starting with Windows 10, version 1803, XAML text input boxes feature embedded s
 
 <img src="images/controls/handwritingview-inksuggestion1.gif" alt="Text box with ink and suggestions" />
 
-For more info, see [Text input with the handwriting view](/windows/uwp/design/controls-and-patterns/text-handwriting-view).
+For more info, see [Text input with the handwriting view](/windows/apps/design/controls/text-handwriting-view).
 
 ### Control style and template
 
@@ -82,7 +82,7 @@ This table shows the resources used by the RichEditBox control. Resources that s
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Rich edit box](/windows/uwp/design/controls-and-patterns/rich-edit-box).
+> For more info, design guidance, and code examples, see [Rich edit box](/windows/apps/design/controls/rich-edit-box).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the RichEditBox in action](xamlcontrolsgallery:/item/RichEditBox).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
@@ -239,4 +239,4 @@ private void UnderlineButton_Click(object sender, RoutedEventArgs e)
 
 ## -see-also
 
-[Control](control.md), [RichEditBox styles and templates](/windows/uwp/design/controls-and-patterns/xaml-styles), [RichEditBox overview](/windows/uwp/design/controls-and-patterns/rich-edit-box), [Touch keyboard text input sample (Windows 10)](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/TouchKeyboardTextInput)
+[Control](control.md), [RichEditBox styles and templates](/windows/apps/design/style/xaml-styles), [RichEditBox overview](/windows/apps/design/controls/rich-edit-box), [Touch keyboard text input sample (Windows 10)](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/TouchKeyboardTextInput)

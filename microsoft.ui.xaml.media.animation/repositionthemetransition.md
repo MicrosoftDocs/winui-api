@@ -59,4 +59,4 @@ The following example applies a RepositionThemeTransition to a button. When you 
 [!code-csharp[RepositionThemeTransition_code](../microsoft.ui.xaml.media.animation/code/RepositionThemeTransition/csharp/BlankPage.xaml.cs#SnippetRepositionThemeTransition_code)]
 
 ## -see-also
-[Transition](transition.md), [Animating repositions](/previous-versions/windows/apps/jj649434(v=win.10)), [Guidelines and checklist for reposition animations](/windows/uwp/style/motion-reposition), [reposition animations](/windows/uwp/design/motion/motion-reposition)
+[Transition](transition.md), [Animating repositions](/previous-versions/windows/apps/jj649434(v=win.10)), [Guidelines and checklist for reposition animations](/windows/uwp/style/motion-reposition), [reposition animations](/windows/apps/design/motion/motion-reposition)

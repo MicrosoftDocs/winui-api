@@ -26,7 +26,7 @@ Defines a flexible grid area that consists of columns and rows. Child elements o
 ## -remarks
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Layout panels](/windows/uwp/design/layout/layout-panels#grid).
+> For more info, design guidance, and code examples, see [Layout panels](/windows/apps/design/layout/layout-panels#grid).
 
 Grid is a layout panel that supports arranging child elements in rows and columns.
 
@@ -92,7 +92,7 @@ In order to support XAML processor access to the attached properties, and also t
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Layout panels](/windows/uwp/design/layout/layout-panels#grid).
+> For more info, design guidance, and code examples, see [Layout panels](/windows/apps/design/layout/layout-panels#grid).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the Grid in action](xamlcontrolsgallery:/item/Grid).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
@@ -106,4 +106,4 @@ This XAML example shows how to design a layout by using a Grid.
 [!code-csharp[GridCsharpSample1](../microsoft.ui.xaml.controls/code/UpdatedGridSamples/MainPage.xaml.cs#SnippetGridCsharpSample1)]
 
 ## -see-also
-[Panel](panel.md), [Grid.Row](/windows/winui/api/microsoft.ui.xaml.controls.grid#xaml-attached-properties), [Grid.Column](/windows/winui/api/microsoft.ui.xaml.controls.grid#xaml-attached-properties), [Define layouts](/windows/uwp/layout/layouts-with-xaml), [Alignment, margin, and padding](/windows/uwp/layout/alignment-margin-padding), [Attached properties overview](/windows/uwp/xaml-platform/attached-properties-overview), [Canvas](canvas.md), [StackPanel](stackpanel.md), [VariableSizedWrapGrid](variablesizedwrapgrid.md), [WrapGrid](wrapgrid.md), [Controls list](/windows/uwp/design/controls-and-patterns/), [Controls by function](/windows/uwp/controls-and-patterns/controls-by-function)
+[Panel](panel.md), [Grid.Row](/windows/winui/api/microsoft.ui.xaml.controls.grid#xaml-attached-properties), [Grid.Column](/windows/winui/api/microsoft.ui.xaml.controls.grid#xaml-attached-properties), [Define layouts](/windows/uwp/layout/layouts-with-xaml), [Alignment, margin, and padding](/windows/uwp/layout/alignment-margin-padding), [Attached properties overview](/windows/uwp/xaml-platform/attached-properties-overview), [Canvas](canvas.md), [StackPanel](stackpanel.md), [VariableSizedWrapGrid](variablesizedwrapgrid.md), [WrapGrid](wrapgrid.md), [Controls list](/windows/apps/design/controls/), [Controls by function](/windows/uwp/controls-and-patterns/controls-by-function)

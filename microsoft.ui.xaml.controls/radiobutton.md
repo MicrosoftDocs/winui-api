@@ -26,7 +26,7 @@ Represents a button that allows a user to select a single option from a group of
 ## -remarks
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Radio buttons](/windows/uwp/design/controls-and-patterns/radio-button).
+> For more info, design guidance, and code examples, see [Radio buttons](/windows/apps/design/controls/radio-button).
 
 Use RadioButton controls to limit a user's selection to a single choice within a set of related, but mutually exclusive, choices. You group RadioButton controls by putting them inside the same parent container or by setting the [GroupName](radiobutton_groupname.md) property on each RadioButton to the same value.
 
@@ -85,7 +85,7 @@ This table shows the resources used by the RadioButton control.
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Radio buttons](/windows/uwp/design/controls-and-patterns/radio-button).
+> For more info, design guidance, and code examples, see [Radio buttons](/windows/apps/design/controls/radio-button).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the RadioButton in action](xamlcontrolsgallery:/item/RadioButton).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
@@ -100,5 +100,5 @@ The following example shows three radio buttons. The first two radio buttons are
 [!code-vb[11](../microsoft.ui.xaml.data/code/System.Windows.Controls.RadioButtonEx/vbnet/Page.xaml.vb#Snippet11)]
 
 ## -see-also
-[Radio buttons overview](/windows/uwp/controls-and-patterns/radio-button), [ToggleButton](../microsoft.ui.xaml.controls.primitives/togglebutton.md), [CheckBox](checkbox.md), [ToggleSwitch](toggleswitch.md), [Controls list](/windows/uwp/design/controls-and-patterns/), [Controls by function](/windows/uwp/controls-and-patterns/controls-by-function)
+[Radio buttons overview](/windows/uwp/controls-and-patterns/radio-button), [ToggleButton](../microsoft.ui.xaml.controls.primitives/togglebutton.md), [CheckBox](checkbox.md), [ToggleSwitch](toggleswitch.md), [Controls list](/windows/apps/design/controls/), [Controls by function](/windows/uwp/controls-and-patterns/controls-by-function)
 p://msdn.microsoft.com/library/8db4347b-91d6-4659-91f2-80ecf7bbb596)

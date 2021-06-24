@@ -31,10 +31,10 @@ The following diagram demonstrates the concept of rails.
 
 ![diagram of a screen with rails that constrain panning](images/ux-panning-rails.png)
 
-For more info, see [Guidelines for panning](/windows/uwp/design/input/guidelines-for-panning).
+For more info, see [Guidelines for panning](/windows/apps/design/input/guidelines-for-panning).
 
 ## -examples
 
 ## -see-also
 
-[Scroll viewer controls](/windows/uwp/design/controls-and-patterns/scroll-controls), [Guidelines for panning](/windows/uwp/design/input/guidelines-for-panning)
+[Scroll viewer controls](/windows/apps/design/controls/scroll-controls), [Guidelines for panning](/windows/apps/design/input/guidelines-for-panning)

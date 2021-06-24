@@ -23,7 +23,7 @@ Do not use a TabView to display a static set of tabs that the user cannot rearra
 
 ## -see-also
 
-[TabViewItem](tabviewitem.md), [TabViewCloseButtonOverlayMode](tabviewclosebuttonoverlaymode.md), [Guidelines for TabView](/windows/uwp/design/controls-and-patterns/tab-view)
+[TabViewItem](tabviewitem.md), [TabViewCloseButtonOverlayMode](tabviewclosebuttonoverlaymode.md), [Guidelines for TabView](/windows/apps/design/controls/tab-view)
 
 ## -examples
 

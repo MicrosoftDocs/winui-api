@@ -17,7 +17,7 @@ Occurs when the user completes a drag and drop operation by dropping a tab outsi
 
 You can use this event to create a new window. 
 
-There are different ways that content can be hosted inside an app. The [Show multiple views for an app](https://docs.microsoft.com/windows/uwp/design/layout/show-multiple-views) documentation outlines the various technologies for displaying multiple views or windows. 
+There are different ways that content can be hosted inside an app. The [Show multiple views for an app](https://docs.microsoft.com/windows/apps/design/layout/show-multiple-views) documentation outlines the various technologies for displaying multiple views or windows. 
 
 The example below uses AppWindow, which is available starting in Windows 10, version 1903 (SDK 18362). AppWindow simplifies the creation of multi-window UWP apps because it operates on the same UI thread that it's created from. The complete TabView + AppWindow sample can be found in the [Xaml Controls Gallery](https://github.com/microsoft/Xaml-Controls-Gallery/blob/w/stmoy/TabViewPreview/XamlControlsGallery/TabViewPages/TabViewWindowingSamplePage.xaml.cs). 
 

@@ -17,7 +17,7 @@ Exposes [TreeViewItem](../microsoft.ui.xaml.controls/treeviewitem.md) data types
 
 ## -see-also
 
-[ItemAutomationPeer](/uwp/api/windows.ui.xaml.automation.peers.itemautomationpeer), [Custom automation peers](/windows/uwp/design/accessibility/custom-automation-peers), [Expose basic accessibility information](/windows/uwp/design/accessibility/basic-accessibility-information), [Accessibility Insights](https://accessibilityinsights.io/)
+[ItemAutomationPeer](/uwp/api/windows.ui.xaml.automation.peers.itemautomationpeer), [Custom automation peers](/windows/apps/design/accessibility/custom-automation-peers), [Expose basic accessibility information](/windows/apps/design/accessibility/basic-accessibility-information), [Accessibility Insights](https://accessibilityinsights.io/)
 
 ## -examples
 

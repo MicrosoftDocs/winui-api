@@ -33,6 +33,6 @@ An [IAnimatedVisual](ianimatedvisual.md), or `null`.
 
 ## -see-also
 
-[IAnimatedVisualSource](ianimatedvisualsource.md), [Animated icons guidance](/windows/uwp/design/controls-and-patterns/animated-icon)
+[IAnimatedVisualSource](ianimatedvisualsource.md), [Animated icons guidance](/windows/apps/design/controls/animated-icon)
 
 ## -examples

@@ -25,7 +25,7 @@ Represents a rich text display container that supports formatted text, hyperlink
 ## -remarks
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Rich text block](/windows/uwp/design/controls-and-patterns/rich-text-block).
+> For more info, design guidance, and code examples, see [Rich text block](/windows/apps/design/controls/rich-text-block).
 
 The RichTextBlock control displays read-only text, and provides several features for advanced text layout. Use a RichTextBlock when you need support for paragraphs, inline UI elements, or overflow text.
 
@@ -54,7 +54,7 @@ The default [FontFamily](richtextblock_fontfamily.md) for RichTextBlock is Segoe
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Rich text block](/windows/uwp/design/controls-and-patterns/rich-text-block).
+> For more info, design guidance, and code examples, see [Rich text block](/windows/apps/design/controls/rich-text-block).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the RichTextBlock in action](xamlcontrolsgallery:/item/RichTextBlock).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
@@ -191,4 +191,4 @@ Here, a RichTextBlock targets a [RichTextBlockOverflow](richtextblockoverflow.md
 [!code-xaml[RichTextOverflow](../microsoft.ui.xaml.controls/code/TextDisplaySnippets/CS/MainPage.xaml#SnippetRichTextOverflow)]
 
 ## -see-also
-[Rich text block overview](/windows/uwp/design/controls-and-patterns/rich-text-block), [Paragraph](../microsoft.ui.xaml.documents/paragraph.md), [OverflowContentTarget](richtextblock_overflowcontenttarget.md), [RichTextBlockOverflow](richtextblockoverflow.md), [RichTextBlockOverflow.OverflowContentTarget](richtextblockoverflow_overflowcontenttarget.md), [XAML text display sample](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/Official%20Windows%20Platform%20Sample/Windows%208.1%20Store%20app%20samples/99866-Windows%208.1%20Store%20app%20samples/XAML%20text%20display%20sample)
+[Rich text block overview](/windows/apps/design/controls/rich-text-block), [Paragraph](../microsoft.ui.xaml.documents/paragraph.md), [OverflowContentTarget](richtextblock_overflowcontenttarget.md), [RichTextBlockOverflow](richtextblockoverflow.md), [RichTextBlockOverflow.OverflowContentTarget](richtextblockoverflow_overflowcontenttarget.md), [XAML text display sample](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/Official%20Windows%20Platform%20Sample/Windows%208.1%20Store%20app%20samples/99866-Windows%208.1%20Store%20app%20samples/XAML%20text%20display%20sample)

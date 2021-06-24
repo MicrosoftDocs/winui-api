@@ -16,7 +16,7 @@ Provides event data for the [SplitButton.Click](splitbutton_click.md).
 
 ## -see-also
 
-[Buttons](/windows/uwp/design/controls-and-patterns/buttons)
+[Buttons](/windows/apps/design/controls/buttons)
 
 ## -examples
 

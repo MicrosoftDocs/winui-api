@@ -56,7 +56,7 @@ It's not common to set the value of the Transitions property directly on a [UIEl
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Motion](/windows/uwp/design/motion/).
+> For more info, design guidance, and code examples, see [Motion](/windows/apps/design/motion/).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to open the app and see [Implicit Transitions](xamlcontrolsgallery:/item/ImplicitTransitions) and [Theme Transitions](xamlcontrolsgallery:/item/ThemeTransitions) in action.
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)

@@ -21,7 +21,7 @@ Represents a control that displays a header and has a collapsible body that disp
 ## -remarks
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Expander overview](/windows/uwp/design/controls-and-patterns/expander).
+> For more info, design guidance, and code examples, see [Expander overview](/windows/apps/design/controls/expander).
 
 Use an `Expander` to focus on the most important content when display space is limited. The `Expander` control lets you show or hide less important content that's related to a piece of primary content that's always visible. Items contained in the [Header](/uwp/api/microsoft.ui.xaml.controls.expander.header) are always visible. The user can expand and collapse the [Content](/uwp/api/microsoft.ui.xaml.controls.expander.content) area, where secondary content is displayed, by interacting with the header. When the content area is expanded, it pushes other UI elements out of the way; it does not overlay other UI. The `Expander` can expand upwards or downwards.
 
@@ -76,7 +76,7 @@ This table shows the resources used by the Expander control.
 
 ## -see-also
 
-[Expander overview](/windows/uwp/design/controls-and-patterns/expander)
+[Expander overview](/windows/apps/design/controls/expander)
 
 ## -examples
 

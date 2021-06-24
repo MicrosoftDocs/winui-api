@@ -22,4 +22,4 @@ The source image used to create the drag visual.
 
 ## -see-also
 
-[Drag-and-drop overview](/windows/uwp/design/input/drag-and-drop), [SetContentFromSoftwareBitmap(SoftwareBitmap, Point)](dragui_setcontentfromsoftwarebitmap_567377191.md)
+[Drag-and-drop overview](/windows/apps/design/input/drag-and-drop), [SetContentFromSoftwareBitmap(SoftwareBitmap, Point)](dragui_setcontentfromsoftwarebitmap_567377191.md)

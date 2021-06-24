@@ -21,7 +21,7 @@ Occurs when a pointer enters the hit test area of this element.
 
 ## -remarks
 
-The PointerEntered event fires in response to a pointer moving into the element's bounding area. Touch, mouse, and pen/stylus interactions are received, processed, and managed as pointer input in UWP app. Any of these devices and their interactions can produce a PointerEntered event. For more info, see [Handle pointer input](/windows/uwp/design/input/handle-pointer-input) and also the other remarks in this topic.
+The PointerEntered event fires in response to a pointer moving into the element's bounding area. Touch, mouse, and pen/stylus interactions are received, processed, and managed as pointer input in UWP app. Any of these devices and their interactions can produce a PointerEntered event. For more info, see [Handle pointer input](/windows/apps/design/input/handle-pointer-input) and also the other remarks in this topic.
 
 PointerEntered is a routed event. For more info on the routed event concept, see [Events and routed events overview](/windows/uwp/xaml-platform/events-and-routed-events-overview).
 
@@ -41,7 +41,7 @@ A mouse input device has an onscreen cursor that is visible whenever the mouse m
 
 A touch point is only detectable if a finger is touching the surface. Whenever a touch action results in a [PointerPressed](uielement_pointerpressed.md) event, that event is immediately preceded by a PointerEntered event, with all the event data being the same information for the two events (same pointer ID, same position, and so on.) In other words the pointer is considered to enter the element at the moment and position that the element is touched by a touch point.
 
-Alternatively, a touch point will generate PointerEntered if a pointer remains in constant contact with the surface as it moves, and enters the hit testing bounds of an element. For these kinds of touch actions it's also possible that the action could be processed as a manipulation, or as a gesture, rather than a pointer event. For more info, see [Handle pointer input](/windows/uwp/design/input/handle-pointer-input).
+Alternatively, a touch point will generate PointerEntered if a pointer remains in constant contact with the surface as it moves, and enters the hit testing bounds of an element. For these kinds of touch actions it's also possible that the action could be processed as a manipulation, or as a gesture, rather than a pointer event. For more info, see [Handle pointer input](/windows/apps/design/input/handle-pointer-input).
 
 ### Routed event behavior for PointerEntered
 
@@ -71,4 +71,4 @@ Apps that were compiled for Windows 8 but running on Windows 8.1 continue to u
 
 ## -see-also
 
-[PointerRoutedEventArgs](../microsoft.ui.xaml.input/pointerroutedeventargs.md), [OnPointerEntered](/uwp/api/windows.ui.xaml.controls.control.onpointerentered(windows.ui.xaml.input.pointerroutedeventargs)), [PointerExited](uielement_pointerexited.md), [Handle pointer input](/windows/uwp/design/input/handle-pointer-input), [Events and routed events overview](/windows/uwp/xaml-platform/events-and-routed-events-overview), [Relative mouse movement and CoreWindow](/en-us/windows/uwp/gaming/relative-mouse-movement), [XAML user input events sample](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/Official%20Windows%20Platform%20Sample/Input%20XAML%20user%20input%20events%20sample)
+[PointerRoutedEventArgs](../microsoft.ui.xaml.input/pointerroutedeventargs.md), [OnPointerEntered](/uwp/api/windows.ui.xaml.controls.control.onpointerentered(windows.ui.xaml.input.pointerroutedeventargs)), [PointerExited](uielement_pointerexited.md), [Handle pointer input](/windows/apps/design/input/handle-pointer-input), [Events and routed events overview](/windows/uwp/xaml-platform/events-and-routed-events-overview), [Relative mouse movement and CoreWindow](/en-us/windows/uwp/gaming/relative-mouse-movement), [XAML user input events sample](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/Official%20Windows%20Platform%20Sample/Input%20XAML%20user%20input%20events%20sample)

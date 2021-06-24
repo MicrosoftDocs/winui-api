@@ -46,6 +46,6 @@ Heading level 9.
 ## -remarks
 
 ## -see-also
-[Landmarks and Headings](/windows/uwp/design/accessibility/landmarks-and-headings), [AutomationPeer.GetHeadingLevel](automationpeer_getheadinglevel_1176568834.md), [AutomationPeer.GetHeadingLevelCore](automationpeer_getheadinglevelcore_1105552106.md), [AutomationProperties.GetHeadingLevel](/uwp/api/windows.ui.xaml.automation.automationproperties.getheadinglevel(windows.ui.xaml.dependencyobject)), [AutomationProperties.SetHeadingLevel](/uwp/api/windows.ui.xaml.automation.automationproperties.setheadinglevel(windows.ui.xaml.dependencyobject,windows.ui.xaml.automation.peers.automationheadinglevel))
+[Landmarks and Headings](/windows/apps/design/accessibility/landmarks-and-headings), [AutomationPeer.GetHeadingLevel](automationpeer_getheadinglevel_1176568834.md), [AutomationPeer.GetHeadingLevelCore](automationpeer_getheadinglevelcore_1105552106.md), [AutomationProperties.GetHeadingLevel](/uwp/api/windows.ui.xaml.automation.automationproperties.getheadinglevel(windows.ui.xaml.dependencyobject)), [AutomationProperties.SetHeadingLevel](/uwp/api/windows.ui.xaml.automation.automationproperties.setheadinglevel(windows.ui.xaml.dependencyobject,windows.ui.xaml.automation.peers.automationheadinglevel))
 
 ## -examples

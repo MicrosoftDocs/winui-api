@@ -24,7 +24,7 @@ By default, StackLayout stacks items vertically from top to bottom in the order 
 
 ## -see-also
 
-[ItemsRepeater overview](/windows/uwp/design/controls-and-patterns/items-repeater), [StackLayout with ItemsRepeater](/uwp/design/controls-and-patterns/items-repeater#stacklayout), [StackLayoutState](stacklayoutstate.md)
+[ItemsRepeater overview](/windows/apps/design/controls/items-repeater), [StackLayout with ItemsRepeater](/uwp/design/controls-and-patterns/items-repeater#stacklayout), [StackLayoutState](stacklayoutstate.md)
 
 ## -examples
 

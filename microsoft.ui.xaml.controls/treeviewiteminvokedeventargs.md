@@ -16,7 +16,7 @@ Provides event data for the [TreeView.ItemInvoked](treeview_iteminvoked.md) even
 
 ## -see-also
 
-[TreeView](treeview.md), [TreeViewItem](treeviewitem.md), [TreeView overview](/windows/uwp/design/controls-and-patterns/tree-view)
+[TreeView](treeview.md), [TreeViewItem](treeviewitem.md), [TreeView overview](/windows/apps/design/controls/tree-view)
 
 ## -examples
 

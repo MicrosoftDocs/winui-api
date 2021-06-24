@@ -22,4 +22,4 @@ The effect of a drag-and-drop operation can be adjusted depending on the state o
 
 ## -see-also
 
-[Drag-and-drop overview](/windows/uwp/design/input/drag-and-drop)
+[Drag-and-drop overview](/windows/apps/design/input/drag-and-drop)

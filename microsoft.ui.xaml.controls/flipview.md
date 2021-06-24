@@ -21,7 +21,7 @@ Represents an items control that displays one item at a time, and enables "flip"
 ## -remarks
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Flip view](/windows/uwp/design/controls-and-patterns/flipview).
+> For more info, design guidance, and code examples, see [Flip view](/windows/apps/design/controls/flipview).
 
 Use a FlipView to present a collection of items that the user views sequentially, one at a time. It's useful for displaying a gallery of images or the pages of a magazine.
 
@@ -66,7 +66,7 @@ This table shows the resources used by the FlipView control.
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Flip view](/windows/uwp/design/controls-and-patterns/flipview).
+> For more info, design guidance, and code examples, see [Flip view](/windows/apps/design/controls/flipview).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the FlipView in action](xamlcontrolsgallery:/item/FlipView).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
@@ -77,4 +77,4 @@ In this example, the [ItemTemplate](itemscontrol_itemtemplate.md) of a FlipView 
 [!code-xaml[FlipViewItemTemplate](../microsoft.ui.xaml.controls/code/ListAndGridViewSnippets/csharp/SplitPage.xaml#SnippetFlipViewItemTemplate)]
 
 ## -see-also
-[Selector](../microsoft.ui.xaml.controls.primitives/selector.md), [FlipView styles and templates](/windows/uwp/design/controls-and-patterns/xaml-styles), [XAML FlipView sample](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/Official%20Windows%20Platform%20Sample/XAML%20FlipView%20control%20sample), [Guidelines for flip view controls](/windows/uwp/design/controls-and-patterns/flipview)
+[Selector](../microsoft.ui.xaml.controls.primitives/selector.md), [FlipView styles and templates](/windows/apps/design/style/xaml-styles), [XAML FlipView sample](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/Official%20Windows%20Platform%20Sample/XAML%20FlipView%20control%20sample), [Guidelines for flip view controls](/windows/apps/design/controls/flipview)

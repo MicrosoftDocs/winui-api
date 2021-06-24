@@ -21,7 +21,7 @@ A glyph from the Segoe MDL2 Assets font for this element.
 
 ## -see-also
 
-[IconSource](../microsoft.ui.xaml.controls/iconsource.md), [StandardUICommand](standarduicommand.md), [Command design basics](/windows/uwp/layout/commanding-basics), [Commanding in Universal Windows Platform apps using StandardUICommand, XamlUICommand, and ICommand](/windows/uwp/design/controls-and-patterns/commanding)
+[IconSource](../microsoft.ui.xaml.controls/iconsource.md), [StandardUICommand](standarduicommand.md), [Command design basics](/windows/uwp/layout/commanding-basics), [Commanding in Universal Windows Platform apps using StandardUICommand, XamlUICommand, and ICommand](/windows/apps/design/controls/commanding)
 
 ## -examples
 

@@ -71,4 +71,4 @@ In Windows 8.1, the item container's [DataContext](../microsoft.ui.xaml/framewo
 ## -examples
 
 ## -see-also
-[SelectorItem](../microsoft.ui.xaml.controls.primitives/selectoritem.md), [ListView](listview.md), [ItemContainerStyle](itemscontrol_itemcontainerstyle.md), [ListViewItem styles and templates](/windows/uwp/design/controls-and-patterns/xaml-styles), [Item templates for ListView](/windows/uwp/controls-and-patterns/item-templates-listview)
+[SelectorItem](../microsoft.ui.xaml.controls.primitives/selectoritem.md), [ListView](listview.md), [ItemContainerStyle](itemscontrol_itemcontainerstyle.md), [ListViewItem styles and templates](/windows/apps/design/style/xaml-styles), [Item templates for ListView](/windows/uwp/controls-and-patterns/item-templates-listview)

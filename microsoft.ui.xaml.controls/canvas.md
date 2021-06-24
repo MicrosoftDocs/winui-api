@@ -64,7 +64,7 @@ In order to support XAML processor access to the attached properties, and also t
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Layout panels](/windows/uwp/design/layout/layout-panels#canvas).
+> For more info, design guidance, and code examples, see [Layout panels](/windows/apps/design/layout/layout-panels#canvas).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the Canvas in action](xamlcontrolsgallery:/item/Canvas).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
@@ -77,4 +77,4 @@ This example shows how to position a rectangle 30 pixels from the left and 30 pi
     <auto_snippet sample_id="layout_ovw_all" snippet_id="LayoutOvwCanvas2"/>-->
 
 ## -see-also
-[Panel](panel.md), [Define layouts](/windows/uwp/layout/layouts-with-xaml), [Alignment, margin, and padding](/windows/uwp/layout/alignment-margin-padding), [Attached properties overview](/windows/uwp/xaml-platform/attached-properties-overview), [Grid](grid.md), [StackPanel](stackpanel.md), [VariableSizedWrapGrid](variablesizedwrapgrid.md), [Controls list](/windows/uwp/design/controls-and-patterns/), [Controls by function](/windows/uwp/controls-and-patterns/controls-by-function)
+[Panel](panel.md), [Define layouts](/windows/uwp/layout/layouts-with-xaml), [Alignment, margin, and padding](/windows/uwp/layout/alignment-margin-padding), [Attached properties overview](/windows/uwp/xaml-platform/attached-properties-overview), [Grid](grid.md), [StackPanel](stackpanel.md), [VariableSizedWrapGrid](variablesizedwrapgrid.md), [Controls list](/windows/apps/design/controls/), [Controls by function](/windows/uwp/controls-and-patterns/controls-by-function)

@@ -197,7 +197,7 @@ Apps that were compiled for Windows 8 but running on Windows 8.1 continue to u
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Images and image brushes](/windows/uwp/design/controls-and-patterns/images-imagebrushes).
+> For more info, design guidance, and code examples, see [Images and image brushes](/windows/apps/design/controls/images-imagebrushes).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the Image in action](xamlcontrolsgallery:/item/Image).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/p/xaml-controls-gallery/9msvh128x2zt)

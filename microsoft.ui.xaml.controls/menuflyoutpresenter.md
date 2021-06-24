@@ -44,4 +44,4 @@ This table shows the resources used by the MenuFlyoutPresenter control.
 ## -examples
 
 ## -see-also
-[ItemsControl](itemscontrol.md), [IItemContainerMapping](iitemcontainermapping.md), [MenuFlyout](menuflyout.md), [MenuFlyoutPresenter styles and templates](/windows/uwp/design/controls-and-patterns/xaml-styles)
+[ItemsControl](itemscontrol.md), [IItemContainerMapping](iitemcontainermapping.md), [MenuFlyout](menuflyout.md), [MenuFlyoutPresenter styles and templates](/windows/apps/design/style/xaml-styles)

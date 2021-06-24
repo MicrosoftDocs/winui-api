@@ -21,7 +21,7 @@ Occurs when the pointer device initiates a **Press** action within this element.
 
 ## -remarks
 
-Touch, mouse, and pen/stylus interactions are received, processed, and managed as pointer input in UWP app. Any of these interactions can produce a PointerPressed event. For more info, see [Handle pointer input](/windows/uwp/design/input/handle-pointer-input). Pointer events are intended for scenarios where you're interested in multiple pointers and their relationships, or when you are examining specifics of each pointer such as exact coordinate position. Otherwise, you might consider handling gesture events such as [Tapped](uielement_tapped.md).
+Touch, mouse, and pen/stylus interactions are received, processed, and managed as pointer input in UWP app. Any of these interactions can produce a PointerPressed event. For more info, see [Handle pointer input](/windows/apps/design/input/handle-pointer-input). Pointer events are intended for scenarios where you're interested in multiple pointers and their relationships, or when you are examining specifics of each pointer such as exact coordinate position. Otherwise, you might consider handling gesture events such as [Tapped](uielement_tapped.md).
 
 Use a handler based on [PointerEventHandler](../microsoft.ui.xaml.input/pointereventhandler.md) to handle this event.
 
@@ -49,7 +49,7 @@ PointerPressed is sometimes used as the initiating event when capturing the poin
 
 ### PointerPressed and gesture events, or manipulation events
 
-The user action that fires a PointerPressed event initially can eventually result in the [Holding](uielement_holding.md) event representing a **Hold** gesture, unless the input device is a mouse. If the element where PointerPressed occurs has a non-default [ManipulationMode](uielement_manipulationmode.md) value, then the action might also result in various manipulation events like [ManipulationStarted](uielement_manipulationstarted.md). For more info, see "Using manipulation events" section in [Handle pointer input](/windows/uwp/design/input/handle-pointer-input).
+The user action that fires a PointerPressed event initially can eventually result in the [Holding](uielement_holding.md) event representing a **Hold** gesture, unless the input device is a mouse. If the element where PointerPressed occurs has a non-default [ManipulationMode](uielement_manipulationmode.md) value, then the action might also result in various manipulation events like [ManipulationStarted](uielement_manipulationstarted.md). For more info, see "Using manipulation events" section in [Handle pointer input](/windows/apps/design/input/handle-pointer-input).
 
 When PointerPressed fires, gesture events such as [Tapped](uielement_tapped.md) won't fire yet because the gesture events other than [Holding](uielement_holding.md) are waiting for the pointer to be released before firing an event.
 
@@ -70,4 +70,4 @@ Other events instead of [PointerReleased](uielement_pointerreleased.md) may fire
 
 ## -see-also
 
-[PointerRoutedEventArgs](../microsoft.ui.xaml.input/pointerroutedeventargs.md), [Tapped](uielement_tapped.md), [PointerReleased](uielement_pointerreleased.md), [Handle pointer input](/windows/uwp/design/input/handle-pointer-input), [Relative mouse movement and CoreWindow](/en-us/windows/uwp/gaming/relative-mouse-movement), [XAML user input events sample](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/Official%20Windows%20Platform%20Sample/Input%20XAML%20user%20input%20events%20sample)
+[PointerRoutedEventArgs](../microsoft.ui.xaml.input/pointerroutedeventargs.md), [Tapped](uielement_tapped.md), [PointerReleased](uielement_pointerreleased.md), [Handle pointer input](/windows/apps/design/input/handle-pointer-input), [Relative mouse movement and CoreWindow](/en-us/windows/uwp/gaming/relative-mouse-movement), [XAML user input events sample](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/Official%20Windows%20Platform%20Sample/Input%20XAML%20user%20input%20events%20sample)

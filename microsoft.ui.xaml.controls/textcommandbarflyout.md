@@ -16,7 +16,7 @@ Represents a specialized [CommandBarFlyout](commandbarflyout.md) that contains c
 
 ## -see-also
 
-[Command bar flyout overview](/windows/uwp/design/controls-and-patterns/command-bar-flyout)
+[Command bar flyout overview](/windows/apps/design/controls/command-bar-flyout)
 
 ## -examples
 

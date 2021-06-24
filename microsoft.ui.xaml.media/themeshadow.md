@@ -21,7 +21,7 @@ A ThemeShadow is a preconfigured shadow effect that can be applied to any XAML e
 ## -remarks
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Z-depth and shadow](/windows/uwp/design/layout/depth-shadow).
+> For more info, design guidance, and code examples, see [Z-depth and shadow](/windows/apps/design/layout/depth-shadow).
 
 A ThemeShadow can be applied to any XAML element to draw shadows based on the relative x, y, and z coordinates between a conceptual caster UIElement and one or more receiver UIElements which have the caster's shadow rendered onto them. 
 
@@ -48,12 +48,12 @@ To cast a shadow from a XAML element that isn't in a [Popup](../microsoft.ui.xam
 
 ## -see-also
 
-[Z-depth and shadow](/windows/uwp/design/layout/depth-shadow), [UIElement.Shadow](../microsoft.ui.xaml/uielement_shadow.md)
+[Z-depth and shadow](/windows/apps/design/layout/depth-shadow), [UIElement.Shadow](../microsoft.ui.xaml/uielement_shadow.md)
 
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Z-depth and shadow](/windows/uwp/design/layout/depth-shadow).
+> For more info, design guidance, and code examples, see [Z-depth and shadow](/windows/apps/design/layout/depth-shadow).
 >
 > Many common controls automatically cast shadows using ThemeShadow. 
 >

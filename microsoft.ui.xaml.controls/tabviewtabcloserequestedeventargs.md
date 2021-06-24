@@ -17,7 +17,7 @@ Provides data for a tab close event.
 
 ## -see-also
 
-[TabView.TabCloseRequested](tabview_tabcloserequested.md), [TabViewItem.CloseRequested](tabviewitem_closerequested.md), [Guidelines for TabView](/windows/uwp/design/controls-and-patterns/tab-view)
+[TabView.TabCloseRequested](tabview_tabcloserequested.md), [TabViewItem.CloseRequested](tabviewitem_closerequested.md), [Guidelines for TabView](/windows/apps/design/controls/tab-view)
 
 ## -examples
 

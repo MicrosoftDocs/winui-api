@@ -16,7 +16,7 @@ Represents the container for an item in a [TreeView](treeview.md) control.
 
 ## -see-also
 
-[TreeView](treeview.md), [TreeViewItemInvokedEventArgs](treeviewiteminvokedeventargs.md), [TreeViewItemTemplateSettings](treeviewitemtemplatesettings.md), [TreeViewList](treeviewlist.md), [TreeView overview](/windows/uwp/design/controls-and-patterns/tree-view)
+[TreeView](treeview.md), [TreeViewItemInvokedEventArgs](treeviewiteminvokedeventargs.md), [TreeViewItemTemplateSettings](treeviewitemtemplatesettings.md), [TreeViewList](treeviewlist.md), [TreeView overview](/windows/apps/design/controls/tree-view)
 
 ## -examples
 

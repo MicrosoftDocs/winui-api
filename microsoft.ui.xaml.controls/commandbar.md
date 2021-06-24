@@ -26,7 +26,7 @@ Represents a specialized app bar that provides layout for [AppBarButton](appbarb
 ## -remarks
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Command bar](/windows/uwp/design/controls-and-patterns/app-bars).
+> For more info, design guidance, and code examples, see [Command bar](/windows/apps/design/controls/app-bars).
 
 Use a CommandBar to provide users with quick access to your app's most common tasks. It's a general-purpose, flexible, light-weight control that can display both complex content, such as images, progress bars, or text blocks, as well as simple commands such as [AppBarButton](appbarbutton.md), [AppBarToggleButton](appbartogglebutton.md), and [AppBarSeparator](appbarseparator.md) controls.
 
@@ -123,7 +123,7 @@ This table shows the resources used by the CommandBar control.
 
 ## -examples
 
-For more info, design guidance, and code examples, see [Command bar](/windows/uwp/design/controls-and-patterns/app-bars).
+For more info, design guidance, and code examples, see [Command bar](/windows/apps/design/controls/app-bars).
 
 If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the CommandBar in action](xamlcontrolsgallery:/item/CommandBar).
 
@@ -155,4 +155,4 @@ This example creates the command bar shown in Remarks.
 
 ## -see-also
 
-[Guidelines for command bars](/windows/uwp/controls-and-patterns/app-bars), [CommandBar styles and templates](/windows/uwp/design/controls-and-patterns/xaml-styles), [Commanding sample (Windows 10)](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/XamlCommanding)
+[Guidelines for command bars](/windows/uwp/controls-and-patterns/app-bars), [CommandBar styles and templates](/windows/apps/design/style/xaml-styles), [Commanding sample (Windows 10)](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/XamlCommanding)

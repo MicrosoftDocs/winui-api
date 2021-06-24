@@ -22,7 +22,7 @@ Represents an object that uses a [MediaPlayer](/uwp/api/windows.media.playback.m
 ## -remarks
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Media playback](/windows/uwp/design/controls-and-patterns/media-playback).
+> For more info, design guidance, and code examples, see [Media playback](/windows/apps/design/controls/media-playback).
 
 For info about the media formats that MediaPlayerElement supports, see [Supported codecs](/windows/uwp/audio-video-camera/supported-codecs).
 
@@ -141,7 +141,7 @@ You can use the [PosterSource](mediaplayerelement_postersource.md) property to p
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Media playback](/windows/uwp/design/controls-and-patterns/media-playback).
+> For more info, design guidance, and code examples, see [Media playback](/windows/apps/design/controls/media-playback).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the MediaPlayerElement in action](xamlcontrolsgallery:/item/MediaPlayerElement).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
@@ -226,4 +226,4 @@ private void ShowPopupClicked(object sender, RoutedEventArgs e)
 
 ## -see-also
 
-[Control](control.md), [Media playback overview](/windows/uwp/design/controls-and-patterns/media-playback), [Audio categories sample](https://github.com/Microsoft/Windows-universal-samples/tree/dev/Samples/AudioCategory), [Media transport controls sample](https://github.com/Microsoft/Windows-universal-samples/tree/dev/Samples/XamlCustomMediaTransportControls), [Version adaptive code sample](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/VersionAdaptiveCode)
+[Control](control.md), [Media playback overview](/windows/apps/design/controls/media-playback), [Audio categories sample](https://github.com/Microsoft/Windows-universal-samples/tree/dev/Samples/AudioCategory), [Media transport controls sample](https://github.com/Microsoft/Windows-universal-samples/tree/dev/Samples/XamlCustomMediaTransportControls), [Version adaptive code sample](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/VersionAdaptiveCode)

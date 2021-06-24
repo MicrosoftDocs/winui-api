@@ -25,11 +25,11 @@ When you handle this event, use the [OldDate](datepickerselectedvaluechangedeven
 
 ## -see-also
 
-[SelectedDate](datepicker_selecteddate.md), [DatePickerSelectedValueChangedEventArgs](datepickerselectedvaluechangedeventargs.md), [Date picker](/windows/uwp/design/controls-and-patterns/date-picker)
+[SelectedDate](datepicker_selecteddate.md), [DatePickerSelectedValueChangedEventArgs](datepickerselectedvaluechangedeventargs.md), [Date picker](/windows/apps/design/controls/date-picker)
 
 ## -examples
 
-Here's an example of a `SelectedDateChanged` event handler. To see this example with more context, see [Calendar, date, and time controls - Use a date picker and time picker together](/windows/uwp/design/controls-and-patterns/date-and-time#use-a-date-picker-and-time-picker-together).
+Here's an example of a `SelectedDateChanged` event handler. To see this example with more context, see [Calendar, date, and time controls - Use a date picker and time picker together](/windows/apps/design/controls/date-and-time#use-a-date-picker-and-time-picker-together).
 
 ```xaml
 <StackPanel>

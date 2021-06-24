@@ -21,7 +21,7 @@ RadioMenuFlyoutItem can be used inside [MenuBarItem](https://docs.microsoft.com/
 
 ## -see-also
 
-[Creating a menu](/windows/uwp/design/controls-and-patterns/menus#create-a-menu-flyout-or-a-context-menu)
+[Creating a menu](/windows/apps/design/controls/menus#create-a-menu-flyout-or-a-context-menu)
 
 ## -examples
 

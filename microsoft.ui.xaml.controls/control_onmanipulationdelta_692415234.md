@@ -21,4 +21,4 @@ Event data for the event.
 ## -examples
 
 ## -see-also
-[UIElement.ManipulationDelta](../microsoft.ui.xaml/uielement_manipulationdelta.md), [ManipulationDeltaRoutedEventArgs](../microsoft.ui.xaml.input/manipulationdeltaroutedeventargs.md), [Events and routed events overview](/windows/uwp/xaml-platform/events-and-routed-events-overview), [Custom user interactions](/windows/uwp/design/layout/index), [Handle pointer input](/windows/uwp/input-and-devices/handle-pointer-input)
+[UIElement.ManipulationDelta](../microsoft.ui.xaml/uielement_manipulationdelta.md), [ManipulationDeltaRoutedEventArgs](../microsoft.ui.xaml.input/manipulationdeltaroutedeventargs.md), [Events and routed events overview](/windows/uwp/xaml-platform/events-and-routed-events-overview), [Custom user interactions](/windows/apps/design/layout/index), [Handle pointer input](/windows/uwp/input-and-devices/handle-pointer-input)

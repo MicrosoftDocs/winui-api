@@ -27,4 +27,4 @@ By default, an accelerator has global scope. However, you can constrain scope us
 
 ## -see-also
 
-[Keyboard Accelerators](/windows/uwp/design/input/keyboard-accelerators)
+[Keyboard Accelerators](/windows/apps/design/input/keyboard-accelerators)

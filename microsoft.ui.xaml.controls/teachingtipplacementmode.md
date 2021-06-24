@@ -75,7 +75,7 @@ The top right corner of the xaml root when non-targeted and above the target ele
 
 ## -see-also
 
-[TeachingTip.PreferredPlacement](teachingtip_preferredplacement.md), [Teaching tip overview](/windows/uwp/design/controls-and-patterns/dialogs-and-flyouts/teaching-tip)
+[TeachingTip.PreferredPlacement](teachingtip_preferredplacement.md), [Teaching tip overview](/windows/apps/design/controls/dialogs-and-flyouts/teaching-tip)
 
 ## -examples
 

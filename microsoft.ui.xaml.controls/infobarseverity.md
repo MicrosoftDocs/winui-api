@@ -36,7 +36,7 @@ Communicates that the InfoBar is displaying information regarding an error or pr
 
 ## -see-also
 
-[InfoBar.Severity](infobar_severity.md), [InfoBar overview](/windows/uwp/design/controls-and-patterns/infobar)
+[InfoBar.Severity](infobar_severity.md), [InfoBar overview](/windows/apps/design/controls/infobar)
 
 ## -examples
 See the **XAML Controls Gallery** sample app for examples of WinUI features and controls.

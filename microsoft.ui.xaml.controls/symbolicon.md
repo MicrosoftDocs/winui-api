@@ -23,7 +23,7 @@ Represents an icon that uses a glyph from the `SymbolThemeFontFamily` resource a
 
 The most common way to specify the icon for an app bar button is to use one of the standard glyphs provided by the `SymbolThemeFontFamily` theme resource, as specified in the [Symbol](symbol.md) enumeration. You can use a `SymbolIcon` by setting the [Icon](appbarbutton_icon.md) property of an [AppBarButton](appbarbutton.md) directly to a value of the [Symbol](symbol.md) enumeration.
 
-The `SymbolIcon` uses the font family defined by the `SymbolThemeFontFamily` theme resource. By default, Windows uses the [**Segoe Fluent Icon**](/windows/uwp/design/style/segoe-ui-symbol-font) font family. If your app is run on Windows 10, version 20H2 or earlier, the Segoe Fluent Icon font family is not available and the `SymbolThemeFontFamily` resource falls back to the [**Segoe MDL2 Asset**](/windows/uwp/design/style/segoe-ui-symbol-font) font family instead.
+The `SymbolIcon` uses the font family defined by the `SymbolThemeFontFamily` theme resource. By default, Windows uses the [**Segoe Fluent Icon**](/windows/apps/design/style/segoe-ui-symbol-font) font family. If your app is run on Windows 10, version 20H2 or earlier, the Segoe Fluent Icon font family is not available and the `SymbolThemeFontFamily` resource falls back to the [**Segoe MDL2 Asset**](/windows/apps/design/style/segoe-ui-symbol-font) font family instead.
 
 > [!TIP]
 > If the glyph you want is not available in the [Symbol](symbol.md) enumeration, you can use a [FontIcon](fonticon.md) with the default font family anywhere you would use a `SymbolIcon`.
@@ -55,4 +55,4 @@ This example shows two ways to use a `SymbolIcon` an [AppBarButton](appbarbutton
 ```
 
 ## -see-also
-[IconElement](iconelement.md), [Symbol enumeration](symbol.md), [Quickstart: Adding app bar buttons](/previous-versions/windows/apps/jj662743(v=win.10)), [AppBarButton](appbarbutton.md), [AppBarToggleButton](appbartogglebutton.md), [BitmapIcon](bitmapicon.md), [FontIcon](fonticon.md), [PathIcon](pathicon.md), [Controls list](/windows/uwp/design/controls-and-patterns/), [Controls by function](/windows/uwp/controls-and-patterns/controls-by-function)
+[IconElement](iconelement.md), [Symbol enumeration](symbol.md), [Quickstart: Adding app bar buttons](/previous-versions/windows/apps/jj662743(v=win.10)), [AppBarButton](appbarbutton.md), [AppBarToggleButton](appbartogglebutton.md), [BitmapIcon](bitmapicon.md), [FontIcon](fonticon.md), [PathIcon](pathicon.md), [Controls list](/windows/apps/design/controls/), [Controls by function](/windows/uwp/controls-and-patterns/controls-by-function)

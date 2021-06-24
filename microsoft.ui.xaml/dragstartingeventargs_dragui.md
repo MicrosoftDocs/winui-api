@@ -24,4 +24,4 @@ If this property is set to Null, then the UIElement being dragged is used to as 
 
 ## -see-also
 
-[Drag-and-drop overview](/windows/uwp/design/input/drag-and-drop)
+[Drag-and-drop overview](/windows/apps/design/input/drag-and-drop)

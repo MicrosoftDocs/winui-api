@@ -65,4 +65,4 @@ The base implementation for AutomationPeer returns null. Peers that represent it
 ## -examples
 
 ## -see-also
-[DependencyObject](../microsoft.ui.xaml/dependencyobject.md), [Custom automation peers](/windows/uwp/accessibility/custom-automation-peers), [Code samples for resolving common programmatic accessibility issues in Windows desktop apps](/accessibility-tools-docs/), [Accessibility](/windows/uwp/design/accessibility/accessibility)
+[DependencyObject](../microsoft.ui.xaml/dependencyobject.md), [Custom automation peers](/windows/uwp/accessibility/custom-automation-peers), [Code samples for resolving common programmatic accessibility issues in Windows desktop apps](/accessibility-tools-docs/), [Accessibility](/windows/apps/design/accessibility/accessibility)

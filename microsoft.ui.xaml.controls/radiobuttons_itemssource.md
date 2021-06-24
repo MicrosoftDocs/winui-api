@@ -19,7 +19,7 @@ The object that is used to generate the content of the control. The default is `
 
 ## -remarks
 
-> For more info, design guidance, and code examples, see [Radio buttons](/windows/uwp/design/controls-and-patterns/radio-button).
+> For more info, design guidance, and code examples, see [Radio buttons](/windows/apps/design/controls/radio-button).
 
 For more info about the behavior of the ItemsSource property, see [ItemsControl.ItemsSource](/uwp/api/windows.ui.xaml.controls.itemscontrol.itemssource).
 

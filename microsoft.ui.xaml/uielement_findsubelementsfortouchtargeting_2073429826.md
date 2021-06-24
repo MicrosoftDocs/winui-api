@@ -32,4 +32,4 @@ If you are programming using C# or Microsoft Visual Basic, the return value type
 ## -examples
 
 ## -see-also
-[Handle pointer input](/windows/uwp/design/input/handle-pointer-input), [FindElementsInHostCoordinates](/uwp/api/windows.ui.xaml.media.visualtreehelper.findelementsinhostcoordinates)
+[Handle pointer input](/windows/apps/design/input/handle-pointer-input), [FindElementsInHostCoordinates](/uwp/api/windows.ui.xaml.media.visualtreehelper.findelementsinhostcoordinates)

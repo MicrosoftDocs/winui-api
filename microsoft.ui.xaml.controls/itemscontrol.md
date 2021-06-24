@@ -40,4 +40,4 @@ ItemsControl is the parent class for [MenuFlyoutPresenter](menuflyoutpresenter.m
 ## -examples
 
 ## -see-also
-[Control](control.md), [ListView](listview.md), [GridView](gridview.md), [Selector](../microsoft.ui.xaml.controls.primitives/selector.md), [Controls list](/windows/uwp/design/controls-and-patterns/), [Adding ListView and GridView controls](/previous-versions/windows/apps/hh780618(v=win.10)), [Data binding in depth](/windows/uwp/data-binding/data-binding-in-depth)
+[Control](control.md), [ListView](listview.md), [GridView](gridview.md), [Selector](../microsoft.ui.xaml.controls.primitives/selector.md), [Controls list](/windows/apps/design/controls/), [Adding ListView and GridView controls](/previous-versions/windows/apps/hh780618(v=win.10)), [Data binding in depth](/windows/uwp/data-binding/data-binding-in-depth)

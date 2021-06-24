@@ -31,4 +31,4 @@ For XAML usage, IsScrollInertiaEnabled can either be an attribute on an explicit
 
 ## -see-also
 
-[Scroll viewer controls](/windows/uwp/design/controls-and-patterns/scroll-controls), [Guidelines for panning](/windows/uwp/design/input/guidelines-for-panning)
+[Scroll viewer controls](/windows/apps/design/controls/scroll-controls), [Guidelines for panning](/windows/apps/design/input/guidelines-for-panning)

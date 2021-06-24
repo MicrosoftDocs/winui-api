@@ -23,4 +23,4 @@ In general, resources can be sensitive to scale or other display characteristics
 + Apps that set explicit width and height of elements should still work fine, other than possibly displaying blurry images.
 + Obtain resources that are not associated with any view by getting a **ResourceLoader** via [GetForViewIndependentUse](resourceloader_getforviewindependentuse_1317372352.md).
 
-Also see [Screen sizes and breakpoints](/windows/uwp/design/layout/screen-sizes-and-breakpoints-for-responsive-design).
+Also see [Screen sizes and breakpoints](/windows/apps/design/layout/screen-sizes-and-breakpoints-for-responsive-design).

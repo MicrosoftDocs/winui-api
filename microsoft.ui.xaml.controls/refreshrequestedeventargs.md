@@ -16,7 +16,7 @@ Provides event data for [RefreshRequested](#-see-also) events.
 
 ## -see-also
 
-[RefreshContainer.RefreshRequested](refreshcontainer_refreshrequested.md), [RefreshVisualizer.RefreshRequested](refreshvisualizer_refreshrequested.md), [Pull to refresh](/windows/uwp/design/controls-and-patterns/pull-to-refresh)
+[RefreshContainer.RefreshRequested](refreshcontainer_refreshrequested.md), [RefreshVisualizer.RefreshRequested](refreshvisualizer_refreshrequested.md), [Pull to refresh](/windows/apps/design/controls/pull-to-refresh)
 
 ## -examples
 

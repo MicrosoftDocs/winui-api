@@ -18,7 +18,7 @@ The identifier for the [KeyboardAcceleratorPlacementTarget](uielement_keyboardac
 ## -remarks
 
 ## -see-also
-[Keyboard Accelerators](/windows/uwp/design/input/keyboard-accelerators)
+[Keyboard Accelerators](/windows/apps/design/input/keyboard-accelerators)
 
 ## -examples
 

@@ -16,7 +16,7 @@ Exposes [NavigationViewItem](../microsoft.ui.xaml.controls/navigationviewitem.md
 
 ## -see-also
 
-[ListViewItemAutomationPeer](/uwp/api/windows.ui.xaml.automation.peers.listviewautomationpeer), [Custom automation peers](/windows/uwp/design/accessibility/custom-automation-peers), [Expose basic accessibility information](/windows/uwp/design/accessibility/basic-accessibility-information), [Accessibility Insights](https://accessibilityinsights.io/)
+[ListViewItemAutomationPeer](/uwp/api/windows.ui.xaml.automation.peers.listviewautomationpeer), [Custom automation peers](/windows/apps/design/accessibility/custom-automation-peers), [Expose basic accessibility information](/windows/apps/design/accessibility/basic-accessibility-information), [Accessibility Insights](https://accessibilityinsights.io/)
 
 ## -examples
 

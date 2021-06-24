@@ -17,7 +17,7 @@ Releases all pointer captures held by this element.
 
 Because there are input scenarios such as manipulations that involve more than one pointer point, the Windows Runtime enables capturing more than one pointer at a time. Calling [ReleasePointerCapture](uielement_releasepointercapture_851958174.md) removes a specific [Pointer](../microsoft.ui.xaml.input/pointer.md) from the collection as identified by its ID, whereas ReleasePointerCaptures clears the entire collection.
 
-User action that invalidates pointer capture such as releasing from a pointer point also changes capture state. For more info, see [Mouse interactions](/windows/uwp/input-and-devices/mouse-interactions) and [Handle pointer input](/windows/uwp/design/input/handle-pointer-input).
+User action that invalidates pointer capture such as releasing from a pointer point also changes capture state. For more info, see [Mouse interactions](/windows/uwp/input-and-devices/mouse-interactions) and [Handle pointer input](/windows/apps/design/input/handle-pointer-input).
 
 The [PointerCaptures](uielement_pointercaptures.md) property exposes a view of which pointer points are currently captured by the [UIElement](uielement.md).
 

@@ -50,4 +50,4 @@ The following example shows how to set the [ItemsRepeater.Layout](itemsrepeater_
 
 ## -see-also
 
-[UniformGridLayoutItemsJustification](uniformgridlayoutitemsjustification.md), [UniformGridLayoutItemsStretch](uniformgridlayoutitemsstretch.md), [UniformGridLayout overview](/windows/uwp/design/controls-and-patterns/items-repeater#uniformgridlayout)
+[UniformGridLayoutItemsJustification](uniformgridlayoutitemsjustification.md), [UniformGridLayoutItemsStretch](uniformgridlayoutitemsstretch.md), [UniformGridLayout overview](/windows/apps/design/controls/items-repeater#uniformgridlayout)

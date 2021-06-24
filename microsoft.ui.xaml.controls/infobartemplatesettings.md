@@ -18,7 +18,7 @@ Provides calculated values that can be referenced as **TemplatedParent** sources
 
 ## -see-also
 
-[InfoBar.TemplateSettings](infobar_templatesettings.md), [InfoBar overview](/windows/uwp/design/controls-and-patterns/infobar)
+[InfoBar.TemplateSettings](infobar_templatesettings.md), [InfoBar overview](/windows/apps/design/controls/infobar)
 
 ## -examples
 See the **XAML Controls Gallery** sample app for examples of WinUI features and controls.

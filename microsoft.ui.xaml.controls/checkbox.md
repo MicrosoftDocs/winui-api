@@ -27,7 +27,7 @@ Represents a control that a user can select (check) or clear (uncheck). A CheckB
 ## -remarks
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Check boxes](/windows/uwp/design/controls-and-patterns/checkbox).
+> For more info, design guidance, and code examples, see [Check boxes](/windows/apps/design/controls/checkbox).
 
 CheckBox is a control that a user can select or clear.
 
@@ -131,7 +131,7 @@ This table shows the resources used by the CheckBox control.
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Check boxes](/windows/uwp/design/controls-and-patterns/checkbox).
+> For more info, design guidance, and code examples, see [Check boxes](/windows/apps/design/controls/checkbox).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the CheckBox in action](xamlcontrolsgallery:/item/CheckBox).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
@@ -229,5 +229,5 @@ private void Option_Unchecked(object sender, RoutedEventArgs e)
 
 
 ## -see-also
-[Check boxes overview](/windows/uwp/controls-and-patterns/checkbox), [CheckBox styles and templates](/windows/uwp/design/controls-and-patterns/xaml-styles), [RadioButton](radiobutton.md), [ToggleButton](../microsoft.ui.xaml.controls.primitives/togglebutton.md), [Controls list](/windows/uwp/design/controls-and-patterns/), [Controls by function](/windows/uwp/controls-and-patterns/controls-by-function)
+[Check boxes overview](/windows/uwp/controls-and-patterns/checkbox), [CheckBox styles and templates](/windows/apps/design/style/xaml-styles), [RadioButton](radiobutton.md), [ToggleButton](../microsoft.ui.xaml.controls.primitives/togglebutton.md), [Controls list](/windows/apps/design/controls/), [Controls by function](/windows/uwp/controls-and-patterns/controls-by-function)
 p://msdn.microsoft.com/library/8db4347b-91d6-4659-91f2-80ecf7bbb596)

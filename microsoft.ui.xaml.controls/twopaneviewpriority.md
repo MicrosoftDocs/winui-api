@@ -26,7 +26,7 @@ Pane 1 has priority.
 
 ## -see-also
 
-[TwoPaneView](twopaneview.md), [TwoPaneView.PanePriority](twopaneview_panepriority.md), [Two-pane view overview](/windows/uwp/design/controls-and-patterns/two-pane-view)
+[TwoPaneView](twopaneview.md), [TwoPaneView.PanePriority](twopaneview_panepriority.md), [Two-pane view overview](/windows/apps/design/controls/two-pane-view)
 
 ## -examples
 

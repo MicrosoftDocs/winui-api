@@ -17,7 +17,7 @@ Gets an object that provides calculated values that can be referenced as {Templa
 
 ## -see-also
 
-[TabView](tabview.md), [TabViewItem.TabViewTemplateSettings](tabviewitem_tabviewtemplatesettings.md), [Guidelines for TabView](/windows/uwp/design/controls-and-patterns/tab-view)
+[TabView](tabview.md), [TabViewItem.TabViewTemplateSettings](tabviewitem_tabviewtemplatesettings.md), [Guidelines for TabView](/windows/apps/design/controls/tab-view)
 
 ## -examples
 

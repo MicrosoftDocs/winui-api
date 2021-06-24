@@ -18,7 +18,7 @@ You can add other controls to a CommandBarFlyout by wrapping them in an [AppBarE
 
 ## -see-also
 
-[Command bar flyout](/windows/uwp/design/controls-and-patterns/command-bar-flyout)
+[Command bar flyout](/windows/apps/design/controls/command-bar-flyout)
 
 ## -examples
 

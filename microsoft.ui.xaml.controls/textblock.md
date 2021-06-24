@@ -28,7 +28,7 @@ Provides a lightweight control for displaying small amounts of text.
 ## -remarks
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Text block](/windows/uwp/design/controls-and-patterns/text-block).
+> For more info, design guidance, and code examples, see [Text block](/windows/apps/design/controls/text-block).
 
 TextBlock is the primary control for displaying read-only text in apps. You can use it to display single-line or multi-line text, inline hyperlinks, and text with formatting like bold, italic, or underlined.
 
@@ -73,7 +73,7 @@ The rendered text looks like this:
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Text block](/windows/uwp/design/controls-and-patterns/text-block).
+> For more info, design guidance, and code examples, see [Text block](/windows/apps/design/controls/text-block).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the TextBlock in action](xamlcontrolsgallery:/item/TextBlock).
 >
@@ -225,4 +225,4 @@ The rendered text looks like this:
 
 ## -see-also
 
-[Text block overview](/windows/uwp/design/controls-and-patterns/text-block), [RichTextBlock](richtextblock.md), [TextBox](textbox.md), [Controls list](/windows/uwp/design/controls-and-patterns/), [Controls by function](/windows/uwp/controls-and-patterns/controls-by-function)
+[Text block overview](/windows/apps/design/controls/text-block), [RichTextBlock](richtextblock.md), [TextBox](textbox.md), [Controls list](/windows/apps/design/controls/), [Controls by function](/windows/uwp/controls-and-patterns/controls-by-function)

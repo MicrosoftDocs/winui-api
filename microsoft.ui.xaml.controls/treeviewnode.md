@@ -16,7 +16,7 @@ Represents a node in a [TreeView](treeview.md) control.
 
 ## -see-also
 
-[TreeView](treeview.md), [TreeViewItem](treeviewitem.md), [TreeViewList](treeviewlist.md), [TreeView overview](/windows/uwp/design/controls-and-patterns/tree-view)
+[TreeView](treeview.md), [TreeViewItem](treeviewitem.md), [TreeViewList](treeviewlist.md), [TreeView overview](/windows/apps/design/controls/tree-view)
 
 ## -examples
 

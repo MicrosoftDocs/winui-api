@@ -33,4 +33,4 @@ Here's the picker with the day field hidden.
 
 ## -see-also
 
-[MonthVisible](datepicker_monthvisible.md), [YearVisible](datepicker_yearvisible.md), [DayFormat](datepicker_dayformat.md) [Date picker](/windows/uwp/design/controls-and-patterns/date-picker)
+[MonthVisible](datepicker_monthvisible.md), [YearVisible](datepicker_yearvisible.md), [DayFormat](datepicker_dayformat.md) [Date picker](/windows/apps/design/controls/date-picker)

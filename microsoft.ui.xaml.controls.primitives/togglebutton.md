@@ -49,7 +49,7 @@ ToggleButton is the parent class for several immediately derived controls that t
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Toggle switches](/windows/uwp/design/controls-and-patterns/toggles).
+> For more info, design guidance, and code examples, see [Toggle switches](/windows/apps/design/controls/toggles).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the ToggleButton in action](xamlcontrolsgallery:/item/ToggleButton).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
@@ -61,4 +61,4 @@ The following example shows how to create a three-state ToggleButton control.
 
 ## -see-also
 
-[ButtonBase](buttonbase.md), [ToggleButton styles and templates](/windows/uwp/design/controls-and-patterns/xaml-styles), [AppBarToggleButton](../microsoft.ui.xaml.automation.peers/appbartogglebuttonautomationpeer.md), [CheckBox](../microsoft.ui.xaml.controls/checkbox.md), [RadioButton](../microsoft.ui.xaml.controls/radiobutton.md)
+[ButtonBase](buttonbase.md), [ToggleButton styles and templates](/windows/apps/design/style/xaml-styles), [AppBarToggleButton](../microsoft.ui.xaml.automation.peers/appbartogglebuttonautomationpeer.md), [CheckBox](../microsoft.ui.xaml.controls/checkbox.md), [RadioButton](../microsoft.ui.xaml.controls/radiobutton.md)

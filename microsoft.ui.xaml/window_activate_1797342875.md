@@ -21,7 +21,7 @@ This method is important for the correct operation of an app. If an app does not
 
 You can modify the default [OnLaunched](application_onlaunched_859642554.md) implementation in order to delay calling Activate. You might do this to have all app rendering be complete before the main [Window](window.md) is shown. For example, a delay can be useful to finish loading [Image](../microsoft.ui.xaml.controls/image.md) source files in the initial UI. (These load asynchronously and it's impractical to handle [ImageOpened](../microsoft.ui.xaml.controls/image_imageopened.md) from app.xaml code-behind.) On the other hand, delaying the call can create an undesirable user experience if the splash screen is visible for too long.
 
-For secondary windows, you also need to call Activate. For more info about secondary windows, see [Show multiple views for an app](/windows/uwp/design/layout/show-multiple-views).
+For secondary windows, you also need to call Activate. For more info about secondary windows, see [Show multiple views for an app](/windows/apps/design/layout/show-multiple-views).
 
 ## -examples
 

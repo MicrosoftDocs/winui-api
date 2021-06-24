@@ -21,7 +21,7 @@ Represents a control for entering passwords.
 ## -remarks
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Password box](/windows/uwp/design/controls-and-patterns/password-box).
+> For more info, design guidance, and code examples, see [Password box](/windows/apps/design/controls/password-box).
 
 PasswordBox lets a user enter a masked password.
 
@@ -31,7 +31,7 @@ The user can enter a single line of non-wrapping text in a PasswordBox control. 
 
 Use the [Password](passwordbox_password.md) property to get or set the content of the PasswordBox. Handle the [PasswordChanged](passwordbox_passwordchanged.md) event to get the [Password](passwordbox_password.md) value while the user enters it.
 
-For more info, see [PasswordBox control guide](/windows/uwp/design/controls-and-patterns/password-box).
+For more info, see [PasswordBox control guide](/windows/apps/design/controls/password-box).
 
 ### Password reveal mode
 
@@ -41,7 +41,7 @@ Windows 10, version 1607, introduces a new keyboard shortcut for accessibility.
 
 <img src="images/PasswordBox_Revealed.png" alt="A password box with the password shown." />
 
-You can hide the password reveal button, or provide a custom UI to let the user reveal the password. For more info and examples, see [PasswordRevealMode](passwordbox_passwordrevealmode.md) and [PasswordBox control guide](/windows/uwp/design/controls-and-patterns/password-box).
+You can hide the password reveal button, or provide a custom UI to let the user reveal the password. For more info and examples, see [PasswordRevealMode](passwordbox_passwordrevealmode.md) and [PasswordBox control guide](/windows/apps/design/controls/password-box).
 
 > [!NOTE]
 > Use the [PasswordRevealMode](passwordbox_passwordrevealmode.md) property instead of the [IsPasswordRevealButtonEnabled](passwordbox_ispasswordrevealbuttonenabled.md) property. [IsPasswordRevealButtonEnabled](passwordbox_ispasswordrevealbuttonenabled.md) is deprecated in Windows 10 and any value is ignored.
@@ -98,7 +98,7 @@ In Windows Phone, the user reveals the password by checking a checkbox, so the p
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Password box](/windows/uwp/design/controls-and-patterns/password-box).
+> For more info, design guidance, and code examples, see [Password box](/windows/apps/design/controls/password-box).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the PasswordBox in action](xamlcontrolsgallery:/item/PasswordBox).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
@@ -140,4 +140,4 @@ End Sub
 ```
 
 ## -see-also
-[Password box overview](/windows/uwp/design/controls-and-patterns/password-box), [TextBox](textbox.md), [Controls list](/windows/uwp/design/controls-and-patterns/)
+[Password box overview](/windows/apps/design/controls/password-box), [TextBox](textbox.md), [Controls list](/windows/apps/design/controls/)

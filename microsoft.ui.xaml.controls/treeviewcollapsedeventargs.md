@@ -16,7 +16,7 @@ Provides event data for the [TreeView.Collapsed](treeview_collapsed.md) event.
 
 ## -see-also
 
-[TreeView](treeview.md), [TreeViewExpandingEventArgs](treeviewexpandingeventargs.md), [TreeView overview](/windows/uwp/design/controls-and-patterns/tree-view)
+[TreeView](treeview.md), [TreeViewExpandingEventArgs](treeviewexpandingeventargs.md), [TreeView overview](/windows/apps/design/controls/tree-view)
 
 ## -examples
 

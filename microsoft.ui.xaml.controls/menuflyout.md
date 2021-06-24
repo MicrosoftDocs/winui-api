@@ -24,7 +24,7 @@ Represents a flyout that displays a menu of commands.
 ## -remarks
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Menus and context menus](/windows/uwp/design/controls-and-patterns/menus).
+> For more info, design guidance, and code examples, see [Menus and context menus](/windows/apps/design/controls/menus).
 
 MenuFlyout temporarily displays a list of commands or options related to what the user is currently doing.
 
@@ -51,7 +51,7 @@ In addition to the members listed above, there are other members of the base cla
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Menus and context menus](/windows/uwp/design/controls-and-patterns/menus).
+> For more info, design guidance, and code examples, see [Menus and context menus](/windows/apps/design/controls/menus).
 >
 > If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the MenuFlyout in action](xamlcontrolsgallery:/item/MenuFlyout).
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)

@@ -16,7 +16,7 @@ Represents a control that provides animated state indicators for content refresh
 
 ## -see-also
 
-[RefreshContainer](refreshcontainer.md), [Pull to refresh](/windows/uwp/design/controls-and-patterns/pull-to-refresh)
+[RefreshContainer](refreshcontainer.md), [Pull to refresh](/windows/apps/design/controls/pull-to-refresh)
 
 ## -examples
 
