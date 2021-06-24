@@ -12,6 +12,8 @@ public void Expand ();
 
 ## -description
 
+Displays the content area of the control.
+
 ## -remarks
 
 ## -see-also

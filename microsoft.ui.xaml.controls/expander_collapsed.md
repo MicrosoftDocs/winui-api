@@ -17,6 +17,8 @@ public event Windows.Foundation.TypedEventHandler<Microsoft.UI.Xaml.Controls.Exp
 > This API is in development and considered experimental in the WinUI version selected. It might be altered or unavailable in other versions.
 ::: moniker-end
 
+Occurs when the content area of the [Expander](expander.md) is hidden.
+
 ## -remarks
 
 ## -see-also

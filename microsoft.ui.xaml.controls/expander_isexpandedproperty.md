@@ -17,7 +17,11 @@ public static Windows.UI.Xaml.DependencyProperty IsExpandedProperty { get; }
 > This API is in development and considered experimental in the WinUI version selected. It might be altered or unavailable in other versions.
 ::: moniker-end
 
+Identifies the [IsExpanded](expander_isexpanded.md) dependency property.
+
 ## -property-value
+
+The identifier for the [IsExpanded](expander_isexpanded.md) dependency property.
 
 ## -remarks
 

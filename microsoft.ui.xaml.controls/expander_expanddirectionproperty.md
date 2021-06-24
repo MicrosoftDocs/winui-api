@@ -17,7 +17,11 @@ public static Windows.UI.Xaml.DependencyProperty ExpandDirectionProperty { get; 
 > This API is in development and considered experimental in the WinUI version selected. It might be altered or unavailable in other versions.
 ::: moniker-end
 
+Identifies the [ExpandDirection](expander_expanddirection.md) dependency property.
+
 ## -property-value
+
+The identifier for the [ExpandDirection](expander_expanddirection.md) dependency property.
 
 ## -remarks
 

@@ -17,10 +17,12 @@ public sealed class ExpanderCollapsedEventArgs
 > This API is in development and considered experimental in the WinUI version selected. It might be altered or unavailable in other versions.
 ::: moniker-end
 
+Provides data for the [Expander.Collapsed](expander_collapsed.md) event.
+
 ## -remarks
 
 ## -see-also
 
+[Expander](expander.md)
+
 ## -examples
-
-

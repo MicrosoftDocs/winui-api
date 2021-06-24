@@ -17,6 +17,8 @@ public Expander ();
 > This API is in development and considered experimental in the WinUI version selected. It might be altered or unavailable in other versions.
 ::: moniker-end
 
+Initializes a new instance of the [Expander](expander.md) class.
+
 ## -remarks
 
 ## -see-also

@@ -17,7 +17,11 @@ public static Windows.UI.Xaml.DependencyProperty HeaderTemplateSelectorProperty 
 > This API is in development and considered experimental in the WinUI version selected. It might be altered or unavailable in other versions.
 ::: moniker-end
 
+Identifies the [HeaderTemplateSelector](expander_headertemplateselector.md) dependency property.
+
 ## -property-value
+
+The identifier for the [HeaderTemplateSelector](expander_headertemplateselector.md) dependency property.
 
 ## -remarks
 

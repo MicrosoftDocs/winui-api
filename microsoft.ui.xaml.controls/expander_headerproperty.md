@@ -17,7 +17,11 @@ public static Windows.UI.Xaml.DependencyProperty HeaderProperty { get; }
 > This API is in development and considered experimental in the WinUI version selected. It might be altered or unavailable in other versions.
 ::: moniker-end
 
+Identifies the [Header](expander_header.md) dependency property.
+
 ## -property-value
+
+The identifier for the [Header](expander_header.md) dependency property.
 
 ## -remarks
 

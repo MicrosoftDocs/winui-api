@@ -12,6 +12,8 @@ public void Collapse ();
 
 ## -description
 
+Hides the content area of the control.
+
 ## -remarks
 
 ## -see-also

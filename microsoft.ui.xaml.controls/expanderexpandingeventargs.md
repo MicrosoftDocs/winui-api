@@ -17,10 +17,12 @@ public sealed class ExpanderExpandingEventArgs
 > This API is in development and considered experimental in the WinUI version selected. It might be altered or unavailable in other versions.
 ::: moniker-end
 
+Provides data for the [Expander.Expanding](expander_expanding.md) event.
+
 ## -remarks
 
 ## -see-also
 
+[Expander](expander.md)
+
 ## -examples
-
-

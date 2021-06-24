@@ -12,6 +12,8 @@ public class ExpanderAutomationPeer : Windows.UI.Xaml.Automation.Peers.Framework
 
 ## -description
 
+Exposes [Expander](../microsoft.ui.xaml.controls/expander.md) types to Microsoft UI Automation.
+
 ## -remarks
 
 ## -see-also

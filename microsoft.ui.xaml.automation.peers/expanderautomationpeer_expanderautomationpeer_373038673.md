@@ -12,9 +12,13 @@ public ExpanderAutomationPeer (Microsoft.UI.Xaml.Controls.Expander owner);
 
 ## -description
 
+Initializes a new instance of the [ExpanderAutomationPeer](expanderautomationpeer.md) class.
+
 ## -parameters
 
 ### -param owner
+
+The [Expander](../microsoft.ui.xaml.controls/expander.md) control instance to create the peer for.
 
 ## -remarks
 
