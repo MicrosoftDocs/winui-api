@@ -37,11 +37,11 @@ The `Source` property does not support XAML [attribute syntax](/windows/uwp/xaml
 
 WinUI provides animated visuals for some common icons in the [Microsoft.UI.Xaml.Controls.AnimatedVisuals](/windows/winui/api/microsoft.ui.xaml.controls.animatedvisuals) namespace.
 
-You can create custom animations to use as an animated icon in your app. Animations can be created with [Adobe AfterEffects](https://www.adobe.com/products/aftereffects.html), then you can use that output with the [Lottie-Windows](/windows/communitytoolkit/animations/lottie) library to generate a custom class that implements [IAnimatedVisualSource2](ianimatedvisualsource2.md). You can use this class as the [Source](animatedicon_source.md) for an animated icon. For more information, see [Use Lottie to create animated content for an AnimatedIcon](/windows/uwp/design/controls-and-patterns/animated-icon#use-lottie-to-create-animated-content-for-an-animatedicon).
+You can create custom animations to use as an animated icon in your app. Animations can be created with [Adobe AfterEffects](https://www.adobe.com/products/aftereffects.html), then you can use that output with the [Lottie-Windows](/windows/communitytoolkit/animations/lottie) library to generate a custom class that implements [IAnimatedVisualSource2](ianimatedvisualsource2.md). You can use this class as the [Source](animatedicon_source.md) for an animated icon. For more information, see [Use Lottie to create animated content for an AnimatedIcon](/windows/apps/design/controls/animated-icon#use-lottie-to-create-animated-content-for-an-animatedicon).
 
 ## -see-also
 
-[Animated icon overview](/windows/uwp/design/controls-and-patterns/animated-icon), [AnimatedIcon](animatedicon.md), [IAnimatedVisualSource.TryCreateAnimatedVisual](ianimatedvisualsource_trycreateanimatedvisual_646476001.md), [Microsoft.UI.Xaml.Controls.AnimatedVisuals](/windows/winui/api/microsoft.ui.xaml.controls.animatedvisuals)
+[Animated icon overview](/windows/apps/design/controls/animated-icon), [AnimatedIcon](animatedicon.md), [IAnimatedVisualSource.TryCreateAnimatedVisual](ianimatedvisualsource_trycreateanimatedvisual_646476001.md), [Microsoft.UI.Xaml.Controls.AnimatedVisuals](/windows/winui/api/microsoft.ui.xaml.controls.animatedvisuals)
 
 ## -examples
 

@@ -21,6 +21,6 @@ The display state of the Previous button. The default value is 'Collapsed'.
 
 ## -see-also
 
-[PipsPager](pipspager.md), [PipsPager.PreviousButtonVisibility](pipspager_previousbuttonvisibility.md), [PipsPager overview](/windows/uwp/design/controls-and-patterns/pipspager)
+[PipsPager](pipspager.md), [PipsPager.PreviousButtonVisibility](pipspager_previousbuttonvisibility.md), [PipsPager overview](/windows/apps/design/controls/pipspager)
 
 ## -examples

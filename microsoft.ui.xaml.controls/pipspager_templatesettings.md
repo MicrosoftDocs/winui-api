@@ -21,7 +21,7 @@ An object that provides calculated values for templates.
 
 ## -see-also
 
-[PipsPager](pipspager.md), [PipsPager overview](/windows/uwp/design/controls-and-patterns/pipspager)
+[PipsPager](pipspager.md), [PipsPager overview](/windows/apps/design/controls/pipspager)
 
 ## -examples
 

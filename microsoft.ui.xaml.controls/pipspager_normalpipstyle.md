@@ -21,6 +21,6 @@ The style for the default, unselected pips in the PipsPager.
 
 ## -see-also
 
-[PipsPager](pipspager.md), [PipsPager.SelectedPipStyle](pipspager_selectedpipstyle.md), [PipsPager overview](/windows/uwp/design/controls-and-patterns/pipspager)
+[PipsPager](pipspager.md), [PipsPager.SelectedPipStyle](pipspager_selectedpipstyle.md), [PipsPager overview](/windows/apps/design/controls/pipspager)
 
 ## -examples

@@ -24,13 +24,13 @@ In some cases, system settings or limitations can prevent the icon from being an
 
 ### Custom animations
 
-You can create custom animations to use as an animated icon in your app. Animations can be created with [Adobe AfterEffects](https://www.adobe.com/products/aftereffects.html), then you can use that output with the [Lottie-Windows](/windows/communitytoolkit/animations/lottie) library to generate a custom class that implements [IAnimatedVisualSource2](ianimatedvisualsource2.md). You can use this class as the [Source](animatedicon_source.md) for an animated icon. For more information, see [Use Lottie to create animated content for an AnimatedIcon](/windows/uwp/design/controls-and-patterns/animated-icon#use-lottie-to-create-animated-content-for-an-animatedicon).
+You can create custom animations to use as an animated icon in your app. Animations can be created with [Adobe AfterEffects](https://www.adobe.com/products/aftereffects.html), then you can use that output with the [Lottie-Windows](/windows/communitytoolkit/animations/lottie) library to generate a custom class that implements [IAnimatedVisualSource2](ianimatedvisualsource2.md). You can use this class as the [Source](animatedicon_source.md) for an animated icon. For more information, see [Use Lottie to create animated content for an AnimatedIcon](/windows/apps/design/controls/animated-icon#use-lottie-to-create-animated-content-for-an-animatedicon).
 
 ### Control the animated icon state
 
  You change the playback position and state of the animation by setting the [AnimatedIcon.State](animatedicon_state.md) attached property. The state property takes a string value that describes the visual state, such as "`Normal`", "`PointerOver`", or "`Pressed`". You can also specify a specific state transition, such as "`PressedToNormal`".
 
-An animated icon [Source](animatedicon_source.md) contains [Markers](/windows/winui/api/microsoft.ui.xaml.controls.ianimatedvisualsource2.markers) that map a position in the animation timeline to a visual state. The string values that a `Source` supports to set the `State` attached property are defined in the `Markers` collection. For more info, see [Define AnimatedIcon markers](/windows/uwp/design/controls-and-patterns/animated-icon#define-animatedicon-markers).
+An animated icon [Source](animatedicon_source.md) contains [Markers](/windows/winui/api/microsoft.ui.xaml.controls.ianimatedvisualsource2.markers) that map a position in the animation timeline to a visual state. The string values that a `Source` supports to set the `State` attached property are defined in the `Markers` collection. For more info, see [Define AnimatedIcon markers](/windows/apps/design/controls/animated-icon#define-animatedicon-markers).
 
 Animated visual sources that are used in control templates often have a more complex set of `Markers` that map to control states, while animated visuals for more general use often have a more simple set of `Markers` that map to pointer events.
 
@@ -93,7 +93,7 @@ In order to support XAML processor access to the attached properties, and also t
 ## -examples
 
 > [!Tip]
-> For more info, design guidance, and code examples, see the [Animated icon](/windows/uwp/design/controls-and-patterns/animated-icon) guidance topic.
+> For more info, design guidance, and code examples, see the [Animated icon](/windows/apps/design/controls/animated-icon) guidance topic.
 >
 > If you have the **XAML Controls Gallery** app installed, [open the app to see the controls in action](xamlcontrolsgallery:).
 >
@@ -174,4 +174,4 @@ private void AppBarButton_PointerExited(object sender, PointerRoutedEventArgs e)
 
 ## -see-also
 
-[Animated icon overview](/windows/uwp/design/controls-and-patterns/animated-icon), [AnimatedVisualPlayer](animatedvisualplayer.md), [VisualStateManager](../microsoft.ui.xaml/visualstatemanager.md), [Lottie-Windows](/windows/communitytoolkit/animations/lottie), [Interactive Segments on an Animation Timeline](/windows/communitytoolkit/animations/lottie-scenarios/segments) [IAnimatedVisual2](ianimatedvisual2.md)
+[Animated icon overview](/windows/apps/design/controls/animated-icon), [AnimatedVisualPlayer](animatedvisualplayer.md), [VisualStateManager](../microsoft.ui.xaml/visualstatemanager.md), [Lottie-Windows](/windows/communitytoolkit/animations/lottie), [Interactive Segments on an Animation Timeline](/windows/communitytoolkit/animations/lottie-scenarios/segments) [IAnimatedVisual2](ianimatedvisual2.md)

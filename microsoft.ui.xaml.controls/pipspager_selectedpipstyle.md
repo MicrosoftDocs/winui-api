@@ -21,6 +21,6 @@ The style to apply to the selected pip in the PipsPager.
 
 ## -see-also
 
-[PipsPager](pipspager.md), [PipsPager.NormalPipStyle](pipspager_normalpipstyle.md), [PipsPager overview](/windows/uwp/design/controls-and-patterns/pipspager)
+[PipsPager](pipspager.md), [PipsPager.NormalPipStyle](pipspager_normalpipstyle.md), [PipsPager overview](/windows/apps/design/controls/pipspager)
 
 ## -examples

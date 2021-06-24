@@ -20,10 +20,10 @@ The data template that is used to display the content of the `BreadcrumbBarItem`
 
 ## -remarks
 
-For more info, design guidance, and code examples, see [Breadcrumb bar overview](/windows/uwp/design/controls-and-patterns/breadcrumbbar).
+For more info, design guidance, and code examples, see [Breadcrumb bar overview](/windows/apps/design/controls/breadcrumbbar).
 
 ## -see-also
 
-[BreadcrumbBar](breadcrumbbar.md), [BreadcrumbBarItem](breadcrumbbaritem.md), [BreadcrumbBar.ItemsSource](breadcrumbbar_itemssource.md), [Breadcrumb bar overview](/windows/uwp/design/controls-and-patterns/breadcrumbbar)
+[BreadcrumbBar](breadcrumbbar.md), [BreadcrumbBarItem](breadcrumbbaritem.md), [BreadcrumbBar.ItemsSource](breadcrumbbar_itemssource.md), [Breadcrumb bar overview](/windows/apps/design/controls/breadcrumbbar)
 
 ## -examples

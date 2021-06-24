@@ -29,6 +29,6 @@ You will typically not need to use `GetState` and [SetState](animatedicon_setsta
 
 ## -see-also
 
-[Animated icon overview](/windows/uwp/design/controls-and-patterns/animated-icon), [AnimatedIcon](animatedicon.md), [AnimatedIcon.State](animatedicon_state.md)
+[Animated icon overview](/windows/apps/design/controls/animated-icon), [AnimatedIcon](animatedicon.md), [AnimatedIcon.State](animatedicon_state.md)
 
 ## -examples

@@ -21,6 +21,6 @@ The identifier for the [NormalPipStyle](pipspager_normalpipstyle.md) dependency 
 
 ## -see-also
 
-[PipsPager](pipspager.md), [PipsPager overview](/windows/uwp/design/controls-and-patterns/pipspager)
+[PipsPager](pipspager.md), [PipsPager overview](/windows/apps/design/controls/pipspager)
 
 ## -examples

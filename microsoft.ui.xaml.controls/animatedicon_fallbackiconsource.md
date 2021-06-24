@@ -23,7 +23,7 @@ The fallback icon can be any icon type that inherits from [IconSource](iconsourc
 
 ## -see-also
 
-[Animated icon overview](/windows/uwp/design/controls-and-patterns/animated-icon), [AnimatedIcon](animatedicon.md)
+[Animated icon overview](/windows/apps/design/controls/animated-icon), [AnimatedIcon](animatedicon.md)
 
 ## -examples
 

@@ -17,7 +17,7 @@ The `BreadcrumbBar` control provides the direct path of pages or folders to the 
 ## -remarks
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Breadcrumb bar overview](/windows/uwp/design/controls-and-patterns/breadcrumbbar).
+> For more info, design guidance, and code examples, see [Breadcrumb bar overview](/windows/apps/design/controls/breadcrumbbar).
 
 A [BreadcrumbBar](/windows/winui/api/microsoft.ui.xaml.controls.breadcrumbbar) provides the direct path of pages or folders to the current location. It is often used for situations where the user's navigation trail (in a file system or menu system) needs to be persistently visible and the user may need to go back to a previous location.
 
@@ -71,7 +71,7 @@ This table shows the resources used by the BreadcrumbBar control.
 
 ## -see-also
 
-[Breadcrumb bar overview](/windows/uwp/design/controls-and-patterns/breadcrumbbar)
+[Breadcrumb bar overview](/windows/apps/design/controls/breadcrumbbar)
 
 ## -examples
 

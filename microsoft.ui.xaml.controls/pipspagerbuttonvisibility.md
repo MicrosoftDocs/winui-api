@@ -31,7 +31,7 @@ The button is not visible and does not take up layout space.
 
 ## -see-also
 
-[PipsPager](pipspager.md), [PipsPager.PreviousButtonVisibility](pipspager_previousbuttonvisibility.md), [PipsPager.NextButtonVisbility](pipspager_nextbuttonvisibility.md), [PipsPager overview](/windows/uwp/design/controls-and-patterns/pipspager)
+[PipsPager](pipspager.md), [PipsPager.PreviousButtonVisibility](pipspager_previousbuttonvisibility.md), [PipsPager.NextButtonVisbility](pipspager_nextbuttonvisibility.md), [PipsPager overview](/windows/apps/design/controls/pipspager)
 
 ## -examples
 

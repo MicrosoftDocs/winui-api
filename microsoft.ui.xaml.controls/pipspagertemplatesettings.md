@@ -17,7 +17,7 @@ Provides calculated values that can be referenced as **TemplatedParent** sources
 
 ## -see-also
 
-[PipsPager](pipspager.md), [PipsPager.TemplateSettings](pipspager_templatesettings.md), [PipsPager overview](/windows/uwp/design/controls-and-patterns/pipspager)
+[PipsPager](pipspager.md), [PipsPager.TemplateSettings](pipspager_templatesettings.md), [PipsPager overview](/windows/apps/design/controls/pipspager)
 
 ## -examples
 

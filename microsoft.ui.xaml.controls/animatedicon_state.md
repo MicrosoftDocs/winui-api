@@ -26,7 +26,7 @@ For more info, see Remarks on the [AnimatedIcon](animatedicon.md#remarks) class 
 
 ## -see-also
 
-[Animated icon overview](/windows/uwp/design/controls-and-patterns/animated-icon), [AnimatedIcon](animatedicon.md)
+[Animated icon overview](/windows/apps/design/controls/animated-icon), [AnimatedIcon](animatedicon.md)
 
 ## -examples
 

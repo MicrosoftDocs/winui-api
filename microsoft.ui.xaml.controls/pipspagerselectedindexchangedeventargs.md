@@ -17,6 +17,6 @@ Provides data for the [PipsPager.SelectedIndexChanged](pipspager_selectedindexch
 
 ## -see-also
 
-[PipsPager](pipspager.md), [PipsPager.SelectedIndexChanged](pipspager_selectedindexchanged.md), [PipsPager overview](/windows/uwp/design/controls-and-patterns/pipspager)
+[PipsPager](pipspager.md), [PipsPager.SelectedIndexChanged](pipspager_selectedindexchanged.md), [PipsPager overview](/windows/apps/design/controls/pipspager)
 
 ## -examples

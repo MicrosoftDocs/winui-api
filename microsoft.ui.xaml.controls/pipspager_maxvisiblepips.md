@@ -25,6 +25,6 @@ MaxVisiblePips should be set to a positive number. If set to 0, no pages will be
 
 ## -see-also
 
-[PipsPager](pipspager.md), [PipsPager.NumberOfPips](pipspager_numberofpages.md), [PipsPager overview](/windows/uwp/design/controls-and-patterns/pipspager)
+[PipsPager](pipspager.md), [PipsPager.NumberOfPips](pipspager_numberofpages.md), [PipsPager overview](/windows/apps/design/controls/pipspager)
 
 ## -examples

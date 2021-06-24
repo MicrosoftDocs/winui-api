@@ -21,6 +21,6 @@ The style to apply to the Previous button.
 
 ## -see-also
 
-[PipsPager](pipspager.md), [PipsPager.NextButtonStyle](pipspager_nextbuttonstyle.md), [PipsPager overview](/windows/uwp/design/controls-and-patterns/pipspager)
+[PipsPager](pipspager.md), [PipsPager.NextButtonStyle](pipspager_nextbuttonstyle.md), [PipsPager overview](/windows/apps/design/controls/pipspager)
 
 ## -examples

@@ -21,6 +21,6 @@ The orientation of the pips and navigation buttons in the PipsPager. The default
 
 ## -see-also
 
-[PipsPager](pipspager.md), [Orientation](orientation.md), [PipsPager overview](/windows/uwp/design/controls-and-patterns/pipspager)
+[PipsPager](pipspager.md), [Orientation](orientation.md), [PipsPager overview](/windows/apps/design/controls/pipspager)
 
 ## -examples

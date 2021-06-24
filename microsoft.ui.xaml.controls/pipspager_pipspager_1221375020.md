@@ -17,6 +17,6 @@ Initializes a new instance of the [PipsPager](pipspager.md) class.
 
 ## -see-also
 
-[PipsPager overview](/windows/uwp/design/controls-and-patterns/pipspager)
+[PipsPager overview](/windows/apps/design/controls/pipspager)
 
 ## -examples

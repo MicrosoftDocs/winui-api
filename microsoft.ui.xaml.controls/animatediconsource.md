@@ -23,7 +23,7 @@ You don't set the state directly on an `AnimatedIconSource`. Instead, set the [A
 ## -examples
 
 > [!Tip]
-> For more info, design guidance, and code examples, see the [Animated icon](/windows/uwp/design/controls-and-patterns/animated-icon) guidance topic.
+> For more info, design guidance, and code examples, see the [Animated icon](/windows/apps/design/controls/animated-icon) guidance topic.
 >
 > If you have the **XAML Controls Gallery** app installed, [open the app to see the controls in action](xamlcontrolsgallery:).
 >
@@ -33,4 +33,4 @@ You don't set the state directly on an `AnimatedIconSource`. Instead, set the [A
 
 ## -see-also
 
-[Animated icon overview](/windows/uwp/design/controls-and-patterns/animated-icon), [AnimatedVisualPlayer](animatedvisualplayer.md), [VisualStateManager](../microsoft.ui.xaml/visualstatemanager.md), [Lottie-Windows](/windows/communitytoolkit/animations/lottie), [IAnimatedVisual2](ianimatedvisual2.md)
+[Animated icon overview](/windows/apps/design/controls/animated-icon), [AnimatedVisualPlayer](animatedvisualplayer.md), [VisualStateManager](../microsoft.ui.xaml/visualstatemanager.md), [Lottie-Windows](/windows/communitytoolkit/animations/lottie), [IAnimatedVisual2](ianimatedvisual2.md)

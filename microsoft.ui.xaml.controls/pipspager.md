@@ -17,7 +17,7 @@ Represents a control that enables navigation within linearly paginated content u
 
 The glyphs highlight the current page, and indicate the availability of both preceding and succeeding pages. The control relies on current context and does not support explicit page numbering or a non-linear organization.
 
-See the [PipsPager overview](/windows/uwp/design/controls-and-patterns/pipspager) for more details.
+See the [PipsPager overview](/windows/apps/design/controls/pipspager) for more details.
 
 ### Control style and template
 
@@ -74,7 +74,7 @@ This table shows the resources used by the PipsPager control.
 
 ## -see-also
 
-[PipsPager overview](/windows/uwp/design/controls-and-patterns/pipspager)
+[PipsPager overview](/windows/apps/design/controls/pipspager)
 
 ## -examples
 

@@ -21,6 +21,6 @@ The data returned with this event is the index of the page that was selected.
 
 ## -see-also
 
-[PipsPager](pipspager.md), [PipsPagerSelectedIndexChangedEventArgs](pipspagerselectedindexchangedeventargs.md), [PipsPager overview](/windows/uwp/design/controls-and-patterns/pipspager)
+[PipsPager](pipspager.md), [PipsPagerSelectedIndexChangedEventArgs](pipspagerselectedindexchangedeventargs.md), [PipsPager overview](/windows/apps/design/controls/pipspager)
 
 ## -examples

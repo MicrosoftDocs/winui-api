@@ -21,6 +21,6 @@ The identifier for the [Orientation](pipspager_orientation.md) dependency proper
 
 ## -see-also
 
-[PipsPager](pipspager.md), [PipsPager overview](/windows/uwp/design/controls-and-patterns/pipspager)
+[PipsPager](pipspager.md), [PipsPager overview](/windows/apps/design/controls/pipspager)
 
 ## -examples
