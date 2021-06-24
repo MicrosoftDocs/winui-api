@@ -16,16 +16,25 @@ Gets or sets the font used to display the icon glyph.
 
 ## -property-value
 
-The font used to display the icon glyph.
+The font used to display the icon glyph. The default is the font family defined by the `SymbolThemeFontFamily` theme resource (see Remarks).
 
 
 ## -remarks
 
+If you don't specify a `FontFamily`, or you specify a `FontFamily` that is not available on the system at runtime, the `FontIcon` falls back to the default font family defined by the `SymbolThemeFontFamily` theme resource.
+
+By default, Windows uses the [**Segoe Fluent Icon**](/windows/uwp/design/style/segoe-ui-symbol-font) font family. If your app is run on Windows 10, version 20H2 or earlier, the Segoe Fluent Icon font family is not available and the `SymbolThemeFontFamily` resource falls back to the [**Segoe MDL2 Asset**](/windows/uwp/design/style/segoe-ui-symbol-font) font family instead. 
+
+To use glyphs from the default system font, don't set the `FontFamily` property, let it use its default value instead.
 
 ## -see-also
 
 
 ## -examples
+
+```xaml
+<FontIcon FontFamily="Segoe UI Emoji" Glyph="&#x25B6;"/>
+```
 
 
 ## -xaml-syntax

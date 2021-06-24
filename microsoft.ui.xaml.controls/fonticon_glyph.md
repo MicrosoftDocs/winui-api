@@ -28,23 +28,23 @@ The hexadecimal character code for the icon glyph.
 
 ## -examples
 
+```xaml
+<FontIcon FontFamily="Segoe UI Emoji" Glyph="&#x25B6;"/>
+```
+
 ```csharp
-var newAppBarButton = new AppBarButton();
 var fontIcon = new FontIcon();
-fontIcon.FontFamily = new FontFamily("Segoe MDL2 Assets");
-fontIcon.Glyph = "\xE790";
-newAppBarButton.Icon = fontIcon;
+fontIcon.FontFamily = new FontFamily("Segoe UI Emoji");
+fontIcon.Glyph = "\x25B6";
 ```
 
 ```cppwinrt
 using namespace winrt::Windows::UI::Xaml;
 ...
 
-auto newAppBarButton = Controls::AppBarButton{};
 auto fontIcon = Controls::FontIcon{};
-fontIcon.FontFamily(Media::FontFamily{ L"Segoe MDL2 Assets" });
-fontIcon.Glyph(L"\xE790");
-newAppBarButton.Icon(fontIcon);
+fontIcon.FontFamily(Media::FontFamily{ L"Segoe UI Emoji" });
+fontIcon.Glyph(L"\x25B6");
 ```
 
 ## -see-also

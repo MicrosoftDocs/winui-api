@@ -11,7 +11,7 @@ public class SymbolIcon : Windows.UI.Xaml.Controls.IconElement, Windows.UI.Xaml.
 
 ## -description
 
-Represents an icon that uses a glyph from the Segoe MDL2 Assets font as its content.
+Represents an icon that uses a glyph from the `SymbolThemeFontFamily` resource as its content.
 
 ## -xaml-syntax
 
@@ -21,13 +21,16 @@ Represents an icon that uses a glyph from the Segoe MDL2 Assets font as its cont
 
 ## -remarks
 
-The most common way to specify the icon for an app bar button is to use one of the standard glyphs provided by the Segoe MDL2 Assets font, as specified in the [Symbol](symbol.md) enumeration. You can use a SymbolIcon by setting the [Icon](appbarbutton_icon.md) property of an [AppBarButton](appbarbutton.md) directly to a value of the [Symbol](symbol.md) enumeration.
+The most common way to specify the icon for an app bar button is to use one of the standard glyphs provided by the `SymbolThemeFontFamily` theme resource, as specified in the [Symbol](symbol.md) enumeration. You can use a `SymbolIcon` by setting the [Icon](appbarbutton_icon.md) property of an [AppBarButton](appbarbutton.md) directly to a value of the [Symbol](symbol.md) enumeration.
 
-> [!NOTE]
-> You can set the **Foreground** property on the [AppBarButton](appbarbutton.md) or on the SymbolIcon. If you set the [Foreground](control_foreground.md) on the [AppBarButton](appbarbutton.md), it's applied only to the default visual state. It's not applied to the other visual states defined in the [AppBarButton](appbarbutton.md) template, like `MouseOver`. If you set the [Foreground](iconelement_foreground.md) on the SymbolIcon, the color is applied to all visual states.
+The `SymbolIcon` uses the font family defined by the `SymbolThemeFontFamily` theme resource. By default, Windows uses the [**Segoe Fluent Icon**](/windows/uwp/design/style/segoe-ui-symbol-font) font family. If your app is run on Windows 10, version 20H2 or earlier, the Segoe Fluent Icon font family is not available and the `SymbolThemeFontFamily` resource falls back to the [**Segoe MDL2 Asset**](/windows/uwp/design/style/segoe-ui-symbol-font) font family instead.
 
-> **Windows 8/8.1**
-> On Windows 8, the standard glyphs are provided by the Segoe UI Symbol font.
+> [!TIP]
+> If the glyph you want is not available in the [Symbol](symbol.md) enumeration, you can use a [FontIcon](fonticon.md) with the default font family anywhere you would use a `SymbolIcon`.
+
+### Foreground
+
+If you use a `SymbolIcon` in an [AppBarButton](appbarbutton.md), you can set the `Foreground` property on the `AppBarButton` or on the `SymbolIcon`. If you set the [Foreground](control_foreground.md) on the `AppBarButton`, it's applied only to the default visual state. It's not applied to the other visual states defined in the `AppBarButton` template, like `MouseOver`. If you set the [Foreground](iconelement_foreground.md) on the `SymbolIcon`, the color is applied to all visual states.
 
 ## -examples
 
@@ -38,7 +41,7 @@ The most common way to specify the icon for an app bar button is to use one of t
 > + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
 > + [Get the source code (GitHub)](https://github.com/Microsoft/Xaml-Controls-Gallery)
 
-This example shows two ways to use a SymbolIcon an [AppBarButton](appbarbutton.md). The second button icon has its [Foreground](iconelement_foreground.md) set to "Green".
+This example shows two ways to use a `SymbolIcon` an [AppBarButton](appbarbutton.md). The second button icon has its [Foreground](iconelement_foreground.md) set to "Green".
 
 ```xaml
 
