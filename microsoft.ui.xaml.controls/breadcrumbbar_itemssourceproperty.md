@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty ItemsSourceProperty { get; }
 
 ## -description
 
+Identifies the [ItemsSource](breadcrumbbar_itemssource.md) dependency property.
+
 ## -property-value
+
+The identifier for the [ItemsSource](breadcrumbbar_itemssource.md) dependency property.
 
 ## -remarks
 

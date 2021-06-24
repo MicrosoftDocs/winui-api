@@ -12,7 +12,11 @@ public int Index { get; }
 
 ## -description
 
+Gets the index of the item that was clicked.
+
 ## -property-value
+
+The index of the item that was clicked.
 
 ## -remarks
 

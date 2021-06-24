@@ -12,6 +12,8 @@ public class BreadcrumbBarItemAutomationPeer : Windows.UI.Xaml.Automation.Peers.
 
 ## -description
 
+Exposes [BreadcrumbBar](../microsoft.ui.xaml.controls/breadcrumbbar.md) types to Microsoft UI Automation.
+
 ## -remarks
 
 ## -see-also

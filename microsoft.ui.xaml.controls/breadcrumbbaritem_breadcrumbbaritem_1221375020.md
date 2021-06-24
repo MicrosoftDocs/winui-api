@@ -12,6 +12,8 @@ public BreadcrumbBarItem ();
 
 ## -description
 
+Initializes a new instance of the [BreadcrumbBarItem](breadcrumbbaritem.md) class.
+
 ## -remarks
 
 ## -see-also

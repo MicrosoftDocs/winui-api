@@ -12,6 +12,8 @@ public class BreadcrumbBarItem : Windows.UI.Xaml.Controls.ContentControl
 
 ## -description
 
+Represents an item in a [BreadcrumbBar](breadcrumbbar.md) control.
+
 ## -remarks
 
 ## -see-also

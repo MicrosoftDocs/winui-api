@@ -12,6 +12,8 @@ public void Invoke ();
 
 ## -description
 
+Sends a request to invoke the item associated with the automation peer.
+
 ## -remarks
 
 ## -see-also

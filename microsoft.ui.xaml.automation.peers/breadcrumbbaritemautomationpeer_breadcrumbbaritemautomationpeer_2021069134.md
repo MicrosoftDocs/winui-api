@@ -12,9 +12,13 @@ public BreadcrumbBarItemAutomationPeer (Microsoft.UI.Xaml.Controls.BreadcrumbBar
 
 ## -description
 
+Initializes a new instance of the [BreadcrumbBarItemAutomationPeer](breadcrumbbaritemautomationpeer.md) class.
+
 ## -parameters
 
 ### -param owner
+
+The [BreadcrumbBarItem](../microsoft.ui.xaml.controls/breadcrumbbaritem.md) instance to create the peer for.
 
 ## -remarks
 

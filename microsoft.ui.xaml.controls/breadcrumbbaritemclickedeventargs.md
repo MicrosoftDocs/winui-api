@@ -12,9 +12,13 @@ public sealed class BreadcrumbBarItemClickedEventArgs
 
 ## -description
 
+Provides data for the [BreadcrumbBar.ItemClicked](breadcrumbbar_itemclicked.md) event.
+
 ## -remarks
 
 ## -see-also
+
+[BreadcrumbBar](breadcrumbbar.md), [BreadcrumbBar.ItemClicked](breadcrumbbar_itemclicked.md)
 
 ## -examples
 

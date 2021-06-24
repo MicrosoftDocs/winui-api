@@ -12,6 +12,8 @@ public BreadcrumbBar ();
 
 ## -description
 
+Initializes a new instance of the [BreadcrumbBar](breadcrumbbar.md) class.
+
 ## -remarks
 
 ## -see-also
