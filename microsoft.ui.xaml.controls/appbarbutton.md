@@ -45,8 +45,9 @@ You use the [Label](appbarbutton_label.md) and [Icon](appbarbutton_icon.md) prop
 + [BitmapIcon](bitmapicon.md) - the icon is based on a bitmap image file with the specified **Uri**.
 + [PathIcon](pathicon.md) - the icon is based on [Path](../microsoft.ui.xaml.shapes/path.md) data.
 + [SymbolIcon](symbolicon.md) - the icon is based on a glyph from the Segoe MDL2 Assets font as listed in the [Symbol](symbol.md) enumeration.
++ [ImageIcon](imageicon.md) - the icon is based on an image file type supported by the [Image](/uwp/api/windows.ui.xaml.controls.image) class.
 
-AppBarButton icons have a default font size of 20px. 
+AppBarButton icons have a default font size of 20px.
 
 ### Control style and template
 
@@ -107,6 +108,13 @@ This example shows AppBarButton controls with each type of icon:
 <AppBarButton Label="PathIcon" Click="AppBarButton_Click">
     <AppBarButton.Icon>
         <PathIcon Data="F1 M 16,12 20,2L 20,16 1,16" HorizontalAlignment="Center"/>
+    </AppBarButton.Icon>
+</AppBarButton>
+
+<!-- App bar button with image icon. -->
+<AppBarButton Label="ImageIcon" Click="AppBarButton_Click">
+    <AppBarButton.Icon>
+        <ImageIcon Source="ms-appx:///Assets/globe.png"/>
     </AppBarButton.Icon>
 </AppBarButton>
 ```
@@ -176,6 +184,17 @@ void MainPage_Loaded(object sender, RoutedEventArgs e)
         button4.Label = "PathIcon";
         button4.Click += AppBarButton_Click;
         bottomAppBar.PrimaryCommands.Add(button4);
+
+        //ImageIcon
+        var source = new BitmapSource();
+        await source.SetSourceAsync(bitmapStream);
+        var ii = new ImageIcon() { Source = source };
+
+        AppBarButton button5 = new AppBarButton();
+        button5.Icon = ii;
+        button5.Label = "ImageIcon";
+        button5.Click += AppBarButton_Click;
+        bottomAppBar.PrimaryCommands.Add(button5);
     }
 }
 

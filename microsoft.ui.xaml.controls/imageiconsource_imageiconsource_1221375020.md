@@ -9,13 +9,12 @@
 public ImageIconSource ();
 -->
 
-
 ## -description
+
+Initializes a new instance of the `ImageIconSource` class.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

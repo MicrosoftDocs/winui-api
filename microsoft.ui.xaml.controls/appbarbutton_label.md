@@ -10,19 +10,23 @@ public string Label { get;  set; }
 # Microsoft.UI.Xaml.Controls.AppBarButton.Label
 
 ## -description
-Gets or sets the text description displayed on the app bar button.
+
+Gets or sets the text displayed on the app bar button.
 
 ## -xaml-syntax
+
 ```xaml
 <AppBarButton Label="stringContent" .../>
 ```
 
-
 ## -xaml-values
+
 <dl><dt>stringContent</dt><dd>stringContentA string that is displayed as the label of the app bar button.</dd>
 </dl>
+
 ## -property-value
-The text description displayed on the app bar button.
+
+The text displayed on the app bar button.
 
 ## -remarks
 

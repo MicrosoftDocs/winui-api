@@ -9,15 +9,18 @@
 public Windows.UI.Xaml.Media.ImageSource Source { get; set; }
 -->
 
-
 ## -description
+
+Gets or sets the URI of the image file to use as the icon.
 
 ## -property-value
 
-## -remarks
+The URI of the image file to use as the icon. The default is `null`.
 
-## -see-also
+## -remarks
 
 ## -examples
 
+## -see-also
 
+[IconElement](iconelement.md), [Image](image.md), [Icons for UWP apps](/windows/uwp/style/icons)
