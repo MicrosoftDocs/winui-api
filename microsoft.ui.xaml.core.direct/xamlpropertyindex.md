@@ -2774,25 +2774,6 @@ The _DesiredCandidateWindowAlignment_ property for the [RichEditBox](/uwp/api/wi
 ### -field RichEditBox_Description:2316
 The _Description_ property for the [RichEditBox](/uwp/api/windows.ui.xaml.controls.richeditbox) type.
 
-### -field TextBox_ErrorTemplate:2324
-The *ErrorTemplate* property for the [TextBox](../microsoft.ui.xaml.controls/textbox.md) type.
-
-### -field TextBox_HasValidationErrors:2325
-The *HasValidationErrors* property for the [TextBox](../microsoft.ui.xaml.controls/textbox.md) type.
-
-### -field TextBox_InputValidationKind:2326
-The *InputValidationKind* property for the [TextBox](../microsoft.ui.xaml.controls/textbox.md) type.
-
-### -field TextBox_InputValidationMode:2327
-The *InputValidationMode* property for the [TextBox](../microsoft.ui.xaml.controls/textbox.md) type.
-
-### -field TextBox_ValidationContext:2329
-The *ValidationContext* property for the [TextBox](../microsoft.ui.xaml.controls/textbox.md) type.
-
-### -field TextBox_ValidationErrors:2330
-The *ValidationErrors* property for the [TextBox](../microsoft.ui.xaml.controls/textbox.md) type.
-
-
 ### -field RichEditBox_ContentLinkProviders:2078
 The _ContentLinkProviders_ property for the [RichEditBox](/uwp/api/windows.ui.xaml.controls.richeditbox) type.
 
@@ -3505,25 +3486,6 @@ The _Header_ property for the [PasswordBox](/uwp/api/windows.ui.xaml.controls.pa
 
 ### -field PasswordBox_Description:2308
 The *Description* property for the [PasswordBox](/uwp/api/windows.ui.xaml.controls.passwordbox) type.
-
-### -field PasswordBox_ErrorTemplate:2309
-The *ErrorTemplate* property for the [PasswordBox](/uwp/api/windows.ui.xaml.controls.passwordbox) type.
-
-### -field PasswordBox_HasValidationErrors:2310
-The *HasValidationErrors* property for the [PasswordBox](/uwp/api/windows.ui.xaml.controls.passwordbox) type.
-
-### -field PasswordBox_InputValidationKind:2311
-The *InputValidationKind* property for the [PasswordBox](/uwp/api/windows.ui.xaml.controls.passwordbox) type.
-
-### -field PasswordBox_InputValidationMode:2312
-The *InputValidationMode* property for the [PasswordBox](/uwp/api/windows.ui.xaml.controls.passwordbox) type.
-
-### -field PasswordBox_ValidationContext:2314
-The *ValidationContext* property for the [PasswordBox](/uwp/api/windows.ui.xaml.controls.passwordbox) type.
-
-### -field PasswordBox_ValidationErrors:2315
-The *ValidationErrors* property for the [PasswordBox](/uwp/api/windows.ui.xaml.controls.passwordbox) type.
-
 
 ### -field PasswordBox_CanPasteClipboardContent:2137
 The _CanPasteClipboardContent_ property for the [PasswordBox](/uwp/api/windows.ui.xaml.controls.passwordbox) type.
@@ -6653,20 +6615,6 @@ The _Header_ property for the [ComboBox](/uwp/api/windows.ui.xaml.controls.combo
 ### -field ComboBox_Description:2339
 The _Description_ property for the [ComboBox](/uwp/api/windows.ui.xaml.controls.combobox) type.
 
-### -field ComboBox_ErrorTemplate:2340
-The *ErrorTemplate* property for the [ComboBox](/uwp/api/windows.ui.xaml.controls.combobox) type.
-### -field ComboBox_HasValidationErrors:2341
-The *HasValidationErrors* property for the [ComboBox](/uwp/api/windows.ui.xaml.controls.combobox) type.
-### -field ComboBox_InputValidationKind:2342
-The *InputValidationKind* property for the [ComboBox](/uwp/api/windows.ui.xaml.controls.combobox) type.
-### -field ComboBox_InputValidationMode:2343
-The *InputValidationMode* property for the [ComboBox](/uwp/api/windows.ui.xaml.controls.combobox) type.
-### -field ComboBox_ValidationContext:2345
-The *ValidationContext* property for the [ComboBox](/uwp/api/windows.ui.xaml.controls.combobox) type.
-### -field ComboBox_ValidationErrors:2346
-The *ValidationErrors* property for the [ComboBox](/uwp/api/windows.ui.xaml.controls.combobox) type.
-
-
 ### -field ColumnDefinition_Width:95
 The _Width_ property for the [ColumnDefinition](/uwp/api/windows.ui.xaml.controls.columndefinition) type.
 
@@ -7694,20 +7642,6 @@ The _Header_ property for the [AutoSuggestBox](/uwp/api/windows.ui.xaml.controls
 
 ### -field AutoSuggestBox_Description:2331
 The _Description_ property for the [AutoSuggestBox](/uwp/api/windows.ui.xaml.controls.autosuggestbox) type.
-
-### -field AutoSuggestBox_ErrorTemplate:2332
-The *ErrorTemplate* property for the [AutoSuggestBox](/uwp/api/windows.ui.xaml.controls.autosuggestbox) type.
-### -field AutoSuggestBox_HasValidationErrors:2333
-The *HasValidationErrors* property for the [AutoSuggestBox](/uwp/api/windows.ui.xaml.controls.autosuggestbox) type.
-### -field AutoSuggestBox_InputValidationKind:2334
-The *InputValidationKind* property for the [AutoSuggestBox](/uwp/api/windows.ui.xaml.controls.autosuggestbox) type.
-### -field AutoSuggestBox_InputValidationMode:2335
-The *InputValidationMode* property for the [AutoSuggestBox](/uwp/api/windows.ui.xaml.controls.autosuggestbox) type.
-### -field AutoSuggestBox_ValidationContext:2337
-The *ValidationContext* property for the [AutoSuggestBox](/uwp/api/windows.ui.xaml.controls.autosuggestbox) type.
-### -field AutoSuggestBox_ValidationErrors:2338
-The *ValidationErrors* property for the [AutoSuggestBox](/uwp/api/windows.ui.xaml.controls.autosuggestbox) type.
-
 
 ### -field AutoSuggestBox_AutoMaximizeSuggestionArea:1019
 The _AutoMaximizeSuggestionArea_ property for the [AutoSuggestBox](/uwp/api/windows.ui.xaml.controls.autosuggestbox) type.

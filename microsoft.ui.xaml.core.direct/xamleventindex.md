@@ -428,22 +428,6 @@ The _DirectManipulationCompleted_ event for the [ScrollViewer](/uwp/api/windows.
 ### -field ScrollViewer_AnchorRequested:291
 The _AnchorRequested_ event for the [ScrollViewer](/uwp/api/windows.ui.xaml.controls.scrollviewer) type.
 
-### -field AutoSuggestBox_HasValidationErrorsChanged:306
-
-The *HasValidationErrorsChanged* event for the [AutoSuggestBox](../microsoft.ui.xaml.controls/autosuggestbox.md) type.
-
-### -field ComboBox_HasValidationErrorsChanged:308
-
-The *HasValidationErrorsChanged* event for the [ComboBox](../microsoft.ui.xaml.controls/combobox.md) type.
-
-### -field PasswordBox_HasValidationErrorsChanged:309
-
-The *HasValidationErrorsChanged* event for the [PasswordBox](../microsoft.ui.xaml.controls/passwordbox.md) type.
-
-### -field TextBox_HasValidationErrorsChanged:311
-
-The *HasValidationErrorsChanged* event for the [TextBox](../microsoft.ui.xaml.controls/textbox.md) type.
-
 ### -field ScrollBar_Scroll:268
 The _Scroll_ event for the [ScrollBar](/uwp/api/windows.ui.xaml.controls.primitives.scrollbar) type.
 
