@@ -42,7 +42,7 @@ The following shows how to override the system title bar and extend the window's
     <Grid>
         <!-- ... -->
 
-        <TextBlock x:Name="CustomTitleBar">Custom title text</TextBlock>
+        <TextBlock x:Name="CustomTitleBar" x:FieldModifier="Public">Custom title text</TextBlock>
 
         <!-- ... -->
     </Grid>
