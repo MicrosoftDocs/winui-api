@@ -21,15 +21,41 @@ The element to support title bar behavior.
 
 ## -remarks
 
+The following two steps are required when specifying a custom window title bar:
+
+1. Set [ExtendsContentIntoTitleBar](window_extendscontentintotitlebar.md) to true to hide the Windows default title bar and allocate space for a custom title bar.
+2. Call this method and pass in your [UIElement](uielement.md).
+
+If you skip step 1, the default title bar is not hidden and your custom title bar is not shown.
+If you skip step 2, a small area next to the min/max/close buttons is allocated for the custom title bar until [SetTitleBar](window_settitlebar_1494775390.md) is called with a valid UIElement.
+
 Only a single element can be specified. If multiple elements are required, they can be specified as child elements of a single container (such as a [Grid](../microsoft.ui.xaml.controls/grid.md) or [StackPanel](../microsoft.ui.xaml.controls/stackpanel.md)). If multiple elements are specified instead of a container, the last element specified is used.
+
+The custom title bar works best when it is the top-most child of the parent container of your app. Deep nesting the [UIElement](uielement.md) within the XAML tree might cause unpredictable layout behaviors.
+
+For example:
+
+```xaml
+<StackPanel>
+  <StackPanel name=”custom titlebarcandiate”>
+  <... rest of XAML ...>
+</StackPanel>
+```
+
+Don’t set the background property on a [UIElement](uielement.md) being used as a custom title bar. The min/max/close buttons will be hidden as the background color gets drawn over them. In order to customize the colors of the custom title bar, you can modify the following resources (shown here with their default values):
+
+```xaml
+<SolidColorBrush x:Key="WindowCaptionBackground">SystemControlBackgroundBaseLowBrush</SolidColorBrush>
+<SolidColorBrush x:Key="WindowCaptionBackgroundDisabled">SystemControlBackgroundBaseLowBrush</SolidColorBrush>
+<StaticResource x:Key="WindowCaptionForeground" ResourceKey="SystemControlForegroundBaseHighBrush" />
+<StaticResource x:Key="WindowCaptionForegroundDisabled" ResourceKey="SystemControlDisabledBaseMediumLowBrush" />
+```
 
 The specified element supports the same system interactions as the standard title bar, including drag, double-click resize, and right-click window context menu. As a result, pointer input (mouse, touch, pen, and so on) is no longer recognized by the element and its child elements.
 
 The rectangular area occupied by the specified element acts as the title bar for pointer purposes, even if the element is blocked by another element, or the element is transparent.
 
 Keyboard input is recognized by the specified element.
-
-This method is typically used when the [ExtendsContentIntoTitleBar](window_extendscontentintotitlebar.md) property of the window is set to true (in order to hide the default system title bar). However, even when the default system title bar is not hidden, this method can still be used to make additional regions in your application behave like the title bar.
 
 Title bars should have foreground and background colors based on whether the window is currently active (in the foreground) or not. Users can also specify their own accent color to use for title bars (**Settings -> Personalization -> Colors -> Choose your accent color**).
 
