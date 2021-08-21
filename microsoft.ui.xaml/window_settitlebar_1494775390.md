@@ -37,18 +37,41 @@ For example:
 
 ```xaml
 <StackPanel>
-  <StackPanel name=”custom titlebarcandiate”>
+
+  <StackPanel name="customtitlebar">
+
   <... rest of XAML ...>
+
 </StackPanel>
 ```
 
-Don’t set the background property on a [UIElement](uielement.md) being used as a custom title bar. The min/max/close buttons will be hidden as the background color gets drawn over them. In order to customize the colors of the custom title bar, you can modify the following resources (shown here with their default values):
+Don’t set the background property on a [UIElement](uielement.md) being used as a custom title bar. The min/max/close buttons will be hidden as the background color gets drawn over them. 
+
+In order to customize the colors of the custom title bar, you can modify the following corresponding resources (shown here with their default values):
 
 ```xaml
-<SolidColorBrush x:Key="WindowCaptionBackground">SystemControlBackgroundBaseLowBrush</SolidColorBrush>
-<SolidColorBrush x:Key="WindowCaptionBackgroundDisabled">SystemControlBackgroundBaseLowBrush</SolidColorBrush>
+<StaticResource x:Key="WindowCaptionBackground" ResourceKey="SystemControlBackgroundBaseLowBrush" />
+<StaticResource x:Key="WindowCaptionBackgroundDisabled" ResourceKey="SystemControlBackgroundBaseLowBrush" />
 <StaticResource x:Key="WindowCaptionForeground" ResourceKey="SystemControlForegroundBaseHighBrush" />
 <StaticResource x:Key="WindowCaptionForegroundDisabled" ResourceKey="SystemControlDisabledBaseMediumLowBrush" />
+```
+
+The following snippet shows how to override the default values in application.xaml.
+
+```xaml
+<Application.Resources>
+    <ResourceDictionary>
+        <ResourceDictionary.MergedDictionaries>
+            <XamlControlsResources xmlns="using:Microsoft.UI.Xaml.Controls" />
+            <!-- Other merged dictionaries here -->
+        </ResourceDictionary.MergedDictionaries>
+        <!-- Other app resources here -->
+        <SolidColorBrush x:Key="WindowCaptionBackground">Green</SolidColorBrush>
+        <SolidColorBrush x:Key="WindowCaptionBackgroundDisabled">LightGreen</SolidColorBrush>
+        <SolidColorBrush x:Key="WindowCaptionForeground">Red</SolidColorBrush>
+        <SolidColorBrush x:Key="WindowCaptionForegroundDisabled">Pink</SolidColorBrush>
+    </ResourceDictionary>
+</Application.Resources>
 ```
 
 The specified element supports the same system interactions as the standard title bar, including drag, double-click resize, and right-click window context menu. As a result, pointer input (mouse, touch, pen, and so on) is no longer recognized by the element and its child elements.
