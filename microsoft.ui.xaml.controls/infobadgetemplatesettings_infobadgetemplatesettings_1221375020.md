@@ -9,13 +9,12 @@
 public InfoBadgeTemplateSettings ();
 -->
 
-
 ## -description
+
+Initializes a new instance of the [InfoBadgeTemplateSettings](infobadgetemplatesettings.md) class.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

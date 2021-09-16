@@ -9,7 +9,6 @@
 public static Windows.UI.Xaml.DependencyProperty InfoBadgeProperty { get; }
 -->
 
-
 ## -description
 
 Identifies the [InfoBadge](infobadge.md) dependency property in [NavigationViewItem](navigationviewitem_infobadge.md).
@@ -23,5 +22,3 @@ The identifier for the [InfoBadge](infobadge.md) dependency property in [Navigat
 ## -see-also
 
 ## -examples
-
-

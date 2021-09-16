@@ -12,7 +12,7 @@ public class InfoBarTemplateSettings : Windows.UI.Xaml.DependencyObject
 
 ## -description
 
-Provides calculated values that can be referenced as **TemplatedParent** sources when defining templates for a [InfoBar](infobar.md).
+Provides calculated values that can be referenced as **TemplatedParent** sources when defining templates for an [InfoBar](infobar.md).
 
 ## -remarks
 
