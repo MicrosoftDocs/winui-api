@@ -4,9 +4,7 @@
 ---
 
 # Microsoft.UI.Input
-
 ## -description
-
 Provides support for the Windows input system. This includes:
 
 + Touch, pen/stylus, mouse, and keyboard device input.
