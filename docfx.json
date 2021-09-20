@@ -49,7 +49,7 @@
       "feedback_github_repo": "MicrosoftDocs/winui-api",
       "feedback_product_url": "https://github.com/microsoft/microsoft-ui-xaml/issues/new/choose",
       "uhfHeaderId": "MSDocsHeader-WinDevCenter",
-      "titleSuffix": "Windows UWP applications",
+      "titleSuffix": "WinUI",
       "defaultDevLang": "csharp",
       "author": "Karl-Bridge-Microsoft",
       "ms.author": "kbridge",
