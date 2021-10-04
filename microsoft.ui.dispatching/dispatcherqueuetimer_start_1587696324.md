@@ -9,13 +9,12 @@
 public void Start ();
 -->
 
-
 ## -description
+
+Starts the [DispatcherQueue](dispatcherqueue.md) timer.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

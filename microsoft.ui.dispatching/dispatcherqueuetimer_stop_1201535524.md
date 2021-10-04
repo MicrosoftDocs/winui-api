@@ -9,13 +9,12 @@
 public void Stop ();
 -->
 
-
 ## -description
+
+Stops the [DispatcherQueue](dispatcherqueue.md) timer.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

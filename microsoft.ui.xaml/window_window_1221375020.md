@@ -9,13 +9,12 @@
 public Window ();
 -->
 
-
 ## -description
+
+Initializes a new instance of the [Window](window.md) class.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

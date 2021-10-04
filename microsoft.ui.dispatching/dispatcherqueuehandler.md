@@ -9,13 +9,12 @@
 public delegate void DispatcherQueueHandler();
 -->
 
-
 ## -description
+
+A callback that will be executed on the [DispatcherQueue](dispatcherqueue.md) thread.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-
