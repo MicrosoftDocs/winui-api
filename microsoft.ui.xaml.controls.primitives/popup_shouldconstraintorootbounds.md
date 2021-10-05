@@ -16,6 +16,8 @@ Gets or sets a value that indicates whether the popup should be shown within the
 ## -property-value
 
 **true** if the popup should be shown within the bounds of the XAML root; otherwise, **false**. The default is **true**.
+> [!NOTE]
+> WinUI 3 - **false** is not supported.
 
 ## -remarks
 
