@@ -33,7 +33,7 @@ Some of the reasons why you might get a PointerCanceled occurrence are:
 
 If PointerCanceled fires, any pointer captures by that pointer are released. For more info on pointer capture, see [CapturePointer](uielement_capturepointer_1027273898.md).
 
-When handling a PointerCanceled event, anticipate that some of the event data normally available for a pointer event won't be meaningful in the [PointerRoutedEventArgs](../microsoft.ui.xaml.input/pointerroutedeventargs.md) object you get through your handler. For example, the [Microsoft.UI.Input.Experimental.ExpPointerPoint.Position](../microsoft.ui.input.experimental/exppointerpoint_position.md) of the pointer is invalid because the pointer no longer exists.
+When handling a PointerCanceled event, anticipate that some of the event data normally available for a pointer event won't be meaningful in the [PointerRoutedEventArgs](../microsoft.ui.xaml.input/pointerroutedeventargs.md) object you get through your handler. For example, the [Microsoft.UI.Input.PointerPoint.Position](../microsoft.ui.input/pointerpoint_position.md) of the pointer is invalid because the pointer no longer exists.
 
 PointerCanceled is a routed event. For more info on the routed event concept, see [Events and routed events overview](/windows/uwp/xaml-platform/events-and-routed-events-overview).
 

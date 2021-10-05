@@ -15,13 +15,13 @@ Provides event data for the [Holding](../microsoft.ui.xaml/uielement_holding.md)
 
 ## -remarks
 
-A [Holding](../microsoft.ui.input.experimental/expgesturerecognizer_holding.md) event is sent whenever a finger, pen, or similar pointing device is pressed and held on an object.
+A [Holding](../microsoft.ui.input/gesturerecognizer_holding.md) event is sent whenever a finger, pen, or similar pointing device is pressed and held on an object.
 
 Once a short time threshold has elapsed, the event is sent with a [HoldingState](/uwp/api/windows.ui.input.holdingstate) of type [Started](/uwp/api/windows.ui.input.holdingstate).
 
-When the device has been lifted (after a [Holding](../microsoft.ui.input.experimental/expgesturerecognizer_holding.md) event), another [Holding](../microsoft.ui.input.experimental/expgesturerecognizer_holding.md) event is sent with a [HoldingState](/uwp/api/windows.ui.input.holdingstate) of type [Completed](/uwp/api/windows.ui.input.holdingstate).
+When the device has been lifted (after a [Holding](../microsoft.ui.input/gesturerecognizer_holding.md) event), another [Holding](../microsoft.ui.input/gesturerecognizer_holding.md) event is sent with a [HoldingState](/uwp/api/windows.ui.input.holdingstate) of type [Completed](/uwp/api/windows.ui.input.holdingstate).
 
-If the user cancels the hold after it has been started, but before it completes, a [Holding](../microsoft.ui.input.experimental/expgesturerecognizer_holding.md) event is sent with a [HoldingState](/uwp/api/windows.ui.input.holdingstate) of type [Canceled](/uwp/api/windows.ui.input.holdingstate).
+If the user cancels the hold after it has been started, but before it completes, a [Holding](../microsoft.ui.input/gesturerecognizer_holding.md) event is sent with a [HoldingState](/uwp/api/windows.ui.input.holdingstate) of type [Canceled](/uwp/api/windows.ui.input.holdingstate).
 
 ## -examples
 

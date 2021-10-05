@@ -31,7 +31,7 @@ Mouse input is associated with a single pointer assigned when mouse input is fir
 
 [!code-csharp[PointerMoved](../microsoft.ui.input.inking/code/PointerInput_UWP/csharp/MainPage.xaml.cs#SnippetPointerMoved)]
 
-Pointer events from a mouse input device generally have the same [PointerId](../microsoft.ui.input.experimental/exppointerpoint_pointerid.md) in the event details for the lifetime of the app.
+Pointer events from a mouse input device generally have the same [PointerId](../microsoft.ui.input/pointerpoint_pointerid.md) in the event details for the lifetime of the app.
 
 PointerPressed is a routed event. For more info on the routed event concept, see [Events and routed events overview](/windows/uwp/xaml-platform/events-and-routed-events-overview).
 

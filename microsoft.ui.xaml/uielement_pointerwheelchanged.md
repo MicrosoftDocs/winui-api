@@ -21,11 +21,11 @@ Occurs when the delta value of a pointer wheel changes.
 
 ## -remarks
 
-When you handle PointerWheelChanged, you are usually interested in the [MouseWheelDelta](../microsoft.ui.input.experimental/exppointerpointproperties_mousewheeldelta.md) property value:
+When you handle PointerWheelChanged, you are usually interested in the [MouseWheelDelta](../microsoft.ui.input/pointerpointproperties_mousewheeldelta.md) property value:
 
-1. Call [GetCurrentPoint](/uwp/api/windows.ui.xaml.input.pointerroutedeventargs.getcurrentpoint(windows.ui.xaml.uielement)) from the [PointerRoutedEventArgs](../microsoft.ui.xaml.input/pointerroutedeventargs.md) available to your handler. This returns a [ExpPointerPoint](../microsoft.ui.input.experimental/exppointerpoint.md).
-1. Get the [Properties](../microsoft.ui.input.experimental/exppointerpoint_properties.md) of the [ExpPointerPoint](../microsoft.ui.input.experimental/exppointerpoint.md). It contains a [ExpPointerPointProperties](../microsoft.ui.input.experimental/exppointerpointproperties.md) object.
-1. Get the [MouseWheelDelta](../microsoft.ui.input.experimental/exppointerpointproperties_mousewheeldelta.md) property value from the [ExpPointerPointProperties](../microsoft.ui.input.experimental/exppointerpointproperties.md) object. A positive value indicates that the wheel was rotated forward (away from the user) or tilted to the right; a negative value indicates that the wheel was rotated backward (toward the user) or tilted to the left.
+1. Call [GetCurrentPoint](/uwp/api/windows.ui.xaml.input.pointerroutedeventargs.getcurrentpoint(windows.ui.xaml.uielement)) from the [PointerRoutedEventArgs](../microsoft.ui.xaml.input/pointerroutedeventargs.md) available to your handler. This returns a [PointerPoint](../microsoft.ui.input/pointerpoint.md).
+1. Get the [Properties](../microsoft.ui.input/pointerpoint_properties.md) of the [PointerPoint](../microsoft.ui.input/pointerpoint.md). It contains a [PointerPointProperties](../microsoft.ui.input/pointerpointproperties.md) object.
+1. Get the [MouseWheelDelta](../microsoft.ui.input/pointerpointproperties_mousewheeldelta.md) property value from the [PointerPointProperties](../microsoft.ui.input/pointerpointproperties.md) object. A positive value indicates that the wheel was rotated forward (away from the user) or tilted to the right; a negative value indicates that the wheel was rotated backward (toward the user) or tilted to the left.
 
 If the element where pointer events occur has a non-default [ManipulationMode](uielement_manipulationmode.md) value, then the action might also result in various manipulation events like [ManipulationStarted](uielement_manipulationstarted.md). In addition, mouse wheel input can be handled as a built-in manipulation behavior by controls, even with no [ManipulationMode](uielement_manipulationmode.md) value set. For example, certain controls like [GridView](../microsoft.ui.xaml.controls/gridview.md) and [ListView](../microsoft.ui.xaml.controls/listview.md) can process mouse wheel input to initiate a scroll/pan action.
 

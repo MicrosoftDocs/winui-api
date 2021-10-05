@@ -17,13 +17,10 @@ Provides basic properties for the input pointer associated with a single mouse, 
 
 See [PointerPointProperties](pointerpointproperties.md) for extended properties accessible through `Properties`.
 
-The `PointerPoint` coordinate space is dependent on the context in which it is retrieved. When retrieved from [GetCurrentPoint(System.UInt32)](pointerpoint_getcurrentpoint_131721878.md), the coordinates of the pointer will be relative to the provided `UIElement` in device independent pixels.
+The `PointerPoint` coordinate space is dependent on the context in which it is retrieved. When retrieved from [PointerRoutedEventArgs.GetCurrentPoint](../microsoft.ui.xaml.input/pointerroutedeventargs_getcurrentpoint_293890010.md), the coordinates of the pointer will be relative to the provided `UIElement` in device independent pixels.
 
 > [!NOTE]
 > The  [PointerDevice](/uwp/api/windows.devices.input.pointerdevice) is not directly accessible from the `PointerPoint` object. See the examples for how to retrieve the `PointerDevice` if needed.
-
-> [!NOTE]
-> This class is not agile, which means its functions and properties may only be accessed on the UI thread from where it was retrieved. Access on a different thread will return `RPC_E_WRONG_THREAD` or the equivalent projected error type.
 
 ## -see-also
 
@@ -34,7 +31,7 @@ The `PointerPoint` coordinate space is dependent on the context in which it is r
 In the following example, we query various pointer properties using a PointerPoint object.
 
 ```csharp
-String queryPointer(ExpPointerPoint ptrPt)
+String queryPointer(PointerPoint ptrPt)
 {
     String details = "";
 
@@ -72,10 +69,10 @@ String queryPointer(ExpPointerPoint ptrPt)
 }
 ```
 
-In this example we demonstrate how to find the system [PointerDevice](/uwp/api/windows.devices.input.pointerdevice) associated with an `ExpPointerPoint` object:
+In this example we demonstrate how to find the system [PointerDevice](/uwp/api/windows.devices.input.pointerdevice) associated with an `PointerPoint` object:
 
 ```csharp
-Windows.Devices.Input.PointerDevice getPointerDeviceFromPointPoint(ExpPointerPoint ptrPt)
+Windows.Devices.Input.PointerDevice getPointerDeviceFromPointPoint(PointerPoint ptrPt)
 {
     var pointerDeviceList = Windows.Devices.Input.PointerDevice.GetPointerDevices(); 
 

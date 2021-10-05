@@ -19,7 +19,7 @@ For more details on this API, please see the the UWP WinRT [ProcessMoveEvents](/
 
 ### -param value
 
-The pointer location history based on the [Microsoft.UI.Input.Experimental.ExpPointerPoint.PointerId](exppointerpoint_pointerid.md). If no history is available then the value is the current location of the input pointer.
+The pointer location history based on the [Microsoft.UI.Input.PointerPoint.PointerId](pointerpoint_pointerid.md). If no history is available then the value is the current location of the input pointer.
 
 ## -remarks
 
