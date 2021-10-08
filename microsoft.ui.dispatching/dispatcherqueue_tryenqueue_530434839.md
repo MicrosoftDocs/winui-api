@@ -11,13 +11,13 @@ public bool TryEnqueue (Microsoft.UI.Dispatching.DispatcherQueuePriority priorit
 
 ## -description
 
-Adds a task to the [DispatcherQueue](dispatcherqueue.md) which will be executed on the thread associated with the DispatcherQueue.
+Adds a task to the [DispatcherQueue](dispatcherqueue.md) that will be executed on the thread associated with the DispatcherQueue with the specified priority.
 
 ## -parameters
 
 ### -param priority
 
-The priority of the task, such as Low, Normal, or High.
+The priority of the task (such as Low, Normal, or High).
 
 ### -param callback
 
@@ -25,7 +25,7 @@ A delegate to the task to execute.
 
 ## -returns
 
-**True** indicates that the task was added to the queue. Otherwise, **false**.
+**True** if the task was added to the queue. Otherwise, **false**.
 
 ## -remarks
 
@@ -37,19 +37,18 @@ Once [ShutdownQueueAsync()](dispatcherqueuecontroller_shutdownqueueasync_5425476
 
 ## -examples
 
+The following example shows how to create a new thread and initialize a [DispatcherQueueController](dispatcherqueuecontroller.md) and run a DispatcherQueue event loop on it.
+
 ```csharp
 // Create a new thread and initialize a DispatcherQueueController
 // and run a DispatcherQueue event loop on it.
-
 _queueController =
     DispatcherQueueController.CreateOnDedicatedThread();
 _queue = _queueController.DispatcherQueue;
 
 // This is the first TryEnqueue() after creating the DispatcherQueue. The
-// first TryEnqueue task is guaranteed //to be invoked first on the new
+// first TryEnqueue task is guaranteed to be invoked first on the new
 // thread, regardless of what priority it was enqueued at.
-
-
 bool isQueued = _queue.TryEnqueue(Windows.System.DispatcherQueuePriority.High,
         () =>
         {

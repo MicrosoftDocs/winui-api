@@ -18,4 +18,3 @@ Initializes a new instance of the [MUXContractPropertyAttribute](muxcontractprop
 ## -see-also
 
 ## -examples
-

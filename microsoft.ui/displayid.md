@@ -9,17 +9,18 @@
 public struct DisplayId
 -->
 
-
 ## -description
+
+Defines an identifier for a display monitor.
 
 ## -struct-fields
 
 ### -field Value
+
+The identifier for a display monitor.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

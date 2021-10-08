@@ -9,15 +9,16 @@
 public bool IsRunning { get; }
 -->
 
-
 ## -description
 
+Indicates whether the timer is currently running.
+
 ## -property-value
+
+**True** if the timer is running. Otherwise, **false**.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-
