@@ -10,9 +10,11 @@ public float TopInset { get;  set; }
 # Microsoft.UI.Composition.InsetClip.TopInset
 
 ## -description
-The offset from the top of the visual. The portion of the visual above the TopInset will be clipped. Animatable.
+
+Gets or sets the offset from the top of the visual. The portion of the visual above the TopInset will be clipped. Animatable.
 
 ## -property-value
+
 The offset from the top of the visual.
 
 ## -remarks

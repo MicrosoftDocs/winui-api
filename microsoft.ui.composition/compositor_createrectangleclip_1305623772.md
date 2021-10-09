@@ -9,28 +9,47 @@
 public Microsoft.UI.Composition.RectangleClip CreateRectangleClip (float left, float top, float right, float bottom, System.Numerics.Vector2 topLeftRadius, System.Numerics.Vector2 topRightRadius, System.Numerics.Vector2 bottomRightRadius, System.Numerics.Vector2 bottomLeftRadius);
 -->
 
-
 ## -description
+
+Creates an instance of `RectangleClip` with the specified edge and corner radius values.
 
 ## -parameters
 
 ### -param left
 
+The offset of the left edge from the left of the visual, in pixels.
+
 ### -param top
+
+The offset of the top edge from the top of the visual, in pixels.
 
 ### -param right
 
+The offset of the right edge from the right of the visual, in pixels.
+
 ### -param bottom
+
+The offset of the left bottom from the bottom of the visual, in pixels.
 
 ### -param topLeftRadius
 
+The amount by which the top left corner of the rectangle is rounded, in pixels.
+
 ### -param topRightRadius
+
+The amount by which the top right corner of the rectangle is rounded, in pixels.
 
 ### -param bottomRightRadius
 
+The amount by which the bottom right corner of the rectangle is rounded, in pixels.
+
 ### -param bottomLeftRadius
 
+The amount by which the bottom left corner of the rectangle is rounded, in pixels.
+
 ## -returns
+
+The created instance of `RectangleClip`.
 
 ## -remarks
 
