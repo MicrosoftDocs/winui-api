@@ -10,6 +10,7 @@ public Windows.Foundation.Rect ContactRect { get; }
 -->
 
 ## -description
+
 ## -property-value
 
 ## -remarks

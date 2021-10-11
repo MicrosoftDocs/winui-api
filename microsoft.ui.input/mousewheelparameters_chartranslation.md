@@ -10,6 +10,7 @@ public Windows.Foundation.Point CharTranslation { get; set; }
 -->
 
 ## -description
+
 ## -property-value
 
 ## -remarks

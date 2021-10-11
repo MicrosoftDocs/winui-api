@@ -19,4 +19,6 @@ For more details on this API, please see the the UWP WinRT [ManipulationUpdated]
 
 ## -see-also
 
+[ManipulationUpdatedEventArgs](manipulationupdatedeventargs.md)
+
 ## -examples

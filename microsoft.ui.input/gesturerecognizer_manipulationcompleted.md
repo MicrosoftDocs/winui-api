@@ -19,4 +19,6 @@ For more details on this API, please see the the UWP WinRT [ManipulationComplete
 
 ## -see-also
 
+[ManipulationCompletedEventArgs](manipulationcompletedeventargs.md)
+
 ## -examples

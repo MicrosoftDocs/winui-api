@@ -10,6 +10,7 @@ public bool TouchConfidence { get; }
 -->
 
 ## -description
+
 ## -property-value
 
 ## -remarks

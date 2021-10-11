@@ -10,6 +10,7 @@ public bool IsInverted { get; }
 -->
 
 ## -description
+
 ## -property-value
 
 ## -remarks
