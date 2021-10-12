@@ -9,15 +9,16 @@
 public string PropertyName { get; set; }
 -->
 
-
 ## -description
 
+Gets or sets the name of the property or entity.
+
 ## -property-value
+
+The name of the property or entity.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

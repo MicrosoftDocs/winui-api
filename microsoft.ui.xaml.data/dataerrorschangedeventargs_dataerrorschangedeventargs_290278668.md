@@ -9,17 +9,18 @@
 public DataErrorsChangedEventArgs (string name);
 -->
 
-
 ## -description
+
+Initializes a new instance of the [DataErrorsChangedEventArgs](dataerrorschangedeventargs.md) class.
 
 ## -parameters
 
 ### -param name
+
+The name of the property or entity.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

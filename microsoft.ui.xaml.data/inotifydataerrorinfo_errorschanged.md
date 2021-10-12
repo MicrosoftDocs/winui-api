@@ -9,13 +9,14 @@
 event System.EventHandler<Microsoft.UI.Xaml.Data.DataErrorsChangedEventArgs> ErrorsChanged;
 -->
 
-
 ## -description
+
+Occurs when the validation errors for the property or entity change.
 
 ## -remarks
 
 ## -see-also
 
+[GetErrors(System.String)](inotifydataerrorinfo_geterrors_371395264.md)
+
 ## -examples
-
-

@@ -9,13 +9,12 @@
 public sealed class DataErrorsChangedEventArgs
 -->
 
-
 ## -description
+
+Provides event data for the [ErrorsChanged](inotifydataerrorinfo_errorschanged.md) event.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-
