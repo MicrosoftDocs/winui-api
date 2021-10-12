@@ -12,19 +12,31 @@ public static Microsoft.UI.Composition.ExponentialEasingFunction CreateExponenti
 
 ## -description
 
+Creates a new instance of [ExponentialEasingFunction](exponentialeasingfunction.md).
+
 ## -parameters
 
 ### -param owner
 
+The compositor used to create the easing function.
+
 ### -param mode
+
+A value that specifies how the animation interpolates.
 
 ### -param exponent
 
+The exponent used to determine the interpolation of the animation.
+
 ## -returns
+
+The created `ExponentialEasingFunction` object.
 
 ## -remarks
 
 ## -see-also
+
+[ExponentialEasingFunction](exponentialeasingfunction.md)
 
 ## -examples
 

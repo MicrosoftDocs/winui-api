@@ -12,22 +12,34 @@ public static Microsoft.UI.Composition.BounceEasingFunction CreateBounceEasingFu
 
 ## -description
 
+Creates a new instance of [BounceEasingFunction](bounceeasingfunction.md).
+
 ## -parameters
 
 ### -param owner
 
+The compositor used to create the easing function.
+
 ### -param mode
+
+A value that specifies how the animation interpolates.
 
 ### -param bounces
 
+The number of bounces.
+
 ### -param bounciness
 
+A value that specifies how bouncy the bounce animation is.
+
 ## -returns
+
+The created `BounceEasingFunction` object.
 
 ## -remarks
 
 ## -see-also
 
+[BounceEasingFunction](bounceeasingfunction.md)
+
 ## -examples
-
-

@@ -12,6 +12,8 @@ public CompositionCapabilities ();
 
 ## -description
 
+Initializes a new instance of the `CompositionCapabilities` class.
+
 ## -remarks
 
 ## -see-also

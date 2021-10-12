@@ -10,13 +10,21 @@ public class CompositionDrawingSurface : Windows.UI.Composition.CompositionObjec
 # Microsoft.UI.Composition.CompositionDrawingSurface
 
 ## -description
+
 A drawing surface for interoperation with Direct2D or Direct3D.
 
 ## -remarks
+
+`CompositionDrawingSurface` is a fixed sized surface that can be rendered with:
+
+- an image using [LoadedImageSurface](/uwp/api/windows.ui.xaml.media.loadedimagesurface).
+- a custom drawing using [Win2D](https://github.com/Microsoft/Win2D) (orD2D).
+- a video using [MediaPlayer](/uwp/api/Windows.Media.Playback.MediaPlayer).
 
 ## -examples
 
 See the code example in [Composition native interoperation with DirectX and Direct2D](/windows/uwp/composition/composition-native-interop).
 
 ## -see-also
+
 [CompositionObject](compositionobject.md), [IClosable](/uwp/api/windows.foundation.iclosable), [ICompositionSurface](icompositionsurface.md)

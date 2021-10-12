@@ -12,7 +12,11 @@ public Microsoft.System.DispatcherQueue DispatcherQueue { get; }
 
 ## -description
 
+Gets the dispatcher queue for this compositor.
+
 ## -property-value
+
+The dispatcher queue for this compositor.
 
 ## -remarks
 

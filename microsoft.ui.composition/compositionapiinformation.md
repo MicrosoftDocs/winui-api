@@ -12,6 +12,8 @@ public static class CompositionApiInformation
 
 ## -description
 
+Represents information about the composition APIs.
+
 ## -remarks
 
 ## -see-also

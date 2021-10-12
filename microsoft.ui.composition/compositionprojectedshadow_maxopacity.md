@@ -12,7 +12,11 @@ public float MaxOpacity { get; set; }
 
 ## -description
 
+Gets or sets the maximum opacity of the shadow.
+
 ## -property-value
+
+The maximum opacity of the shadow.
 
 ## -remarks
 

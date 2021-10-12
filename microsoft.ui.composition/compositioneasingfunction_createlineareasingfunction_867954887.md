@@ -12,15 +12,23 @@ public static Microsoft.UI.Composition.LinearEasingFunction CreateLinearEasingFu
 
 ## -description
 
+Creates a new instance of [LinearEasingFunction](lineareasingfunction.md).
+
 ## -parameters
 
 ### -param owner
 
+The compositor used to create the easing function.
+
 ## -returns
+
+The created `LinearEasingFunction` object.
 
 ## -remarks
 
 ## -see-also
+
+[LinearEasingFunction](lineareasingfunction.md)
 
 ## -examples
 

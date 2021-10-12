@@ -12,17 +12,27 @@ public static Microsoft.UI.Composition.SineEasingFunction CreateSineEasingFuncti
 
 ## -description
 
+Creates a new instance of [SineEasingFunction](sineeasingfunction.md).
+
 ## -parameters
 
 ### -param owner
 
+The compositor used to create the easing function.
+
 ### -param mode
 
+A value that specifies how the animation interpolates.
+
 ## -returns
+
+The created `SineEasingFunction` object.
 
 ## -remarks
 
 ## -see-also
+
+[SineEasingFunction](sineeasingfunction.md)
 
 ## -examples
 

@@ -12,17 +12,27 @@ public static Microsoft.UI.Composition.CircleEasingFunction CreateCircleEasingFu
 
 ## -description
 
+Creates a new instance of [CircleEasingFunction](circleeasingfunction.md).
+
 ## -parameters
 
 ### -param owner
 
+The compositor used to create the easing function.
+
 ### -param mode
 
+A value that specifies how the animation interpolates.
+
 ## -returns
+
+The created `CircleEasingFunction` object.
 
 ## -remarks
 
 ## -see-also
+
+[CircleEasingFunction](circleeasingfunction.md)
 
 ## -examples
 

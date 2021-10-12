@@ -12,6 +12,8 @@ public sealed class CompositionNotificationDeferral
 
 ## -description
 
+Represents a deferral that can be used by an app to respond asynchronously to a composition notification.
+
 ## -remarks
 
 ## -see-also

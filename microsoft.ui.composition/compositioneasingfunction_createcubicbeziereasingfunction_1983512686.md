@@ -12,19 +12,31 @@ public static Microsoft.UI.Composition.CubicBezierEasingFunction CreateCubicBezi
 
 ## -description
 
+Creates a new instance of [CubicBezierEasingFunction](cubicbeziereasingfunction.md).
+
 ## -parameters
 
 ### -param owner
 
+The compositor used to create the easing function.
+
 ### -param controlPoint1
+
+The first control point for the cubic-bezier interpolation function.
 
 ### -param controlPoint2
 
+The second control point for the cubic-bezier interpolation function.
+
 ## -returns
+
+The created `CubicBezierEasingFunction` object.
 
 ## -remarks
 
 ## -see-also
+
+[CubicBezierEasingFunction](cubicbeziereasingfunction.md)
 
 ## -examples
 

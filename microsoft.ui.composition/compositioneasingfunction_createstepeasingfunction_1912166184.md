@@ -12,13 +12,21 @@ public static Microsoft.UI.Composition.StepEasingFunction CreateStepEasingFuncti
 
 ## -description
 
+Creates a new instance of [StepEasingFunction](stepeasingfunction.md) with the specified step count.
+
 ## -parameters
 
 ### -param owner
 
+The compositor used to create the easing function.
+
 ### -param stepCount
 
+The number of steps between the starting value and the end value.
+
 ## -returns
+
+The created `StepEasingFunction` object.
 
 ## -remarks
 

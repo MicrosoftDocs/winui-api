@@ -12,7 +12,11 @@ public static ulong ApiVersion { get; }
 
 ## -description
 
+Gets the version of the composition APIs in use.
+
 ## -property-value
+
+The version of the composition APIs in use.
 
 ## -remarks
 

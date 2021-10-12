@@ -12,6 +12,8 @@ public void Complete ();
 
 ## -description
 
+Notifies the system that the app has finished processing the composition notification.
+
 ## -remarks
 
 ## -see-also

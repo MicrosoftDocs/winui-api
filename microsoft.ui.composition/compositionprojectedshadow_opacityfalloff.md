@@ -12,7 +12,11 @@ public float OpacityFalloff { get; set; }
 
 ## -description
 
+Gets or sets the amount of opacity falloff.
+
 ## -property-value
+
+The amount of opacity falloff.
 
 ## -remarks
 

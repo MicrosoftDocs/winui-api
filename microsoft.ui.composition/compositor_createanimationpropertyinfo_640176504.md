@@ -12,7 +12,11 @@ public Microsoft.UI.Composition.AnimationPropertyInfo CreateAnimationPropertyInf
 
 ## -description
 
+Creates an instance of [AnimationPropertyInfo](animationpropertyinfo.md).
+
 ## -returns
+
+The created `AnimationPropertyInfo` object.
 
 ## -remarks
 
@@ -20,4 +24,4 @@ public Microsoft.UI.Composition.AnimationPropertyInfo CreateAnimationPropertyInf
 
 ## -examples
 
-
+[AnimationPropertyInfo](animationpropertyinfo.md)

@@ -12,9 +12,13 @@ public CompositionPath (Windows.Graphics.IGeometrySource2D source);
 
 ## -description
 
+Initializes a new instance of the `CompositionPath` class.
+
 ## -parameters
 
 ### -param source
+
+The source of the path data.
 
 ## -remarks
 
