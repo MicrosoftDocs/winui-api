@@ -11,7 +11,11 @@ public bool IsInverted { get; }
 
 ## -description
 
+Gets a value that indicates whether the digitizer pen is inverted.
+
 ## -property-value
+
+True if inverted. Otherwise, false.
 
 ## -remarks
 
