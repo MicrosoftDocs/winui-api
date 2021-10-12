@@ -63,4 +63,6 @@ XBUTTON2 released.
 
 ## -see-also
 
+[PointerPointProperties.PointerUpdateKind](pointerpointproperties_pointerupdatekind.md)
+
 ## -examples

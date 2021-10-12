@@ -8,7 +8,9 @@
 <!--
 public Microsoft.UI.Input.PointerPoint[] GetPredictedPoints (Microsoft.UI.Input.PointerPoint point);
 -->
+
 ## -description
+
 Retrieves a collection of predicted points for the specified [PointerPoint](pointerpoint.md).
 
 ## -parameters

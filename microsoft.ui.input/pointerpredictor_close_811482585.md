@@ -8,7 +8,9 @@
 <!--
 // This member is not implemented in C#
 -->
+
 ## -description
+
 Closes the [PointerPredictor](pointerpredictor.md) and releases system resources.
 
 ## -remarks

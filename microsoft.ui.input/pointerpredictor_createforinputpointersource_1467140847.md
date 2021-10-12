@@ -8,7 +8,9 @@
 <!--
 public static Microsoft.UI.Input.PointerPredictor CreateForInputPointerSource (Microsoft.UI.Input.InputPointerSource inputPointerSource);
 -->
+
 ## -description
+
 Creates an instance of a [PointerPredictor](pointerpredictor.md) for the specified [InputPointerSource](inputpointersource.md).
 
 ## -parameters

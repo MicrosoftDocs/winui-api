@@ -8,7 +8,9 @@
 <!--
 public System.TimeSpan PredictionTime { get; set; }
 -->
+
 ## -description
+
 Gets or sets how far into the future from the current time the [PointerPredictor](pointerpredictor.md) object should attempt to predict pointer input.
 
 ## -property-value

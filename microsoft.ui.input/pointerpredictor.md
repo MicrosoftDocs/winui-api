@@ -8,7 +8,9 @@
 <!--
 public sealed class PointerPredictor : System.IDisposable
 -->
+
 ## -description
+
 Provides support for generating a collection of [PointerPoint](pointerpoint.md) objects that predict the most likely path of the current input [Pointer](../microsoft.ui.xaml.input/pointer.md).
 
 ## -remarks
