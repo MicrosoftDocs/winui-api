@@ -9,15 +9,16 @@
 public double IconWidth { get; }
 -->
 
-
 ## -description
 
+Gets the width of the [NavigationViewItemPresenter](navigationviewitempresenter.md) icon.
+
 ## -property-value
+
+The width of the [NavigationViewItemPresenter](navigationviewitempresenter.md) icon.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

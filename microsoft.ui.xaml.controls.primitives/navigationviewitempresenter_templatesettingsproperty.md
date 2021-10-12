@@ -9,10 +9,13 @@
 public static Windows.UI.Xaml.DependencyProperty TemplateSettingsProperty { get; }
 -->
 
-
 ## -description
 
+Identifies the [TemplateSettings](navigationviewitempresenter_templatesettings.md) dependency property.
+
 ## -property-value
+
+The [TemplateSettings](navigationviewitempresenter_templatesettings.md) dependency property.
 
 ## -remarks
 

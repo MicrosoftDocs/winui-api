@@ -9,15 +9,16 @@
 public static Windows.UI.Xaml.DependencyProperty IconWidthProperty { get; }
 -->
 
-
 ## -description
 
+Identifies the [IconWidth](navigationviewitempresentertemplatesettings_iconwidth.md) dependency property.
+
 ## -property-value
+
+The identifier for the [IconWidth](navigationviewitempresentertemplatesettings_iconwidth.md) dependency property.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

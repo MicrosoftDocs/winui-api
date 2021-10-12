@@ -9,13 +9,12 @@
 public NavigationViewItemPresenterTemplateSettings ();
 -->
 
-
 ## -description
+
+Initializes a new instance of the [NavigationViewItemPresenterTemplateSettings](navigationviewitempresentertemplatesettings.md) class.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

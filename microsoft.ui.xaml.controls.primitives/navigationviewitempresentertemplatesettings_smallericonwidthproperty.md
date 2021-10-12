@@ -9,15 +9,16 @@
 public static Windows.UI.Xaml.DependencyProperty SmallerIconWidthProperty { get; }
 -->
 
-
 ## -description
 
+Identifies the [SmallerIconWidth](navigationviewitempresentertemplatesettings_smallericonwidth.md) dependency property.
+
 ## -property-value
+
+The identifier for the [SmallerIconWidth](navigationviewitempresentertemplatesettings_smallericonwidth.md) dependency property.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-
