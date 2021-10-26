@@ -101,7 +101,7 @@ The following shows how to override the system title bar and extend the window's
 ```CS
 private MainWindow m_window;
 
-protected override void OnLaunched(Microsoft.UI.Xaml.XamlLaunchActivatedEventArgs args)
+protected override void OnLaunched(Microsoft.UI.Xaml.LaunchActivatedEventArgs args)
 {
     m_window = new MainWindow();
 
