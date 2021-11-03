@@ -51,49 +51,6 @@ The coordinate space for the pointer events is in the same coordinate space as t
     :::column-end:::
 :::row-end:::
 
-<!--
-<table>
-<tr>
-<th colspan="2">Event order</th>
-</tr>
-<tr>
-<td valign="top">
-Normal Case
-</td>
-<td>
-The pointer events of InputPointerSource follow a guaranteed order under normal circumstances:
-
-<ul>
-<li>PointerEntered</li>
-<li>PointerPressed</li>
-<li>PointerMoved</li>
-<li>PointerReleased</li>
-<li>PointerExited</li>
-</ul>
-
-Where [PointerMoved](inputpointersource_pointermoved.md) will only be raised if the pointer moves or the button states on the mouse change. All events have the same pointer id.
-</td>
-</tr>
-<tr>
-<td valign="top">
-Pointer capture lost
-</td>
-<td>
-[PointerCaptureLost](inputpointersource_pointercapturelost.md) is raised when an in-contact pointer is routed to a different input target by the input system. When PointerCaptureLost is raised, which will only happen after [PointerPressed](inputpointersource_pointerpressed.md) has been received, no additional events will be raised for that pointer. Specifically, [PointerReleased](inputpointersource_pointerreleased.md) and [PointerExited](inputpointersource_pointerexited.md) will not be raised, so you should handle PointerCaptureLost as a valid end state for a given pointer. Here is an example of a valid sequence of events that includes losing pointer capture:
-
-<ul>
-<li>PointerEntered</li>
-<li>PointerPressed</li>
-<li>PointerMoved</li>
-<li>PointerCaptureLost</li>
-</ul>
-
-</td>
-
-</tr>
-</table>
--->
-
 ### Routed events
 
 Pointer routed events are raised when an in-contact pointer is routed to a different input target by the input system. Unlike PointerCaptureLost, the routed events provide the possibility of the in-contact pointer being routed back before the pointer is released.
@@ -134,12 +91,12 @@ It is also possible to receive a brand new in-contact pointer that was routed fr
 
 ## -examples
 
-The following example shows how to configure a [SwapChainPanel](../microsoft.ui.xaml.controls/swapchainpanel.md) to receive low-latency pen and touch input on a background thread:
+The following example shows how to configure a [SwapChainPanel](../microsoft.ui.xaml.controls/swapchainpanel.md) to receive low-latency pen and touch input on a background thread using [CreateCoreIndependentInputSource](../microsoft.ui.xaml.controls/swapchainpanel_createcoreindependentinputsource_467679991.md):
 
 ```csharp
 void SetupBackgroundPenInput(SwapChainPanel swapChainPanel)
 {
-    m_inputPointerSource = swapChainPanel.CreateInputPointerSource(
+    m_inputPointerSource = swapChainPanel.CreateCoreIndependentInputSource(
         InputPointerSourceDeviceKinds.Pen |
         InputPointerSourceDeviceKinds.Touch);
 
@@ -157,7 +114,7 @@ void OnPointerMoved(InputPointerSource source, PointerEventArgs args)
 This example shows how to configure the system hand cursor image to display when the cursor hovers over a SwapChainPanel:
 
 ```csharp
-m_inputPointerSource = swapChainPanel.CreateInputPointerSource(
+m_inputPointerSource = swapChainPanel.CreateCoreIndependentInputSource(
     InputPointerSourceDeviceKinds.Pen |
     InputPointerSourceDeviceKinds.Touch |
     InputPointerSourceDeviceKinds.Mouse);
