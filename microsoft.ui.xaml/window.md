@@ -17,7 +17,7 @@ Represents the window of the current [Application](application.md).
 
 This object can be used in both Desktop and UWP applications.
 
-**In Experimental versions of WinUI 3**: You can create more than one Window per thread in Desktop apps. For UWP apps, you can create only a single Window per thread. See [Create a new Window](#create-a-new-window) in [Examples](#-examples).
+**WinUI 3 in the [Windows App SDK experimental release channel](/windows/apps/windows-app-sdk/experimental-channel)**: You can create more than one Window per thread in Desktop apps. For UWP apps, you can create only a single Window per thread. See [Create a new Window](#create-a-new-window) in [Examples](#-examples).
 
 In a UWP app, each UI thread already has a Window that can be retrieved using the static [Window.Current](window_current.md) property. Additional windows can be created with [CoreApplicationView](/uwp/api/Windows.ApplicationModel.Core.CoreApplicationView) objects, which are always created on a new thread, and which automatically create an [ApplicationView](/uwp/api/Windows.UI.ViewManagement.ApplicationView), [CoreWindow](/uwp/api/windows.ui.core.corewindow), and Window for the new thread.
 
