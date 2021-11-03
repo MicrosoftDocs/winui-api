@@ -21,7 +21,7 @@ Occurs when the manipulation processor is first created.
 
 ## -remarks
 
-For custom controls and interaction experiences, see [ExpGestureRecognizer](../microsoft.ui.input/gesturerecognizer.md).
+For custom controls and interaction experiences, see [GestureRecognizer](../microsoft.ui.input/gesturerecognizer.md).
 
 An element must have a [ManipulationMode](uielement_manipulationmode.md) value other than **None** or **System** to be a manipulation event source. The default value of [ManipulationMode](uielement_manipulationmode.md) is **System**, which enables built-in control logic to process manipulations, but doesn't permit app code to handle manipulation events. If you want to handle manipulations, set [ManipulationMode](uielement_manipulationmode.md) to **All**, or to specific [ManipulationModes](../microsoft.ui.xaml.input/manipulationmodes.md) values. For more info, see [ManipulationMode](uielement_manipulationmode.md).
 

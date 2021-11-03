@@ -29,9 +29,9 @@ The InputLightDismissAction object for the specified window. Otherwise, null.
 
 If *windowId* is invalid, is owned by a different thread than the calling thread, or is a child window, GetForWindowId returns null.
 
-Otherwise, GetForWindowId returns a previously created InputLightDismissAction associated with the window id or a newly created InputLightDismissAction associated with the window id. Calling GetForWindowId multiple times will return the same object each time.
+Otherwise, GetForWindowId returns a previously created InputLightDismissAction associated with the Window ID or a newly created InputLightDismissAction associated with the Window ID. Calling GetForWindowId multiple times will return the same object each time.
 
-In all cases there can only be a single InputLightDismissAction associated with a particular window id.
+In all cases there can only be a single InputLightDismissAction associated with a particular Window ID.
 
 ## -see-also
 

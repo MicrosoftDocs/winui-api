@@ -15,13 +15,21 @@ Enables dismissal of the current window based on the detection of interaction ev
 
 ## -remarks
 
-If the window associated with an InputLightDismissAction is destroyed, the InputLightDismissAction object will be implicitly disposed. See the [InputObject](inputobject.md#behavior-when-disposed) for more detail.
+Examples of actions that trigger a light dismiss include:
+
+- The window loses activation.
+- The user presses the 'escape' key while the window has focus.
+- The user presses the 'alt' key while the window has focus.
+- The window receives app commands such as `APPCOMMAND_BROWSER_HOME`, `APPCOMMAND_BROWSER_BACKWARD`, `APPCOMMAND_BROWSER_FORWARD`, or `APPCOMMAND_BROWSER_REFRESH`.
+- The window receives a `WM_HOTKEY` message.
+
+If the window associated with an InputLightDismissAction is destroyed, the InputLightDismissAction object will be implicitly disposed. See [InputObject](inputobject.md) for more detail.
 
 ## -see-also
 
 ## -examples
 
-The following example shows how to create a context-menu-styled AppWindow and close it when the light dismiss event is raised.
+The following example shows how to create a context-menu-styled  AppWindow and close it when the light dismiss event is raised.
 
 ```csharp
 AppWindow appWindow = AppWindow.Create(AppWindowConfiguration.CreateForContextMenu());

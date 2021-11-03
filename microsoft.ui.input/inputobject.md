@@ -17,7 +17,7 @@ Base class for all input objects.
 
 All input APIs in the Windows App SDK derive from the common InputObject base class.
 
-### InputObject Threading Model
+### InputObject threading model
 
 An InputObject can only be accessed from the thread where it was created. Any property access or function call on a different thread will return RPC_E_WRONG_THREAD (or the equivalent projected error type). The only exception to this is when accessing the InputObject [DispatcherQueue](inputobject_dispatcherqueue.md) property. The DispatcherQueue lets you check if the current thread has access and, if not, to queue work to the affined thread.
 
@@ -32,7 +32,7 @@ bool OnThread(Microsoft.UI.Input.InputObject inputObject)
 }
 ```
 
-### Behavior when Disposed
+### Behavior when disposed
 
 When an InputObject is disposed, all associated event handlers are unregistered automatically. Subsequent calls to unregister an event handler will succeed but are not required.
 

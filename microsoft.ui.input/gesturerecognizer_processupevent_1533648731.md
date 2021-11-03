@@ -11,7 +11,7 @@ public void ProcessUpEvent (Microsoft.UI.Input.PointerPoint value);
 
 ## -description
 
-Processes pointer input and raises the [ExpGestureRecognizer](expgesturerecognizer.md) events appropriate to a pointer up action (for the gestures and manipulations specified by the [GestureSettings](expgesturerecognizer_gesturesettings.md) property).
+Processes pointer input and raises the [GestureRecognizer](gesturerecognizer.md) events appropriate to a pointer up action (for the gestures and manipulations specified by the [GestureSettings](gesturerecognizer_gesturesettings.md) property).
 
 For more details on this API, please see the the UWP WinRT [ProcessUpEvent](/uwp/api/windows.ui.input.gesturerecognizer.processupevent) topic.
 

@@ -11,7 +11,7 @@ public void ProcessMoveEvents (System.Collections.Generic.IList<Microsoft.UI.Inp
 
 ## -description
 
-Processes pointer input and raises the [ExpGestureRecognizer](expgesturerecognizer.md) events appropriate to a pointer move action (for the gestures and manipulations specified by the [GestureSettings](expgesturerecognizer_gesturesettings.md) property).
+Processes pointer input and raises the [GestureRecognizer](gesturerecognizer.md) events appropriate to a pointer move action (for the gestures and manipulations specified by the [GestureSettings](gesturerecognizer_gesturesettings.md) property).
 
 For more details on this API, please see the the UWP WinRT [ProcessMoveEvents](/uwp/api/windows.ui.input.gesturerecognizer.processmoveevents) topic.
 
@@ -19,7 +19,7 @@ For more details on this API, please see the the UWP WinRT [ProcessMoveEvents](/
 
 ### -param value
 
-The pointer location history based on the [Microsoft.UI.Input.PointerPoint.PointerId](pointerpoint_pointerid.md). If no history is available then the value is the current location of the input pointer.
+The pointer location history based on the [PointerPoint.PointerId](pointerpoint_pointerid.md). If no history is available then the value is the current location of the input pointer.
 
 ## -remarks
 

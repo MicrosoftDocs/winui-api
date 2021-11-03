@@ -54,7 +54,7 @@ Whenever Holding fires initially, so long as the element supports manipulation e
 Mouse input doesn't produce Holding events by default, no matter how long a mouse button is held down, or which button is held. However, mouse devices and some pen devices can fire [RightTapped](uielement_righttapped.md) when a right mouse button or equivalent is pressed and released.
 
 > [!NOTE]
-> There is a way to treat mouse actions as hold actions if you use your own [ExpGestureRecognizer](../microsoft.ui.input/gesturerecognizer.md) and specify **HoldWithMouse** in settings.
+> There is a way to treat mouse actions as hold actions if you use your own [GestureRecognizer](../microsoft.ui.input/gesturerecognizer.md) and specify **HoldWithMouse** in settings.
 
 ## -examples
 
