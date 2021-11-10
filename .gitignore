@@ -10,3 +10,4 @@ _themes*/
 *.ipch
 mwgendiff.config
 /.vs
+/.vscode
