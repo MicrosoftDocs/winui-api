@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty FirstButtonCommandProperty { ge
 
 ## -description
 
+Identifies the [FirstButtonCommand](pagercontrol_firstbuttoncommand.md) dependency property.
+
 ## -property-value
+
+The identifier for the [FirstButtonCommand](pagercontrol_firstbuttoncommand.md) dependency property.
 
 ## -remarks
 

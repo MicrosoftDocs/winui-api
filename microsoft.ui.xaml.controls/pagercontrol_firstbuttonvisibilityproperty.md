@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty FirstButtonVisibilityProperty {
 
 ## -description
 
+Identifies the [FirstButtonVisibility](pagercontrol_firstbuttonvisibility.md) dependency property.
+
 ## -property-value
+
+The identifier for the [FirstButtonVisibility](pagercontrol_firstbuttonvisibility.md) dependency property.
 
 ## -remarks
 

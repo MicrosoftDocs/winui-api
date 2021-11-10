@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty LastButtonStyleProperty { get; 
 
 ## -description
 
+Identifies the [LastButtonStyle](pagercontrol_lastbuttonstyle.md) dependency property.
+
 ## -property-value
+
+The identifier for the [LastButtonStyle](pagercontrol_lastbuttonstyle.md) dependency property.
 
 ## -remarks
 

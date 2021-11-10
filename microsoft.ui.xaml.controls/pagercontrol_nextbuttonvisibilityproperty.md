@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty NextButtonVisibilityProperty { 
 
 ## -description
 
+Identifies the [NextButtonVisibility](pagercontrol_nextbuttonvisibility.md) dependency property.
+
 ## -property-value
+
+The identifier for the [NextButtonVisibility](pagercontrol_nextbuttonvisibility.md) dependency property.
 
 ## -remarks
 

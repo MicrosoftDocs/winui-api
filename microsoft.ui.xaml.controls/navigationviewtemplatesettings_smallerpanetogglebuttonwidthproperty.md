@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty SmallerPaneToggleButtonWidthPro
 
 ## -description
 
+Identifies the [SmallerPaneToggleButtonWidth](navigationviewtemplatesettings_smallerpanetogglebuttonwidth.md) dependency property.
+
 ## -property-value
+
+The identifier for the [SmallerPaneToggleButtonWidth](navigationviewtemplatesettings_smallerpanetogglebuttonwidth.md) dependency property.
 
 ## -remarks
 

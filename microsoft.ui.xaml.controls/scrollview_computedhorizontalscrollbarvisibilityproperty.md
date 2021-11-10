@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty ComputedHorizontalScrollBarVisi
 
 ## -description
 
+Identifies the [ComputedHorizontalScrollBarVisibility](scrollview_computedhorizontalscrollbarvisibility.md) dependency property.
+
 ## -property-value
+
+The identifier for the [ComputedHorizontalScrollBarVisibility](scrollview_computedhorizontalscrollbarvisibility.md) dependency property.
 
 ## -remarks
 

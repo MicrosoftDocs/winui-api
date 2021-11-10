@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty PreviousButtonVisibilityPropert
 
 ## -description
 
+Identifies the [PreviousButtonVisibility](pagercontrol_previousbuttonvisibility.md) dependency property.
+
 ## -property-value
+
+The identifier for the [PreviousButtonVisibility](pagercontrol_previousbuttonvisibility.md) dependency property.
 
 ## -remarks
 

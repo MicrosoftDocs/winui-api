@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty ContentOrientationProperty { ge
 
 ## -description
 
+Identifies the [ContentOrientation](scrollview_contentorientation.md) dependency property.
+
 ## -property-value
+
+The identifier for the [ContentOrientation](scrollview_contentorientation.md) dependency property.
 
 ## -remarks
 

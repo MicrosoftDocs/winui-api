@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty HorizontalScrollModeProperty { 
 
 ## -description
 
+Identifies the [HorizontalScrollMode](scrollview_horizontalscrollmode.md) dependency property.
+
 ## -property-value
+
+The identifier for the [HorizontalScrollMode](scrollview_horizontalscrollmode.md) dependency property.
 
 ## -remarks
 

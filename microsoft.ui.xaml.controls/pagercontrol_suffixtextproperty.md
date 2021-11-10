@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty SuffixTextProperty { get; }
 
 ## -description
 
+Identifies the [SuffixText](pagercontrol_suffixtext.md) dependency property.
+
 ## -property-value
+
+The identifier for the [SuffixText](pagercontrol_suffixtext.md) dependency property.
 
 ## -remarks
 

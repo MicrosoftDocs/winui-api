@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty ZoomChainModeProperty { get; }
 
 ## -description
 
+Identifies the [ZoomChainMode](scrollview_zoomchainmode.md) dependency property.
+
 ## -property-value
+
+The identifier for the [ZoomChainMode](scrollview_zoomchainmode.md) dependency property.
 
 ## -remarks
 

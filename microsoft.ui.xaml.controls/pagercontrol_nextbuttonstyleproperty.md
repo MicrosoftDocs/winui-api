@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty NextButtonStyleProperty { get; 
 
 ## -description
 
+Identifies the [NextButtonStyle](pagercontrol_nextbuttonstyle.md) dependency property.
+
 ## -property-value
+
+The identifier for the [NextButtonStyle](pagercontrol_nextbuttonstyle.md) dependency property.
 
 ## -remarks
 

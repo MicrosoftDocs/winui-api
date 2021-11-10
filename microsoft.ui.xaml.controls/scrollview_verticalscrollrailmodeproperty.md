@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty VerticalScrollRailModeProperty 
 
 ## -description
 
+Identifies the [VerticalScrollRailMode](scrollview_verticalscrollrailmode.md) dependency property.
+
 ## -property-value
+
+The identifier for the [VerticalScrollRailMode](scrollview_verticalscrollrailmode.md) dependency property.
 
 ## -remarks
 

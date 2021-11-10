@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty BorderThicknessProperty { get; 
 
 ## -description
 
+Identifies the [BorderThickness](layoutpanel_borderthickness.md) dependency property.
+
 ## -property-value
+
+The identifier for the [BorderThickness](layoutpanel_borderthickness.md) dependency property.
 
 ## -remarks
 

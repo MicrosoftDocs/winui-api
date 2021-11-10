@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty LastButtonCommandProperty { get
 
 ## -description
 
+Identifies the [LastButtonCommand](pagercontrol_lastbuttoncommand.md) dependency property.
+
 ## -property-value
+
+The identifier for the [LastButtonCommand](pagercontrol_lastbuttoncommand.md) dependency property.
 
 ## -remarks
 

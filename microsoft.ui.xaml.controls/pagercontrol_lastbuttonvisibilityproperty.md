@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty LastButtonVisibilityProperty { 
 
 ## -description
 
+Identifies the [LastButtonVisibility](pagercontrol_lastbuttonvisibility.md) dependency property.
+
 ## -property-value
+
+The identifier for the [LastButtonVisibility](pagercontrol_lastbuttonvisibility.md) dependency property.
 
 ## -remarks
 

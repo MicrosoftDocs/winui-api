@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty VerticalScrollModeProperty { ge
 
 ## -description
 
+Identifies the [VerticalScrollMode](scrollview_verticalscrollmode.md) dependency property.
+
 ## -property-value
+
+The identifier for the [VerticalScrollMode](scrollview_verticalscrollmode.md) dependency property.
 
 ## -remarks
 

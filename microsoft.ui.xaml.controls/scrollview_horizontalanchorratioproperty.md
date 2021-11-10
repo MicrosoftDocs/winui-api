@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty HorizontalAnchorRatioProperty {
 
 ## -description
 
+Identifies the [HorizontalAnchorRatio](scrollview_horizontalanchorratio.md) dependency property.
+
 ## -property-value
+
+The identifier for the [HorizontalAnchorRatio](scrollview_horizontalanchorratio.md) dependency property.
 
 ## -remarks
 

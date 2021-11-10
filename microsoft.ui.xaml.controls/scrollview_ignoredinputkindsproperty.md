@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty IgnoredInputKindsProperty { get
 
 ## -description
 
+Identifies the [IgnoredInputKinds](scrollview_ignoredinputkinds.md) dependency property.
+
 ## -property-value
+
+The identifier for the [IgnoredInputKinds](scrollview_ignoredinputkinds.md) dependency property.
 
 ## -remarks
 

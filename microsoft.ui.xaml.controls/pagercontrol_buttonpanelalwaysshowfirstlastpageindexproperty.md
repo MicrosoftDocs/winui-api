@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty ButtonPanelAlwaysShowFirstLastP
 
 ## -description
 
+Identifies the [ButtonPanelAlwaysShowFirstLastPageIndex](pagercontrol_buttonpanelalwaysshowfirstlastpageindex.md) dependency property.
+
 ## -property-value
+
+The identifier for the [ButtonPanelAlwaysShowFirstLastPageIndex](pagercontrol_buttonpanelalwaysshowfirstlastpageindex.md) dependency property.
 
 ## -remarks
 

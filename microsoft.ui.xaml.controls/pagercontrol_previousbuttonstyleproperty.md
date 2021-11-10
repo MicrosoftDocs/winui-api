@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty PreviousButtonStyleProperty { g
 
 ## -description
 
+Identifies the [PreviousButtonStyle](pagercontrol_previousbuttonstyle.md) dependency property.
+
 ## -property-value
+
+The identifier for the [PreviousButtonStyle](pagercontrol_previousbuttonstyle.md) dependency property.
 
 ## -remarks
 

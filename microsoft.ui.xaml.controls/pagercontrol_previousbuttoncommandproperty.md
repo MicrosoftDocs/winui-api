@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty PreviousButtonCommandProperty {
 
 ## -description
 
+Identifies the [PreviousButtonCommand](pagercontrol_previousbuttoncommand.md) dependency property.
+
 ## -property-value
+
+The identifier for the [PreviousButtonCommand](pagercontrol_previousbuttoncommand.md) dependency property.
 
 ## -remarks
 

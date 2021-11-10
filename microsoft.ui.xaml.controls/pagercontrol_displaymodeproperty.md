@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty DisplayModeProperty { get; }
 
 ## -description
 
+Identifies the [DisplayMode](pagercontrol_displaymode.md) dependency property.
+
 ## -property-value
+
+The identifier for the [DisplayMode](pagercontrol_displaymode.md) dependency property.
 
 ## -remarks
 

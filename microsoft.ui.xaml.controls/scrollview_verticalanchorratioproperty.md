@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty VerticalAnchorRatioProperty { g
 
 ## -description
 
+Identifies the [VerticalAnchorRatio](scrollview_verticalanchorratio.md) dependency property.
+
 ## -property-value
+
+The identifier for the [VerticalAnchorRatio](scrollview_verticalanchorratio.md) dependency property.
 
 ## -remarks
 

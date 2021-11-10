@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty SelectedItemProperty { get; }
 
 ## -description
 
+Identifies the [SelectedItem](treeview_selecteditem.md) dependency property.
+
 ## -property-value
+
+The identifier for the [SelectedItem](treeview_selecteditem.md) dependency property.
 
 ## -remarks
 

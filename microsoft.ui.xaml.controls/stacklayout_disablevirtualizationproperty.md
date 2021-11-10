@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty DisableVirtualizationProperty {
 
 ## -description
 
+Identifies the [DisableVirtualization](stacklayout_disablevirtualization.md) dependency property.
+
 ## -property-value
+
+The identifier for the [DisableVirtualization](stacklayout_disablevirtualization.md) dependency property.
 
 ## -remarks
 

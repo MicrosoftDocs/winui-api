@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty MaxZoomFactorProperty { get; }
 
 ## -description
 
+Identifies the [MaxZoomFactor](scrollview_maxzoomfactor.md) dependency property.
+
 ## -property-value
+
+The identifier for the [MaxZoomFactor](scrollview_maxzoomfactor.md) dependency property.
 
 ## -remarks
 

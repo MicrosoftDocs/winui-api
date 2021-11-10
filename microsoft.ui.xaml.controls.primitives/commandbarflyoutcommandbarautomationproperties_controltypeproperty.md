@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty ControlTypeProperty { get; }
 
 ## -description
 
+Identifies the [ControlType](commandbarflyoutcommandbarautomationproperties_controltype.md) dependency property.
+
 ## -property-value
+
+The identifier for the [ControlType](commandbarflyoutcommandbarautomationproperties_controltype.md) dependency property.
 
 ## -remarks
 

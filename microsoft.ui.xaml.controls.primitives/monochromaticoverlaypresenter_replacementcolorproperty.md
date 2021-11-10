@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty ReplacementColorProperty { get;
 
 ## -description
 
+Identifies the [ReplacementColor](monochromaticoverlaypresenter_replacementcolor.md) dependency property.
+
 ## -property-value
+
+The identifier for the [ReplacementColor](monochromaticoverlaypresenter_replacementcolor.md) dependency property.
 
 ## -remarks
 

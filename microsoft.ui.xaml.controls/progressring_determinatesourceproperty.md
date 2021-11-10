@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty DeterminateSourceProperty { get
 
 ## -description
 
+Identifies the [DeterminateSource](progressring_determinatesource.md) dependency property.
+
 ## -property-value
+
+The identifier for the [DeterminateSource](progressring_determinatesource.md) dependency property.
 
 ## -remarks
 

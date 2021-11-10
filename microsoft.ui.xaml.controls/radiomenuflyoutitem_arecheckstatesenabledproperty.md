@@ -11,9 +11,13 @@ public static Windows.UI.Xaml.DependencyProperty AreCheckStatesEnabledProperty {
 
 
 ## -description
+
+Identifies the [AreCheckStatesEnabled](radiomenuflyoutitem_arecheckstatesenabled.md) dependency property.
 Represents whether the [MenuFlyoutSubItem](menuflyoutsubitem.md) has RadioMenuFlyoutItems as children.
 
 ## -property-value
+
+The identifier for the [AreCheckStatesEnabled](radiomenuflyoutitem_arecheckstatesenabled.md) dependency property.
 
 ## -remarks
 This property should only be used in conjunction with a MenuFlyoutSubItem that has the `RadioMenuFlyoutSubItemStyle` applied to it. Since the `RadioMenuFlyoutSubItemStyle` automatically sets this property to true, this property will not need to be set manually.

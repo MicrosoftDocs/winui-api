@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty HorizontalScrollChainModeProper
 
 ## -description
 
+Identifies the [HorizontalScrollChainMode](scrollview_horizontalscrollchainmode.md) dependency property.
+
 ## -property-value
+
+The identifier for the [HorizontalScrollChainMode](scrollview_horizontalscrollchainmode.md) dependency property.
 
 ## -remarks
 

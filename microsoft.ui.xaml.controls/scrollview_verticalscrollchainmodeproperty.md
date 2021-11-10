@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty VerticalScrollChainModeProperty
 
 ## -description
 
+Identifies the [VerticalScrollChainMode](scrollview_verticalscrollchainmode.md) dependency property.
+
 ## -property-value
+
+The identifier for the [VerticalScrollChainMode](scrollview_verticalscrollchainmode.md) dependency property.
 
 ## -remarks
 

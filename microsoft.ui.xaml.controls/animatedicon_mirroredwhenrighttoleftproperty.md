@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty MirroredWhenRightToLeftProperty
 
 ## -description
 
+Identifies the [MirroredWhenRightToLeft](animatedicon_mirroredwhenrighttoleft.md) dependency property.
+
 ## -property-value
+
+The identifier for the [MirroredWhenRightToLeft](animatedicon_mirroredwhenrighttoleft.md) dependency property.
 
 ## -remarks
 

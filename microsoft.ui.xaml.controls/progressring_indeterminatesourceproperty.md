@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty IndeterminateSourceProperty { g
 
 ## -description
 
+Identifies the [IndeterminateSource](progressring_indeterminatesource.md) dependency property.
+
 ## -property-value
+
+The identifier for the [IndeterminateSource](progressring_indeterminatesource.md) dependency property.
 
 ## -remarks
 

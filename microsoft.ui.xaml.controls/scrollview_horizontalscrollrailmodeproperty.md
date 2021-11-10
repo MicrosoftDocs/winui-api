@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty HorizontalScrollRailModePropert
 
 ## -description
 
+Identifies the [HorizontalScrollRailMode](scrollview_horizontalscrollrailmode.md) dependency property.
+
 ## -property-value
+
+The identifier for the [HorizontalScrollRailMode](scrollview_horizontalscrollrailmode.md) dependency property.
 
 ## -remarks
 

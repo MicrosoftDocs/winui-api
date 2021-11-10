@@ -12,7 +12,11 @@ public static Microsoft.UI.Xaml.DependencyProperty CanGoForwardProperty { get; }
 
 ## -description
 
+Identifies the [CanGoForward](webview2_cangoforward.md) dependency property.
+
 ## -property-value
+
+The identifier for the [CanGoForward](webview2_cangoforward.md) dependency property.
 
 ## -remarks
 

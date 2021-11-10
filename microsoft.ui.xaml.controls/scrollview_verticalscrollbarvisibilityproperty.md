@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty VerticalScrollBarVisibilityProp
 
 ## -description
 
+Identifies the [VerticalScrollBarVisibility](scrollview_verticalscrollbarvisibility.md) dependency property.
+
 ## -property-value
+
+The identifier for the [VerticalScrollBarVisibility](scrollview_verticalscrollbarvisibility.md) dependency property.
 
 ## -remarks
 

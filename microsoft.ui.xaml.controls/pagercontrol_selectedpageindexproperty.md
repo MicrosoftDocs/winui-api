@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty SelectedPageIndexProperty { get
 
 ## -description
 
+Identifies the [SelectedPageIndex](pagercontrol_selectedpageindex.md) dependency property.
+
 ## -property-value
+
+The identifier for the [SelectedPageIndex](pagercontrol_selectedpageindex.md) dependency property.
 
 ## -remarks
 

@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty CornerRadiusProperty { get; }
 
 ## -description
 
+Identifies the [CornerRadius](layoutpanel_cornerradius.md) dependency property.
+
 ## -property-value
+
+The identifier for the [CornerRadius](layoutpanel_cornerradius.md) dependency property.
 
 ## -remarks
 

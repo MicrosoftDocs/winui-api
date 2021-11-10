@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty VersionProperty { get; }
 
 ## -description
 
+Identifies the [Version](xamlcontrolsresources_version.md) dependency property.
+
 ## -property-value
+
+The identifier for the [Version](xamlcontrolsresources_version.md) dependency property.
 
 ## -remarks
 

@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty PaneToggleButtonWidthProperty {
 
 ## -description
 
+Identifies the [PaneToggleButtonWidth](navigationviewtemplatesettings_panetogglebuttonwidth.md) dependency property.
+
 ## -property-value
+
+The identifier for the [PaneToggleButtonWidth](navigationviewtemplatesettings_panetogglebuttonwidth.md) dependency property.
 
 ## -remarks
 

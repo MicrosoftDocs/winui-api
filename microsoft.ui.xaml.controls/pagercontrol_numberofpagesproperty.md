@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty NumberOfPagesProperty { get; }
 
 ## -description
 
+Identifies the [NumberOfPages](pagercontrol_numberofpages.md) dependency property.
+
 ## -property-value
+
+The identifier for the [NumberOfPages](pagercontrol_numberofpages.md) dependency property.
 
 ## -remarks
 

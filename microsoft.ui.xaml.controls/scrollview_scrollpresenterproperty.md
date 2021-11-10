@@ -12,7 +12,11 @@ public static Windows.UI.Xaml.DependencyProperty ScrollPresenterProperty { get; 
 
 ## -description
 
+Identifies the [ScrollPresenter](scrollview_scrollpresenter.md) dependency property.
+
 ## -property-value
+
+The identifier for the [ScrollPresenter](scrollview_scrollpresenter.md) dependency property.
 
 ## -remarks
 
