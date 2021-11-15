@@ -11,11 +11,11 @@ public DispatcherQueue DispatcherQueue { get; }
 
 ## -description
 
-Gets the [DispatcherQueue](../microsoft.system/dispatcherqueue.md) for the CompostionObject.
+Gets the [DispatcherQueue](../microsoft.system/dispatcherqueue.md) for the CompositionObject.
 
 ## -property-value
 
-The [DispatcherQueue](../microsoft.system/dispatcherqueue.md) for the CompostionObject.
+The [DispatcherQueue](../microsoft.system/dispatcherqueue.md) for the CompositionObject.
 
 ## -remarks
 
