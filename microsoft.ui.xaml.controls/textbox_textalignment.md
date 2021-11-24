@@ -25,6 +25,7 @@ Gets or sets how the text should be horizontally aligned in the text box.
 One of the [TextAlignment](../microsoft.ui.xaml/textalignment.md) enumeration values. The default is **Left**.
 
 ## -remarks
+This property provides the same functionality as the HorizontalTextAlignment property. If both properties are set to conflicting values, the last one set is used.
 
 ## -examples
 
