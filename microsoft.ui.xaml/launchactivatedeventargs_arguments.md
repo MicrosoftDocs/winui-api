@@ -13,6 +13,9 @@ public string Arguments { get; }
 
 Gets the arguments that are passed to the application during launch.
 
+> [!Important]
+> This property is not supported and always returns null.
+
 ## -property-value
 
 The arguments that are passed to the application during launch.
