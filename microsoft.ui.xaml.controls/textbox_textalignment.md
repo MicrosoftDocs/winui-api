@@ -17,10 +17,10 @@ Gets or sets how the text should be horizontally aligned in the text box.
 <TextBox TextAlignment="textAlignmentMemberName"/>
 ```
 
-
 ## -xaml-values
-<dl><dt>textAlignmentMemberName</dt><dd>textAlignmentMemberNameA named constant of the TextAlignment enumeration, for example Center.</dd>
+<dl><dt>textAlignmentMemberName</dt><dd>A named constant of the TextAlignment enumeration, for example Center.</dd>
 </dl>
+
 ## -property-value
 One of the [TextAlignment](../microsoft.ui.xaml/textalignment.md) enumeration values. The default is **Left**.
 
