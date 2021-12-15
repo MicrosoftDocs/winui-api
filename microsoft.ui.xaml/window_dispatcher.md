@@ -14,7 +14,7 @@ public Windows.UI.Core.CoreDispatcher Dispatcher { get; }
 Gets the [CoreDispatcher](/uwp/api/windows.ui.core.coredispatcher) object for the [Window](window.md) when called from a UWP app. Returns null when called from a Desktop app.
 
 > [!NOTE]
-> `Window.Dispatcher` may be altered or unavailable in future releases. Use [Windows.DispatcherQueue](window_dispatcherqueue.md) instead.
+> `Window.Dispatcher` may be altered or unavailable in future releases. Use [Window.DispatcherQueue](window_dispatcherqueue.md) instead.
 
 ## -property-value
 
