@@ -16,6 +16,7 @@ Gets the size (count) of the collection.
 The count of items in the collection.
 
 ## -remarks
+When programming with .NET, this property is projected as Count.
 
 ## -examples
 
