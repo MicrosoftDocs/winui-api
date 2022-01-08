@@ -9,15 +9,16 @@
 public static Microsoft.UI.Xaml.DependencyProperty UseSystemFocusVisualsProperty { get; }
 -->
 
-
 ## -description
 
+Identifies the [UseSystemFocusVisuals](uielement_usesystemfocusvisuals.md) dependency property.
+
 ## -property-value
+
+The identifier for the [UseSystemFocusVisuals](uielement_usesystemfocusvisuals.md) dependency property.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

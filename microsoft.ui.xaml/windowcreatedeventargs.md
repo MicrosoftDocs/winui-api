@@ -10,6 +10,7 @@ public class WindowCreatedEventArgs : Windows.UI.Xaml.IWindowCreatedEventArgs
 # Microsoft.UI.Xaml.WindowCreatedEventArgs
 
 ## -description
+
 Provides data for the [OnWindowCreated](application_onwindowcreated_1748603056.md) method.
 
 ## -remarks

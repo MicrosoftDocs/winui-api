@@ -9,15 +9,18 @@
 public double Minimum { get; }
 -->
 
-
 ## -description
 
+Gets a value that specifies the minimum value for the progress ring animation.
+
 ## -property-value
+
+The minimum value for the progress ring animation.
 
 ## -remarks
 
 ## -see-also
 
+[Maximum](progressringautomationpeer_maximum.md)
+
 ## -examples
-
-

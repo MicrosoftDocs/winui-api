@@ -11,9 +11,10 @@ public void Invoke ();
 
 ## -description
 
+Invokes the [SplitButton](../microsoft.ui.xaml.controls/splitbutton.md).
+
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
