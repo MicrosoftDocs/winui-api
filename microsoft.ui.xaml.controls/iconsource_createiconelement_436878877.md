@@ -9,8 +9,9 @@
 public Windows.UI.Xaml.Controls.IconElement CreateIconElement ();
 -->
 
-
 ## -description
+
+
 
 ## -returns
 
@@ -19,5 +20,3 @@ public Windows.UI.Xaml.Controls.IconElement CreateIconElement ();
 ## -see-also
 
 ## -examples
-
-

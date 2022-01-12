@@ -9,13 +9,12 @@
 public sealed class HasValidationErrorsChangedEventArgs
 -->
 
-
 ## -description
+
+Contains event data for validation control error changes.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

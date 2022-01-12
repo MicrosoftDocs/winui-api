@@ -9,15 +9,16 @@
 public bool NewValue { get; }
 -->
 
-
 ## -description
 
+Gets the new validation error value.
+
 ## -property-value
+
+True, if content is valid. Otherwise, false.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

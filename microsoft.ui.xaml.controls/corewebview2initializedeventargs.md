@@ -9,13 +9,12 @@
 public sealed class CoreWebView2InitializedEventArgs
 -->
 
-
 ## -description
+
+Provides data for the [CoreWebView2Initialized](webview2_corewebview2initialized.md) event.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-
