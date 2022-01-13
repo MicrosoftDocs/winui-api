@@ -12,7 +12,7 @@ public InfoBarTemplateSettings ();
 
 ## -description
 
-Provides calculated values that can be referenced as **TemplatedParent** sources when defining templates for a [InfoBar](infobar.md).
+Initializes a new instance of the [InfoBarTemplateSettings](infobartemplatesettings.md) class.
 
 ## -remarks
 

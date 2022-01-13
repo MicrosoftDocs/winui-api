@@ -9,13 +9,12 @@
 public InputPropertyAttribute ();
 -->
 
-
 ## -description
+
+Initializes a new instance of the [InputPropertyAttribute](inputpropertyattribute.md) class.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

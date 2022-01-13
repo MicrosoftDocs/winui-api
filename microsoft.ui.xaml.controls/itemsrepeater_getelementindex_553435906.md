@@ -32,4 +32,3 @@ Only UIElements that are direct children of the ItemsRepeater are supported. A v
 [GetOrCreateElement](itemsrepeater_getorcreateelement_982168620.md), [TryGetElement](itemsrepeater_trygetelement_2086043841.md)
 
 ## -examples
-

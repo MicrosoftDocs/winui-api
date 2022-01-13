@@ -9,15 +9,16 @@
 public double SmallerPaneToggleButtonWidth { get; }
 -->
 
-
 ## -description
 
+Gets the width of the toggle button for the smaller pane.
+
 ## -property-value
+
+The width of the toggle button for the smaller pane.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-
