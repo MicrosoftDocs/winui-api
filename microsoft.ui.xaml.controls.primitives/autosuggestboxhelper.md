@@ -11,6 +11,8 @@ public sealed class AutoSuggestBoxHelper
 
 ## -description
 
+Represents a helper object for loading and displaying a list of suggestions.
+
 ## -remarks
 
 ## -see-also

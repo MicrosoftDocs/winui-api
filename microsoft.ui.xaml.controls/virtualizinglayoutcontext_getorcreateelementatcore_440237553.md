@@ -24,4 +24,3 @@ protected virtual Windows.UI.Xaml.UIElement GetOrCreateElementAtCore (int index,
 ## -see-also
 
 ## -examples
-

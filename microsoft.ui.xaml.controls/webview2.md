@@ -9,13 +9,12 @@
 public class WebView2 : Microsoft.UI.Xaml.FrameworkElement
 -->
 
-
 ## -description
+
+Represents an object that enables the hosting of web content.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

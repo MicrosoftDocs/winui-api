@@ -11,11 +11,14 @@ public Windows.UI.Xaml.Media.RectangleGeometry ClipRect { get; set; }
 
 ## -description
 
+Gets the [Rect](/uwp/api/windows.foundation.rect) that describes the clipped area of the [ProgressBar](progressbar.md).
+
 ## -property-value
+
+A [Rect](/uwp/api/windows.foundation.rect) that describes the clipped area of the [ProgressBar](progressbar.md).
 
 ## -remarks
 
-## -see-also
-
 ## -examples
 
+## -see-also

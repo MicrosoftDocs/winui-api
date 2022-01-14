@@ -9,15 +9,16 @@
 public System.Uri Source { get; set; }
 -->
 
-
 ## -description
 
+Gets or sets the URI of the current top level document.
+
 ## -property-value
+
+The URI of the current top level document.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

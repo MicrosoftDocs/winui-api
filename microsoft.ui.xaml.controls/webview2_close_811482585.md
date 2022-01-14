@@ -9,13 +9,12 @@
 public void Close ();
 -->
 
-
 ## -description
+
+Closes the WebView2 object.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

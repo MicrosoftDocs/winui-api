@@ -9,13 +9,12 @@
 public WebView2 ();
 -->
 
-
 ## -description
+
+Initializes a new instance of the [WebView2](webview2.md) class.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

@@ -9,13 +9,14 @@
 public void GoBack ();
 -->
 
-
 ## -description
+
+Navigates the WebView to the previous page in the navigation history.
 
 ## -remarks
 
 ## -see-also
 
+[GoForward](webview2_goforward_1537152893.md), [CanGoForward](webview2_cangoforward.md)
+
 ## -examples
-
-

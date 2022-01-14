@@ -9,13 +9,12 @@
 public void Reload ();
 -->
 
-
 ## -description
+
+Reloads the current page.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

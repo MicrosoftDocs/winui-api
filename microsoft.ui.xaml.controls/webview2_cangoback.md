@@ -9,15 +9,16 @@
 public bool CanGoBack { get; set; }
 -->
 
-
 ## -description
 
+Gets or sets a value that indicates whether backward navigation is possible.
+
 ## -property-value
+
+True, if backward navigation is possible. Otherwise, false. The default is true.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

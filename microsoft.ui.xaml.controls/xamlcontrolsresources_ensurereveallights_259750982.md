@@ -12,6 +12,7 @@ public void XamlControlsResources.EnsureRevealLights(UIElement element)
 ## -description
 
 ## -parameters
+
 ### -param element
 
 ## -remarks
@@ -19,4 +20,3 @@ public void XamlControlsResources.EnsureRevealLights(UIElement element)
 ## -see-also
 
 ## -examples
-
