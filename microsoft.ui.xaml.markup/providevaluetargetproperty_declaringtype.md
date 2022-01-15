@@ -9,15 +9,16 @@
 public System.Type DeclaringType { get; }
 -->
 
-
 ## -description
 
+Gets the class that declares this member.
+
 ## -property-value
+
+The class that declares this member.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

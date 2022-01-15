@@ -9,19 +9,22 @@
 public static Windows.UI.Xaml.Automation.Peers.AutomationControlType GetControlType (Windows.UI.Xaml.UIElement element);
 -->
 
-
 ## -description
+
+Retrieves the control type for the specified object.
 
 ## -parameters
 
 ### -param element
 
+The object to get the control type for.
+
 ## -returns
+
+The control type for the specified object.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

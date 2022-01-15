@@ -9,13 +9,12 @@
 public interface IProvideValueTarget
 -->
 
-
 ## -description
+
+Represents a service that reports situational object-property relationships for markup extension evaluation.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

@@ -9,15 +9,16 @@
 public string Name { get; }
 -->
 
-
 ## -description
 
+Gets the name of the this member.
+
 ## -property-value
+
+The name of the this member.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

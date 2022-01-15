@@ -11,11 +11,14 @@ public double RowSpacing { get; set; }
 
 ## -description
 
+Gets or sets the uniform distance (in pixels) between grid rows.
+
 ## -property-value
+
+The uniform distance (in pixels) between grid rows.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-

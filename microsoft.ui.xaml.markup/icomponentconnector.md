@@ -10,13 +10,13 @@ public interface IComponentConnector :
 # Microsoft.UI.Xaml.Markup.IComponentConnector
 
 ## -description
+
 Provides infrastructure support for event wiring and build actions.
 
 ## -remarks
 
-
-> **Windows 10**
-> Apps compiled by the XAML compiler for Windows 10 implement [IComponentConnector2](icomponentconnector2.md). Apps will fall back to IComponentConnector for compatibility if necessary.
+> **Windows 10**
+> Apps compiled by the XAML compiler for Windows 10 implement [IComponentConnector2](icomponentconnector2.md). Apps will fall back to IComponentConnector for compatibility if necessary.
 
 Unless you are substantially extending the capabilities of a XAML framework or XAML design tools, you probably won't need to generate or implement IComponentConnector. The remainder of the remarks here are intended to orient you to the purpose of IComponentConnector in the [Application](../microsoft.ui.xaml/application.md)-based app model and to explain the role of IComponentConnector in the generated code that Microsoft Visual Studio infrastructure creates as part of a typical XAML project.
 

@@ -9,19 +9,22 @@
 public static void SetControlType (Windows.UI.Xaml.UIElement element, Windows.UI.Xaml.Automation.Peers.AutomationControlType value);
 -->
 
-
 ## -description
+
+Sets the control type for the specified object.
 
 ## -parameters
 
 ### -param element
 
+The object to set the control type for.
+
 ### -param value
+
+The control type for the specified object.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

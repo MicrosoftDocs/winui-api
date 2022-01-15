@@ -9,13 +9,12 @@
 public sealed class ProvideValueTargetProperty
 -->
 
-
 ## -description
+
+Provides information about the target property of a markup extension.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

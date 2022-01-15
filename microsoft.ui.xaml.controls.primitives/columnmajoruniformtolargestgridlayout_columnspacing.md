@@ -11,11 +11,14 @@ public double ColumnSpacing { get; set; }
 
 ## -description
 
+Gets or sets the uniform distance (in pixels) between grid columns.
+
 ## -property-value
+
+The uniform distance (in pixels) between grid columns.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-

@@ -9,15 +9,16 @@
 public Microsoft.UI.Xaml.Markup.IXamlType BoxedType { get; }
 -->
 
-
 ## -description
 
+Gets the IXamlType for the boxed type of the XAML type. Determination of this value is based on the underlying type for core types.
+
 ## -property-value
+
+The IXamlType for the boxed type of the XAML type.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

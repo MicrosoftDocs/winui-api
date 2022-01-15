@@ -9,13 +9,12 @@
 public MonochromaticOverlayPresenter ();
 -->
 
-
 ## -description
+
+Initializes a new instance of the [MonochromaticOverlayPresenter](monochromaticoverlaypresenter.md) class.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

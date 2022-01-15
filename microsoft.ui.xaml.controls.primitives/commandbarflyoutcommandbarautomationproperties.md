@@ -9,13 +9,12 @@
 public static class CommandBarFlyoutCommandBarAutomationProperties
 -->
 
-
 ## -description
+
+Enables getting or setting specific automation properties for the [CommandBarFlyoutCommandBar](commandbarflyoutcommandbar.md).
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

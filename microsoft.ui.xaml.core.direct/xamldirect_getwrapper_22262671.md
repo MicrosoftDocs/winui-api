@@ -11,11 +11,10 @@ public static Microsoft.UI.Xaml.Core.Direct.IXamlDirect GetWrapper ();
 
 ## -description
 
+Gets the value of a _Wrapper_ property for a specific [IXamlDirectObject](ixamldirectobject.md).
+
 ## -returns
 
-## -remarks
+_Wrapper_ value of the specified property.
 
 ## -see-also
-
-## -examples
-

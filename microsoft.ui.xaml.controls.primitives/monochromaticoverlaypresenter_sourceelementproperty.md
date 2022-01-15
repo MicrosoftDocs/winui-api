@@ -9,7 +9,6 @@
 public static Windows.UI.Xaml.DependencyProperty SourceElementProperty { get; }
 -->
 
-
 ## -description
 
 Identifies the [SourceElement](monochromaticoverlaypresenter_sourceelement.md) dependency property.
@@ -23,5 +22,3 @@ The identifier for the [SourceElement](monochromaticoverlaypresenter_sourceeleme
 ## -see-also
 
 ## -examples
-
-

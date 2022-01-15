@@ -9,13 +9,12 @@
 public ProvideValueTargetProperty ();
 -->
 
-
 ## -description
+
+Initializes a new instance of the [ProvideValueTargetProperty](providevaluetargetproperty.md) class.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-

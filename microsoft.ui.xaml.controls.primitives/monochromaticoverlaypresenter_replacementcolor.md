@@ -9,15 +9,16 @@
 public Windows.UI.Color ReplacementColor { get; set; }
 -->
 
-
 ## -description
 
+Gets or sets the base color used to generate the monochromatic overlay.
+
 ## -property-value
+
+The base color used to generate the monochromatic overlay.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-
