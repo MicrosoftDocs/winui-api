@@ -11,11 +11,11 @@ public string Name { get; }
 
 ## -description
 
-Gets the name of the this member.
+Gets the name of this member.
 
 ## -property-value
 
-The name of the this member.
+The name of this member.
 
 ## -remarks
 
