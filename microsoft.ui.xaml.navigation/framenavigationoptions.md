@@ -15,11 +15,11 @@ Represents options for a frame navigation, including whether it is recorded in t
 
 ## -remarks
 
-FrameNavigationOptions is used as a parameter of the [Frame.NavigateToType](/uwp/api/windows.ui.xaml.controls.frame.navigatetotype(windows.ui.xaml.interop.typename,system.object,windows.ui.xaml.navigation.framenavigationoptions)) method.
+FrameNavigationOptions is used as a parameter of the [Frame.NavigateToType](/uwp/api/windows.ui.xaml.controls.frame.navigatetotype) method.
 
 ## -see-also
 
-[Frame.NavigateToType](/uwp/api/windows.ui.xaml.controls.frame.navigatetotype(windows.ui.xaml.interop.typename,system.object,windows.ui.xaml.navigation.framenavigationoptions))
+[Frame.NavigateToType](/uwp/api/windows.ui.xaml.controls.frame.navigatetotype)
 
 ## -examples
 
