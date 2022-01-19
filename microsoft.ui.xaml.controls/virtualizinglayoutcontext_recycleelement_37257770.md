@@ -21,9 +21,8 @@ The element to clear.
 
 ## -remarks
 
-This method calls [RecycleElementCore](virtualizinglayoutcontext_recycleelementcore_841643362.md), which must be implemented in a derived class.
+This method calls [RecycleElementCore(Windows.UI.Xaml.UIElement)](virtualizinglayoutcontext_recycleelementcore_841643362.md), which must be implemented in a derived class.
 
 ## -see-also
 
 ## -examples
-
