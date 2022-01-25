@@ -26,7 +26,7 @@ Represents a specialized app bar that provides layout for [AppBarButton](appbarb
 ## -remarks
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Command bar](/windows/apps/design/controls/app-bars).
+> For more info, design guidance, and code examples, see [Command bar](/windows/apps/design/controls/command-bar).
 
 Use a CommandBar to provide users with quick access to your app's most common tasks. It's a general-purpose, flexible, light-weight control that can display both complex content, such as images, progress bars, or text blocks, as well as simple commands such as [AppBarButton](appbarbutton.md), [AppBarToggleButton](appbartogglebutton.md), and [AppBarSeparator](appbarseparator.md) controls.
 
