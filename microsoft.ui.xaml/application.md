@@ -48,7 +48,7 @@ To provide general error handling for any exceptions that your app code doesn't 
 > [!NOTE]
 > The Application main file must be named `App.xaml`.
 
-The following events and virtual methods are **not** invoked when running in a Desktop app:
+The following events and virtual methods are **not** automatically invoked by the system when running in a Desktop app:
 
 - `void OnWindowCreated(Windows.UI.Xaml.WindowCreatedEventArgs args)`
 - `void overridable OnActivated(IActivatedEventArgs args)`
