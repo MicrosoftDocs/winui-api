@@ -15,7 +15,7 @@ Defines the priority levels that can be given to work assigned to a [DispatcherQ
 
 ## -enum-fields
 
-### -field Low: -10
+### -field Normal: 0
 
 Work will be dispatched once all **High** priority tasks are dispatched. If a new **High** priority work is scheduled, all new **High** priority tasks are processed before resuming **Normal** tasks. This is the default priority.
 
