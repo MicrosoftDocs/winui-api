@@ -15,23 +15,15 @@ Gets or sets a value that specifies whether the default title bar of the window 
 
 ## -property-value
 
-True, if the default title bar should be hidden. Otherwise, false.
+`true` if the default title bar should be hidden; otherwise, `false`.
 
 ## -remarks
 
-The following two steps are required when specifying a custom window title bar:
+Use this property in conjunction with the [SetTitleBar](window_settitlebar_1494775390.md) method to replace your app window's system title bar with custom content. See [SetTitleBar](window_settitlebar_1494775390.md) for more info and an example.
 
-1. Set this property to true to hide the Windows default title bar and allocate space for a custom title bar.
-2. Call [SetTitleBar](window_settitlebar_1494775390.md) with your [UIElement](uielement.md).
+To specify a custom title bar, you must set `ExtendsContentIntoTitleBar` to `true` to hide the default system title bar. If `ExtendsContentIntoTitleBar` is `false`, a call to `SetTitleBar` does not have any effect. Your custom title bar element is shown in the body of your app window as an ordinary UI element and does not get the title bar behaviors.
 
-If you skip step 1, the default title bar is not hidden and your custom title bar is not shown.
-If you skip step 2, a small area next to the min/max/close buttons is allocated for the custom title bar until [SetTitleBar](window_settitlebar_1494775390.md) is called with a valid UIElement.
-
-See [SetTitleBar](window_settitlebar_1494775390.md) for an example.
-
-Setting this property only affects rendering, it does not affect pointer (such as mouse) behavior. For example, you can still use the mouse to click down in the area at the top of the window and drag the window around the desktop. To change this behavior, use [SetTitleBar](window_settitlebar_1494775390.md).
-
-Extending app content into the title bar does not affect the window buttons (Minimize, Maximize, and Close).
+If you set `ExtendsContentIntoTitleBar` to `true` but do not call `SetTitleBar`, the system title bar is restricted to the caption buttons and a small area next to the caption buttons that is reserved for title bar behaviors. However, your custom title bar element does not get title bar behaviors, such as drag and the system menu, until [SetTitleBar](window_settitlebar_1494775390.md) is called with a valid [UIElement](uielement.md).
 
 ## -see-also
 

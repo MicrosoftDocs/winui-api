@@ -40,7 +40,7 @@ Ensure you call [Activate](window_activate_1797342875.md) on any Window used on 
 
 ### OnLaunched
 
-The following code example shows the [OnLaunched](application_onlaunched_859642554.md) method override generated for the **WinUI in UWP (Experimental)** template in Microsoft Visual Studio. This code demonstrates typical usage patterns for the [Current](window_current.md) and [Content](window_content.md) properties and the [Activate](window_activate_1797342875.md) method.  
+The following code example shows the [OnLaunched](application_onlaunched_1344752508.md) method override generated for the **WinUI in UWP (Experimental)** template in Microsoft Visual Studio. This code demonstrates typical usage patterns for the [Current](window_current.md) and [Content](window_content.md) properties and the [Activate](window_activate_1797342875.md) method.  
 
 ```csharp
 protected override void OnLaunched(Microsoft.UI.Xaml.LaunchActivatedEventArgs e)
