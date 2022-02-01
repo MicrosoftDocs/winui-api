@@ -27,7 +27,7 @@ This example creates a linear gradient with four colors and uses it to paint a [
 
 [!code-xaml[Gradient1](../microsoft.ui.xaml.media/code/Gradients/csharp/Page.xaml#SnippetGradient1)]
 
-<img src="Images/graphicsmm_4gradientstops.png" alt="Image of example results with gradient stops" />
+<img src="images/graphicsmm_4gradientstops.png" alt="Image of example results with gradient stops" />
 
 ## -see-also
 [DependencyObject](../microsoft.ui.xaml/dependencyobject.md)

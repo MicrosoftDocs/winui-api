@@ -54,7 +54,7 @@ This XAML example shows how to set the [Foreground](../microsoft.ui.xaml.control
 
 [!code-xaml[imaging_ovw_painting_with_an_image](../microsoft.ui.xaml.media/code/imaging_ovw_painting_with_an_image/csharp/Page.xaml#Snippetimaging_ovw_painting_with_an_image)]
 
-<img src="Images/shrubbery.gif" alt="An ImageBrush applied to text" />
+<img src="images/shrubbery.gif" alt="An ImageBrush applied to text" />
 
 ## -see-also
 [TileBrush](tilebrush.md), [Image](../microsoft.ui.xaml.controls/image.md), [Image and ImageBrush](/windows/uwp/controls-and-patterns/images-imagebrushes), [XAML vector-based drawing sample (see Scenario 2)](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/Official%20Windows%20Platform%20Sample/XAML%20vector-based%20drawing%20sample)

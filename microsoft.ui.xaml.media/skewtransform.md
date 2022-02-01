@@ -27,7 +27,7 @@ This example uses a SkewTransform to skew text. A *skew*, also known as a *shear
 
 The text looks like this after the transform is applied:
 
-![Text with a skew transform applied](Images/skewed_text.png)
+![Text with a skew transform applied](images/skewed_text.png)
 
 This example shows how you can access and modify a transform in code at runtime. Each time the rectangle is pressed, the skew is increased.
 

@@ -10,24 +10,26 @@ public class ScaleTransform : Windows.UI.Xaml.Media.Transform, Windows.UI.Xaml.M
 # Microsoft.UI.Xaml.Media.ScaleTransform
 
 ## -description
+
 Scales an object in the two-dimensional x-y coordinate system.
 
 ## -xaml-syntax
+
 ```xaml
 <ScaleTransform .../>
 ```
 
-
 ## -remarks
 
 ## -examples
+
 This XAML example uses a ScaleTransform to scale text from its original size.
 
 [!code-xaml[ScaleTransform](../microsoft.ui.xaml/code/transforms/csharp/Scale_Transform.xaml#SnippetScaleTransform)]
 
 The text looks like this after the transform is applied:
 
-![Text with a scale transform applied](Images/scaled_text.png)
+:::image type="content" source="images/scaled_text.png" alt-text="Text with a scale transform applied.":::
 
 This example shows how you can access and modify a transform in code at runtime. Each time the rectangle is pressed, the scale is increased.
 
@@ -38,4 +40,5 @@ This example shows how you can access and modify a transform in code at runtime.
 [!code-vb[transforms_ovw_interactive_transforms_code](../microsoft.ui.xaml.media/code/transforms_ovw_interactive_transforms/vbnet/Page.xaml.vb#Snippettransforms_ovw_interactive_transforms_code)]
 
 ## -see-also
+
 [Transform](transform.md), [XAML two-dimensional transforms sample](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/Official%20Windows%20Platform%20Sample/Windows%208.1%20Store%20app%20samples/99866-Windows%208.1%20Store%20app%20samples/XAML%20two-dimensional%20transforms%20sample)

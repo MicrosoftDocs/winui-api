@@ -77,7 +77,7 @@ The following example creates a radial gradient with six gradient stops and uses
 </Page>
 ```
 
-![A rectangle filled with a radial gradient](Images/ColorRadialGradientBrush.png)
+![A rectangle filled with a radial gradient](images/ColorRadialGradientBrush.png)
 
 This example creates a radial gradient that uses Absolute mapping mode with custom values for `Center`, `RadiusX`, `RadiusY` and `GradientOrigin`:
 
@@ -103,4 +103,4 @@ This example creates a radial gradient that uses Absolute mapping mode with cust
 </Page>
 ```
 
-![Gradient axis for a vertical gradient](Images/OffsetRadialGradientBrush.png)
+![Gradient axis for a vertical gradient](images/OffsetRadialGradientBrush.png)
