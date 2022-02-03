@@ -24,7 +24,7 @@ You can use the Character Map application that comes with Windows to browse the 
 
 The Segoe MDL2 Assets font ships with Windows 10, and new glyphs might be added in every release. You should verify that the Unicode value you choose is available in the minimum SDK build version your project targets.
 
-NavigationViewItem also supports [AnimatedIcon](/uwp/api/Microsoft.xaml.controls.animatedicon). If you set an AnimatedIcon as the value of the Icon property, the NavigationViewItem will set the states of the AnimatedIcon for you, according to the states of the control.
+NavigationViewItem also supports <xref:Microsoft.UI.Xaml.Controls.AnimatedIcon>. If you set an AnimatedIcon as the value of the Icon property, the NavigationViewItem will set the states of the AnimatedIcon for you, according to the states of the control.
 
 The NavigationViewItem will automatically set the following states on the AnimatedIcon:
 
