@@ -11,7 +11,7 @@ public IVector<KeyboardAccelerator> KeyboardAccelerators { get; }
 
 ## -description
 
-Gets or sets the collection of key combinations for this element that invoke an action using the keyboard.
+Gets the collection of key combinations for this element that invoke an action using the keyboard.
 
 ## -property-value
 
