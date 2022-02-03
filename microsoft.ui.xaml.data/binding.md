@@ -32,7 +32,7 @@ To bind to a property or a sub-property on a data object, set the [Path](binding
 You can apply an instance of a Binding class to multiple targets. However, you cannot modify the property values of a Binding object after you attach it to a target element.
 
 > [!NOTE]
-> Calling the [FrameworkElement.SetBinding](/uwp/api/windows.ui.xaml.frameworkelement.setbinding(windows.ui.xaml.dependencyproperty,windows.ui.xaml.data.bindingbase)) method and passing in a new Binding object won't necessarily remove an existing binding. Instead, you should use the [DependencyObject.ClearValue](/uwp/api/windows.ui.xaml.dependencyobject.clearvalue(windows.ui.xaml.dependencyproperty)) method.
+> Calling the [FrameworkElement.SetBinding](/uwp/api/windows.ui.xaml.frameworkelement.setbinding(windows.ui.xaml.dependencyproperty,windows.ui.xaml.data.bindingbase)) method and passing in a new Binding object won't necessarily remove an existing binding. Instead, you should use the <xref:Microsoft.UI.Xaml.DependencyObject.ClearValue(Microsoft.UI.Xaml.DependencyProperty)?displayProperty=nameWithType> method.
 
 For more info on XAML attribute usage for properties that can take a Binding, or that can otherwise be set to a data-bound value, see [{Binding} markup extension](/windows/uwp/xaml-platform/binding-markup-extension).
 
