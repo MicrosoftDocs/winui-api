@@ -86,14 +86,30 @@ This example shows how to override the default values in App.xaml.
 This example shows how to extend the window's content area and replace the system title bar with a Grid that contains an icon and title text.
 
 ```xaml
-<Grid x:Name="AppTitleBar" Margin="0,0,120,0">
-    <Image Source="Assets/Square44x44Logo.png"
-           HorizontalAlignment="Left" 
-           Width="20" Height="20" Margin="12,0"/>
-    <TextBlock x:Name="AppTitleTextBlock" Text="Custom Title Bar" 
-               Style="{StaticResource CaptionTextBlockStyle}" 
-               Margin="44,0,0,0" VerticalAlignment="Center"/>
-</Grid>
+<Window ... >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="32"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Grid x:Name="AppTitleBar" Margin="0,0,120,0">
+            <Image Source="Images/WindowIcon.png"
+                   HorizontalAlignment="Left" 
+                   Width="16" Height="16" 
+                   Margin="8,0"/>
+            <TextBlock x:Name="AppTitleTextBlock" Text="App title"
+                       TextWrapping="NoWrap"
+                       Style="{StaticResource CaptionTextBlockStyle}" 
+                       VerticalAlignment="Center"
+                       Margin="28,0,0,0"/>
+        </Grid>
+
+        <NavigationView Grid.Row="1">
+            <!-- Page content -->
+        </NavigationView>
+    </Grid>
+</Window>
 ```
 
 ```csharp
