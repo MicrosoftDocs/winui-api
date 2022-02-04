@@ -31,4 +31,6 @@ The window detected a pointer interaction.
 
 ## -see-also
 
+<xref:Microsoft.UI.Xaml.WindowActivatedEventArgs.WindowActivationState?displayProperty=nameWithType>
+
 ## -examples
