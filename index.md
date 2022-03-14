@@ -14,22 +14,32 @@ There are two versions of WinUI that ship as NuGet packages: **WinUI 2** and **W
 
 The namespaces and APIs documented here are valid for both versions.
 
-- **WinUI 2**
+:::row:::
+    :::column:::
+        **WinUI 3**
+    :::column-end:::
+    :::column:::
+        **WinUI 2**
+    :::column-end:::
+:::row-end:::
+:::row:::
+    :::column:::
+          WinUI 3 can be used in all desktop (.NET and native Win32) apps.<br/><br/>
+          Download and install the [Windows App SDK VSIX package](https://marketplace.visualstudio.com/items?itemName=ProjectReunion.MicrosoftProjectReunion) to add both the WinUI 3 project templates and the NuGet package containing the WinUI 3 libraries to Visual Studio. For more details, see [Windows App SDK](/windows/apps/windows-app-sdk/stable-channel).
+    :::column-end:::
+    :::column:::
+          WinUI 2 can be used in UWP apps, or Win32 apps through XAML Islands.<br/><br/>
+          Install the WinUI 2 NuGet package through the Visual Studio NuGet Package Manager. For more details, see [Getting started with the Windows UI 2 Library](/windows/apps/winui/winui2/getting-started).
+    :::column-end:::
+:::row-end:::
 
-  The WinUI 2 NuGet package is installed through the Visual Studio NuGet Package Manager and can be used in standard UWP projects, or in Win32 apps via XAML Islands.
+## -examples
 
-  For more details, see [Getting started with the Windows UI 2 Library](/windows/apps/winui/winui2/getting-started).
-
-- **WinUI 3**
-
-  WinUI 3 can be used in all Desktop apps. Download and install the [Windows App SDK VSIX package](https://marketplace.visualstudio.com/items?itemName=ProjectReunion.MicrosoftProjectReunion). This adds both the WinUI 3 project templates and the NuGet package containing the WinUI 3 libraries to Visual Studio 2019.
-
-  For instructions and more details, see [Windows App SDK](/windows/apps/windows-app-sdk/stable-channel).
-
-### Samples
-
-See examples of WinUI features and controls in the **XAML Controls Gallery** sample app.
-
-If you don't have the XAML Controls Gallery app installed, get the WinUI 2.x version from the [Microsoft Store](https://www.microsoft.com/p/xaml-controls-gallery/9msvh128x2zt).
-
-You can also view, clone, and build the XAML Controls Gallery source code from [GitHub](https://github.com/Microsoft/Xaml-Controls-Gallery) (switch to the [WinUI 3 branch](https://github.com/microsoft/Xaml-Controls-Gallery/tree/winui3) for WinUI 3 controls and features).
+> [!TIP]
+> The **WinUI 3 Gallery** and **WinUI 2 Gallery** apps include interactive examples of most WinUI 3 and WinUI 2 controls, features, and functionality.
+>
+> If installed already, open them by clicking the following links: [**WinUI 3 Gallery**](winui3gallery:) or [**WinUI 2 Gallery**](winui2gallery:).
+>
+> If they are not installed, you can get the [**WinUI 3 Gallery**](https://www.microsoft.com/p/winui-3-controls-gallery/9p3jfpwwdzrc) and the [**WinUI 2 Gallery**](https://www.microsoft.com/p/xaml-controls-gallery/9msvh128x2zt) from the Microsoft Store.
+>
+> You can also view, clone, and build both from [GitHub](https://github.com/Microsoft/WinUI-Gallery) (use the *main* branch for WinUI 3 controls and features and the *winui2* branch for WinUI 2 controls and features).
