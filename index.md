@@ -41,4 +41,4 @@ This section provides detailed API reference information for the Windows UI Libr
 >
 > If they are not installed, you can get the [**WinUI 3 Gallery**](https://www.microsoft.com/p/winui-3-controls-gallery/9p3jfpwwdzrc) and the [**WinUI 2 Gallery**](https://www.microsoft.com/p/xaml-controls-gallery/9msvh128x2zt) from the Microsoft Store.
 >
-> You can also view, clone, and build both from [GitHub](https://github.com/Microsoft/WinUI-Gallery) (use the *main* branch for WinUI 3 controls and features and the *winui2* branch for WinUI 2 controls and features).
+> You can also view, clone, and build both from [GitHub](https://github.com/Microsoft/WinUI-Gallery) (use the *main* branch for WinUI 3 and the *winui2* branch for WinUI 2).
