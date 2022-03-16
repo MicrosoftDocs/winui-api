@@ -8,9 +8,9 @@ ms.custom: RS5
 
 ## -description
 
-This section provides detailed API reference information for the Windows UI Library (WinUI) APIs that ship as **WinUI 3** and **WinUI 2**.
+This section provides detailed API reference information for the Windows UI Library (WinUI) APIs that ship as **WinUI 3** and **WinUI 2**. See the [APIs](#apis) section below.
 
-> [!Important]
+> [!Tip]
 > Select the WinUI version from the drop down above the TOC. The default is the most recent version that supports the selected API.
 
 :::row:::
@@ -42,3 +42,5 @@ This section provides detailed API reference information for the Windows UI Libr
 > If they are not installed, you can get the [**WinUI 3 Gallery**](https://www.microsoft.com/p/winui-3-controls-gallery/9p3jfpwwdzrc) and the [**WinUI 2 Gallery**](https://www.microsoft.com/p/xaml-controls-gallery/9msvh128x2zt) from the Microsoft Store.
 >
 > You can also view, clone, and build both from [GitHub](https://github.com/Microsoft/WinUI-Gallery) (use the *main* branch for WinUI 3 and the *winui2* branch for WinUI 2).
+
+## APIs
