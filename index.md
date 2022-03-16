@@ -8,7 +8,7 @@ ms.custom: RS5
 
 ## -description
 
-This section provides detailed API reference information for the Windows UI Library (WinUI) APIs that ship as **WinUI 3** and **WinUI 2**. See the [APIs](#apis) section below.
+This section provides detailed API reference information for the Windows UI Library (WinUI) APIs that ship as **WinUI 3** and **WinUI 2**. For links to the APIs, see the [Namespaces](#namespaces) section below.
 
 > [!Tip]
 > Select the WinUI version from the drop down above the TOC.
@@ -43,4 +43,4 @@ This section provides detailed API reference information for the Windows UI Libr
 >
 > You can also get the source code for both from [GitHub](https://github.com/Microsoft/WinUI-Gallery) (use the *main* branch for WinUI 3 and the *winui2* branch for WinUI 2).
 
-## APIs
+## Namespaces
