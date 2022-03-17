@@ -94,7 +94,7 @@ For comparison, here's the same override generated for the **WinUI in Desktop** 
 
 ### Create a new Window
 
-In a Desktop app you can create each Window explicitly. Creating more than one Window requires the 1.0.1 update to WindowsAppSDK.
+In a Desktop app you can create each Window explicitly. Creating more than one Window requires the 1.0.1 update to WindowsAppSDK, and is limited to a single thread.
 
 ```csharp
 Window window = new Window();
@@ -134,7 +134,7 @@ window.Activate();
 
 In a UWP app, each UI thread already has a Window that can be retrieved with the static [Window.Current](window_current.md) property. You can create additional windows using [CoreApplicationView](/uwp/api/Windows.ApplicationModel.Core.CoreApplicationView), which is always created on a new thread (along with corresponding [ApplicationView](/uwp/api/Windows.UI.ViewManagement.ApplicationView), [CoreWindow](/uwp/api/windows.ui.core.corewindow), and Window objects).
 
-Note that creating multiple windows requires the 1.0.1 update to WindowsAppSDK.
+Note that creating multiple windows requires the 1.0.1 update to WindowsAppSDK, and is limited to a single thread.
 
 ```csharp
 _ = CoreApplication.CreateNewView().DispatcherQueue.TryEnqueue(() =>
