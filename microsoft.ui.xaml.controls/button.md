@@ -78,19 +78,19 @@ This table shows the resources used by the Button control.
 > [!TIP]
 > For more info, design guidance, and code examples, see [Buttons](/windows/apps/design/controls/buttons).
 >
-> If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the Button in action](xamlcontrolsgallery:/item/Button).
-> + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
-> + [Get the source code (GitHub)](https://github.com/Microsoft/Xaml-Controls-Gallery)
+> The **WinUI 3 Gallery** and **WinUI 2 Gallery** apps include interactive examples of most WinUI 3 and WinUI 2 controls, features, and functionality.
+>
+> If installed already, open them by clicking the following links: [**WinUI 3 Gallery**](winui3gallery:/item/Button) or [**WinUI 2 Gallery**](winui2gallery:/item/Button).
+>
+> If they are not installed, you can download the [**WinUI 3 Gallery**](https://www.microsoft.com/p/winui-3-controls-gallery/9p3jfpwwdzrc) and the [**WinUI 2 Gallery**](https://www.microsoft.com/p/xaml-controls-gallery/9msvh128x2zt) from the Microsoft Store.
+>
+> You can also get the source code for both from [GitHub](https://github.com/Microsoft/WinUI-Gallery) (use the *main* branch for WinUI 3 and the *winui2* branch for WinUI 2).
 
 The following example shows three buttons that respond to clicks in three different ways based on their [ClickMode](../microsoft.ui.xaml.controls.primitives/buttonbase_clickmode.md) property value.
-
 
 +  **Hover** - When the mouse pointer hovers over the first button, the foreground color of the button changes.
 +  **Press** - When the left mouse button is pressed over the second button, the foreground color of the button changes.
 +  **Release** - When the mouse button is pressed and released when over the third button, the button resets the foreground color of the other two buttons to their original color.
-
-
-
 
 [!code-xaml[1](../microsoft.ui.xaml.data/code/System.Windows.Controls.ButtonClickModeSL/csharp/Page.xaml#Snippet1)]
 
@@ -99,4 +99,6 @@ The following example shows three buttons that respond to clicks in three differ
 [!code-vb[11](../microsoft.ui.xaml.data/code/System.Windows.Controls.ButtonClickModeSL/vbnet/Page.xaml.vb#Snippet11)]
 
 ## -see-also
-[Buttons overview](/windows/uwp/controls-and-patterns/buttons), [Button styles and templates](/windows/apps/design/style/xaml-styles), [AppBarButton](appbarbutton.md), [CheckBox](checkbox.md), [HyperlinkButton](hyperlinkbutton.md), [RepeatButton](../microsoft.ui.xaml.controls.primitives/repeatbutton.md), [RadioButton](radiobutton.md), [ToggleSwitch](toggleswitch.md) 
+
+[Buttons overview](/windows/uwp/controls-and-patterns/buttons), [Button styles and templates](/windows/apps/design/style/xaml-styles), [AppBarButton](appbarbutton.md), [CheckBox](checkbox.md), [HyperlinkButton](hyperlinkbutton.md), [RepeatButton](../microsoft.ui.xaml.controls.primitives/repeatbutton.md), [RadioButton](radiobutton.md), [ToggleSwitch](toggleswitch.md)
+

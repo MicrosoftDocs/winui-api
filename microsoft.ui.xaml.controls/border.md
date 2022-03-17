@@ -33,9 +33,13 @@ A Border can contain only one child object. If you want to put a border around m
 ## -examples
 
 > [!TIP]
-> If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the Border in action](xamlcontrolsgallery:/item/Border).
-> + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
-> + [Get the source code (GitHub)](https://github.com/Microsoft/Xaml-Controls-Gallery)
+> The **WinUI 3 Gallery** and **WinUI 2 Gallery** apps include interactive examples of most WinUI 3 and WinUI 2 controls, features, and functionality.
+>
+> If installed already, open them by clicking the following links: [**WinUI 3 Gallery**](winui3gallery:/item/Border) or [**WinUI 2 Gallery**](winui2gallery:/item/Border).
+>
+> If they are not installed, you can download the [**WinUI 3 Gallery**](https://www.microsoft.com/p/winui-3-controls-gallery/9p3jfpwwdzrc) and the [**WinUI 2 Gallery**](https://www.microsoft.com/p/xaml-controls-gallery/9msvh128x2zt) from the Microsoft Store.
+>
+> You can also get the source code for both from [GitHub](https://github.com/Microsoft/WinUI-Gallery) (use the *main* branch for WinUI 3 and the *winui2* branch for WinUI 2).
 
 This example shows how to put a Border around several [Rectangle](../microsoft.ui.xaml.shapes/rectangle.md) objects contained in a [StackPanel](stackpanel.md).
 

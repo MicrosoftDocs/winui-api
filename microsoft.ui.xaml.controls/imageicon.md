@@ -30,7 +30,7 @@ Due to the file types supported, `ImageIcon` ignores the [Foreground](iconelemen
 > [!TIP]
 > For more info, design guidance, and code examples, see [Command bar](/windows/uwp/controls-and-patterns/app-bars).
 >
-> If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the ImageIcon in action](xamlcontrolsgallery:/item/AppBarButton).
+> If you have the **XAML Controls Gallery** app installed, [open the app and see the ImageIcon in action](xamlcontrolsgallery:/item/AppBarButton).
 >
 > - [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
 > - [Get the source code (GitHub)](https://github.com/Microsoft/Xaml-Controls-Gallery)

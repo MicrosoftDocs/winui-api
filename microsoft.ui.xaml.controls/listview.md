@@ -25,9 +25,6 @@ Represents a control that displays data items in a vertical stack.
 
 ## -remarks
 
-> [!TIP]
-> For more info, design guidance, and code examples, see [List view and grid view](/windows/apps/design/controls/listview-and-gridview).
-
 Use a ListView to display a collection of items stacked vertically or horizontally. To display a collection in rows and columns, use a [GridView](gridview.md).
 
 <img alt="List view control" src="images/controls/ListViewBasic.png" />
@@ -84,9 +81,14 @@ List controls that derive from [Selector](../microsoft.ui.xaml.controls.primitiv
 > [!TIP]
 > For more info, design guidance, and code examples, see [List view and grid view](/windows/apps/design/controls/listview-and-gridview).
 >
-> If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the ListView in action](xamlcontrolsgallery:/item/ListView).
-> + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
-> + [Get the source code (GitHub)](https://github.com/Microsoft/Xaml-Controls-Gallery)
+> The **WinUI 3 Gallery** and **WinUI 2 Gallery** apps include interactive examples of most WinUI 3 and WinUI 2 controls, features, and functionality.
+>
+> If installed already, open them by clicking the following links: [**WinUI 3 Gallery**](winui3gallery:/item/ListView) or [**WinUI 2 Gallery**](winui2gallery:/item/ListView).
+>
+> If they are not installed, you can download the [**WinUI 3 Gallery**](https://www.microsoft.com/p/winui-3-controls-gallery/9p3jfpwwdzrc) and the [**WinUI 2 Gallery**](https://www.microsoft.com/p/xaml-controls-gallery/9msvh128x2zt) from the Microsoft Store.
+>
+> You can also get the source code for both from [GitHub](https://github.com/Microsoft/WinUI-Gallery) (use the *main* branch for WinUI 3 and the *winui2* branch for WinUI 2).
+
 
 In this example, the [ItemTemplate](itemscontrol_itemtemplate.md) of a ListView is defined inline. Because the [ItemsSource](itemscontrol_itemssource.md) is set, the [ItemTemplate](itemscontrol_itemtemplate.md) is applied to every item.
 

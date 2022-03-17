@@ -77,9 +77,13 @@ This table shows the resources used by the ComboBox control.
 > [!TIP]
 > For more info, design guidance, and code examples, see [Combo box](/windows/apps/design/controls/combo-box).
 >
-> If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the ComboBox in action](xamlcontrolsgallery:/item/ComboBox).
-> + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
-> + [Get the source code (GitHub)](https://github.com/Microsoft/Xaml-Controls-Gallery)
+> The **WinUI 3 Gallery** and **WinUI 2 Gallery** apps include interactive examples of most WinUI 3 and WinUI 2 controls, features, and functionality.
+>
+> If installed already, open them by clicking the following links: [**WinUI 3 Gallery**](winui3gallery:/item/ComboBox) or [**WinUI 2 Gallery**](winui2gallery:/item/ComboBox).
+>
+> If they are not installed, you can download the [**WinUI 3 Gallery**](https://www.microsoft.com/p/winui-3-controls-gallery/9p3jfpwwdzrc) and the [**WinUI 2 Gallery**](https://www.microsoft.com/p/xaml-controls-gallery/9msvh128x2zt) from the Microsoft Store.
+>
+> You can also get the source code for both from [GitHub](https://github.com/Microsoft/WinUI-Gallery) (use the *main* branch for WinUI 3 and the *winui2* branch for WinUI 2).
 
 The following example demonstrates binding a ComboBox to a collection of [FontFamily](../microsoft.ui.xaml.media/fontfamily.md) objects.
 
@@ -87,9 +91,6 @@ The following example demonstrates binding a ComboBox to a collection of [FontFa
 <ComboBox x:Name="FontsCombo" Header="Fonts" Height="44" Width="296" 
           ItemsSource="{x:Bind fonts}" DisplayMemberPath="Source"/>
 ```
-
-
-
 
 <!--<auto_snippet sample_id="ComboBoxBoundEx" snippet_id="1"/>-->
 ```csharp

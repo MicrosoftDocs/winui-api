@@ -21,7 +21,7 @@ ImageIconSource is similar to [ImageIcon](imageicon.md). However, because it is 
 
 > [!TIP]
 >
-> If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the ImageIcon in action](xamlcontrolsgallery:/item/AppBarButton).
+> If you have the **XAML Controls Gallery** app installed, [open the app and see the ImageIcon in action](xamlcontrolsgallery:/item/AppBarButton).
 >
 > - [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
 > - [Get the source code (GitHub)](https://github.com/Microsoft/Xaml-Controls-Gallery)
