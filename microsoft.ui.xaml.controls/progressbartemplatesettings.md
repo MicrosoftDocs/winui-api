@@ -23,10 +23,14 @@ The values from ProgressBarTemplateSettings are typically used as either the "To
 
 ## -examples
 
-See the **XAML Controls Gallery** sample app for examples of WinUI features and controls.
+> [!TIP]
+> For more info, design guidance, and code examples, see [Progress controls](/windows/apps/design/controls/progress-controls).
+>
+> The **WinUI 3 Gallery** and **WinUI 2 Gallery** apps include interactive examples of most WinUI 3 and WinUI 2 controls, features, and functionality.
+>
+> If installed already, open them by clicking the following links: [**WinUI 3 Gallery**](winui3gallery:/item/ProgressBar) or [**WinUI 2 Gallery**](winui2gallery:/item/ProgressBar).
+>
+> If they are not installed, you can download the [**WinUI 3 Gallery**](https://www.microsoft.com/p/winui-3-controls-gallery/9p3jfpwwdzrc) and the [**WinUI 2 Gallery**](https://www.microsoft.com/p/xaml-controls-gallery/9msvh128x2zt) from the Microsoft Store.
+>
+> You can also get the source code for both from [GitHub](https://github.com/Microsoft/WinUI-Gallery) (use the *main* branch for WinUI 3 and the *winui2* branch for WinUI 2).
 
-If you have the **XAML Controls Gallery** app installed, see the [ProgressBar](xamlcontrolsgallery:/item/ProgressBar) in action.
-
-If you don't have the XAML Controls Gallery app installed, get the WinUI 2.x version from the [Microsoft Store](https://www.microsoft.com/p/xaml-controls-gallery/9msvh128x2zt).
-
-You can also view, clone, and build the XAML Controls Gallery source code from [GitHub](https://github.com/Microsoft/Xaml-Controls-Gallery) (switch to the [WinUI 3 Preview branch](https://github.com/microsoft/Xaml-Controls-Gallery/tree/winui3preview) for WinUI 3 Preview controls and features).
