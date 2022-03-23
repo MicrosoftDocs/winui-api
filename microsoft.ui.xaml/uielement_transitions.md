@@ -62,7 +62,7 @@ It's not common to set the value of the Transitions property directly on a [UIEl
 >
 > If installed already, open them by clicking the following links: [**WinUI 3 Gallery Implicit Transitions**](winui3gallery:/item/ImplicitTransitions)/[**WinUI 3 Gallery Theme Transitions**](winui3gallery:/item/ThemeTransitions) or [**WinUI 2 Gallery Implicit Transitions**](winui2gallery:/item/ImplicitTransitions)/[**WinUI 2 Gallery Theme Transitions**](winui2gallery:/item/ThemeTransitions).
 >
-> If they are not installed, you can download the [**WinUI 3 Gallery**](https://www.microsoft.com/p/winui-3-controls-gallery/9p3jfpwwdzrc) and the [**WinUI 2 Gallery**](https://www.microsoft.com/p/xaml-controls-gallery/9msvh128x2zt) from the Microsoft Store.
+> If they are not installed, you can download the [**WinUI 3 Gallery**](https://www.microsoft.com/store/productId/9P3JFPWWDZRC) and the [**WinUI 2 Gallery**](https://www.microsoft.com/store/productId/9MSVH128X2ZT) from the Microsoft Store.
 >
 > You can also get the source code for both from [GitHub](https://github.com/Microsoft/WinUI-Gallery) (use the *main* branch for WinUI 3 and the *winui2* branch for WinUI 2).
 

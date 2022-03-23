@@ -37,7 +37,7 @@ If the items in the collection are collections themselves, or are objects that c
 >
 > If installed already, open them by clicking the following links: [**WinUI 3 Gallery**](winui3gallery:/item/SemanticZoom) or [**WinUI 2 Gallery**](winui2gallery:/item/SemanticZoom).
 >
-> If they are not installed, you can download the [**WinUI 3 Gallery**](https://www.microsoft.com/p/winui-3-controls-gallery/9p3jfpwwdzrc) and the [**WinUI 2 Gallery**](https://www.microsoft.com/p/xaml-controls-gallery/9msvh128x2zt) from the Microsoft Store.
+> If they are not installed, you can download the [**WinUI 3 Gallery**](https://www.microsoft.com/store/productId/9P3JFPWWDZRC) and the [**WinUI 2 Gallery**](https://www.microsoft.com/store/productId/9MSVH128X2ZT) from the Microsoft Store.
 >
 > You can also get the source code for both from [GitHub](https://github.com/Microsoft/WinUI-Gallery) (use the *main* branch for WinUI 3 and the *winui2* branch for WinUI 2).
 
