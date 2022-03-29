@@ -11,7 +11,7 @@ ms.custom: RS5
 This section provides detailed API reference information for the Windows UI Library (WinUI) APIs that ship as **WinUI 3** and **WinUI 2**. For links to the APIs, see the [Namespaces](#namespaces) section below.
 
 > [!Tip]
-> Select the WinUI version from the drop down above the TOC.
+> Select the WinUI version using the drop down above the API reference TOC.
 
 :::row:::
     :::column:::
