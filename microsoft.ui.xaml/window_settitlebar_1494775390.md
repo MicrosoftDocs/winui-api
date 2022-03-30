@@ -52,7 +52,7 @@ For example:
 
 ## Colors
 
-When you use a custom title bar, you can modify the colors of the caption buttons to match your app. To do so, override the following resources (shown here with their default values):
+When you use a custom title bar, you can modify the colors of the caption buttons to match your app.  To do so, override the following resources (shown here with their default values):
 
 ```xaml
 <StaticResource x:Key="WindowCaptionBackground" ResourceKey="SystemControlBackgroundBaseLowBrush" />
