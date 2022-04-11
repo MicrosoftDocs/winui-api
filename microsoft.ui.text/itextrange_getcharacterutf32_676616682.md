@@ -17,15 +17,16 @@ Retrieves the Unicode Transformation Format (UTF)-32 character code of the chara
 The character value.
 
 ### -param offset
-The offset from the end of the text range.<table>
-   <tr><th>If *offset* is</th><th>The method returns this character</th></tr>
-   <tr><td>0</td><td>The character at the end of the range</td></tr>
-   <tr><td>in the middle of a surrogate pair</td><td>The corresponding UTF-32 character</td></tr>
-</table>
+The offset from the end of the text range.
+
+| If *offset* is | The method returns this character |
+|---|---|
+| 0 | The character at the end of the range |
+| in the middle of a surrogate pair | The corresponding UTF-32 character |
 
 ## -remarks
 This method differs from [ITextRange.Character](itextrange_character.md) in the following ways: 
-+ It returns the Unicode Transformation Format (UTF)-32 character code for a Unicode Transformation Format (UTF)-16 surrogate pair instead of the pair’s lead code (see Sections 3.8 and 3.9 and Table 3-5 in [The Unicode Standard](https://www.unicode.org/versions/Unicode6.0.0/) for explanations of this notation).
++ It returns the Unicode Transformation Format (UTF)-32 character code for a Unicode Transformation Format (UTF)-16 surrogate pair instead of the pair's lead code (see Sections 3.8 and 3.9 and Table 3-5 in [The Unicode Standard](https://www.unicode.org/versions/Unicode6.0.0/) for explanations of this notation).
 + It gets the code for the character at the specified offset from the end of the text range instead of the character at the start of the range.
 
 

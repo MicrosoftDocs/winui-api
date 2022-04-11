@@ -11,7 +11,7 @@ public int MaximumRowsOrColumns { get; set; }
 
 ## -description
 
-Gets or sets the maximum number of items rendered per row or column, based on the orienation of the [UniformGridLayout](uniformgridlayout.md).
+Gets or sets the maximum number of items rendered per row or column, based on the orientation of the [UniformGridLayout](uniformgridlayout.md).
 
 ## -property-value
 
