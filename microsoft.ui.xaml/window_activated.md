@@ -42,4 +42,4 @@ void Current_Activated(object sender, Windows.UI.Core.WindowActivatedEventArgs e
 
 ## -see-also
 
-[WindowActivatedEventArgs](windowactivatedeventargs.md)
+<xref:Microsoft.UI.Xaml.WindowActivatedEventArgs>
