@@ -25,7 +25,7 @@ The window was deactivated.
 
 ### -field PointerActivated:2
 
-The window detected a pointer interaction.
+The window was activated by a pointer interaction.
 
 ## -remarks
 
