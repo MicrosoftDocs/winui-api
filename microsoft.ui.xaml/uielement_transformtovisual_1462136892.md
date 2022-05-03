@@ -34,9 +34,9 @@ The most common scenario for TransformToVisual is if you want to use a local coo
 
 This example shows a scenario for calling TransformToVisual in order to interpret the coordinates from a [PointerPoint](../microsoft.ui.input/pointerpoint.md) in the coordinate reference frame of an element that's not the event sender. Here, the `queryPointer` method first accesses coordinates that do relate to the sender but then later uses TransformToVisual to convert point coordinates into the reference frame for the `page` layout container that's actually several layers of containment higher in the XAML tree. To see more context for this code (including seeing how `queryPointer` displays results in UI and when it's called), see the complete code example that is shown in the topic [Handle pointer input](/windows/apps/design/input/handle-pointer-input).
 
-:::code language="xaml" source="../microsoft.ui.input.inking/code/PointerInput/csharp/MainPage.xaml" id="SnippetUI":::
+:::code language="xaml" source="./microsoft.ui.input.inking/code/PointerInput/csharp/MainPage.xaml" id="SnippetUI":::
 
-:::code language="csharp" source="../microsoft.ui.input.inking/code/PointerInput/csharp/MainPage.xaml.cs" id="SnippetQueryPointer":::
+:::code language="csharp" source="./microsoft.ui.input.inking/code/PointerInput/csharp/MainPage.xaml.cs" id="SnippetQueryPointer":::
 
 ## -see-also
 

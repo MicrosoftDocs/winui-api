@@ -61,7 +61,7 @@ SwapChainPanel has less restrictions on its interactions and placement in UI tha
 
 ### Processing input on background threads
 
-Using the [CreateCoreIndependentInputSource](swapchainpanel_createcoreindependentinputsource_467679991.md) method, apps can process input and render to a SwapChainPanel entirely on one or more background threads. This enables high performance input and rendering independent of the XAML UI thread.
+Using the <xref:Microsoft.UI.Xaml.Controls.SwapChainPanel.CreateCoreIndependentInputSource%2A> method, apps can process input and render to a SwapChainPanel entirely on one or more background threads. This enables high performance input and rendering independent of the XAML UI thread.
 
 ## -examples
 
