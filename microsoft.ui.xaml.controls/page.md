@@ -39,130 +39,29 @@ By default, each navigation creates a new instance of the specific Page (or subc
 You can override the page [OnNavigatedTo](page_onnavigatedto_1316593960.md), [OnNavigatingFrom](page_onnavigatingfrom_1820075439.md), and [OnNavigatedFrom](page_onnavigatedfrom_1545714785.md) methods to perform tasks such as initializing and saving the page state. [OnNavigatingFrom](page_onnavigatingfrom_1820075439.md) can be used to cancel a navigation by setting a [Cancel](../microsoft.ui.xaml.navigation/navigatingcanceleventargs_cancel.md) property in the event data from your handler.
 
 ## -examples
-The following code example shows an abridged version (except for the [C++/WinRT](/windows/uwp/cpp-and-winrt-apis/intro-to-using-cpp-with-winrt) version, which lists the full function) of the [OnLaunched](/uwp/api/windows.ui.xaml.application.onlaunched(windows.applicationmodel.activation.launchactivatedeventargs)) method override generated for the Blank App template in Visual Studio. This code shows how the content of the app window is set to a new [Frame](frame.md), which is then navigated to the default initial Page.
+
+These steps outline how to add a **Page** to a WinUI 3 project, and navigate to it.
+
+1. In Visual Studio, create a new C# project from the **Blank App, Packaged (WinUI 3 in Desktop)** project template. Add a new item to the project (**WinUI** > **Blank Page (WinUI 3)**) named `MainPage.xaml`.
+
+1. Then, in `App.xaml.cs`, edit the [OnLaunched](/windows/winui/api/microsoft.ui.xaml.application.onlaunched) method override so that it looks like the code listing below. The code shows how the content of the app's main window is set to a new [Frame](frame.md), which is then navigated to the **MainPage** that you just added.
 
 ```csharp
-        protected override void OnLaunched(LaunchActivatedEventArgs e)
-        {
-            Frame rootFrame = Window.Current.Content as Frame;
-            if (rootFrame == null)
-            {
-                // Create a Frame to act as the navigation context and navigate to the first page
-                rootFrame = new Frame();
-                // Place the frame in the current Window
-                Window.Current.Content = rootFrame;
-            }
-            if (rootFrame.Content == null)
-            {
-                // When the navigation stack isn't restored navigate to the first page,
-                // configuring the new page by passing required information as a navigation
-                // parameter
-                rootFrame.Navigate(typeof(MainPage), e.Arguments);
-            }
-            // Ensure the current window is active
-            Window.Current.Activate();
-        }
-```
-
-```vbnet
-    Protected Overrides Sub OnLaunched(e As Windows.ApplicationModel.Activation.LaunchActivatedEventArgs)
-        Dim rootFrame As Frame = TryCast(Window.Current.Content, Frame)
-        If rootFrame Is Nothing Then
-            ' Create a Frame to act as the navigation context and navigate to the first page
-            rootFrame = New Frame()
-            ' Place the frame in the current Window
-            Window.Current.Content = rootFrame
-        End If
-        If rootFrame.Content Is Nothing Then
-            ' When the navigation stack isn't restored navigate to the first page,
-            ' configuring the new page by passing required information as a navigation
-            ' parameter
-            rootFrame.Navigate(GetType(MainPage), e.Arguments)
-        End If
-        ' Ensure the current window is active
-        Window.Current.Activate()
-    End Sub
-```
-
-```cppwinrt
-void App::OnLaunched(LaunchActivatedEventArgs const& e)
+protected override void OnLaunched(Microsoft.UI.Xaml.LaunchActivatedEventArgs args)
 {
-    Frame rootFrame{ nullptr };
-    auto content = Window::Current().Content();
-    if (content)
-    {
-        rootFrame = content.try_as<Frame>();
-    }
+    m_window = new MainWindow();
 
-    // Do not repeat app initialization when the Window already has content,
-    // just ensure that the window is active
-    if (rootFrame == nullptr)
-    {
-        // Create a Frame to act as the navigation context and associate it with
-        // a SuspensionManager key
-        rootFrame = Frame();
+    // Create a Frame to act as the navigation context.
+    Frame rootFrame = new Frame();
 
-        rootFrame.NavigationFailed({ this, &App::OnNavigationFailed });
+    rootFrame.NavigationFailed += OnNavigationFailed;
 
-        if (e.PreviousExecutionState() == ApplicationExecutionState::Terminated)
-        {
-            // Restore the saved session state only when appropriate, scheduling the
-            // final launch steps after the restore is complete
-        }
+    // Place the frame in the current Window
+    m_window.Content = rootFrame;
 
-        if (e.PrelaunchActivated() == false)
-        {
-            if (rootFrame.Content() == nullptr)
-            {
-                // When the navigation stack isn't restored navigate to the first page,
-                // configuring the new page by passing required information as a navigation
-                // parameter
-                rootFrame.Navigate(xaml_typename<BlankApp1::MainPage>(), box_value(e.Arguments()));
-            }
-            // Place the frame in the current Window
-            Window::Current().Content(rootFrame);
-            // Ensure the current window is active
-            Window::Current().Activate();
-        }
-    }
-    else
-    {
-        if (e.PrelaunchActivated() == false)
-        {
-            if (rootFrame.Content() == nullptr)
-            {
-                // When the navigation stack isn't restored navigate to the first page,
-                // configuring the new page by passing required information as a navigation
-                // parameter
-                rootFrame.Navigate(xaml_typename<BlankApp1::MainPage>(), box_value(e.Arguments()));
-            }
-            // Ensure the current window is active
-            Window::Current().Activate();
-        }
-    }
-}
-```
+    rootFrame.Navigate(typeof(MainPage), args.Arguments);
 
-```cppcx
-void App::OnLaunched(Windows::ApplicationModel::Activation::LaunchActivatedEventArgs^ e)
-{
-    auto rootFrame = dynamic_cast<Frame^>(Window::Current->Content);
-    if (rootFrame == nullptr)
-    {
-        rootFrame = ref new Frame();
-        if (rootFrame->Content == nullptr)
-        {
-            // When the navigation stack isn't restored navigate to the first page,
-            // configuring the new page by passing required information as a navigation
-            // parameter
-            rootFrame->Navigate(TypeName(MainPage::typeid), e->Arguments);
-        }
-        // Place the frame in the current Window
-        Window::Current->Content = rootFrame;
-        // Ensure the current window is active
-        Window::Current->Activate(); 
-    }
-    //else case omitted
+    m_window.Activate();
 }
 ```
 
