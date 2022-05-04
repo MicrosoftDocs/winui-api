@@ -130,37 +130,3 @@ MainWindow window = new MainWindow();
 window.Activate();
 ```
 
-### Create a new Window on a new thread
-
-In a UWP app, each UI thread already has a Window that can be retrieved with the static [Window.Current](window_current.md) property. You can create additional windows using [CoreApplicationView](/uwp/api/Windows.ApplicationModel.Core.CoreApplicationView), which is always created on a new thread (along with corresponding [ApplicationView](/uwp/api/Windows.UI.ViewManagement.ApplicationView), [CoreWindow](/uwp/api/windows.ui.core.corewindow), and Window objects).
-
-Note that creating multiple windows requires the 1.0.1 update to WindowsAppSDK, and is limited to a single thread.
-
-```csharp
-_ = CoreApplication.CreateNewView().DispatcherQueue.TryEnqueue(() =>
-{
-    // This code runs on the new thread
-    Window.Current.Content = new TextBlock() { Text = "Hello" };
-    Window.Current.Activate();
-});
-```
-
-To create a new Window on a new thread in a Desktop app, create the thread first and then use the DispatcherQueueSynchronizationContext to queue work to another thread.
-
-```csharp
-var thread = new Thread(() =>
-{
-    Window window = new Window();
-    window.Content = new TextBlock() { Text = "Hello" };
-    window.Activate();
-    window.Closed += (_, __) => w.DispatcherQueue.InvokeShutdown();
-
-    var syncContext = new DispatcherQueueSyncronizationContext();
-    SynchronizationContext.SetSynchronizationContext(syncContext);
-
-    this.ProcessEvents(); // Message pump
-});
-
-thread.SetApartmentState(ApartmentState.STA);
-thread.Start(); 
-```
