@@ -13,7 +13,7 @@ public Windows.Foundation.IAsyncOperation<Windows.ApplicationModel.DataTransfer.
 
 Initiates a drag-and-drop operation.
 
-> <!Important>
+> [!Important]
 > Not supported if a user runs the app in elevated mode, as an administrator.
 
 ## -parameters
