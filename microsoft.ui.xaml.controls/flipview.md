@@ -68,9 +68,14 @@ This table shows the resources used by the FlipView control.
 > [!TIP]
 > For more info, design guidance, and code examples, see [Flip view](/windows/apps/design/controls/flipview).
 >
-> If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the FlipView in action](xamlcontrolsgallery:/item/FlipView).
-> + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
-> + [Get the source code (GitHub)](https://github.com/Microsoft/Xaml-Controls-Gallery)
+> The **WinUI 3 Gallery** and **WinUI 2 Gallery** apps include interactive examples of most WinUI 3 and WinUI 2 controls, features, and functionality.
+>
+> If installed already, open them by clicking the following links: [**WinUI 3 Gallery**](winui3gallery:/item/FlipView) or [**WinUI 2 Gallery**](winui2gallery:/item/FlipView).
+>
+> If they are not installed, you can download the [**WinUI 3 Gallery**](https://www.microsoft.com/store/productId/9P3JFPWWDZRC) and the [**WinUI 2 Gallery**](https://www.microsoft.com/store/productId/9MSVH128X2ZT) from the Microsoft Store.
+>
+> You can also get the source code for both from [GitHub](https://github.com/Microsoft/WinUI-Gallery) (use the *main* branch for WinUI 3 and the *winui2* branch for WinUI 2).
+
 
 In this example, the [ItemTemplate](itemscontrol_itemtemplate.md) of a FlipView is defined inline.
 

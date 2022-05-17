@@ -131,9 +131,14 @@ In order to support XAML processor access to the attached properties, and also t
 > [!TIP]
 > For more info, design guidance, and code examples, see [Layout panels](/windows/apps/design/layout/layout-panels#relativepanel).
 >
-> If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the RelativePanel in action](xamlcontrolsgallery:/item/RelativePanel).
-> + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
-> + [Get the source code (GitHub)](https://github.com/Microsoft/Xaml-Controls-Gallery)
+> The **WinUI 3 Gallery** and **WinUI 2 Gallery** apps include interactive examples of most WinUI 3 and WinUI 2 controls, features, and functionality.
+>
+> If installed already, open them by clicking the following links: [**WinUI 3 Gallery**](winui3gallery:/item/RelativePanel) or [**WinUI 2 Gallery**](winui2gallery:/item/RelativePanel).
+>
+> If they are not installed, you can download the [**WinUI 3 Gallery**](https://www.microsoft.com/store/productId/9P3JFPWWDZRC) and the [**WinUI 2 Gallery**](https://www.microsoft.com/store/productId/9MSVH128X2ZT) from the Microsoft Store.
+>
+> You can also get the source code for both from [GitHub](https://github.com/Microsoft/WinUI-Gallery) (use the *main* branch for WinUI 3 and the *winui2* branch for WinUI 2).
+
 
 ## -see-also
 [Panel](panel.md), [Define layouts with XAML](/windows/uwp/layout/layouts-with-xaml), [Quickstart: Adding layout controls](/previous-versions/windows/apps/hh969155(v=win.10)), [Alignment, margin, and padding](/windows/uwp/layout/alignment-margin-padding), [Canvas](canvas.md), [Grid](grid.md), [StackPanel](stackpanel.md), [VariableSizedWrapGrid](variablesizedwrapgrid.md), [Controls list](/windows/apps/design/controls/), [Controls by function](/windows/uwp/controls-and-patterns/controls-by-function)

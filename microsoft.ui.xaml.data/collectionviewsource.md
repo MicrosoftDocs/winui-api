@@ -29,7 +29,19 @@ If the items in the collection are collections themselves, or are objects that c
 > Setting the [Source](collectionviewsource_source.md) property to another CollectionViewSource instance is not supported.
 
 ## -examples
-The following code example demonstrates how to bind a [ListBox](../microsoft.ui.xaml.controls/listbox.md) control to the results of a grouping LINQ query. In this example, a collection of teams is grouped by city and displayed with the city name as the group headers. For the complete code listing, see the [XAML data binding sample](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/XamlBind). For additional example code on grouping, see the [XAML Controls Gallery - SemanticZoom sample](https://github.com/microsoft/Xaml-Controls-Gallery/blob/master/XamlControlsGallery/ControlPages/SemanticZoomPage.xaml).
+
+> [!TIP]
+> For more info, design guidance, and code examples, see [Semantic zoom](/windows/apps/design/controls/semantic-zoom).
+>
+> The **WinUI 3 Gallery** and **WinUI 2 Gallery** apps include interactive examples of most WinUI 3 and WinUI 2 controls, features, and functionality.
+>
+> If installed already, open them by clicking the following links: [**WinUI 3 Gallery**](winui3gallery:/item/SemanticZoom) or [**WinUI 2 Gallery**](winui2gallery:/item/SemanticZoom).
+>
+> If they are not installed, you can download the [**WinUI 3 Gallery**](https://www.microsoft.com/store/productId/9P3JFPWWDZRC) and the [**WinUI 2 Gallery**](https://www.microsoft.com/store/productId/9MSVH128X2ZT) from the Microsoft Store.
+>
+> You can also get the source code for both from [GitHub](https://github.com/Microsoft/WinUI-Gallery) (use the *main* branch for WinUI 3 and the *winui2* branch for WinUI 2).
+
+The following code example demonstrates how to bind a [ListBox](../microsoft.ui.xaml.controls/listbox.md) control to the results of a grouping LINQ query. In this example, a collection of teams is grouped by city and displayed with the city name as the group headers. For the complete code listing, see the [XAML data binding sample](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/XamlBind).
 
 ```xaml
 <Grid>
@@ -87,4 +99,4 @@ groupInfoCVS.Source = result;
 
 
 ## -see-also
-[Binding](binding.md), [Data binding in depth](/windows/uwp/data-binding/data-binding-in-depth), [XAML data binding sample](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/XamlBind), [XAML Controls Gallery - SemanticZoom sample](https://github.com/microsoft/Xaml-Controls-Gallery/blob/master/XamlControlsGallery/ControlPages/SemanticZoomPage.xaml)
+[Binding](binding.md), [Data binding in depth](/windows/uwp/data-binding/data-binding-in-depth), [XAML data binding sample](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/XamlBind)
