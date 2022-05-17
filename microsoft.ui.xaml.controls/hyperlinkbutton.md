@@ -24,21 +24,6 @@ Represents a button control that functions as a hyperlink.
 
 ```
 
-
-## -remarks
-HyperlinkButton is a button that appears as marked up text.
-
-<img alt="Hyperlink button" src="images/controls/HyperlinkButton.png" />
-
-> [!NOTE]
-> By default, the HyperlinkButton appears as underlined text when you set a string as the value for the [Content](contentcontrol_content.md) property.
-
-The text does not appear underlined in the following cases:
-
-+ You set a [TextBlock](textblock.md) as the value for the [Content](contentcontrol_content.md) property, and set the [Text](textblock_text.md) property on the [TextBlock](textblock.md).
-+ You re-template the HyperlinkButton and change the name of the [ContentPresenter](contentpresenter.md) template part.
- If you need a button that appears as non-underlined text, consider using a standard [Button](button.md) control and applying the built-in TextBlockButtonStyle system resource to its [Style](../microsoft.ui.xaml/frameworkelement_style.md) property.
-
 ### **Hyperlink** and **HyperlinkButton**
 
 There are two ways that you can add a hyperlink to a XAML app. [Hyperlink](../microsoft.ui.xaml.documents/hyperlink.md) and [HyperlinkButton](hyperlinkbutton.md) have the similar purpose of enabling a user to launch a specific URI using a separate browser app.
