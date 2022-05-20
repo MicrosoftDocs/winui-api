@@ -15,6 +15,8 @@ Represents a visual pointer object that uses an application resource instead of 
 
 ## -remarks
 
+Uses a resource ID. If you need to use a string resource name instead, see <xref:Microsoft.UI.Input.InputDesktopNamedResourceCursor> (Visual Studio assigns a unique integer ID to new resources).
+
 Derived from [InputCursor](inputcursor.md).
 
 ## -see-also
