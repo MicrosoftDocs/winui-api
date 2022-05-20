@@ -11,7 +11,7 @@ public static Microsoft.UI.Input.InputDesktopResourceCursor Create (uint resourc
 
 ## -description
 
-Creates an [InputDesktopResourceCursor](inputdesktopresourcecursor.md) instance using the specified resource.
+Creates an [InputDesktopResourceCursor](inputdesktopresourcecursor.md) instance using the specified resource ID.
 
 ## -parameters
 

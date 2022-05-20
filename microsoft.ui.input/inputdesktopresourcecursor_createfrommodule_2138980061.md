@@ -11,7 +11,7 @@ public static Microsoft.UI.Input.InputDesktopResourceCursor CreateFromModule (st
 
 ## -description
 
-Creates an [InputDesktopResourceCursor](inputdesktopresourcecursor.md) instance using the specified resource and the module from which to load the resource.
+Creates an [InputDesktopResourceCursor](inputdesktopresourcecursor.md) instance using the specified resource ID and the module from which to load the resource.
 
 ## -parameters
 
