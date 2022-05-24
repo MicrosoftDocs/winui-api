@@ -15,6 +15,11 @@ Contains the window's launch state information returned by the [Application.OnLa
 
 ## -remarks
 
+Command-line arguments for the current process can be retrieved by calling:
+
+- [C#] <xref:System.Environment.GetCommandLineArgs?displayProperty=nameWithType> (requires full trust to execute)
+- [C++] <xref:NF:processenv.GetCommandLineA>
+
 ## -see-also
 
 ## -examples

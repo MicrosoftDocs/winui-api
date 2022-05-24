@@ -31,6 +31,18 @@ By default, each navigation creates a new instance of the specific [Page](page.m
 The [INavigate](inavigate.md) interface is mainly infrastructure. It's not expected that typical app will implement this interface.
 
 ## -examples
+
+> [!TIP]
+> For more info, design guidance, and code examples, see [Page transitions](/windows/apps/design/motion/page-transitions).
+>
+> The **WinUI 3 Gallery** and **WinUI 2 Gallery** apps include interactive examples of most WinUI 3 and WinUI 2 controls, features, and functionality.
+>
+> If installed already, open them by clicking the following links: [**WinUI 3 Gallery**](winui3gallery:/item/PageTransition) or [**WinUI 2 Gallery**](winui2gallery:/item/PageTransition).
+>
+> If they are not installed, you can download the [**WinUI 3 Gallery**](https://www.microsoft.com/store/productId/9P3JFPWWDZRC) and the [**WinUI 2 Gallery**](https://www.microsoft.com/store/productId/9MSVH128X2ZT) from the Microsoft Store.
+>
+> You can also get the source code for both from [GitHub](https://github.com/Microsoft/WinUI-Gallery) (use the *main* branch for WinUI 3 and the *winui2* branch for WinUI 2).
+
 The following code example is from the Blank App template in Microsoft Visual Studio. This code shows how an [OnLaunched](/uwp/api/windows.ui.xaml.application.onlaunched(windows.applicationmodel.activation.launchactivatedeventargs)) method override initializes the app window. If the app is resuming after being suspended, then the window might already be initialized. If not, this code sets the app window to a new Frame, then navigates the frame to the default initial page.
 
 ```csharp
@@ -226,7 +238,6 @@ Private Sub OnNavigationFailed(sender As Object, e As NavigationFailedEventArgs)
 End Sub
 ```
 
-For a complete sample that uses many of the [Page](page.md) and Frame features together, see the [XAML Controls Gallery](https://github.com/microsoft/Xaml-Controls-Gallery).
-
 ## -see-also
+
 [Page](page.md), [ContentControl](contentcontrol.md), [INavigate](inavigate.md), [Navigation design basics overview](/windows/apps/design/basics/navigation-basics), [XAML Navigation sample](https://github.com/microsoft/Windows-universal-samples/tree/master/Samples/XamlNavigation)

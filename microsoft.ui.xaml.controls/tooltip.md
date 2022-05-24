@@ -11,7 +11,7 @@ public class ToolTip : Windows.UI.Xaml.Controls.ContentControl, Windows.UI.Xaml.
 
 ## -description
 
-Represents a control that creates a pop-up window that displays information for an element in the UI.
+Represents a pop-up window for displaying information about an element in the UI.
 
 ## -xaml-syntax
 
@@ -25,10 +25,12 @@ Represents a control that creates a pop-up window that displays information for 
 <ToolTip ...>stringContent</ToolTip>
 ```
 
-
 ## -remarks
 
-A ToolTip is a short description that is linked to another control or object. ToolTips help users understand unfamiliar objects that aren't described directly in the UI. They display automatically when the user presses and holds or hovers the mouse pointer over a control. The ToolTip disappears after a short time, or when the user moves the pointer.
+A tooltip is a popup that contains additional information about another control or object. Tooltips display automatically when the user moves focus to, presses and holds, or hovers the pointer over the associated control. The tooltip disappears when the user moves focus from, stops pressing on, or stops hovering the pointer over the associated control (unless the pointer is moving towards the tooltip).
+
+> [!NOTE]
+> Starting with Windows 11 version 21H2, a tooltip can also be dismissed by pressing the CTRL key.
 
 Here's a ToolTip for a [Button](button.md).
 
@@ -99,9 +101,14 @@ This table shows the resources used by the ToolTip control.
 > [!TIP]
 > For more info, design guidance, and code examples, see [Tooltips](/windows/apps/design/controls/tooltips).
 >
-> If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the ToolTip in action](xamlcontrolsgallery:/item/ToolTip).
-> + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
-> + [Get the source code (GitHub)](https://github.com/Microsoft/Xaml-Controls-Gallery)
+> The **WinUI 3 Gallery** and **WinUI 2 Gallery** apps include interactive examples of most WinUI 3 and WinUI 2 controls, features, and functionality.
+>
+> If installed already, open them by clicking the following links: [**WinUI 3 Gallery**](winui3gallery:/item/ToolTip) or [**WinUI 2 Gallery**](winui2gallery:/item/ToolTip).
+>
+> If they are not installed, you can download the [**WinUI 3 Gallery**](https://www.microsoft.com/store/productId/9P3JFPWWDZRC) and the [**WinUI 2 Gallery**](https://www.microsoft.com/store/productId/9MSVH128X2ZT) from the Microsoft Store.
+>
+> You can also get the source code for both from [GitHub](https://github.com/Microsoft/WinUI-Gallery) (use the *main* branch for WinUI 3 and the *winui2* branch for WinUI 2).
+
 
 This example demonstrates basic tooltips and the properties for placement.
 

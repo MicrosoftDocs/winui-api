@@ -100,9 +100,14 @@ In Windows Phone, the user reveals the password by checking a checkbox, so the p
 > [!TIP]
 > For more info, design guidance, and code examples, see [Password box](/windows/apps/design/controls/password-box).
 >
-> If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the PasswordBox in action](xamlcontrolsgallery:/item/PasswordBox).
-> + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
-> + [Get the source code (GitHub)](https://github.com/Microsoft/Xaml-Controls-Gallery)
+> The **WinUI 3 Gallery** and **WinUI 2 Gallery** apps include interactive examples of most WinUI 3 and WinUI 2 controls, features, and functionality.
+>
+> If installed already, open them by clicking the following links: [**WinUI 3 Gallery**](winui3gallery:/item/PasswordBox) or [**WinUI 2 Gallery**](winui2gallery:/item/PasswordBox).
+>
+> If they are not installed, you can download the [**WinUI 3 Gallery**](https://www.microsoft.com/store/productId/9P3JFPWWDZRC) and the [**WinUI 2 Gallery**](https://www.microsoft.com/store/productId/9MSVH128X2ZT) from the Microsoft Store.
+>
+> You can also get the source code for both from [GitHub](https://github.com/Microsoft/WinUI-Gallery) (use the *main* branch for WinUI 3 and the *winui2* branch for WinUI 2).
+
 
 This example shows a PasswordBox control that demonstrates the [Password](passwordbox_password.md) property and the [PasswordChanged](passwordbox_passwordchanged.md) event. When the user enters text into this PasswordBox, it's checked to see if it's the literal value, "Password". If it is, a message is displayed to the user.
 
