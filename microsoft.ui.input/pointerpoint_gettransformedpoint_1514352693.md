@@ -9,19 +9,22 @@
 public Microsoft.UI.Input.PointerPoint GetTransformedPoint (Microsoft.UI.Input.IPointerPointTransform transform);
 -->
 
-
 ## -description
+
+Retrieves a new [PointerPoint](pointerpoint.md) object by transforming the current [PointerPoint](pointerpoint.md) with an application-defined transform.
 
 ## -parameters
 
 ### -param transform
 
+The application-defined transform.
+
 ## -returns
+
+The transformed [PointerPoint](pointerpoint.md) or null, if the application-defined transform fails.
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
-
-
