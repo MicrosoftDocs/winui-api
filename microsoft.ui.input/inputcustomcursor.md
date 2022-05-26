@@ -13,6 +13,8 @@ public class InputCustomCursor : Microsoft.UI.Input.InputCursor
 
 A custom visual pointer object that can be applied to an [InputPointerSource](inputpointersource.md).
 
+**Not implemented:** see [Stable channel release notes for the Windows App SDK](/windows/apps/windows-app-sdk/stable-channel#version-11-stable).
+
 ## -remarks
 
 ## -see-also
