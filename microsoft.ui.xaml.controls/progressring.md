@@ -32,6 +32,18 @@ The [IsIndeterminate](progressring_isindeterminate.md) property determines the a
 
 ## -examples
 
+> [!TIP]
+> For more info, design guidance, and code examples, see [Progress controls](/windows/apps/design/controls/progress-controls).
+>
+> The **WinUI 3 Gallery** and **WinUI 2 Gallery** apps include interactive examples of most WinUI 3 and WinUI 2 controls, features, and functionality.
+>
+> If installed already, open them by clicking the following links: [**WinUI 3 Gallery**](winui3gallery:/item/ProgressRing) or [**WinUI 2 Gallery**](winui2gallery:/item/ProgressRing).
+>
+> If they are not installed, you can download the [**WinUI 3 Gallery**](https://www.microsoft.com/store/productId/9P3JFPWWDZRC) and the [**WinUI 2 Gallery**](https://www.microsoft.com/store/productId/9MSVH128X2ZT) from the Microsoft Store.
+>
+> You can also get the source code for both from [GitHub](https://github.com/Microsoft/WinUI-Gallery) (use the *main* branch for WinUI 3 and the *winui2* branch for WinUI 2).
+
+
 This example shows how to set the [IsActive](progressring_isactive.md) property of a ProgressRing in code. A [ToggleSwitch](/uwp/api/windows.ui.xaml.controls.toggleswitch) is used to turn theProgressRing control on or off.
 
 ```xaml
@@ -67,11 +79,3 @@ This example shows how to set the [IsIndeterminate](progressring_isindeterminate
    }
 }
 ```
-
-See the **XAML Controls Gallery** sample app for examples of WinUI features and controls.
-
-If you have the **XAML Controls Gallery** app installed, see the [ProgressRing](xamlcontrolsgallery:/item/ProgressRing) in action.
-
-If you don't have the XAML Controls Gallery app installed, get the WinUI 2.x version from the [Microsoft Store](https://www.microsoft.com/p/xaml-controls-gallery/9msvh128x2zt).
-
-You can also view, clone, and build the XAML Controls Gallery source code from [GitHub](https://github.com/Microsoft/Xaml-Controls-Gallery) (switch to the [WinUI 3 Preview branch](https://github.com/microsoft/Xaml-Controls-Gallery/tree/winui3preview) for WinUI 3 Preview controls and features).

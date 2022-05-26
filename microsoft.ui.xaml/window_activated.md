@@ -22,16 +22,15 @@ This event occurs when a [Window](window.md) has been activated or deactivated b
 The following code example demonstrates a typical usage pattern for this event.
 
 ```csharp
-void Current_Activated(object sender, Windows.UI.Core.WindowActivatedEventArgs e)
+void Current_Activated(object sender, WindowActivatedEventArgs e)
 {
-    if (e.WindowActivationState == 
-        Windows.UI.Core.CoreWindowActivationState.Deactivated)
+    if (e.WindowActivationState == WindowActivationState.Deactivated)
     {
         // Show the "paused" UI. 
         VisualStateManager.GoToState(this, "PauseUI", false);
     }
-    else if (e.WindowActivationState == 
-        Windows.UI.Core.CoreWindowActivationState.PointerActivated)
+    else if (e.WindowActivationState == WindowActivationState.PointerActivated 
+    || e.WindowActivationState == WindowActivationState.CodeActivated)
     {
         // Show the "active" UI. 
         VisualStateManager.GoToState(this, "ActivateUI", false);
