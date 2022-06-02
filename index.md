@@ -8,39 +8,24 @@ ms.custom: RS5
 
 ## -description
 
-This section provides detailed API reference information for the Windows UI Library (WinUI) APIs that ship as **WinUI 3** and **WinUI 2**. For links to the APIs, see the [Namespaces](#namespaces) section below.
+This section provides detailed API reference information for the Windows UI Library (WinUI) APIs that ship as **WinUI 2**.
 
-> [!Tip]
-> Select the WinUI version using the drop down above the API reference TOC.
+>[!IMPORTANT]
+> For WinUI APIs in the Windows App SDK, see the [Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/).
 
-:::row:::
-    :::column:::
-        **WinUI 3**
-    :::column-end:::
-    :::column:::
-        **WinUI 2**
-    :::column-end:::
-:::row-end:::
-:::row:::
-    :::column:::
-          WinUI 3 can be used in all desktop (.NET and native Win32) apps.<br/><br/>
-          Download and install the [Windows App SDK VSIX package](https://marketplace.visualstudio.com/items?itemName=ProjectReunion.MicrosoftProjectReunion) to add both the WinUI 3 project templates and the NuGet package containing the WinUI 3 libraries to Visual Studio. For more details, see [Windows App SDK](/windows/apps/windows-app-sdk/stable-channel).
-    :::column-end:::
-    :::column:::
-          WinUI 2 can be used in UWP apps, or Win32 apps through XAML Islands.<br/><br/>
-          Install the WinUI 2 NuGet package through the Visual Studio NuGet Package Manager. For more details, see [Getting started with the Windows UI 2 Library](/windows/apps/winui/winui2/getting-started).
-    :::column-end:::
-:::row-end:::
+[WinUI 2](/windows/apps/winui/winui2/) is a library of official native Microsoft UI controls and features (tightly integrated with [Windows 10 and later SDKs](https://developer.microsoft.com/windows/downloads/windows-10-sdk/)) for [Universal Windows Platform (UWP)](/windows/uwp/) apps. WinUI 2 can be used in any Windows 10 UWP XAML app, desktop application through [XAML Islands](/windows/apps/desktop/modernize/xaml-islands), or in a Xamarin.Forms app running on Windows 10 using native view embedding.
+
+For links to the APIs, see the [Namespaces](#namespaces) section below. Select the WinUI version using the drop down above the API reference TOC.
 
 ## Examples
 
 > [!TIP]
-> The **WinUI 3 Gallery** and **WinUI 2 Gallery** apps include interactive examples of most WinUI 3 and WinUI 2 controls, features, and functionality.
+> The **WinUI 2 Gallery** app includes interactive examples of most WinUI 2 controls, features, and functionality.
 >
-> If installed already, open them by clicking the following links: [**WinUI 3 Gallery**](winui3gallery:) or [**WinUI 2 Gallery**](winui2gallery:).
+> If installed already, open the app by clicking the following link: [**WinUI 2 Gallery**](winui2gallery:).
 >
-> If they are not installed, you can download the [**WinUI 3 Gallery**](https://www.microsoft.com/store/productId/9P3JFPWWDZRC) and the [**WinUI 2 Gallery**](https://www.microsoft.com/store/productId/9MSVH128X2ZT) from the Microsoft Store.
+> If not installed, you can download the [**WinUI 2 Gallery**](https://www.microsoft.com/store/productId/9MSVH128X2ZT) from the Microsoft Store.
 >
-> You can also get the source code for both from [GitHub](https://github.com/Microsoft/WinUI-Gallery) (use the *main* branch for WinUI 3 and the *winui2* branch for WinUI 2).
+> You can also get the source code from [GitHub](https://github.com/Microsoft/WinUI-Gallery/tree/winui2).
 
 ## Namespaces
