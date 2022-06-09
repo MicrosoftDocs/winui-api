@@ -15,9 +15,7 @@ This section provides detailed API reference information for the Windows UI Libr
 
 [WinUI 2](/windows/apps/winui/winui2/) is a library of official native Microsoft UI controls and features (tightly integrated with [Windows 10 and later SDKs](https://developer.microsoft.com/windows/downloads/windows-10-sdk/)) for [Universal Windows Platform (UWP)](/windows/uwp/) apps. WinUI 2 can be used in any Windows 10 UWP XAML app, desktop application through [XAML Islands](/windows/apps/desktop/modernize/xaml-islands), or in a Xamarin.Forms app running on Windows 10 using native view embedding.
 
-For links to the APIs, see the [Namespaces](**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
-
-#namespaces) section below. Select the WinUI version using the drop down above the API reference TOC.
+For links to the APIs, see the [Namespaces](#namespaces) section below. Select the WinUI version using the drop down above the API reference TOC.
 
 ## Examples
 
