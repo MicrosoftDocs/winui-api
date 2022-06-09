@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Visibility Visibility { get;  set; }
 ## -description
 Gets or sets the visibility of a [UIElement](uielement.md). A [UIElement](uielement.md) that is not visible is not rendered and does not communicate its desired size to layout.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -xaml-syntax
 ```xaml
 <uiElement Visibility="Visible"/>

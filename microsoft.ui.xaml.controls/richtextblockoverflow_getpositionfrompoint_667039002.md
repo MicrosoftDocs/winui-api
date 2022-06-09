@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Documents.TextPointer GetPositionFromPoint(Windows.Founda
 ## -description
 Returns a [TextPointer](../microsoft.ui.xaml.documents/textpointer.md) text reference from a [RichTextBlockOverflow](richtextblockoverflow.md) by hit-testing a specific [Point](/uwp/api/windows.foundation.point) within the text display area.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -parameters
 ### -param point
 The point to test.

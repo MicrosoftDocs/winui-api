@@ -12,6 +12,8 @@ public double Volume { get;  set; }
 ## -description
 Gets or sets the volume of the sounds played by the Play method.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -property-value
 The volume of the sounds played by the Play method. The default is 1.0.
 

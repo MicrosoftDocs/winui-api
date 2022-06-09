@@ -12,6 +12,8 @@ public class DropDownButton : Button, Button
 
 Represents a button that includes a chevron to indicate a menu can be opened.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -remarks
 
 The chevron is a visual indicator that a flyout is available with a menu of options. The DropDownButton has the same behavior as a standard Button with a flyout (only the appearance is different).

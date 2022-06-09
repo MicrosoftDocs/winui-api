@@ -13,6 +13,8 @@ public event Windows.UI.Xaml.WindowVisibilityChangedEventHandler VisibilityChang
 
 Occurs when the value of the [Visible](window_visible.md) property changes.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -remarks
 
 [VisibilityChangedEventArgs](/uwp/api/windows.ui.core.visibilitychangedeventargs) includes a Boolean **Visible** property that you should check to determine the current visibility state.

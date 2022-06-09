@@ -16,6 +16,8 @@ Provides a way for middleware authors to access low-level, high-performance XAML
 > [!NOTE]
 > This namespace requires the **Microsoft.UI.Xaml.Core.Direct** NuGet package, a part of the [Microsoft Windows UI Library](https://aka.ms/winui-docs).
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -remarks
 
 [XamlDirect](xamldirect.md) is **purpose built for middleware*- that predominantly use imperative APIs to create UI instead of markup. With [XamlDirect](xamldirect.md) APIs, you can achieve performance parity with the XAML parser even when creating UI imperatively in code.

@@ -13,6 +13,8 @@ public Microsoft.UI.Xaml.FocusState FocusState { get; }
 
 Gets a value that specifies whether this control has focus, and the mode by which focus was obtained.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -property-value
 
 A value of the enumeration. A value of **Unfocused** indicates that the control does not have focus.

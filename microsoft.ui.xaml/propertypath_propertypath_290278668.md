@@ -12,6 +12,8 @@ public PropertyPath(System.String path)
 ## -description
 Initializes a new instance of the [PropertyPath](propertypath.md) class based on a path string.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -parameters
 ### -param path
 The path string to construct with.

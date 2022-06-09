@@ -16,6 +16,8 @@ Gets or sets an [AutoSuggestBox](/uwp/api/windows.ui.xaml.controls.autosuggestbo
 
 
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -property-value
 
 An [AutoSuggestBox](/uwp/api/windows.ui.xaml.controls.autosuggestbox) box to be displayed in the NavigationView.

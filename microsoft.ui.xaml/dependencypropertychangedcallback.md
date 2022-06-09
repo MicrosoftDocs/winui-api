@@ -10,6 +10,8 @@ public delegate void DependencyPropertyChangedCallback(Windows.UI.Xaml.Dependenc
 ## -description
 Represents the callback that is invoked when a property value changes, for property change notifications that are registered with the [RegisterPropertyChangedCallback](dependencyobject_registerpropertychangedcallback_2003721961.md) technique.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -parameters
 ### -param sender
 The object instance that holds the property to register for property-changed notification.

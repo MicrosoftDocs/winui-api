@@ -11,7 +11,9 @@ public Windows.UI.Xaml.Duration Subtract(Windows.UI.Xaml.Duration target, Window
 
 ## -description
 
-Subtracts the **TimeSpan** component of one [Duration](duration.md) value from another [Duration](duration.md) value. C# and Microsoft Visual Basic code should use the [Subtraction](/dotnet/api/windows.ui.xaml.duration.op_subtraction?view=dotnet-uwp-10.0&preserve-view=true) (-) operator or the [Duration.Subtract](/dotnet/api/windows.ui.xaml.duration.subtract?view=dotnet-uwp-10.0&preserve-view=true) method instead.
+Subtracts the **TimeSpan** component of one [Duration](duration.md) value from another [Duration](duration.md) value. C**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
+# and Microsoft Visual Basic code should use the [Subtraction](/dotnet/api/windows.ui.xaml.duration.op_subtraction?view=dotnet-uwp-10.0&preserve-view=true) (-) operator or the [Duration.Subtract](/dotnet/api/windows.ui.xaml.duration.subtract?view=dotnet-uwp-10.0&preserve-view=true) method instead.
 
 ## -parameters
 

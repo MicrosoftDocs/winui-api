@@ -10,6 +10,8 @@ public delegate Windows.Foundation.IAsyncOperation<object> ListViewKeyToItemHand
 ## -description
 Represents the asynchronous method that will handle callback for the [SetRelativeScrollPositionAsync](listviewpersistencehelper_setrelativescrollpositionasync_1002520464.md) method.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -parameters
 ### -param key
 The key of the [ListView](listview.md) item.

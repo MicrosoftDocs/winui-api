@@ -13,6 +13,8 @@ see GetState, and SetState
 
 Property that the developer sets on AnimatedIcon.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -remarks
 
  You change the playback position and state of the animation by setting the [AnimatedIcon.State](animatedicon_state.md) attached property. The state property takes a string value that describes the visual state, such as "`Normal`", "`PointerOver`", or "`Pressed`". You can also specify a specific state transition, such as "`PressedToNormal`".

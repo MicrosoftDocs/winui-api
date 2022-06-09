@@ -12,6 +12,8 @@ public class GeneralTransform : Windows.UI.Xaml.DependencyObject, Windows.UI.Xam
 ## -description
 Provides generalized transformation support for objects. GeneralTransform is a base class that's in the hierarchy of practical transform classes such as [TranslateTransform](translatetransform.md).
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -remarks
 Transformation types include rotation ([RotateTransform](rotatetransform.md)), scale ([ScaleTransform](scaletransform.md)), skew/shear ([SkewTransform](skewtransform.md)), and translation ([TranslateTransform](translatetransform.md)).
 

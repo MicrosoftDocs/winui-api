@@ -12,6 +12,8 @@ public class ExceptionRoutedEventArgs : Windows.UI.Xaml.RoutedEventArgs, Windows
 ## -description
 Provides event data for exceptions that are raised as events by asynchronous operations, such as [ImageFailed](../microsoft.ui.xaml.controls/image_imagefailed.md).
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -remarks
 Don't display [ErrorMessage](exceptionroutedeventargs_errormessage.md) strings to end users. Instead, use substrings and codes within the string to positively identify the error condition, and have your app take appropriate action or display user-appropriate information in the app UI.
 

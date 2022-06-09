@@ -12,6 +12,8 @@ public event Windows.UI.Xaml.RoutedEventHandler Loaded
 ## -description
 Occurs when a [FrameworkElement](frameworkelement.md) has been constructed and added to the object tree, and is ready for interaction.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -xaml-syntax
 ```xaml
 <frameworkElement Loaded="eventhandler"/>

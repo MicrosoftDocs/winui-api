@@ -13,6 +13,8 @@ public event Windows.UI.Xaml.WindowSizeChangedEventHandler SizeChanged
 
 Occurs when the app window has first rendered or has changed its rendering size.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -remarks
 
 This event occurs whenever there are changes in the [Bounds](window_bounds.md) values for the app window. This might be because the user resizes your app or changes the display orientation. Another trigger is if the user moves your app to a new display that has a different resolution and the app window expands to fill it.

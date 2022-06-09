@@ -12,6 +12,8 @@ public string MonthFormat { get;  set; }
 ## -description
 Gets or sets the display format for the month value.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -xaml-syntax
 ```xaml
 <DatePickerFlyout MonthFormat="formatString"/>

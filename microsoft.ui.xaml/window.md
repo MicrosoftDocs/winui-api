@@ -13,6 +13,8 @@ public class Window : Windows.UI.Xaml.IWindow, Windows.UI.Xaml.IWindow2
 
 Represents the window of the current [Application](application.md).
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -remarks
 
 This object can be used in both Desktop and UWP applications.

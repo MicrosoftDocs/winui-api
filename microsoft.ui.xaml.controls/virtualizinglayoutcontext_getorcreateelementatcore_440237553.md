@@ -13,6 +13,8 @@ protected virtual Windows.UI.Xaml.UIElement GetOrCreateElementAtCore (int index,
 
 When implemented in a derived class, retrieves a [UIElement](../microsoft.ui.xaml/uielement.md) that represents the data item in the source found at the specified index using the specified options.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -parameters
 
 ### -param index

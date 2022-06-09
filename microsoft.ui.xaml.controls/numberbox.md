@@ -13,6 +13,8 @@ public class NumberBox : Windows.UI.Xaml.Controls.Control
 
 Represents a control that can be used to display and edit numbers.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -remarks
 
 This control supports validation, increment stepping, and computing inline calculations of basic equations such as multiplication, division, addition, and subtraction.

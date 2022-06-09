@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.Peers.ItemAutomationPeer CreateItemAutomationP
 ## -description
 Creates a new instance of the [ItemAutomationPeer](itemautomationpeer.md) for a data item in the [Items](../microsoft.ui.xaml.controls/itemscontrol_items.md) collection of this [ItemsControl](../microsoft.ui.xaml.controls/itemscontrol.md).
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -parameters
 ### -param item
 The data item that is associated with this [ItemAutomationPeer](itemautomationpeer.md).

@@ -13,6 +13,8 @@ public class VirtualizingLayout : Microsoft.UI.Xaml.Controls.Layout
 
 Represents the base class for an object that sizes and arranges child elements for a host and supports virtualization.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -remarks
 
 VirtualizingLayout is the base class for layouts that support virtualization. You can use one of the provided derived class, or inherit from it to create your own layout. Provided concrete virtualizing layout classes are [FlowLayout](flowlayout.md), [StackLayout](stacklayout.md), and [UniformGridLayout](uniformgridlayout.md).

@@ -12,6 +12,8 @@ public class XamlLight : DependencyObject, DependencyObject
 ## -description
 Provides a base class used to create XAML lights that use a [CompositionLight](./../windows.ui.composition/compositionlight.md) to apply lighting effects to XAML elements and brushes.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -remarks
 
 You can use XamlLight to create custom lights.

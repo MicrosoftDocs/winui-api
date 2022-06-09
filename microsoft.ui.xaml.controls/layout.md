@@ -13,6 +13,8 @@ public class Layout : Windows.UI.Xaml.DependencyObject
 
 Represents the base class for an object that sizes and arranges child elements for a host.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -remarks
 
 You should not use or inherit from the Layout class directly. Instead, inherit from its derived classes, [NonVirtualizingLayout](nonvirtualizinglayout.md) or [VirtualizingLayout](virtualizinglayout.md).

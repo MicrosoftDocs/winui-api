@@ -12,6 +12,8 @@ public string Language { get;  set; }
 ## -description
 Gets or sets localization/globalization language information that applies to a [FrameworkElement](frameworkelement.md), and also to all child elements of the current [FrameworkElement](frameworkelement.md) in the object representation and in UI.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -xaml-syntax
 ```xaml
 <frameworkElement Language="languageString" />

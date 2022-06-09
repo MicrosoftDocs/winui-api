@@ -13,6 +13,8 @@ public Microsoft.UI.Xaml.Controls.IconSource FallbackIconSource { get; set; }
 
 Gets or sets the static icon to use when the animated icon cannot run.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -property-value
 
 The static icon to use when the animated icon cannot run. The default is `null`.

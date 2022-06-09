@@ -13,6 +13,8 @@ public Microsoft.UI.Xaml.Controls.StylesVersion Version { get; set; }
 
 Gets or sets the version of styles to apply to XAML controls.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -property-value
 
 The version of styles to apply to XAML controls.

@@ -12,6 +12,8 @@ public void XamlDirect.ClearCollection(IXamlDirectObject xamlDirectObject)
 ## -description
 Removes all items from the specified [IXamlDirectObject](ixamldirectobject.md) collection.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -parameters
 ### -param xamlDirectObject
 Refers to the specific [IXamlDirectObject](ixamldirectobject.md) collection.

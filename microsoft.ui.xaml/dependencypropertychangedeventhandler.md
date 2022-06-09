@@ -10,6 +10,8 @@ public delegate void DependencyPropertyChangedEventHandler(System.Object sender,
 ## -description
 Represents the method that will handle events that occur when a [DependencyProperty](dependencyproperty.md) is changed on a particular [DependencyObject](dependencyobject.md) implementation.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -parameters
 ### -param sender
 The source of the event (typically the object where the property changed).

@@ -12,6 +12,8 @@ public void XamlDirect.RemoveEventHandler(IXamlDirectObject xamlDirectObject, Xa
 ## -description
 Removes the specified event handler from this [IXamlDirectObject](ixamldirectobject.md). Typically, the handler in question was added by [XamlDirect.AddEventHandler](xamldirect_addeventhandler_737632390.md).
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -parameters
 ### -param xamlDirectObject
 A reference to the current [IXamlDirectObject](ixamldirectobject.md).

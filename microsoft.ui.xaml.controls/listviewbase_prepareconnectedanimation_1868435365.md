@@ -12,6 +12,8 @@ public ConnectedAnimation ListViewBase.PrepareConnectedAnimation(String key, Obj
 ## -description
 Returns a connected animation that's associated with the specified key, data item, and source element.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -parameters
 ### -param key
 The key for the animation.

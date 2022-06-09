@@ -10,6 +10,8 @@ public delegate void PropertyChangedCallback(Windows.UI.Xaml.DependencyObject d,
 ## -description
 Represents the callback that is invoked when the effective property value of a dependency property changes.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -parameters
 ### -param d
 The [DependencyObject](dependencyobject.md) on which the property has changed value.

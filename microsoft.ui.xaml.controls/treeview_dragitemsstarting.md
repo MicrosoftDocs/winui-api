@@ -14,6 +14,8 @@ public event TypedEventHandler DragItemsStarting<TreeView, TreeViewDragItemsStar
 Occurs when a drag operation that involves one of the items in the view is initiated.
 
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -remarks
 
 To receive this event, set the [CanDragItems](treeview_candragitems.md) property to **true**.

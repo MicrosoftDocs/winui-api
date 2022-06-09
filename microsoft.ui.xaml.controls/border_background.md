@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.Brush Background { get;  set; }
 ## -description
 Gets or sets the [Brush](../microsoft.ui.xaml.media/brush.md) that fills the background (inner area) of the border.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -xaml-syntax
 ```xaml
 <Border Background="{StaticResource resourceName}"/>

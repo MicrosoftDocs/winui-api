@@ -12,6 +12,8 @@ virtual protected void OnDisconnectVisualChildren()
 ## -description
 Override this method to implement how layout and logic should behave when items are removed from a class-specific content or children property.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -remarks
 [UIElement](uielement.md) does not define any of the content model properties that OnDisconnectVisualChildren might act upon. Such properties are introduced deeper in an inheritance, for example at the [ContentControl](../microsoft.ui.xaml.controls/contentcontrol.md) level.
 

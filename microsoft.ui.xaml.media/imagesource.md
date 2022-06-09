@@ -12,6 +12,8 @@ public class ImageSource : Windows.UI.Xaml.DependencyObject, Windows.UI.Xaml.Med
 ## -description
 Provides an object source type for the [Image.Source](../microsoft.ui.xaml.controls/image_source.md) and [ImageBrush.ImageSource](imagebrush_imagesource.md) properties.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -remarks
 > [!IMPORTANT]
 > You don't typically use or create an [ImageSource](imagebrush_imagesource.md) type directly, that's why you don't see code examples on this page. It's more common to create a [BitmapImage](../microsoft.ui.xaml.media.imaging/bitmapimage.md) and use that as a value. For code examples and more info, see the reference page for [BitmapImage](../microsoft.ui.xaml.media.imaging/bitmapimage.md).

@@ -12,6 +12,8 @@ virtual protected void OnItemContainerStyleChanged(Windows.UI.Xaml.Style oldItem
 ## -description
 Invoked when the value of the [ItemContainerStyle](itemscontrol_itemcontainerstyle.md) property changes.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -parameters
 ### -param oldItemContainerStyle
 The previous value of the [ItemContainerStyle](itemscontrol_itemcontainerstyle.md) property.

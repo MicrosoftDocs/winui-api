@@ -12,6 +12,8 @@ virtual protected void OnKeyDown(Windows.UI.Xaml.Input.KeyRoutedEventArgs e)
 ## -description
 Called before the [KeyDown](../microsoft.ui.xaml/uielement_keydown.md) event occurs.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -parameters
 ### -param e
 The data for the event.

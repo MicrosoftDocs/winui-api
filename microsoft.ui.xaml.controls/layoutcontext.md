@@ -13,6 +13,8 @@ public class LayoutContext : DependencyObject, DependencyObject
 
 Represents the base class for an object that facilitates communication between an attached layout and its host container.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -remarks
 
 You should not use the LayoutContext class directly. Instead, use it's derived classes, [NonVirtualizingLayoutContext](nonvirtualizinglayoutcontext.md) or [VirtualizingLayoutContext](virtualizinglayoutcontext.md).

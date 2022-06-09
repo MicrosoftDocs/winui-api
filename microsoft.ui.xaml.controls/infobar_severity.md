@@ -14,6 +14,8 @@ public Microsoft.UI.Xaml.Controls.InfoBarSeverity Severity { get; set; }
 
 Gets or sets the type of the [InfoBar](infobar.md) to apply consistent status color, icon, and assistive technology settings dependent on the criticality of the notification.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -property-value
 
 The style of the `InfoBar` that indicates the criticality of the notification. The default is [Informational](infobarseverity.md)

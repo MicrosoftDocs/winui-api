@@ -12,6 +12,8 @@ public class Canvas : Windows.UI.Xaml.Controls.Panel, Windows.UI.Xaml.Controls.I
 ## -description
 Defines an area within which you can explicitly position child objects, using coordinates that are relative to the Canvas area.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -xaml-syntax
 ```xaml
 <Canvas ...>

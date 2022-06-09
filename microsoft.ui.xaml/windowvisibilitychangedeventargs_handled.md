@@ -13,6 +13,8 @@ public bool Handled { get; set; }
 
 Gets or sets whether the [Window.VisibilityChanged](window_visibilitychanged.md) event was handled.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -property-value
 
 **True**, if the event has been handled by the appropriate delegate. Otherwise, **false**.

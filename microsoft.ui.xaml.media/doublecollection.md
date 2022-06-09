@@ -12,6 +12,8 @@ public class DoubleCollection : Windows.Foundation.Collections.IIterable<System.
 ## -description
 Represents an ordered collection of [Double](/dotnet/api/system.double?view=dotnet-uwp-10.0&preserve-view=true) values.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -remarks
 <!--Begin NET note for IEnumerable support-->
 ### Enumerating the collection in C# or Microsoft Visual Basic

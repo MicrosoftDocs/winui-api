@@ -12,6 +12,8 @@ public object OffContent { get;  set; }
 ## -description
 Provides the object content that should be displayed using the [OffContentTemplate](toggleswitch_offcontenttemplate.md) when this [ToggleSwitch](toggleswitch.md) has state of "Off".
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -xaml-syntax
 ```xaml
 <ToggleSwitch OffContent="stringContent"/>

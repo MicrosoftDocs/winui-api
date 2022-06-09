@@ -13,6 +13,8 @@ public int MaxColumns { get; set; }
 
 Gets or sets the maximum number of columns the radio buttons are arranged in.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -property-value
 
 The maximum number of columns the radio buttons are arranged in. The default is 1.

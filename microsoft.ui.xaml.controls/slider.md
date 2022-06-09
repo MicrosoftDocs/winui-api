@@ -12,6 +12,8 @@ public class Slider : Windows.UI.Xaml.Controls.Primitives.RangeBase, Windows.UI.
 ## -description
 Represents a control that lets the user select from a range of values by moving a [Thumb](../microsoft.ui.xaml.controls.primitives/thumb.md) control along a track.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -xaml-syntax
 ```xaml
 <Slider .../>

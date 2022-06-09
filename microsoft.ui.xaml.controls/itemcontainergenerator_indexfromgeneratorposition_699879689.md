@@ -12,6 +12,8 @@ public int IndexFromGeneratorPosition(Windows.UI.Xaml.Controls.Primitives.Genera
 ## -description
 Returns the index that maps to the specified [GeneratorPosition](../microsoft.ui.xaml.controls.primitives/generatorposition.md).
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -parameters
 ### -param position
 The [GeneratorPosition](../microsoft.ui.xaml.controls.primitives/generatorposition.md) for the desired index.

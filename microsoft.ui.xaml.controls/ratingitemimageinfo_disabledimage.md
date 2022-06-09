@@ -16,6 +16,8 @@ Gets or sets an image that represents a rating element that is disabled.
 
 
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -property-value
 
 An object that represents the image source file for the drawn image. Typically you set this with a [BitmapImage](/uwp/api/windows.ui.xaml.media.imaging.bitmapimage) object, constructed with the Uniform Resource Identifier (URI) that describes the path to a valid image source file. Or, you can initialize a [BitmapSource](/uwp/api/windows.ui.xaml.media.imaging.bitmapsource) with a stream, perhaps a stream from a storage file.

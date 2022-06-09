@@ -15,6 +15,8 @@ Gets or sets a value that modifies how tabbing and [TabIndex](control_tabindex.m
 > [!NOTE]
 > For Windows 10 Creators Update (build 10.0.15063) and newer, the [TabFocusNavigation](../microsoft.ui.xaml/uielement_tabfocusnavigation.md) property is available on the [UIElement]() base class to include objects in the tab sequence that do not use a [ControlTemplate](../microsoft.ui.xaml.controls/controltemplate.md).
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -xaml-syntax
 ```xaml
 <control TabNavigation="keyboardNavigationModeMemberName"/>

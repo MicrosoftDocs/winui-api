@@ -10,7 +10,9 @@ public object GetAlignTopWith(Windows.UI.Xaml.UIElement element)
 # Microsoft.UI.Xaml.Controls.RelativePanel.GetAlignTopWith
 
 ## -description
-Gets the value of the [RelativePanel.AlignTopWith](/windows/winui/api/microsoft.ui.xaml.controls.relativepanel#xaml-attached-properties) XAML attached property for the target element.
+Gets the value of the [RelativePanel.AlignTopWith](/windows/winui/api/microsoft.ui.xaml.controls.relativepanel**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
+#xaml-attached-properties) XAML attached property for the target element.
 
 ## -parameters
 ### -param element

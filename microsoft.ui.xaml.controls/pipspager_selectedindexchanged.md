@@ -13,6 +13,8 @@ public event Windows.Foundation.TypedEventHandler<Microsoft.UI.Xaml.Controls.Pip
 
 Occurs after the selected index changes on the [PipsPager](pipspager.md).
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -remarks
 
 This event can occur programmatically, when the user selects an individual pip, or when the user interacts with the navigation buttons.

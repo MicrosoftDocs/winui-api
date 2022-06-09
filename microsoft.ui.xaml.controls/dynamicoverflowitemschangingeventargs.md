@@ -12,6 +12,8 @@ public class DynamicOverflowItemsChangingEventArgs : Windows.UI.Xaml.Controls.ID
 ## -description
 Provides data for the [CommandBar.DynamicOverflowItemsChanging](commandbar_dynamicoverflowitemschanging.md) event.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,8 @@ virtual protected Windows.Foundation.Size ArrangeOverride(Windows.Foundation.Siz
 ## -description
 Provides the behavior for the "Arrange" pass of layout. Classes can override this method to define their own "Arrange" pass behavior.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -parameters
 ### -param finalSize
 The final area within the parent that this object should use to arrange itself and its children.

@@ -12,6 +12,8 @@ public double BaselineOffset { get; }
 ## -description
 Returns a value by which each line of text is offset from a baseline.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -property-value
 The amount by which each line of text is offset from the baseline, in device independent pixels. The default is NaN. See Remarks below.
 

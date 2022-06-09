@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.DataTemplateSelector HeaderTemplateSelector { ge
 ## -description
 Gets or sets a reference to a custom [DataTemplateSelector](datatemplateselector.md) logic class. The [DataTemplateSelector](datatemplateselector.md) returns different [DataTemplate](../microsoft.ui.xaml/datatemplate.md) values to use for the header area of group item content.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -xaml-syntax
 ```xaml
 <GroupStyle HeaderTemplateSelector="dataTemplateSelectorReference" />

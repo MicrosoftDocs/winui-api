@@ -12,6 +12,8 @@ public string GetName()
 ## -description
 Gets text that describes the element that is associated with this automation peer. The Microsoft UI Automation  **Name** value is the primary identifier used by most assistive technology when they represent your app's UI by interacting with the Microsoft UI Automation framework.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -returns
 The name of the element that is the peer's owner, as used by assistive technology and other Microsoft UI Automation clients.
 

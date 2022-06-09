@@ -12,6 +12,8 @@ public double CacheLength { get;  set; }
 ## -description
 Gets or sets the size of the buffers for items outside the viewport, in multiples of the viewport size.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -xaml-syntax
 ```xaml
 ItemsStackPanel CacheLength="double" />

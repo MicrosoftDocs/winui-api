@@ -13,6 +13,8 @@ public class AppBarSeparator : Windows.UI.Xaml.Controls.Control, Windows.UI.Xaml
 
 Represents a line that separates items in an [AppBar](appbar.md) or [CommandBar](commandbar.md).
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -xaml-syntax
 
 ```xaml

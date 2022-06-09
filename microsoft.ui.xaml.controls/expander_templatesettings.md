@@ -19,6 +19,8 @@ public Microsoft.UI.Xaml.Controls.ExpanderTemplateSettings TemplateSettings { ge
 
 Gets an object that provides calculated values that can be referenced as **TemplatedParent** sources when defining templates for an [Expander](expander.md).
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -property-value
 
 An instance of `ExpanderTemplateSettings`.

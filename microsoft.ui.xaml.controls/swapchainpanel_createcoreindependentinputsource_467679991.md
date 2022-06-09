@@ -12,6 +12,8 @@ public Windows.UI.Core.CoreIndependentInputSource CreateCoreIndependentInputSour
 ## -description
 Creates a core input object that handles the input types as specified by the *deviceTypes* parameter. This core input object can process input events on a background thread.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -parameters
 ### -param deviceTypes
 A combined value of the enumeration.

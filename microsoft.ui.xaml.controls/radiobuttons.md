@@ -13,6 +13,8 @@ public class RadioButtons : Windows.UI.Xaml.Controls.Control
 
 Represents a control that shows a group of related options from which one can be selected.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -remarks
 
 > For more info, design guidance, and code examples, see [Radio buttons](/windows/apps/design/controls/radio-button).

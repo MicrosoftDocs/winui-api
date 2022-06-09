@@ -12,6 +12,8 @@ public bool GetIsVirtualizing(Windows.UI.Xaml.DependencyObject o)
 ## -description
 Gets a value that determines whether an item is currently being virtualized as part of an items set where the [ItemsPanel](itemscontrol_itemspanel.md) is templated with a [VirtualizingStackPanel](virtualizingstackpanel.md).
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -parameters
 ### -param o
 The object item where you want to determine the current virtualization state.

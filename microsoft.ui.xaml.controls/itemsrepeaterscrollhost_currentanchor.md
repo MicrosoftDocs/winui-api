@@ -13,6 +13,8 @@ public Windows.UI.Xaml.UIElement CurrentAnchor { get; }
 
 The currently chosen anchor element to use for scroll anchoring.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -property-value
 
 The most recently chosen [UIElement](/uwp/api/windows.ui.xaml.uielement) for scroll anchoring after a layout pass, or **null**.

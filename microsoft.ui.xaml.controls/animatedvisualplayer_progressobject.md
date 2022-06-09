@@ -13,6 +13,8 @@ public CompositionObject ProgressObject { get; }
 
 Gets a CompositionObject that is animated along with the progress of the AnimatedVisualPlayer.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -property-value
 
 A CompositionObject that is animated along with the progress of the AnimatedVisualPlayer.

@@ -13,6 +13,8 @@ public event Windows.Foundation.TypedEventHandler<Microsoft.UI.Xaml.Controls.Nav
 
 Occurs when a node in the tree starts to expand.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -remarks
 
 In order to fill in nodes as they're expanding, set the HasUnrealizedChildren property to true, and then add the children during this Expanding event. See the TreeView example [fill a node when it's expanding](https://docs.microsoft.com/windows/apps/design/controls/tree-view#fill-a-node-when-its-expanding).

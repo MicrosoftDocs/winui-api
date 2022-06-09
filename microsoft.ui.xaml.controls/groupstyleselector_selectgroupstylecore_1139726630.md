@@ -12,6 +12,8 @@ virtual protected Windows.UI.Xaml.Controls.GroupStyle SelectGroupStyleCore(Syste
 ## -description
 When implemented by a derived class, returns a specific [GroupStyle](groupstyle.md) for a given group and level.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -parameters
 ### -param group
 The group to return a [GroupStyle](groupstyle.md) for.

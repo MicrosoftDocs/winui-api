@@ -12,6 +12,8 @@ public void Activate()
 ## -description
 Attempts to activate the application window by bringing it to the foreground and setting the input focus to it.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -remarks
 If you use the default app templates from Microsoft Visual Studio, Window.Activate is part of the initial code in the app.xaml code-behind file. Specifically, Activate is called from the default [OnLaunched](application_onlaunched_859642554.md) override. In cases where the template produces a page navigation experience, previous states are detected so that the navigation framework isn't overwritten if it already existed, but Activate is called regardless.
 

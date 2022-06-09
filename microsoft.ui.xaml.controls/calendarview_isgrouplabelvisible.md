@@ -14,6 +14,8 @@ Gets or sets a value that indicates whether the month name is shown with the fir
 month when the DisplayMode is Month, or whether the year name is shown with the first month of the year 
 when the DisplayMode is Year.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -xaml-syntax
 ```xaml
 <CalendarView IsGroupLabelVisible="bool" .../>

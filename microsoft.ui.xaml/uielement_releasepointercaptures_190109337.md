@@ -13,6 +13,8 @@ public void ReleasePointerCaptures()
 
 Releases all pointer captures held by this element.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -remarks
 
 Because there are input scenarios such as manipulations that involve more than one pointer point, the Windows Runtime enables capturing more than one pointer at a time. Calling [ReleasePointerCapture](uielement_releasepointercapture_851958174.md) removes a specific [Pointer](../microsoft.ui.xaml.input/pointer.md) from the collection as identified by its ID, whereas ReleasePointerCaptures clears the entire collection.

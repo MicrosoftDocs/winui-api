@@ -14,6 +14,8 @@ public double ExpandedModeThresholdWidth { get;  set; }
 Gets or sets the minimum window width at which the NavigationView enters **Expanded** display mode.
 
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -property-value
 
 The minimum window width at which the NavigationView enters **Expanded** display mode. The default is 1008 pixels.

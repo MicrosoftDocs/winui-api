@@ -12,6 +12,8 @@ public Windows.UI.Xaml.PropertyMetadata Create(Windows.UI.Xaml.CreateDefaultValu
 ## -description
 Creates a [PropertyMetadata](propertymetadata.md) value, specifying a callback that establishes a default value for a dependency property, and a property-changed callback.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -parameters
 ### -param createDefaultValueCallback
 A reference to the callback method that provides a default property value.

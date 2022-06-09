@@ -13,6 +13,8 @@ public class VisualStateManager : Windows.UI.Xaml.DependencyObject, Windows.UI.X
 
 Manages visual states and the logic for transitions between visual states for controls. Also provides the attached property support for VisualStateManager.VisualStateGroups, which is how you define visual states in XAML for a control template.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -remarks
 
 VisualStateManager supports two important features for control authors, and for app developers who are applying a custom template to a control:

@@ -12,6 +12,8 @@ public class EventTrigger : Windows.UI.Xaml.TriggerBase, Windows.UI.Xaml.IEventT
 ## -description
 Represents a trigger that applies a set of actions (animation storyboards) in response to an event. Not commonly used. See Remarks.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -xaml-syntax
 ```xaml
 <EventTrigger>

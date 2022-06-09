@@ -12,6 +12,8 @@ public ContentDialogButton DefaultButton { get;  set; }
 ## -description
 Gets or sets a value that indicates which button on the dialog is the default action.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -property-value
 A value of the enumeration. The default is **None.**
 

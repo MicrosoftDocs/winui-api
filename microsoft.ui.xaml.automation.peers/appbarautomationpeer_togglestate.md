@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.ToggleState ToggleState { get; }
 ## -description
 Retrieves the toggle state of the owner [AppBar](../microsoft.ui.xaml.controls/appbar.md).
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -property-value
 The [ToggleState](../microsoft.ui.xaml.automation/togglestate.md) of the owner control.
 

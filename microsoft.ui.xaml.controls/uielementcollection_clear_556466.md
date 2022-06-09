@@ -12,6 +12,8 @@ public void Clear()
 ## -description
 Removes all items from the collection.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -remarks
 The Clear method can be used when programming in C#, Microsoft Visual Basic or Visual C++ component extensions (C++/CX). The method signature is the same in each of these languages, and the behavior is the same.
 

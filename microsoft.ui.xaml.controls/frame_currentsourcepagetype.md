@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Interop.TypeName CurrentSourcePageType { get; }
 ## -description
 Gets a type reference for the content that is currently displayed.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -property-value
 A type reference for the content that is currently displayed.
 

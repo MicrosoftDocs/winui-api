@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.Projection Projection { get;  set; }
 ## -description
 Gets or sets the perspective projection (3-D effect) to apply when rendering this element.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -xaml-syntax
 ```xaml
 <uiElement>

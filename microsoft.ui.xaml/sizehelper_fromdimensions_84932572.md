@@ -11,7 +11,9 @@ public Windows.Foundation.Size FromDimensions(System.Single width, System.Single
 
 ## -description
 
-Creates a new [Size](/uwp/api/windows.foundation.size) based on width and height element values. C# and Microsoft Visual Basic code should use the [Size(Double,Double)](/dotnet/api/windows.foundation.size.-ctor?view=dotnet-uwp-10.0&preserve-view=true) constructor instead.
+Creates a new [Size](/uwp/api/windows.foundation.size) based on width and height element values. C**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
+# and Microsoft Visual Basic code should use the [Size(Double,Double)](/dotnet/api/windows.foundation.size.-ctor?view=dotnet-uwp-10.0&preserve-view=true) constructor instead.
 
 ## -parameters
 

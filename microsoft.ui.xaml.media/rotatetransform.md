@@ -12,6 +12,8 @@ public class RotateTransform : Windows.UI.Xaml.Media.Transform, Windows.UI.Xaml.
 ## -description
 Rotates an object around a specified point in a two-dimensional x-y coordinate system.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -xaml-syntax
 ```xaml
 <RotateTransform .../>

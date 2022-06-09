@@ -12,6 +12,8 @@ public class NavigationView : ContentControl, ContentControl
 
 Represents a container that enables navigation of app content. It has a header, a view for the main content, and a menu pane for navigation commands.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -remarks
 
 ### Access keys for built-in elements

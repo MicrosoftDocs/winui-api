@@ -12,6 +12,8 @@ public void InvalidateArrange()
 ## -description
 Invalidates the arrange state (layout) for a [UIElement](uielement.md). After the invalidation, the [UIElement](uielement.md) will have its layout updated, which will occur asynchronously.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -remarks
 Controls that maintain their own orientation property might call InvalidateArrange when that orientation changes, as a way to reconstruct the layout for the new orientation. InvalidateArrange might also be called from within custom layout logic in cases such as when available size isn't adequate and the logic allows for an alternate layout strategy that uses available size differently.
 

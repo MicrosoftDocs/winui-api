@@ -13,6 +13,8 @@ public class ImageIcon : Windows.UI.Xaml.Controls.IconElement
 
 Represents an icon that uses an [Image](image.md) as its content.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -remarks
 
 Supported image types are .bmp, .gif, .jpg, .png, .wdp, and .tiff.

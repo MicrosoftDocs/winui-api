@@ -13,6 +13,8 @@ public Windows.UI.Xaml.Automation.ExpandCollapseState ExpandCollapseState { get;
 ## -description
 Gets the value of the [NavigationViewItem.IsExpanded](../microsoft.ui.xaml.controls/navigationviewitem_isexpanded.md) property and returns whether the NavigationViewItem is currently expanded or collapsed.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -property-value
 Expanded if the NavigationViewItem is currently expanded, Collapsed otherwise.
 

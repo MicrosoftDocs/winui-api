@@ -12,6 +12,8 @@ public class SwipeControl : ContentControl, ContentControl
 
 Represents a container that provides access to, and the ability to invoke, contextual commands through a basic touch interaction.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -remarks
 
 The following image shows how a small set of contextual commands can be exposed through the SwipeControl.

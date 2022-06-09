@@ -12,6 +12,8 @@ public class PathGeometry : Windows.UI.Xaml.Media.Geometry, Windows.UI.Xaml.Medi
 ## -description
 Represents a complex vector-based shape that may be composed of arcs, curves, ellipses, lines, and rectangles.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -xaml-syntax
 ```xaml
 <PathGeometry>

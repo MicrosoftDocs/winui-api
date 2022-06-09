@@ -13,6 +13,8 @@ public double BringIntoViewDistanceY { get; }
 
 Gets the sum of translation in the Y-axis that is required to bring the [FrameworkElement](frameworkelement.md) into view of each viewport containing the element.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -property-value
 
 The translation in the Y-axis that is required to bring the [FrameworkElement](frameworkelement.md) into view of each viewport containing the element.

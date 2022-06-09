@@ -15,6 +15,8 @@ public Windows.UI.Xaml.Style ContainerStyle { get;  set; }
 
 Gets or sets the style that is applied to the [GroupItem](groupitem.md) generated for each item.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -xaml-syntax
 ```xaml
 <GroupStyle ContainerStyle="styleReference" />

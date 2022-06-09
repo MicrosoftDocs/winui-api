@@ -13,6 +13,8 @@ public double VerticalAnchorRatio { get; set; }
 
 Determines the vertical position of the ScrollViewer's _anchor point_ with respect to the viewport. By default, the ScrollViewer selects an element as its [CurrentAnchor](itemsrepeaterscrollhost_currentanchor.md) by identifying the element in its viewport nearest to the anchor point.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -property-value
 
 A normalized value (0.0 to 1.0). The default is 0.0.

@@ -12,6 +12,8 @@ public double Offset { get;  set; }
 ## -description
 Gets the location of the gradient stop within the gradient vector.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -xaml-syntax
 ```xaml
 <GradientStop Offset="double"/>

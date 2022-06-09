@@ -12,6 +12,8 @@ public class TargetPropertyPath : Windows.UI.Xaml.ITargetPropertyPath
 ## -description
 Represents the path to a property on a target element.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -remarks
 TargetPropertyPath is used to create the simplified dotted [Setter.Target](setter_target.md) syntax in XAML.
 

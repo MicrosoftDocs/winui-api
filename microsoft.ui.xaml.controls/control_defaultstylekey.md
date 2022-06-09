@@ -13,6 +13,8 @@ protected object DefaultStyleKey { get;  set; }
 
 Gets or sets the key that references the default style for the control. Authors of custom controls use this property to change the default for the style that their control uses.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -property-value
 
 The key that references the default style for the control. To work correctly as part of theme style lookup, this value is expected to be a [System.Type](/dotnet/api/system.type?view=dotnet-uwp-10.0&preserve-view=true) value.

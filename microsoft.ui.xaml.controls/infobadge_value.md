@@ -13,6 +13,8 @@ public int Value { get; set; }
 
 Gets or sets the integer to be displayed in a numeric [InfoBadge](infobadge.md).
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -property-value
 
 The integer to be displayed in a numeric [InfoBadge](infobadge.md). The defaults is -1.

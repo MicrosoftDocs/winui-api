@@ -12,6 +12,8 @@ public enum AutomationNotificationKind : int
 ## -description
 Indicates the type of notification when calling [RaiseNotificationEvent](automationpeer_raisenotificationevent_331851708.md)
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -enum-fields
 ### -field ItemAdded:0
 The current element container has had something added to it that should be presented to the user.

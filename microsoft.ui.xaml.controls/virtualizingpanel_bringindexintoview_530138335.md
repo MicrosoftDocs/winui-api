@@ -12,6 +12,8 @@ virtual protected void BringIndexIntoView(System.Int32 index)
 ## -description
 Generates the item at the specified index location and makes it visible.
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -parameters
 ### -param index
 The index position of the item that is generated and made visible.

@@ -12,6 +12,8 @@ virtual protected void OnNavigatedFrom(Windows.UI.Xaml.Navigation.NavigationEven
 ## -description
 Invoked immediately after the [Page](page.md) is unloaded and is no longer the current source of a parent [Frame](frame.md).
 
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -parameters
 ### -param e
 Event data that can be examined by overriding code. The event data is representative of the navigation that has unloaded the current [Page](page.md).
