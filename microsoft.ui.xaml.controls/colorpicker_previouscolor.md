@@ -14,6 +14,8 @@ public IReference<Color> PreviousColor { get;  set; }
 Gets or sets the previous color.
 
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -property-value
 
 The previous color. The default is **null**.

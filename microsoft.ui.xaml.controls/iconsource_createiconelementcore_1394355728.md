@@ -13,6 +13,8 @@ protected virtual Microsoft.UI.Xaml.Controls.IconElement CreateIconElementCore (
 
 Creates an icon UI element.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -returns
 
 An instance of the [IconElement](iconelement.md) subtype that the source is associated with. For example, `FontIconSource.CreateIconElementCore()` returns an instance of [FontIcon](fonticon.md) with all of the [FontIcon](fonticon.md) properties set to the corresponding properties on the source. This object is then kept track of by the base class so it can update the properties on that object when the properties on the source change.

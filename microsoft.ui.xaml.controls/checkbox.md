@@ -12,6 +12,8 @@ public class CheckBox : Windows.UI.Xaml.Controls.Primitives.ToggleButton, Window
 ## -description
 Represents a control that a user can select (check) or clear (uncheck). A CheckBox can also report its value as indeterminate.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -xaml-syntax
 ```xaml
 <CheckBox .../>

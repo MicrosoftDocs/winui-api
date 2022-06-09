@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.GeneralTransform TransformToVisual(Windows.UI.Xaml.
 ## -description
 Returns a transform object that can be used to transform coordinates from the [UIElement](uielement.md) to the specified object.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -parameters
 ### -param visual
 The object to compare to the current object for purposes of obtaining the transform.

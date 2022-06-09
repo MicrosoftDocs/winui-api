@@ -12,6 +12,8 @@ public class BitmapCache : Windows.UI.Xaml.Media.CacheMode, Windows.UI.Xaml.Medi
 ## -description
 Represents the behavior of caching a visual element or tree of elements as bitmap surfaces.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -remarks
 This class is infrastructure, and provides the underlying run-time value for the behavior when you specify `CacheMode="BitmapCache"` in XAML markup, or create a new BitmapCache in code to set [UIElement.CacheMode](../microsoft.ui.xaml/uielement_cachemode.md).
 

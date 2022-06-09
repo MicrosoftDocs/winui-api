@@ -12,6 +12,8 @@ public event TypedEventHandler LoadCompleted<LoadedImageSurface, LoadedImageSour
 ## -description
 Occurs when the image has been downloaded, decoded and loaded to the underlying [ICompositionSurface](../microsoft.ui.composition/icompositionsurface.md).
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -xaml-syntax
 ```xaml
 <LoadedImageSurface LoadCompleted="eventhandler"/>

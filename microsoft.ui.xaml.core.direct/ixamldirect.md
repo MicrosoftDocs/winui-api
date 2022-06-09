@@ -15,6 +15,8 @@ Represents the base class for all [XamlDirect](xamldirect.md) APIs. All of the [
 
 [XamlDirect](xamldirect.md) is an API for accessing Xaml at a more primitive level for better CPU and working set performance.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -remarks
 
 ## -see-also

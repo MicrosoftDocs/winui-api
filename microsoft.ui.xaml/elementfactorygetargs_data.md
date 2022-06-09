@@ -13,6 +13,8 @@ public object Data { get;  set; }
 
 Gets or sets the data item for which an appropriate element tree should be realized when calling [GetElement](ielementfactory_getelement_445960756.md).
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -property-value
 
 A reference to the data item for which a [UIElement](uielement.md) should be realized.

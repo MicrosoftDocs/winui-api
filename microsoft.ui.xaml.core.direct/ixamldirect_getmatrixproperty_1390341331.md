@@ -13,6 +13,8 @@ public Windows.UI.Xaml.Media.Matrix GetMatrixProperty (object xamlDirectObject, 
 
 Gets the value of a [Matrix](/uwp/api/windows.ui.xaml.media.matrix) property for a specific [IXamlDirect](ixamldirect.md).
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -parameters
 
 ### -param xamlDirectObject

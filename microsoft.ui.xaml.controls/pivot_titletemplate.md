@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DataTemplate TitleTemplate { get;  set; }
 ## -description
 Gets or sets the title template used for displaying the title above the headers area.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -xaml-syntax
 ```xaml
 <Pivot TitleTemplate="resourceReferenceToDataTemplate"/>

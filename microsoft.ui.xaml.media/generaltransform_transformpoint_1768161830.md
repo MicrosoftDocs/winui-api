@@ -12,6 +12,8 @@ public Windows.Foundation.Point TransformPoint(Windows.Foundation.Point point)
 ## -description
 Uses this transformation object's logic to transform the specified point, and returns the result.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -parameters
 ### -param point
 The point to transform using the transformation logic.

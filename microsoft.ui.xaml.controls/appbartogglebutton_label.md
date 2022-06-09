@@ -12,6 +12,8 @@ public string Label { get;  set; }
 ## -description
 Gets or sets the text description displayed on the app bar toggle button.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -xaml-syntax
 ```xaml
 <AppBarToggleButton Label="stringContent" .../>

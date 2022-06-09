@@ -12,6 +12,8 @@ public Windows.Foundation.Point GetPosition(Windows.UI.Xaml.UIElement relativeTo
 ## -description
 Returns a drop point that is relative to a specified [UIElement](uielement.md).
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -parameters
 ### -param relativeTo
 The [UIElement](uielement.md) for which to get a relative drop point.

@@ -12,6 +12,8 @@ public class ListViewAutomationPeer : Windows.UI.Xaml.Automation.Peers.ListViewB
 ## -description
 Exposes [ListView](../microsoft.ui.xaml.controls/listview.md) types to Microsoft UI Automation.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -remarks
 The Windows Runtime  [ListView](../microsoft.ui.xaml.controls/listview.md) class creates a new ListViewAutomationPeer as its [OnCreateAutomationPeer](../microsoft.ui.xaml/uielement_oncreateautomationpeer_1478162674.md) definition. Derive your automation peer from ListViewAutomationPeer if you are deriving a custom class from [ListView](../microsoft.ui.xaml.controls/listview.md) and want to add automation support for additional features that you enabled in your custom class. Then override [OnCreateAutomationPeer](../microsoft.ui.xaml/uielement_oncreateautomationpeer_1478162674.md) so that it returns your custom peer.
 

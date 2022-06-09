@@ -13,6 +13,8 @@ public System.Collections.Generic.IList<object> FooterMenuItems { get; }
 ## -description
 Gets the list of objects to be used as navigation items in the footer menu.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -property-value
 The collection of menu items displayed in the footer section of the NavigationView. The default is an empty collection.
 

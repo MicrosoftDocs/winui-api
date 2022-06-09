@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.Peers.AutomationPeer FromElement(Windows.UI.Xa
 ## -description
 Returns the [FrameworkElementAutomationPeer](frameworkelementautomationpeer.md) for the specified [UIElement](../microsoft.ui.xaml/uielement.md).
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -parameters
 ### -param element
 The [UIElement](../microsoft.ui.xaml/uielement.md) that is associated with this [FrameworkElementAutomationPeer](frameworkelementautomationpeer.md).

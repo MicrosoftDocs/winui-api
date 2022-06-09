@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DataTemplate SelectTemplate(System.Object item, Windows.U
 ## -description
 Returns a specific [DataTemplate](../microsoft.ui.xaml/datatemplate.md) for a given item and container.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -parameters
 ### -param item
 The item to return a template for.

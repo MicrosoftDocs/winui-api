@@ -11,7 +11,9 @@ public class RectHelper : Windows.UI.Xaml.IRectHelper
 
 ## -description
 
-Provides helper methods to evaluate or set [Rect](/uwp/api/windows.foundation.rect) values. C# and Microsoft Visual Basic code should use members of [Rect](/uwp/api/windows.foundation.rect) instead.
+Provides helper methods to evaluate or set [Rect](/uwp/api/windows.foundation.rect) values. C**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
+# and Microsoft Visual Basic code should use members of [Rect](/uwp/api/windows.foundation.rect) instead.
 
 ## -remarks
 

@@ -14,6 +14,8 @@ public void XamlLight.RemoveTargetElement(String lightId, UIElement element)
 
 Stops a [UIElement](/uwp/api/Windows.UI.Xaml.UIElement) from being a target of a [XamlLight](xamllight.md).
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -parameters
 
 ### -param lightId

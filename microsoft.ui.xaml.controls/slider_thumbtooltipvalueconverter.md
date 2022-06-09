@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Data.IValueConverter ThumbToolTipValueConverter { get;  s
 ## -description
 Gets or sets the converter logic that converts the range value of the [Slider](slider.md) into tool tip content.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -xaml-syntax
 ```xaml
 <Slider ThumbToolTipValueConverter="referenceToValueConverter" />

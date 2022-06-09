@@ -13,6 +13,8 @@ public class AnimatedIcon : Windows.UI.Xaml.Controls.IconElement
 
 Represents an icon that displays and controls a visual that can animate in response to user interaction and visual state changes.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -remarks
 
 Set the [AnimatedIcon.Source](animatedicon_source.md) property to specify the animated visual for the icon. WinUI provides animated visuals for some common icons in the [Microsoft.UI.Xaml.Controls.AnimatedVisuals](/windows/winui/api/microsoft.ui.xaml.controls.animatedvisuals) namespace.

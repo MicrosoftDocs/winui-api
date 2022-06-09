@@ -12,6 +12,8 @@ public class Projection : Windows.UI.Xaml.DependencyObject, Windows.UI.Xaml.Medi
 ## -description
 Provides a base class for projections, which describe how to transform an object in 3-D space using perspective transforms.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -remarks
 A Projection is the property type used by the [UIElement.Projection](../microsoft.ui.xaml/uielement_projection.md) property. Use either a [Matrix3DProjection](matrix3dprojection.md) or [PlaneProjection](planeprojection.md) to supply this property value.
 

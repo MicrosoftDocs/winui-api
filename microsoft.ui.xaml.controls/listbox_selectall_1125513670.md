@@ -12,6 +12,8 @@ public void SelectAll()
 ## -description
 Selects all the items in the [ListBox](listbox.md) control.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -remarks
 > [!WARNING]
 > The SelectAll method should only be called when the [SelectionMode](listbox_selectionmode.md) property is set to [Multiple](selectionmode.md) or [Extended](selectionmode.md). If SelectAll is called when the [SelectionMode](listbox_selectionmode.md) is **Single**, an exception is thrown.

@@ -13,6 +13,8 @@ public class Hub : Windows.UI.Xaml.Controls.Control, Windows.UI.Xaml.Controls.IH
 
 Represents a control that displays groups of content in a panning view.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -xaml-syntax
 ```xaml
 <Hub .../>

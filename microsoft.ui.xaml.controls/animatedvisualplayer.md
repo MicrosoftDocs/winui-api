@@ -13,6 +13,8 @@ public class AnimatedVisualPlayer : FrameworkElement, FrameworkElement
 
 An element that displays and controls an [IAnimatedVisual](/windows/winui/api/microsoft.ui.xaml.controls.ianimatedvisual).
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -remarks
 
 The AnimatedVisualPlayer hosts and controls playback of an animated [Visual](/uwp/api/Windows.UI.Composition.Visual) tree, integrating custom motion graphic content with XAML UI. For instance, the AnimatedVisualPlayer is used to display and control [Lottie](https://aka.ms/lottiedocs) animations.

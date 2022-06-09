@@ -12,6 +12,8 @@ public class PersonPicture : Control, Control
 
 Represents a control that displays the avatar image for a person, if one is available; if not, it displays the person's initials or a generic glyph.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -remarks
 
 ## -see-also

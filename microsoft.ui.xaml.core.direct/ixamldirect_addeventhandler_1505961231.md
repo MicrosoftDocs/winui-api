@@ -13,6 +13,8 @@ public void AddEventHandler (object xamlDirectObject, Microsoft.UI.Xaml.Core.Dir
 
 Adds the specified event handler for a specified event using [XamlEventIndex](xamleventindex.md), adding the handler to the handler collection on the current [IXamlDirect](ixamldirect.md). Specify *handledEventsToo* as true to have the provided handler be invoked even if the event is handled elsewhere.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -parameters
 
 ### -param xamlDirectObject

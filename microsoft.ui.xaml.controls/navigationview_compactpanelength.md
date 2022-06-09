@@ -14,6 +14,8 @@ public double CompactPaneLength { get;  set; }
 Gets or sets the width of the NavigationView pane in its compact display mode.
 
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -property-value
 
 The width of the pane in its compact display mode. The default is 48 device-independent pixel (DIP).

@@ -12,6 +12,8 @@ public class RadioButton : Windows.UI.Xaml.Controls.Primitives.ToggleButton, Win
 ## -description
 Represents a button that allows a user to select a single option from a group of options.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -xaml-syntax
 ```xaml
 <RadioButton .../>

@@ -13,6 +13,8 @@ public bool UseSystemFocusVisuals { get; set; }
 
 Gets or sets a value that indicates whether the control uses focus visuals drawn by the system or focus visuals defined in the control template.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -property-value
 
 True, if the control uses focus visuals drawn by the system. False, if the control uses focus visuals defined in the ControlTemplate. 

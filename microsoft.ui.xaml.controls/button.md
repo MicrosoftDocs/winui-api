@@ -12,6 +12,8 @@ public class Button : Windows.UI.Xaml.Controls.Primitives.ButtonBase, Windows.UI
 ## -description
 Represents a templated button control that interprets a [Click](../microsoft.ui.xaml.controls.primitives/buttonbase_click.md) user interaction.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -xaml-syntax
 ```xaml
 <Button .../>

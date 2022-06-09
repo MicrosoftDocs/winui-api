@@ -12,6 +12,8 @@ public bool Cancel { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the item drag action should be canceled.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -property-value
 **True** to cancel the item drag action; otherwise, **false**.
 

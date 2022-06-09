@@ -12,6 +12,8 @@ public void SelectAll()
 ## -description
 Selects all the items in a view.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -remarks
 > [!WARNING]
 > Call the SelectAll method only when the [SelectionMode](listviewbase_selectionmode.md) property is set to [Multiple](listviewselectionmode.md) or [Extended](listviewselectionmode.md). If you call SelectAll when the [SelectionMode](listviewbase_selectionmode.md) is **Single** or **None**, an exception is thrown.

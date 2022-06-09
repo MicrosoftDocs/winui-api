@@ -12,6 +12,8 @@ public enum Windows.UI.Xaml.ElementTheme : int
 ## -description
 Specifies a UI theme that should be used for individual [UIElement](uielement.md) parts of an app UI.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -xaml-syntax
 ```xaml
 <object property="enumMemberName"/> 

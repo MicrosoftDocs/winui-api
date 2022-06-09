@@ -14,6 +14,8 @@ public SwipeItems TopItems { get;  set; }
 Gets or sets the items that can be invoked when the control is swiped from the top down.
 
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -property-value
 
 The items that can be invoked when the control is swiped from the top down.

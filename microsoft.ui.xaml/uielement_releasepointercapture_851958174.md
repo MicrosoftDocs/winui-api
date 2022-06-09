@@ -13,6 +13,8 @@ public void ReleasePointerCapture(Windows.UI.Xaml.Input.Pointer value)
 
 Releases pointer captures for capture of one specific pointer by this [UIElement](uielement.md).
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -parameters
 
 ### -param value

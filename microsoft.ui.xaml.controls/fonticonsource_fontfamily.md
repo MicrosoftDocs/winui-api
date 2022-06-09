@@ -14,6 +14,8 @@ public FontFamily FontFamily { get;  set; }
 Gets or sets the font used to display the icon glyph.
 
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -property-value
 
 The font used to display the icon glyph. The default is the font family defined by the `SymbolThemeFontFamily` theme resource (see Remarks).

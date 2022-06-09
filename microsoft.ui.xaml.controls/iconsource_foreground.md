@@ -12,6 +12,8 @@ public Brush Foreground { get;  set; }
 
 Gets or sets a brush that paints the foreground color of the control.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -property-value
 
 The brush that paints the foreground of the control. The default is **null**, (a null brush), which is evaluated as [Transparent](/uwp/api/windows.ui.colors.transparent) for rendering. However, this value is typically set by a default system resource at runtime that is tied to the active theme and other settings.

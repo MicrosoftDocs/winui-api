@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.ElementCompositeMode CompositeMode { get;  set; }
 ## -description
 Gets or sets a property that declares alternate composition and blending modes for the element in its parent layout and window. This is relevant for elements that are involved in a mixed XAML / Microsoft DirectX UI.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -xaml-syntax
 ```xaml
 <uiElement CompositeMode="elementCompositeModeMemberName" />

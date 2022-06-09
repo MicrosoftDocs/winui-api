@@ -13,6 +13,8 @@ public bool IsEditable { get; }
 
 Gets or sets a value that indicates whether the user can edit text in the text box portion of the [ComboBox](combobox.md). See remarks.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -xaml-syntax
 
 ```xaml

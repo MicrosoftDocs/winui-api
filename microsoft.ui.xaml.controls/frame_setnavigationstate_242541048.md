@@ -12,6 +12,8 @@ public void Frame.SetNavigationState(String navigationState, Boolean suppressNav
 ## -description
 Reads and restores the navigation history of a [Frame](frame.md) from a provided serialization string.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -parameters
 ### -param navigationState
 The serialization string that supplies the restore point for navigation history.

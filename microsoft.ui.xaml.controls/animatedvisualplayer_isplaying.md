@@ -13,6 +13,8 @@ public bool IsPlaying { get; }
 
 Gets a value that indicates whether an animated visual is loaded and a play is underway.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -property-value
 
 **true** if an animated visual is loaded and a play is underway; otherwise, **false**.

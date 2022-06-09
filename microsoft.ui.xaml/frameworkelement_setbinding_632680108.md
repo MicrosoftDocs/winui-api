@@ -12,6 +12,8 @@ public void SetBinding(Windows.UI.Xaml.DependencyProperty dp, Windows.UI.Xaml.Da
 ## -description
 Attaches a binding to a [FrameworkElement](frameworkelement.md), using the provided binding object.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -parameters
 ### -param dp
 The dependency property identifier of the property that is data bound.

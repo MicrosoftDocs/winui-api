@@ -13,6 +13,8 @@ public event TypedEventHandler CharacterReceived<UIElement, CharacterReceivedRou
 
 Occurs when a single, composed character is received by the input queue.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -xaml-syntax
 
 ```xaml

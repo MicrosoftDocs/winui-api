@@ -11,7 +11,9 @@ public bool GetHasTimeSpan(Windows.UI.Xaml.Duration target)
 
 ## -description
 
-Returns whether the **TimeSpan** component of a given [Duration](duration.md) holds a non-null value. C# and Microsoft Visual Basic code should use [Duration.HasTimeSpan](/dotnet/api/windows.ui.xaml.duration.hastimespan?view=dotnet-uwp-10.0&preserve-view=true) instead.
+Returns whether the **TimeSpan** component of a given [Duration](duration.md) holds a non-null value. C**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
+# and Microsoft Visual Basic code should use [Duration.HasTimeSpan](/dotnet/api/windows.ui.xaml.duration.hastimespan?view=dotnet-uwp-10.0&preserve-view=true) instead.
 
 ## -parameters
 

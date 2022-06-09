@@ -16,6 +16,8 @@ public static void EnsureRevealLights (Microsoft.UI.Xaml.UIElement element);
 
 Ensures that ambient and border lights required for reveal effects are set on the specified element.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -parameters
 
 ### -param element

@@ -12,6 +12,8 @@ public IXamlDirectObject XamlDirect.GetXamlDirectObject(Object object)
 ## -description
 Gets the instance as an [IXamlDirectObject](ixamldirectobject.md) for a given XAML type. 
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -parameters
 ### -param object
 Refers to the specific XAML type (typically, but not always, a [DependencyObject](../microsoft.ui.xaml/dependencyobject.md)).

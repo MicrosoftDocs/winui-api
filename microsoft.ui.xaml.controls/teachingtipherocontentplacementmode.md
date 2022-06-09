@@ -13,6 +13,8 @@ public enum TeachingTipHeroContentPlacementMode
 
 Defines constants that indicate the preferred location of the [HeroContent](../microsoft.ui.xaml.controls/teachingtip_herocontent.md) within a teaching tip.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -enum-fields
 
 ### -field Auto

@@ -13,6 +13,8 @@ public Microsoft.UI.Xaml.DependencyObject XYFocusRight { get; set; }
 
 Gets or sets the object that gets focus when a user presses right on the Directional Pad (D-pad) of a game pad or remote control.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -property-value
 
 The object that gets focus when a user presses right on the Directional Pad (D-pad).

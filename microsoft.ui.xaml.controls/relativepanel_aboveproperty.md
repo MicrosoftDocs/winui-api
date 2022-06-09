@@ -10,7 +10,9 @@ public Windows.UI.Xaml.DependencyProperty AboveProperty { get; }
 # Microsoft.UI.Xaml.Controls.RelativePanel.AboveProperty
 
 ## -description
-Identifies the [RelativePanel.Above](/windows/winui/api/microsoft.ui.xaml.controls.relativepanel#xaml-attached-properties) XAML attached property.
+Identifies the [RelativePanel.Above](/windows/winui/api/microsoft.ui.xaml.controls.relativepanel**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
+#xaml-attached-properties) XAML attached property.
 
 ## -property-value
 The identifier for the [RelativePanel.Above](/windows/winui/api/microsoft.ui.xaml.controls.relativepanel#xaml-attached-properties) XAML attached property.

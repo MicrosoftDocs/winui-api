@@ -12,6 +12,8 @@ virtual protected void OnRightTapped(Windows.UI.Xaml.Input.RightTappedRoutedEven
 ## -description
 Called before the [RightTapped](../microsoft.ui.xaml/uielement_righttapped.md) event occurs.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -parameters
 ### -param e
 Event data for the event.

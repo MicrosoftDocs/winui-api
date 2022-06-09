@@ -12,6 +12,8 @@ public class ColorPicker : Control, Control
 
 Represents a control that lets a user pick a color using a color spectrum, sliders, or text input.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -remarks
 
 A color picker is used to browse through and select colors. By default, it lets a user navigate through colors on a color spectrum, or specify a Red-Green-Blue (RGB), Hue-Saturation-Value (HSV), or hexadecimal color value in a text box.

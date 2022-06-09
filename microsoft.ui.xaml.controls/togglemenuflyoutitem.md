@@ -12,6 +12,8 @@ public class ToggleMenuFlyoutItem : Windows.UI.Xaml.Controls.MenuFlyoutItem, Win
 ## -description
 Represents an item in a [MenuFlyout](menuflyout.md) that a user can change between two states, checked or unchecked.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -xaml-syntax
 ```xaml
 <ToggleMenuFlyoutItem .../>

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.PointCollection Points { get;  set; }
 ## -description
 Gets or sets the collection of [Point](/uwp/api/windows.foundation.point) values that defines this [PolyLineSegment](polylinesegment.md) object.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -xaml-syntax
 ```xaml
 <PolyLineSegment Points="pointSet"/>

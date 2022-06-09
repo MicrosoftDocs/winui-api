@@ -13,6 +13,8 @@ public bool IsTitleBarAutoPaddingEnabled { get; set; }
 
 Gets or sets a value that indicates whether top padding is added to the navigation view's header when used with a custom title bar.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -property-value
 
 **true** if automatic padding is enabled; otherwise, **false**. The default is **true**.

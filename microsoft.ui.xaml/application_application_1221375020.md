@@ -13,6 +13,8 @@ public Application()
 
 Initializes a new instance of the [Application](application.md) class.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -remarks
 
 The [Application](application.md) object is typically provided in the initial XAML for App.xaml. The default project templates in Visual Studio generate an `App` class that derives from [Application](application.md). This class associates itself with the XAML by calling the generated `InitializeComponent` method in its constructor. You can add additional initialization code to the `App` constructor, but you will typically only add code to associate handlers to [Application](application.md) events. For other initialization code, you should override one or more initialization methods such as [OnLaunched](application_onlaunched_1344752508.md).

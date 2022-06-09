@@ -16,6 +16,8 @@ Gets the [CoreDispatcher](/uwp/api/windows.ui.core.coredispatcher) object for th
 > [!NOTE]
 > `Window.Dispatcher` may be altered or unavailable in future releases. Use [Window.DispatcherQueue](window_dispatcherqueue.md) instead.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -property-value
 
 An object that references the UI thread for the [Window](window.md).

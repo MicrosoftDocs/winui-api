@@ -14,6 +14,8 @@ public sealed class ItemsRepeaterScrollHost : Windows.UI.Xaml.FrameworkElement
 A helper to coordinate interaction between the [ItemsRepeater](itemsrepeater.md) and [ScrollViewer](/uwp/api/windows.ui.xaml.controls.scrollviewer).
 Use the ItemsRepeaterScrollHost if your app will run on versions of Windows prior Windows 10 1809 (Build 17763).  If your app will only run on versions of Windows 1809 or higher, there is no need to use this control.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -remarks
 
 ItemsRepeaterScrollHost is a helper class that you can use to wrap a [ScrollViewer](/uwp/api/windows.ui.xaml.controls.scrollviewer) and provide functionality of new APIs on earlier versions of Windows 10.

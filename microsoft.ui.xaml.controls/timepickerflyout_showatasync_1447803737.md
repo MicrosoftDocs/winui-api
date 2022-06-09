@@ -12,6 +12,8 @@ public Windows.Foundation.IAsyncOperation<Windows.Foundation.IReference<Windows.
 ## -description
 Begins an asynchronous operation to show the flyout placed in relation to the specified element.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -parameters
 ### -param target
 The element to use as the flyout's placement target.

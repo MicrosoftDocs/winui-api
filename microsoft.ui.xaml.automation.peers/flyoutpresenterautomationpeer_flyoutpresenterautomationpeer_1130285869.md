@@ -12,6 +12,8 @@ public FlyoutPresenterAutomationPeer(Windows.UI.Xaml.Controls.FlyoutPresenter ow
 ## -description
 Initializes a new instance of the [FlyoutPresenterAutomationPeer](flyoutpresenterautomationpeer.md) class.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -parameters
 ### -param owner
 The [FlyoutPresenter](../microsoft.ui.xaml.controls/flyoutpresenter.md) to create the peer for.

@@ -12,6 +12,8 @@ public Windows.UI.Core.CoreDispatcher Dispatcher { get; }
 ## -description
 Gets the [CoreDispatcher](/uwp/api/windows.ui.core.coredispatcher) that this object is associated with. The [CoreDispatcher](/uwp/api/windows.ui.core.coredispatcher) represents a facility that can access the [DependencyObject](dependencyobject.md) on the UI thread even if the code is initiated by a non-UI thread.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -property-value
 The [CoreDispatcher](/uwp/api/windows.ui.core.coredispatcher) that [DependencyObject](dependencyobject.md) object is associated with, which represents the UI thread.
 

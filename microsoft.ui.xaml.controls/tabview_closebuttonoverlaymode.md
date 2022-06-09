@@ -14,6 +14,8 @@ public Microsoft.UI.Xaml.Controls.TabViewCloseButtonOverlayMode CloseButtonOverl
 
 Gets or sets a value that indicates the behavior of the close button within tabs.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -property-value
 
 A value of the enumeration that describes the behavior of the close button within tabs. The default is **Auto**.

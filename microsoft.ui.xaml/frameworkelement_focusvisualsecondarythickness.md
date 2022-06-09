@@ -13,6 +13,8 @@ public Windows.UI.Xaml.Thickness FocusVisualSecondaryThickness { get;  set; }
 
 Gets or sets the thickness of the inner border of a `HighVisibility` or `Reveal` focus visual for a [FrameworkElement](frameworkelement.md).
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -property-value
 
 The thickness of the inner border of a [HighVisibility](focusvisualkind.md) focus visual. The default value is 1.

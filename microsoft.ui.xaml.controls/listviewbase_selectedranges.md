@@ -12,6 +12,8 @@ public Windows.Foundation.Collections.IVectorView<Windows.UI.Xaml.Data.ItemIndex
 ## -description
 Gets a collection of [ItemIndexRange](../microsoft.ui.xaml.data/itemindexrange.md) objects that describe the currently selected items in the list.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -property-value
 The collection of [ItemIndexRange](../microsoft.ui.xaml.data/itemindexrange.md) objects that describe the currently selected items in the list. The default is an empty collection.
 

@@ -13,6 +13,8 @@ public UIElement Anchor { get;  set; }
 
 Gets or sets the *anchor element* to use when performing scroll anchoring.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -property-value
 
 The [UIElement](../microsoft.ui.xaml/uielement.md) to use as the [CurrentAnchor](iscrollanchorprovider_currentanchor.md). The default is **null**.

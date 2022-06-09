@@ -12,6 +12,8 @@ virtual protected bool GoToStateCore(Windows.UI.Xaml.Controls.Control control, W
 ## -description
 When overridden in a derived class, transitions a control between states.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -parameters
 ### -param control
 The control to transition between states.

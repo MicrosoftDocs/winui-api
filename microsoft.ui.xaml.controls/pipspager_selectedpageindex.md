@@ -13,6 +13,8 @@ public int SelectedPageIndex { get; set; }
 
 Gets or sets the 0 based index of the currently selected pip in the [PipsPager](pipspager.md). A pip is always selected.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -property-value
 
 The 0 based index of the currently selected pip in the [PipsPager](pipspager.md). The default value is 0.

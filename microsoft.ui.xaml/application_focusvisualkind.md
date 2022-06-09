@@ -14,6 +14,8 @@ Gets or sets the type of visual feedback that an app can use to indicate the UI 
 
 > This property is valid only for input devices that can generate key events, such as a keyboard or Xbox controller.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -property-value
 The type of visual feedback used to indicate the UI element with focus. The default value depends on the operating system.
 

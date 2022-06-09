@@ -12,6 +12,8 @@ public class MenuFlyoutPresenter : Windows.UI.Xaml.Controls.ItemsControl, Window
 ## -description
 Displays the content of a [MenuFlyout](menuflyout.md) control.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -remarks
 You don't typically use a MenuFlyoutPresenter directly, either in XAML or code. Instead, you reference the MenuFlyoutPresenter type as the [TargetType](../microsoft.ui.xaml/style_targettype.md) of the style you use for the [MenuFlyout.MenuFlyoutPresenterStyle](menuflyout_menuflyoutpresenterstyle.md) property. Then, you use style [Setter](../microsoft.ui.xaml/setter.md) elements to set the various [Control](control.md) properties that influence the appearance of the [MenuFlyout](menuflyout.md) through this presenter. For example you can use a [Setter](../microsoft.ui.xaml/setter.md) to set the [Width](../microsoft.ui.xaml/frameworkelement_width.md) of the [MenuFlyout](menuflyout.md):
 ```xaml

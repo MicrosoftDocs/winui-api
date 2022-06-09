@@ -12,6 +12,8 @@ public enum Windows.UI.Xaml.Automation.Peers.AutomationEvents : int
 ## -description
 Specifies the event that is raised by the element through the associated [AutomationPeer](automationpeer.md). Used by [RaiseAutomationEvent](automationpeer_raiseautomationevent_714747891.md).
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -enum-fields
 ### -field ToolTipOpened:0
 The event that is raised when a tooltip is opened.

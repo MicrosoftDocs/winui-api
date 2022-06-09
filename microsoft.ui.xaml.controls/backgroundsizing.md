@@ -13,6 +13,8 @@ public enum BackgroundSizing : int
 
 Defines constants that specify how far an element's background extends in relation to the element's border.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -enum-fields
 
 ### -field OuterBorderEdge:1

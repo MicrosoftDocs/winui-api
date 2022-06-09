@@ -14,6 +14,8 @@ public string DisabledGlyph { get;  set; }
 Gets or sets a Segoe MDL2 Assets font glyph that represents a rating element that is disabled.
 
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -property-value
 
 The hexadecimal character code for the rating element glyph.

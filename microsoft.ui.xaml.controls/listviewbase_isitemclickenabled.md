@@ -12,6 +12,8 @@ public bool IsItemClickEnabled { get;  set; }
 ## -description
 Gets or sets a value that indicates whether items in the view fire an [ItemClick](listviewbase_itemclick.md) event in response to interaction.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -xaml-syntax
 ```xaml
 <listViewBase IsItemClickEnabled="bool" />

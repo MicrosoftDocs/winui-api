@@ -13,6 +13,8 @@ public UIElement Element { get;  set; }
 
 Gets or sets the [UIElement](uielement.md) object to recycle when calling [RecycleElement](ielementfactory_recycleelement_1220951169.md).
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -property-value
 
 The [UIElement](uielement.md) object to recycle.

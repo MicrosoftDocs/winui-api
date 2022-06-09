@@ -12,6 +12,8 @@ public Windows.UI.Xaml.UIElement Child { get;  set; }
 ## -description
 Gets or sets the single child element of a [Viewbox](viewbox.md) element.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -xaml-syntax
 ```xaml
 <ViewBox ...>

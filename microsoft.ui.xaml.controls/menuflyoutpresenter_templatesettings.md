@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.Primitives.MenuFlyoutPresenterTemplateSettings T
 ## -description
 Gets an object that provides calculated values that can be referenced as [TemplateBinding](/previous-versions/windows/apps/hh758288(v=win.10)) sources when defining templates for a [MenuFlyoutPresenter](menuflyoutpresenter.md) control.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -property-value
 An object that provides calculated values for templates.
 

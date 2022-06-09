@@ -12,6 +12,8 @@ public enum Windows.UI.Xaml.ElementSoundPlayerState : int
 ## -description
 Defines constants that specify whether XAML controls play sounds.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -enum-fields
 ### -field Auto:0
 The platform determines whether or not sounds are played.

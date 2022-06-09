@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Application Current { get; }
 ## -description
 Gets the [Application](application.md) object for the current application.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -property-value
 The [Application](application.md) object for the current application.
 

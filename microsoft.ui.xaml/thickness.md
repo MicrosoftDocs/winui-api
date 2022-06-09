@@ -13,6 +13,8 @@ public struct Thickness
 
 Describes the thickness of a frame around a rectangle. Four [Double](/dotnet/api/system.double?view=dotnet-uwp-10.0&preserve-view=true) values describe the **Left**, **Top**, **Right**, and **Bottom** sides of the rectangle, respectively.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -xaml-syntax
 
 ```xaml

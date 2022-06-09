@@ -12,6 +12,8 @@ public class DependencyObjectCollection : Windows.UI.Xaml.DependencyObject, Wind
 ## -description
 Implements a practical collection class that can contain [DependencyObject](dependencyobject.md) items.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -remarks
 The purpose of the DependencyObjectCollection class is mainly to support the tooling and portability of behaviors. Behaviors are a technique for defining certain basic interactions of a UI element entirely in XAML, without requiring an event handler and code-behind.
 

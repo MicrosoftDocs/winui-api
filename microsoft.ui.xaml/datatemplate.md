@@ -12,6 +12,8 @@ public class DataTemplate : Windows.UI.Xaml.FrameworkTemplate, Windows.UI.Xaml.I
 ## -description
 Describes the visual structure of a data object. Use data binding for specific elements in the template that display the data values.
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -xaml-syntax
 ```xaml
 <DataTemplate ...>

@@ -17,6 +17,8 @@ public Color Color { get;  set; }
 Gets or sets a value that specifies the base background color for the brush.
 
 
+**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+
 ## -property-value
 
 The base background color for the brush. The default value is transparent white (0x00FFFFFF).
