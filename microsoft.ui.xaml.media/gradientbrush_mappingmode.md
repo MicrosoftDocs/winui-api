@@ -12,7 +12,7 @@ public Windows.UI.Xaml.Media.BrushMappingMode MappingMode { get;  set; }
 ## -description
 Gets or sets a [BrushMappingMode](brushmappingmode.md) enumeration value that specifies whether the positioning coordinates of the gradient brush are absolute or relative to the output area.
 
-**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 ## -xaml-syntax
 ```xaml

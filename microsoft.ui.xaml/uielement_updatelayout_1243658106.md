@@ -12,7 +12,7 @@ public void UpdateLayout()
 ## -description
 Ensures that all positions of child objects of a [UIElement](uielement.md) are properly updated for layout.
 
-**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 ## -remarks
 UpdateLayout is basically equivalent to calling [InvalidateMeasure](uielement_invalidatemeasure_969784920.md) and [InvalidateArrange](uielement_invalidatearrange_2012947484.md) in sequence.

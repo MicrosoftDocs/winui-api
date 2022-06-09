@@ -11,7 +11,7 @@ public Windows.Foundation.Rect FromCoordinatesAndDimensions(System.Single x, Sys
 
 ## -description
 
-Creates a new [Rect](/uwp/api/windows.foundation.rect) value based on the element values of a [Rect](/uwp/api/windows.foundation.rect) structure. C**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+Creates a new [Rect](/uwp/api/windows.foundation.rect) value based on the element values of a [Rect](/uwp/api/windows.foundation.rect) structure. C**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 # and Microsoft Visual Basic code should use the [Rect(Double,Double,Double,Double)](/dotnet/api/windows.foundation.rect.-ctor?view=dotnet-uwp-10.0&preserve-view=true#Windows_Foundation_Rect__ctor_System_Double_System_Double_System_Double_System_Double_) constructor instead.
 

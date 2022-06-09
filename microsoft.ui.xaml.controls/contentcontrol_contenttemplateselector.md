@@ -12,7 +12,7 @@ public Windows.UI.Xaml.Controls.DataTemplateSelector ContentTemplateSelector { g
 ## -description
 Gets or sets a selection object that changes the [DataTemplate](../microsoft.ui.xaml/datatemplate.md) to apply for content, based on processing information about the content item or its container at run time.
 
-**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 ## -xaml-syntax
 ```xaml

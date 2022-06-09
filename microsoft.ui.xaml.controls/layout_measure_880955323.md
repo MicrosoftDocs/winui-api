@@ -13,7 +13,7 @@ public Windows.Foundation.Size Measure (Microsoft.UI.Xaml.Controls.LayoutContext
 
 Suggests a DesiredSize for a container element. A container element that supports attached layouts should call this method from their own MeasureOverride implementations to form a recursive layout update. The attached layout is expected to call the Measure for each of the container’s UIElement children.  
 
-**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 ## -parameters
 

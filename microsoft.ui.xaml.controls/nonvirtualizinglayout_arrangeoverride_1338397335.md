@@ -13,7 +13,7 @@ protected virtual Windows.Foundation.Size ArrangeOverride (Microsoft.UI.Xaml.Con
 
 When implemented in a derived class, provides the behavior for the "Arrange" pass of layout. Classes can override this method to define their own "Arrange" pass behavior.
 
-**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 ## -parameters
 

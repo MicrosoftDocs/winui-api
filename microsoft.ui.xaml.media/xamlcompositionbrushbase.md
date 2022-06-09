@@ -12,7 +12,7 @@ public class XamlCompositionBrushBase : Brush, Brush
 ## -description
 Provides a base class used to create XAML brushes that paint an area with a [CompositionBrush](./../windows.ui.composition/compositionbrush.md).
 
-**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 ## -remarks
 You can use XamlCompositionBrushBase to create custom brushes. 

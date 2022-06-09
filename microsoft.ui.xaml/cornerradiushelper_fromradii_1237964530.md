@@ -11,7 +11,7 @@ public Windows.UI.Xaml.CornerRadius FromRadii(System.Double topLeft, System.Doub
 
 ## -description
 
-Generates a [CornerRadius](cornerradius.md) value from element values. C**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+Generates a [CornerRadius](cornerradius.md) value from element values. C**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 # and Microsoft Visual Basic code should use the [CornerRadius(Double,Double,Double,Double)](/dotnet/api/windows.ui.xaml.cornerradius.-ctor?view=dotnet-uwp-10.0&preserve-view=true#Windows_UI_Xaml_CornerRadius__ctor_System_Double_System_Double_System_Double_System_Double_) constructor instead.
 

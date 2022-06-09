@@ -12,7 +12,7 @@ public class ImageAutomationPeer : Windows.UI.Xaml.Automation.Peers.FrameworkEle
 ## -description
 Exposes [Image](../microsoft.ui.xaml.controls/image.md) types to Microsoft UI Automation.
 
-**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 ## -remarks
 The Windows Runtime  [Image](../microsoft.ui.xaml.controls/image.md) class creates a new ImageAutomationPeer as its [OnCreateAutomationPeer](../microsoft.ui.xaml/uielement_oncreateautomationpeer_1478162674.md) definition. [Image](../microsoft.ui.xaml.controls/image.md) is sealed, so the normal scenario of deriving from the class and its existing peer isn't applicable to ImageAutomationPeer.

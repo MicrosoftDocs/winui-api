@@ -11,7 +11,7 @@ public Windows.Foundation.Rect FromLocationAndSize(Windows.Foundation.Point loca
 
 ## -description
 
-Creates a new [Rect](/uwp/api/windows.foundation.rect) value based on a [Point](/uwp/api/windows.foundation.point) that specifies the upper-left origin, and a [Size](/uwp/api/windows.foundation.size) that specifies the width and height. C**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+Creates a new [Rect](/uwp/api/windows.foundation.rect) value based on a [Point](/uwp/api/windows.foundation.point) that specifies the upper-left origin, and a [Size](/uwp/api/windows.foundation.size) that specifies the width and height. C**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 # and Microsoft Visual Basic code should use the [Rect(Point,Size)](/dotnet/api/windows.foundation.rect.-ctor?view=dotnet-uwp-10.0&preserve-view=true#Windows_Foundation_Rect__ctor_Windows_Foundation_Point_Windows_Foundation_Size_) constructor instead.
 

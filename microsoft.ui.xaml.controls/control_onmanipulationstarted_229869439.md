@@ -12,7 +12,7 @@ virtual protected void OnManipulationStarted(Windows.UI.Xaml.Input.ManipulationS
 ## -description
 Called before the [ManipulationStarted](../microsoft.ui.xaml/uielement_manipulationstarted.md) event occurs.
 
-**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 ## -parameters
 ### -param e

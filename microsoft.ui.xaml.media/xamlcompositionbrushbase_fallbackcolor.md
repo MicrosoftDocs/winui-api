@@ -12,7 +12,7 @@ public Color FallbackColor { get;  set; }
 ## -description
 The color to use for rendering in case the [CompositionBrush](./../windows.ui.composition/compositionbrush.md) can't be rendered.
 
-**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 ## -property-value
 The color to use for rendering in place of the composition brush.

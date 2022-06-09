@@ -11,7 +11,7 @@ public class CornerRadiusHelper : Windows.UI.Xaml.ICornerRadiusHelper
 
 ## -description
 
-Provides basic utility methods for processing [CornerRadius](cornerradius.md) values. C**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+Provides basic utility methods for processing [CornerRadius](cornerradius.md) values. C**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 # and Microsoft Visual Basic code should use methods of [CornerRadius](cornerradius.md) instead.
 

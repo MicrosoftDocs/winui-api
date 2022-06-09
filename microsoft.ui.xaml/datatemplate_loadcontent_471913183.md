@@ -12,7 +12,7 @@ public Windows.UI.Xaml.DependencyObject LoadContent()
 ## -description
 Creates the [UIElement](uielement.md) objects in the [DataTemplate](datatemplate.md).
 
-**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 ## -returns
 The root [UIElement](uielement.md) of the [DataTemplate](datatemplate.md).

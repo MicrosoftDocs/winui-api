@@ -10,7 +10,7 @@ public class ThicknessHelper : Windows.UI.Xaml.IThicknessHelper
 # Microsoft.UI.Xaml.ThicknessHelper
 
 ## -description
-Provides helper methods to evaluate or set [Thickness](thickness.md) values. C**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+Provides helper methods to evaluate or set [Thickness](thickness.md) values. C**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 # and Microsoft Visual Basic code should use members of [Thickness](thickness.md) instead.
 

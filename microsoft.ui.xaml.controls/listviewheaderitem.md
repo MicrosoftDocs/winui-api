@@ -12,7 +12,7 @@ public class ListViewHeaderItem : Windows.UI.Xaml.Controls.ListViewBaseHeaderIte
 ## -description
 Represents items in the header for grouped data inside a [ListView](listview.md).
 
-**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 ## -remarks
 ListViewHeaderItem is a control that's created by the system and added to the visual tree when the data templates for a grouped [ListView](listview.md) are realized. Specifically, it's created when realizing the [GroupStyle.HeaderTemplate](groupstyle_headertemplate.md). You don't typically define elements for ListViewHeaderItem in XAML. There's a default template for ListViewHeaderItem as part of the built-in templates. The main app scenario for the ListViewHeaderItem class is to copy and replace the default style and template with a style of your own, which also implicitly targets ListViewHeaderItem.

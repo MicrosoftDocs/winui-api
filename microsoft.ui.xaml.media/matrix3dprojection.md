@@ -12,7 +12,7 @@ public class Matrix3DProjection : Windows.UI.Xaml.Media.Projection, Windows.UI.X
 ## -description
 Applies a [Matrix3D](../microsoft.ui.xaml.media.media3d/matrix3d.md) projection to an object.
 
-**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 ## -xaml-syntax
 ```xaml

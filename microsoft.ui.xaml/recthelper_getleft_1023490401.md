@@ -11,7 +11,7 @@ public float GetLeft(Windows.Foundation.Rect target)
 
 ## -description
 
-Gets a "Left" value for the specified [Rect](/uwp/api/windows.foundation.rect). So long as **Width** is positive, "Left" is evaluated as **X**. C**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+Gets a "Left" value for the specified [Rect](/uwp/api/windows.foundation.rect). So long as **Width** is positive, "Left" is evaluated as **X**. C**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 # and Microsoft Visual Basic code should use [Rect.Left](/dotnet/api/windows.foundation.rect.left?view=dotnet-uwp-10.0&preserve-view=true) instead.
 

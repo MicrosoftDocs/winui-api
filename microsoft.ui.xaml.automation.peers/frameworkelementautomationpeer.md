@@ -12,7 +12,7 @@ public class FrameworkElementAutomationPeer : Windows.UI.Xaml.Automation.Peers.A
 ## -description
 Exposes [FrameworkElement](../microsoft.ui.xaml/frameworkelement.md) derived types (including all controls) to Microsoft UI Automation.
 
-**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 ## -remarks
 There is no "ControlAutomationPeer" class. FrameworkElementAutomationPeer serves as implementation for all basic [Control](../microsoft.ui.xaml.controls/control.md) class scenarios that involve Microsoft UI Automation. This includes behavior that does not necessarily appear as a public API exposure, such as the practical implementations of many of the **Core** methods from [AutomationPeer](automationpeer.md).

@@ -12,7 +12,7 @@ public bool IsBindingTracingEnabled { get;  set; }
 ## -description
 Gets or sets a value that indicates whether to engage the binding tracing feature of Microsoft Visual Studio when the app runs.
 
-**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 ## -property-value
 **true** to engage the binding tracing feature of Microsoft Visual Studio; otherwise, **false**.

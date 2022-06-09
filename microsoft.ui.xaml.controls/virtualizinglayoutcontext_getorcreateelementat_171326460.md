@@ -13,7 +13,7 @@ public Windows.UI.Xaml.UIElement GetOrCreateElementAt (int index);
 
 Retrieves a UIElement that represents the data item in the source found at the specified index. By default, if an element already exists, it is returned; otherwise, a new element is created.
 
-**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 ## -parameters
 

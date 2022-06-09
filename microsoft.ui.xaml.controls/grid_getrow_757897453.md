@@ -10,7 +10,7 @@ public int GetRow(Windows.UI.Xaml.FrameworkElement element)
 # Microsoft.UI.Xaml.Controls.Grid.GetRow
 
 ## -description
-Gets the value of the [Grid.Row](/windows/winui/api/microsoft.ui.xaml.controls.grid**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+Gets the value of the [Grid.Row](/windows/winui/api/microsoft.ui.xaml.controls.grid**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 #xaml-attached-properties) XAML attached property from the specified [FrameworkElement](../microsoft.ui.xaml/frameworkelement.md).
 

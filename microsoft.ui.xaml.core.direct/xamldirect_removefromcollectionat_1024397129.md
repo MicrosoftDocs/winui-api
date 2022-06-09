@@ -12,7 +12,7 @@ public void XamlDirect.RemoveFromCollectionAt(IXamlDirectObject xamlDirectObject
 ## -description
 Tries to remove a value from the [IXamlDirectObject](ixamldirectobject.md) collection at the specified index.
 
-**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 ## -parameters
 ### -param xamlDirectObject

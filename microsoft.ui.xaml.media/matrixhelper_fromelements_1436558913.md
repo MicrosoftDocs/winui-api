@@ -10,7 +10,7 @@ public Windows.UI.Xaml.Media.Matrix FromElements(System.Double m11, System.Doubl
 # Microsoft.UI.Xaml.Media.MatrixHelper.FromElements
 
 ## -description
-Creates a new [Matrix](matrix.md) based on provided initial [Matrix](matrix.md) data values. C**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+Creates a new [Matrix](matrix.md) based on provided initial [Matrix](matrix.md) data values. C**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 # and Microsoft Visual Basic code should use [Matrix](matrix_matrix_1.md) constructor instead.
 

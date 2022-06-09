@@ -13,7 +13,7 @@ public bool IsTextPredictionEnabled { get;  set; }
 Gets or sets a value that determines whether text prediction features ("autocomplete") should be enabled for this [TextBox](textbox.md). 
 <!--TBW discuss how this interacts with client features rather than app features.-->
 
-**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 ## -xaml-syntax
 ```xaml

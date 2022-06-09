@@ -11,7 +11,7 @@ public bool GetIsEmpty(Windows.Foundation.Size target)
 
 ## -description
 
- Returns whether a specified [Size](/uwp/api/windows.foundation.size) is equivalent to an [Empty](sizehelper_empty.md) [Size](/uwp/api/windows.foundation.size). C**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+ Returns whether a specified [Size](/uwp/api/windows.foundation.size) is equivalent to an [Empty](sizehelper_empty.md) [Size](/uwp/api/windows.foundation.size). C**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 # and Microsoft Visual Basic code should use [Size.IsEmpty](/dotnet/api/windows.foundation.size.isempty?view=dotnet-uwp-10.0&preserve-view=true) instead.
 

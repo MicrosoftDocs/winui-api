@@ -12,7 +12,7 @@ public Setter(Windows.UI.Xaml.DependencyProperty targetProperty, System.Object v
 ## -description
 Initializes a new instance of the [Setter](setter.md) class with initial [Property](setter_property.md) and [Value](setter_value.md) information.
 
-**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 ## -parameters
 ### -param targetProperty

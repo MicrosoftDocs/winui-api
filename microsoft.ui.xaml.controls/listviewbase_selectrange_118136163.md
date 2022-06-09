@@ -12,7 +12,7 @@ public void SelectRange(Windows.UI.Xaml.Data.ItemIndexRange itemIndexRange)
 ## -description
 Selects a block of items described by the [ItemIndexRange](../microsoft.ui.xaml.data/itemindexrange.md).
 
-**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 ## -parameters
 ### -param itemIndexRange

@@ -11,7 +11,7 @@ public class SizeHelper : Windows.UI.Xaml.ISizeHelper
 
 ## -description
 
-Provides helper methods to evaluate or set [Size](/uwp/api/windows.foundation.size) values. C**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+Provides helper methods to evaluate or set [Size](/uwp/api/windows.foundation.size) values. C**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 # and Microsoft Visual Basic code should use members of [Size](/uwp/api/windows.foundation.size) instead.
 

@@ -12,7 +12,7 @@ public void XamlDirect.SetColorProperty(IXamlDirectObject xamlDirectObject, Xaml
 ## -description
 Sets the value of a [Color](/uwp/api/windows.ui.color) property for a specific [IXamlDirectObject](ixamldirectobject.md).
 
-**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 ## -parameters
 ### -param xamlDirectObject

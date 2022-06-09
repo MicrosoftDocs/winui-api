@@ -13,7 +13,7 @@ protected virtual void OnLaunched (Microsoft.UI.Xaml.LaunchActivatedEventArgs ar
 
 Invoked when the application is launched. Override this method to perform application initialization and to display initial content in the associated window (UWP apps) or to create a new window (desktop apps).
 
-**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 ## -parameters
 

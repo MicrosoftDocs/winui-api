@@ -12,7 +12,7 @@ public class ToggleButtonAutomationPeer : Windows.UI.Xaml.Automation.Peers.Butto
 ## -description
 Exposes [ToggleButton](../microsoft.ui.xaml.controls.primitives/togglebutton.md) types to Microsoft UI Automation.
 
-**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 ## -remarks
 The Windows Runtime  [ToggleButton](../microsoft.ui.xaml.controls.primitives/togglebutton.md) class creates a new ToggleButtonAutomationPeer as its [OnCreateAutomationPeer](../microsoft.ui.xaml/uielement_oncreateautomationpeer_1478162674.md) definition.

@@ -13,7 +13,7 @@ public NavigationViewBackButtonVisible IsBackButtonVisible { get;  set; }
 
 Gets or sets a value that indicates whether the back button is visible or not. Default value is "Auto", which indicates that button visibility depends on the [DisplayMode](navigationview_displaymode.md) setting of the NavigationView.
 
-**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 ## -property-value
 

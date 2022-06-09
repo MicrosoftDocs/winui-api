@@ -14,7 +14,7 @@ public TreeViewItemTemplateSettings TreeViewItemTemplateSettings { get; }
 Gets an object that provides calculated values that can be referenced as [{TemplateBinding} markup extension](https://docs.microsoft.com/windows/uwp/xaml-platform/templatebinding-markup-extension) sources when defining templates for a TreeViewItem control.
 
 
-**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 ## -property-value
 

@@ -12,7 +12,7 @@ public Windows.ApplicationModel.DataTransfer.DragDrop.DragDropModifiers Modifier
 ## -description
 Gets a flag enumeration indicating the current state of the SHIFT, CTRL, and ALT keys, as well as the state of the mouse buttons.
 
-**This documentation applies to WinUI 2 for UWP** for [WinUI]/windows/apps/winui/winui3/ in the [Windows App SDK]/windows/apps/windows-app-sdk/, see the **[Windows App SDK namespaces]/windows/windows-app-sdk/api/winrt/**.
+**This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 ## -property-value
 One or more members of the [DragDropModifiers](/uwp/api/windows.applicationmodel.datatransfer.dragdrop.dragdropmodifiers) flag enumeration.
