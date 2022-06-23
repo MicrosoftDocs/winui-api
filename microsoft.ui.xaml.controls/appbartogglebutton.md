@@ -93,6 +93,14 @@ This table shows the resources used by the AppBarToggleButton control.
 >
 > You can also get the source code for both from [GitHub](https://github.com/Microsoft/WinUI-Gallery) (use the *main* branch for WinUI 3 and the *winui2* branch for WinUI 2).
 
+> [!TIP]
+> For more info, design guidance, and code examples, see [Command bar](/windows/apps/design/controls/app-bars).
+
+> [!div class="nextstepaction"]
+> [Open the WinUI 2 Gallery app and see the AppBarToggleButton in action](winui2gallery:/item/AppBarToggleButton).
+
+> The **WinUI 2 Gallery** app includes interactive examples of most WinUI 2 controls, features, and functionality. Get the app from the [Microsoft Store](https://www.microsoft.com/store/productId/9MSVH128X2ZT) or get the source code on [GitHub](https://github.com/Microsoft/WinUI-Gallery/tree/winui2).
+
 ## -see-also
 
 [Control](control.md), [AppBarToggleButton styles and templates](/windows/apps/design/style/xaml-styles), [AppBar](appbar.md), [AppBarButton](appbarbutton.md), [AppBarSeparator](appbarseparator.md), [CommandBar](commandbar.md), [ToggleButton](../microsoft.ui.xaml.controls.primitives/togglebutton.md), [Controls list](/windows/apps/design/controls/), [Controls by function](/windows/uwp/controls-and-patterns/controls-by-function), [Commanding sample (Windows 10)](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/XamlCommanding)

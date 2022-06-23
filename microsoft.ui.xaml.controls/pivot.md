@@ -93,14 +93,11 @@ In order to support XAML processor access to the attached properties, and also t
 
 > [!TIP]
 > For more info, design guidance, and code examples, see [Pivot](/windows/apps/design/controls/pivot).
->
-> The **WinUI 3 Gallery** and **WinUI 2 Gallery** apps include interactive examples of most WinUI 3 and WinUI 2 controls, features, and functionality.
->
-> If installed already, open them by clicking the following links: [**WinUI 3 Gallery**](winui3gallery:/item/Pivot) or [**WinUI 2 Gallery**](winui2gallery:/item/Pivot).
->
-> If they are not installed, you can download the [**WinUI 3 Gallery**](https://www.microsoft.com/store/productId/9P3JFPWWDZRC) and the [**WinUI 2 Gallery**](https://www.microsoft.com/store/productId/9MSVH128X2ZT) from the Microsoft Store.
->
-> You can also get the source code for both from [GitHub](https://github.com/Microsoft/WinUI-Gallery) (use the *main* branch for WinUI 3 and the *winui2* branch for WinUI 2).
+
+> [!div class="nextstepaction"]
+> [Open the WinUI 2 Gallery app and see the Pivot in action](winui2gallery:/item/Pivot).
+
+> The **WinUI 2 Gallery** app includes interactive examples of most WinUI 2 controls, features, and functionality. Get the app from the [Microsoft Store](https://www.microsoft.com/store/productId/9MSVH128X2ZT) or get the source code on [GitHub](https://github.com/Microsoft/WinUI-Gallery/tree/winui2).
 
 
 For more examples, see the [Pivot sample](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/XamlPivot).

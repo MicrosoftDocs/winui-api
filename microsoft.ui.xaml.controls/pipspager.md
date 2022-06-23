@@ -91,3 +91,11 @@ This table shows the resources used by the PipsPager control.
 >
 > You can also get the source code for both from [GitHub](https://github.com/Microsoft/WinUI-Gallery) (use the *main* branch for WinUI 3 and the *winui2* branch for WinUI 2).
 
+> [!TIP]
+> For more info, design guidance, and code examples, see [PipsPager](/windows/apps/design/controls/pipspager).
+
+> [!div class="nextstepaction"]
+> [Open the WinUI 2 Gallery app and see the PipsPager in action](winui2gallery:/item/PipsPager).
+
+> The **WinUI 2 Gallery** app includes interactive examples of most WinUI 2 controls, features, and functionality. Get the app from the [Microsoft Store](https://www.microsoft.com/store/productId/9MSVH128X2ZT) or get the source code on [GitHub](https://github.com/Microsoft/WinUI-Gallery/tree/winui2).
+

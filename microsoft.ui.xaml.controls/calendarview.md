@@ -145,14 +145,11 @@ This table shows the resources used by the CalendarView control.
 
 > [!TIP]
 > For more info, design guidance, and code examples, see [Calendar view](/windows/apps/design/controls/calendar-view).
->
-> The **WinUI 3 Gallery** and **WinUI 2 Gallery** apps include interactive examples of most WinUI 3 and WinUI 2 controls, features, and functionality.
->
-> If installed already, open them by clicking the following links: [**WinUI 3 Gallery**](winui3gallery:/item/CalendarView) or [**WinUI 2 Gallery**](winui2gallery:/item/CalendarView).
->
-> If they are not installed, you can download the [**WinUI 3 Gallery**](https://www.microsoft.com/store/productId/9P3JFPWWDZRC) and the [**WinUI 2 Gallery**](https://www.microsoft.com/store/productId/9MSVH128X2ZT) from the Microsoft Store.
->
-> You can also get the source code for both from [GitHub](https://github.com/Microsoft/WinUI-Gallery) (use the *main* branch for WinUI 3 and the *winui2* branch for WinUI 2).
+
+> [!div class="nextstepaction"]
+> [Open the WinUI 2 Gallery app and see the CalendarView in action](winui2gallery:/item/CalendarView).
+
+> The **WinUI 2 Gallery** app includes interactive examples of most WinUI 2 controls, features, and functionality. Get the app from the [Microsoft Store](https://www.microsoft.com/store/productId/9MSVH128X2ZT) or get the source code on [GitHub](https://github.com/Microsoft/WinUI-Gallery/tree/winui2).
 
 This example shows phased rendering of a CalendarView for scheduling appointments. In phase 0, the default day item is rendered. In phase 1, you blackout dates that can't be booked. This includes past dates, Sundays, and dates that are already fully booked. In phase 2, you check each appointment that's booked for the day. You show a green density bar for each confirmed appointment and a blue density bar for each tentative appointment. The `Bookings` class in this example is from a fictitious appointment booking app, and is not shown.
 

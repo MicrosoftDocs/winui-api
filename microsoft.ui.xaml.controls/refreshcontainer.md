@@ -32,3 +32,12 @@ Represents a container control that provides a [RefreshVisualizer](refreshvisual
 > If they are not installed, you can download the [**WinUI 3 Gallery**](https://www.microsoft.com/store/productId/9P3JFPWWDZRC) and the [**WinUI 2 Gallery**](https://www.microsoft.com/store/productId/9MSVH128X2ZT) from the Microsoft Store.
 >
 > You can also get the source code for both from [GitHub](https://github.com/Microsoft/WinUI-Gallery) (use the *main* branch for WinUI 3 and the *winui2* branch for WinUI 2).
+
+> [!TIP]
+> For more info, design guidance, and code examples, see [Pull to refresh](/windows/apps/design/controls/pull-to-refresh).
+
+> [!div class="nextstepaction"]
+> [Open the WinUI 2 Gallery app and see PullToRefresh in action](winui2gallery:/item/PullToRefresh).
+
+> The **WinUI 2 Gallery** app includes interactive examples of most WinUI 2 controls, features, and functionality. Get the app from the [Microsoft Store](https://www.microsoft.com/store/productId/9MSVH128X2ZT) or get the source code on [GitHub](https://github.com/Microsoft/WinUI-Gallery/tree/winui2).
+
