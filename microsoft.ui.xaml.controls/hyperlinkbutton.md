@@ -23,6 +23,8 @@ Represents a button control that functions as a hyperlink.
 </HyperlinkButton>
 
 ```
+## -remarks
+HyperlinkButton is a button that appears as marked up text.
 
 ### **Hyperlink** and **HyperlinkButton**
 
