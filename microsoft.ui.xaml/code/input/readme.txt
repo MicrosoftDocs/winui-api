@@ -1,1 +1,0 @@
-Input MSDK sample snapshot for use in reference docs
