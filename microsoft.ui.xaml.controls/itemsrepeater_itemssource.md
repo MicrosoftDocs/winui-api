@@ -46,11 +46,11 @@ This list shows available interfaces and when to consider using each one.
     **Warning**:
     Changes to the list/vector without implementing [INotifyCollectionChanged](/dotnet/api/system.collections.specialized.inotifycollectionchanged?view=dotnet-uwp-10.0&preserve-view=true) won't be reflected in the UI.
 
-- [INotifyCollectionChanged](/dotnet/api/system.collections.specialized.inotifycollectionchanged?view=dotnet-uwp-10.0&preserve-view=true) (.NET)
+- [INotifyCollectionChanged](../microsoft.ui.xaml.interop/inotifycollectionchanged.md)
 
   - Recommended to support change notification.
 
-    Enables the control to observe and react to changes in the data source and reflect those changes in the UI.
+    Enables the control to observe and react to changes in the data source and reflect those changes in the UI. Projected in .NET as [System.Collections.Specialized.INotifyCollectionChanged](/dotnet/api/system.collections.specialized.inotifycollectionchanged?view=dotnet-uwp-10.0&preserve-view=true).
 
 - [IObservableVector&lt;T&gt;](/uwp/api/windows.foundation.collections.iobservablevector_t_)
 
@@ -61,7 +61,7 @@ This list shows available interfaces and when to consider using each one.
     **Warning**:
     The Windows.Foundation.IObservableVector\<T> doesn't support a 'Move' action. This can cause the UI for an item to lose its visual state.  For example, an item that is currently selected and/or has focus where the move is achieved by a 'Remove' followed by an 'Add' will lose focus and no longer be selected.
 
-    The Platform.Collections.Vector\<T> uses IObservableVector\<T> and has this same limitation. If support for a 'Move' action is required then use the **INotifyCollectionChanged** interface.  The .NET ObservableCollection\<T> class uses **INotifyCollectionChanged**.
+    The Platform.Collections.Vector\<T> uses IObservableVector\<T> and has this same limitation. If support for a 'Move' action is required then use the **INotifyCollectionChanged** interface documented above.  The .NET ObservableCollection\<T> class uses **INotifyCollectionChanged**.
 
 - [IKeyIndexMapping](ikeyindexmapping.md)
 
