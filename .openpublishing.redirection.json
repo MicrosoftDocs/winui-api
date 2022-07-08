@@ -1,0 +1,9 @@
+{
+  "redirections": [
+    {
+      "source_path": "microsoft.ui.xaml.controls/button.md",
+      "redirect_url": "/windows/windows-app-sdk/api/winrt/microsoft.ui.xaml.controls.button",
+      "redirect_document_id": false
+    }
+  ]
+}
