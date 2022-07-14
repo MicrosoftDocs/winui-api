@@ -11,7 +11,7 @@ public enum PlayerAnimationOptimization
 
 
 ## -description
-Specifies settings to optimize an [AnimatedVisualPlayer](AnimatedVisualPlayer.md) to determine if the player should optimize to reduce latency or reduce the number of resources. 
+Specifies settings to optimize an [AnimatedVisualPlayer](AnimatedVisualPlayer.md).  
 
 
 ## -enum-fields
