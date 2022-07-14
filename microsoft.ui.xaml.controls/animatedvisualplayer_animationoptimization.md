@@ -11,12 +11,12 @@ public Microsoft.UI.Xaml.Controls.PlayerAnimationOptimization AnimationOptimizat
 
 
 ## -description
-Gets or sets a value that determines how animations are cached. Defaults to 'Latency'.
+Gets or sets a value that specifies how animations are cached. 
 
 
 ## -property-value
-The two modes for the property will specify the behavior the AnimatedVisualPlayer will have
-when the player is idle (when `PlayAsync` is not active).
+The property will specify the behavior the AnimatedVisualPlayer will have
+when the player is idle (when `PlayAsync` is not active). Defaults to 'Latency'.
 
 |Mode| Behavior|
 |---- | -------|
@@ -27,7 +27,7 @@ resources of the player. To truly stop the animation, call Stop.
 
 ## -remarks
 If you set the `Source` or `AnimationOptimization` of your player, the player will defer 
-processing of the source file until the layout is being formed.
+processing of the source file until the layout is being processed.
 
 ## -see-also
 [AnimatedVisualPlayer](AnimatedVisualPlayer.md), [PlayerAnimationOptimization](playeranimationoptimization.md), [Lottie-Windows](https://aka.ms/lottie), [Tutorials with code examples](https://aka.ms/lottiedocs#tutorials)
@@ -35,9 +35,9 @@ processing of the source file until the layout is being formed.
 ## -examples
 
 If you have an animation that will start on click, you may want to initialize 
-the property to `None` and set `AnimationOptimization` to 'Always'
+the property to `Resources` and set `AnimationOptimization` to 'Latency'
 when the mouse enters this control, 
-and back to `None` when mouse leaves to ensure that the animation starts immediately on click,
+and back to `Resources` when mouse leaves to ensure that the animation starts immediately on click,
 but don't use up resources otherwise.
 
 Setting the `AnimationOptimization` to `Latency` when the mouse enters the control will ensure that
