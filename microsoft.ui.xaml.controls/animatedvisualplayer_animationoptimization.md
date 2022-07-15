@@ -11,12 +11,11 @@ public Microsoft.UI.Xaml.Controls.PlayerAnimationOptimization AnimationOptimizat
 
 
 ## -description
-Gets or sets a value that specifies how animations are cached. 
+Gets or sets a value that specifies how animations are cached when the AnimatedVisualPlayer is idle (when PlayAsync is not active).
 
 
 ## -property-value
-The property will specify the behavior the AnimatedVisualPlayer will have
-when the player is idle (when `PlayAsync` is not active). Defaults to 'Latency'.
+A value that specifies how animations are cached when the AnimatedVisualPlayer is idle (when PlayAsync is not active). The default is Latency.
 
 ## -remarks
 If you set the `Source` or `AnimationOptimization` of your player, the player will defer 
