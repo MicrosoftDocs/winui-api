@@ -18,13 +18,6 @@ Gets or sets a value that specifies how animations are cached.
 The property will specify the behavior the AnimatedVisualPlayer will have
 when the player is idle (when `PlayAsync` is not active). Defaults to 'Latency'.
 
-|Mode| Behavior|
-|---- | -------|
-|Latency| AnimatedVisualPlayer will pre-create animations even before `PlayAsync()` is called, and not destroy any when player is idle. |
-|Resources | AnimatedVisualPlayer will not create animations until `PlayAsync()` is called,
-and will destroy them when it completes. If you call pause, this does not free up all 
-resources of the player. To truly stop the animation, call Stop. 
-
 ## -remarks
 If you set the `Source` or `AnimationOptimization` of your player, the player will defer 
 processing of the source file until the layout is being processed.
