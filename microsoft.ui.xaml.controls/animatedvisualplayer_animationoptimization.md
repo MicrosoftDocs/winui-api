@@ -26,14 +26,8 @@ processing of the source file until the layout is being processed.
 
 ## -examples
 
-If you have an animation that will start on click, you may want to initialize 
-the property to `Resources` and set `AnimationOptimization` to 'Latency'
-when the mouse enters this control, 
-and back to `Resources` when mouse leaves to ensure that the animation starts immediately on click,
-but don't use up resources otherwise.
-
-Setting the `AnimationOptimization` to `Latency` when the mouse enters the control will ensure that
-the animation objects are preloaded so that the animation may start immediately when it needs to play. 
+If you have an animation that starts on a click, initialize the property to Resources and set AnimationOptimization to 'Latency' when the mouse enters the control and then 'Resources' when the mouse leaves the control. 
+This ensures that the animation starts immediately on click without using resources unnecessarily. 
 
 If you call PlayAsync before animations are loaded, then the player won't start until all animations are loaded completely.
 
