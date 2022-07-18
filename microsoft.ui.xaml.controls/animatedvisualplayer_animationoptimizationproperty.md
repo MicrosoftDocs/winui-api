@@ -11,8 +11,10 @@ public static Windows.UI.Xaml.DependencyProperty AnimationOptimizationProperty {
 
 
 ## -description
+Identifies the [AnimationOptimization](animatedvisualplayer_animationoptimization.md) dependency property.
 
 ## -property-value
+The identifier for the [AnimationOptimization](animatedvisualplayer_animationoptimization.md) dependency property.
 
 ## -remarks
 
