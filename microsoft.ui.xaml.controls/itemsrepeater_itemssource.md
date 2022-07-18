@@ -46,7 +46,7 @@ This list shows available interfaces and when to consider using each one.
     **Warning**:
     Changes to the list/vector without implementing [INotifyCollectionChanged](/dotnet/api/system.collections.specialized.inotifycollectionchanged?view=dotnet-uwp-10.0&preserve-view=true) won't be reflected in the UI.
 
-- [INotifyCollectionChanged](/uwp/api/windows.ui.xaml.interop.inotifycollectionchanged)
+- [INotifyCollectionChanged](../microsoft.ui.xaml.interop/inotifycollectionchanged.md)
 
   - Recommended to support change notification.
 
