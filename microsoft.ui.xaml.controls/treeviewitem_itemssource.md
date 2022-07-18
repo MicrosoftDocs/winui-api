@@ -43,7 +43,7 @@ The ItemsControl can respond to changes if the ItemsSource property value also i
 
 | C++ | .NET |
 | -- | -- |
-| [IObservableVector](/uwp/api/windows.foundation.collections.iobservablevector_t_)&lt;[IInspectable](/windows/win32/api/inspectable/nn-inspectable-iinspectable)&gt; | [INotifyCollectionChanged](/dotnet/api/system.collections.specialized.inotifycollectionchanged?view=dotnet-uwp-10.0&preserve-view=true) |
+| [IObservableVector](/uwp/api/windows.foundation.collections.iobservablevector_t_)&lt;[IInspectable](/windows/win32/api/inspectable/nn-inspectable-iinspectable)&gt; or [INotifyCollectionChanged](/uwp/api/windows.ui.xaml.interop.inotifycollectionchanged) | [INotifyCollectionChanged](/dotnet/api/system.collections.specialized.inotifycollectionchanged?view=dotnet-uwp-10.0&preserve-view=true) |
 
 ## -see-also
 
