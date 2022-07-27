@@ -554,9 +554,6 @@ The _CanDrag_ property for the [UIElement](/uwp/api/windows.ui.xaml.uielement) t
 ### -field UIElement_CanBeScrollAnchor:2276
 The _CanBeScrollAnchor_ property for the [UIElement](/uwp/api/windows.ui.xaml.uielement) type.
 
-### -field ThemeShadow_Receivers:2279
-The *Receivers* property for the [ThemeShadow](../microsoft.ui.xaml.media/themeshadow.md) type.
-
 
 ### -field UIElement_CacheMode:293
 The _CacheMode_ property for the [UIElement](/uwp/api/windows.ui.xaml.uielement) type.
@@ -575,30 +572,6 @@ The _AccessKeyScopeOwner_ property for the [UIElement](/uwp/api/windows.ui.xaml.
 
 ### -field UIElement_AccessKey:1803
 The _AccessKey_ property for the [UIElement](/uwp/api/windows.ui.xaml.uielement) type.
-
-
-### -field FlyoutBase_ShouldConstrainToRootBounds:2378
-The *ShouldConstrainToRootBounds* property for the [FlyoutBase](../microsoft.ui.xaml.controls.primitives/flyoutbase.md) type.
-### -field Popup_ShouldConstrainToRootBounds:2379
-The *ShouldConstrainToRootBounds* property for the [Popup](../microsoft.ui.xaml.controls.primitives/popup.md) type.
-### -field FlyoutPresenter_IsDefaultShadowEnabled:2380
-The *IsDefaultShadowEnabled* property for the [FlyoutBase](../microsoft.ui.xaml.controls.primitives/flyoutbase.md) type.
-### -field MenuFlyoutPresenter_IsDefaultShadowEnabled:2381
-The *IsDefaultShadowEnabled* property for the [FlyoutBase](../microsoft.ui.xaml.controls.primitives/flyoutbase.md) type.
-### -field UIElement_ActualOffset:2382
-The *ActualOffset* property for the [UIElement](/uwp/api/windows.ui.xaml.uielement) type.
-### -field UIElement_ActualSize:2383
-The *ActualSize* property for the [UIElement](/uwp/api/windows.ui.xaml.uielement) type.
-
-
-### -field CommandBarTemplateSettings_OverflowContentCompactYTranslation:2384
-The *OverflowContentCompactYTranslation* property for the [CommandBarTemplateSettings](../microsoft.ui.xaml.controls.primitives/commandbartemplatesettings.md) type.
-### -field CommandBarTemplateSettings_OverflowContentHiddenYTranslation:2385
-The *OverflowContentHiddenYTranslation* property for the [CommandBarTemplateSettings](../microsoft.ui.xaml.controls.primitives/commandbartemplatesettings.md) type.
-### -field CommandBarTemplateSettings_OverflowContentMinimalYTranslation:2386
-The *OverflowContentMinimalYTranslation* property for the [CommandBarTemplateSettings](../microsoft.ui.xaml.controls.primitives/commandbartemplatesettings.md) type.
-### -field UIElement_RasterizationScale:2394
-The *RasterizationScale* property for the [UIElement](/uwp/api/windows.ui.xaml.uielement) type.
 
 
 ### -field Typography_Variants:70
@@ -998,13 +971,6 @@ The _Time_ property for the [TimePicker](/uwp/api/windows.ui.xaml.controls.timep
 
 ### -field TimePicker_SelectedTime:2356
 The _SelectedTime_ property for the [TimePicker](/uwp/api/windows.ui.xaml.controls.timepicker) type.
-
-### -field AppBarTemplateSettings_NegativeCompactVerticalDelta:2367
-The *NegativeCompactVerticalDelta* property for the [AppBarTemplateSettings](../microsoft.ui.xaml.controls.primitives/appbartemplatesettings.md) type.
-### -field AppBarTemplateSettings_NegativeHiddenVerticalDelta:2368
-The *NegativeHiddenVerticalDelta* property for the [AppBarTemplateSettings](../microsoft.ui.xaml.controls.primitives/appbartemplatesettings.md) type.
-### -field AppBarTemplateSettings_NegativeMinimalVerticalDelta:2369
-The *NegativeMinimalVerticalDelta* property for the [AppBarTemplateSettings](../microsoft.ui.xaml.controls.primitives/appbartemplatesettings.md) type.
 
 
 ### -field TimePicker_MinuteIncrement:989
@@ -1525,8 +1491,6 @@ The _Path_ property for the [TargetPropertyPath](/uwp/api/windows.ui.xaml.target
 ### -field SymbolIconSource_Symbol:2123
 The _Symbol_ property for the [SymbolIconSource](../microsoft.ui.xaml.controls/symboliconsource.md) type.
 
-### -field UIElement_Shadow:2130
-The *Shadow* property for the [UIElement](../microsoft.ui.xaml/uielement.md) type.
 
 ### -field SymbolIcon_Symbol:963
 The _Symbol_ property for the [SymbolIcon](/uwp/api/windows.ui.xaml.controls.symbolicon) type.
