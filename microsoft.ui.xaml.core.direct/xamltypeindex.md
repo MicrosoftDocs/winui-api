@@ -131,9 +131,6 @@ The [TickBar](../microsoft.ui.xaml.controls.primitives/tickbar.md) type.
 ### -field Thumb:485
 The [Thumb](../microsoft.ui.xaml.controls.primitives/thumb.md) type.
 
-### -field ThemeShadow:964
-The [ThemeShadow](../microsoft.ui.xaml.media/themeshadow.md) type.
-
 ### -field TextBox:483
 The [TextBox](/uwp/api/windows.ui.xaml.controls.textbox) type.
 
