@@ -11,7 +11,7 @@ public class XamlControlsResources : ResourceDictionary, ResourceDictionary
 
 ## -description
 
-Default styles for the controls in the [WinUI library](https://docs.microsoft.com/uwp/toolkits/winui/).
+Default styles for the controls in the [WinUI library](/uwp/toolkits/winui/).
 
 **This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
@@ -19,7 +19,7 @@ Default styles for the controls in the [WinUI library](https://docs.microsoft.co
 
 ## -see-also
 
-[Getting started with the Windows UI Library](https://docs.microsoft.com/uwp/toolkits/winui/getting-started)
+[Getting started with the Windows UI Library](/uwp/toolkits/winui/getting-started)
 
 ## -examples
 
