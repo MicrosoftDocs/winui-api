@@ -17,7 +17,7 @@ Gets or sets the [InfoBadge](infobadge.md) object to display on the [NavigationV
 
 ## -property-value
 
-The badge to display on the [NavigationViewItem](navigationviewitem.md). The default is null.
+The badge to display on the [NavigationViewItem](navigationviewitem.md). The default is `null`.
 
 ## -remarks
 

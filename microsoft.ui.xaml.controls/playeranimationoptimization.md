@@ -11,29 +11,31 @@ public enum PlayerAnimationOptimization
 
 
 ## -description
-Specifies settings to optimize an [AnimatedVisualPlayer](AnimatedVisualPlayer.md).  
 
+Defines constants that specify how an [AnimatedVisualPlayer](AnimatedVisualPlayer.md) caches animations when the player is idle.
 
 ## -enum-fields
-If you set the enum to 'latency', AnimatedVisualPlayer will pre-create animations even before `PlayAsync()` is called,
-and not destroy any when player is idle. 
-
-If you set the enum to 'resources', AnimatedVisualPlayer will not create animations until `PlayAsync()` is called,
-and will destroy them when it completes. If you call pause, this does not free up all 
-resources of the player. To truly stop the animation, call Stop.
 
 ### -field Latency: 0
-AnimatedVisualPlayer will pre-create animations even before `PlayAsync()` is called, and not destroy any when player is idle.
+
+The player optimizes animation caching for lower latency.
 
 ### -field Resources: 1
-AnimatedVisualPlayer will not create animations until `PlayAsync()` is called,
-and will destroy them when it completes. If you call pause, this does not free up all 
-resources of the player. To truly stop the animation, call Stop.
+
+The player optimizes animation caching for lower resource usage.
 
 ## -remarks
 
+The values of this enumeration are used by the [AnimatedVisualPlayer.AnimationOptimization](animatedvisualplayer_animationoptimization.md) property.
+
+- If you set the property to `Latency`, the `AnimatedVisualPlayer` will pre-create animations even before [PlayAsync](animatedvisualplayer_playasync_539275755.md) is called, and not destroy any when the player is idle. 
+- If you set the property to `Resources`, the `AnimatedVisualPlayer` will not create animations until [PlayAsync](animatedvisualplayer_playasync_539275755.md) is called, and will destroy them when it completes.
+
+If you call [Pause](animatedvisualplayer_pause_1953642114.md), this does not free up all resources of the player. To truly stop the animation, call [Stop](animatedvisualplayer_stop_1201535524.md).
+
 ## -see-also
-[AnimatedVisualPlayer](AnimatedVisualPlayer.md)
+
+[AnimatedVisualPlayer](AnimatedVisualPlayer.md), [AnimatedVisualPlayer.AnimationOptimization](animatedvisualplayer_animationoptimization.md)
 
 ## -examples
 
