@@ -31,50 +31,9 @@ Both the `Header` and `Content` areas can contain any content, from simple text 
 
 ### Control style and template
 
-You can modify the default [Style](../microsoft.ui.xaml/style.md) and [ControlTemplate](controltemplate.md) to give the control a unique appearance. For information about modifying a control's style and template, see [Styling controls](/windows/uwp/controls-and-patterns/styling-controls). The default style, template, and resources that define the look of the control are included in the generic.xaml file. For design purposes, generic.xaml is available in the \(Program Files)\Windows Kits\10\DesignTime\CommonConfiguration\Neutral\UAP\ &lt;SDK version&gt;\Generic folder from a Windows Software Development Kit (SDK) installation. Styles and resources from different versions of the SDK might have different values.
+You can modify the default [Style](/uwp/api/windows.ui.xaml.frameworkelement.style) and [ControlTemplate](/uwp/api/windows.ui.xaml.controls.controltemplate) to give the control a unique appearance. For information about modifying a control's style and template, see [XAML styles](/windows/apps/design/style/xaml-styles). XAML also includes resources that you can use to modify the colors of a control in different visual states without modifying the control template. Modifying these resources is preferred to setting properties such as [Background](/uwp/api/windows.ui.xaml.controls.control.background) and [Foreground](/uwp/api/windows.ui.xaml.controls.control.foreground). For more info, see the [Light-weight styling](/windows/apps/design/style/xaml-styles#lightweight-styling) section of the [XAML styles](/windows/apps/design/style/xaml-styles) article.
 
-Starting in Windows 10, version 1607 (SDK 14393), generic.xaml includes resources that you can use to modify the colors of a control in different visual states without modifying the control template. In apps that target this software development kit (SDK) or later, modifying these resources is preferred to setting properties such as [Background](control_background.md) and [Foreground](control_foreground.md). For more info, see the [Light-weight styling](/windows/uwp/controls-and-patterns/styling-controls) section of the [Styling controls](/windows/uwp/controls-and-patterns/styling-controls) article.
-
-This table shows the resources used by the Expander control.
-
-| Resource key | Description |
-|:-:|:--|
-| ExpanderHeaderBackground | Header background color |
-| ExpanderHeaderForeground | Header foreground color at rest |
-| ExpanderHeaderForegroundPointerOver | Header foreground color on pointer over |
-| ExpanderHeaderForegroundPressed | Header foreground color when pressed |
-| ExpanderHeaderBorderBrush | Header border color at rest |
-| ExpanderHeaderBorderPointerOverBrush | Header border color on pointer over |
-| ExpanderHeaderBorderPressedBrush | Header border color when pressed |
-| ExpanderHeaderDisabledForeground | Header foreground color when disabled |
-| ExpanderHeaderDisabledBorderBrush | Header border color when disabled |
-| ExpanderHeaderBorderThickness| Header border thickness |
-| ExpanderChevronBackground | Chevron background color at rest |
-| ExpanderChevronPointerOverBackground | Chevron background color on pointer over |
-| ExpanderChevronPressedBackground | Chevron background color when pressed |
-| ExpanderChevronForeground | Chevron foreground color at rest |
-| ExpanderChevronPointerOverForeground | Chevron foreground color on pointer over |
-| ExpanderChevronPressedForeground | Chevron foreground color when pressed |
-| ExpanderChevronBorderBrush | Chevron border color at rest |
-| ExpanderChevronBorderPointerOverBrush | Chevron border color on pointer over |
-| ExpanderChevronBorderPressedBrush | Chevron border color when pressed |
-| ExpanderChevronBorderThickness | Chevron border thickness |
-| ExpanderContentBackground | Content background color |
-| ExpanderContentBorderBrush | Content border color |
-| ExpanderMinHeight | Minimum height of Expander |
-| ExpanderHeaderHorizontalContentAlignment | Horizontal alignment of content |
-| ExpanderHeaderVerticalContentAlignment | Vertical alignment of content |
-| ExpanderHeaderPadding| Header padding thickness |
-| ExpanderChevronMargin| Chevron margin thickness |
-| ExpanderChevronUpGlyph| Chevron glyph when [ExpandDirection](expander_expanddirection.md) is Up |
-| ExpanderChevronDownGlyph| Chevron glyph when [ExpandDirection](expander_expanddirection.md) is Down |
-| ExpanderChevronButtonSize| Chevron button size |
-| ExpanderChevronGlyphSize| Chevron glyph size |
-| ExpanderContentPadding| Content padding thickness |
-| ExpanderContentDownBorderThickness| Content border thickness when [ExpandDirection](expander_expanddirection.md) is Down |
-| ExpanderContentUpBorderThickness| Content border thickness when [ExpandDirection](expander_expanddirection.md) is Up |
-| ExpanderHeaderDownStyle| Header style when [ExpandDirection](expander_expanddirection.md) is Down |
-| ExpanderHeaderUpStyle| Header style when [ExpandDirection](expander_expanddirection.md) is Up |
+The resources for this control are listed in the [ThemeDictionaries](/windows/apps/design/style/xaml-theme-resources) section of the [Expander_themeresources.xaml](https://github.com/microsoft/microsoft-ui-xaml/blob/main/dev/Expander/Expander_themeresources.xaml) file on GitHub. The `ResourceKey` value for each `StaticResource` references a brush and color in the [Common_themeresources_any.xaml](https://github.com/microsoft/microsoft-ui-xaml/blob/main/dev/CommonStyles/Common_themeresources_any.xaml) file.
 
 ## -see-also
 

@@ -16,6 +16,12 @@ Represents a hierarchical list with expanding and collapsing nodes that contain 
 
 ## -remarks
 
+### Control style and template
+
+You can modify the default [Style](/uwp/api/windows.ui.xaml.frameworkelement.style) and [ControlTemplate](/uwp/api/windows.ui.xaml.controls.controltemplate) to give the control a unique appearance. For information about modifying a control's style and template, see [XAML styles](/windows/apps/design/style/xaml-styles). XAML also includes resources that you can use to modify the colors of a control in different visual states without modifying the control template. Modifying these resources is preferred to setting properties such as [Background](/uwp/api/windows.ui.xaml.controls.control.background) and [Foreground](/uwp/api/windows.ui.xaml.controls.control.foreground). For more info, see the [Light-weight styling](/windows/apps/design/style/xaml-styles#lightweight-styling) section of the [XAML styles](/windows/apps/design/style/xaml-styles) article.
+
+The resources for this control are listed in the [ThemeDictionaries](/windows/apps/design/style/xaml-theme-resources) section of the [TreeView_themeresources.xaml](https://github.com/microsoft/microsoft-ui-xaml/blob/main/dev/TreeView/TreeView_themeresources.xaml) file on GitHub. The `ResourceKey` value for each `StaticResource` references a brush and color in the [Common_themeresources_any.xaml](https://github.com/microsoft/microsoft-ui-xaml/blob/main/dev/CommonStyles/Common_themeresources_any.xaml) file.
+
 ## -see-also
 
 [TreeViewCollapsedEventArgs](treeviewcollapsedeventargs.md), [TreeViewDragItemsCompletedEventArgs](treeviewdragitemscompletedeventargs.md), [TreeViewDragItemsStartingEventArgs](treeviewdragitemsstartingeventargs.md), [TreeViewExpandingEventArgs](treeviewexpandingeventargs.md), [TreeViewItem](treeviewitem.md), [TreeViewItemInvokedEventArgs](treeviewiteminvokedeventargs.md), [TreeViewItemTemplateSettings](treeviewitemtemplatesettings.md), [TreeViewList](treeviewlist.md), [TreeViewNode](treeviewnode.md), [TreeViewSelectionMode](treeviewselectionmode.md), [TreeView overview](/windows/apps/design/controls/tree-view)
