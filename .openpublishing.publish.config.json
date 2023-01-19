@@ -3,7 +3,7 @@
     [
       {
         "docset_name": "Fake-Docset-Name",
-        "build_source_folder": "winui-api-src/content",
+        "build_source_folder": ".",
         "locale": "en-us",
         "monikers": [],
         "moniker_ranges": [],
