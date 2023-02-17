@@ -1256,7 +1256,7 @@ The [AdaptiveTrigger](/uwp/api/windows.ui.xaml.adaptivetrigger) type.
 
 ## -see-also
 
-[XamlDirect](xamldirect.md), [IXamlDirect](/uwp/api/windows.ui.xaml.core.direct.ixamldirect), [XamlPropertyIndex](xamlpropertyindex.md), [XamlEventIndex](xamleventindex.md)
+[XamlDirect](xamldirect.md), [IXamlDirect](ixamldirect.md), [XamlPropertyIndex](xamlpropertyindex.md), [XamlEventIndex](xamleventindex.md)
 
 ## -examples
 
