@@ -29,6 +29,6 @@ True, if the interior corners are set to square. Otherwise, false. The default i
 
 ## -see-also
 
-[SetKeepInteriorCornersSquare(Microsoft.UI.Xaml.Controls.ComboBox,System.Boolean)](comboboxhelper_setkeepinteriorcornerssquare_414733454.md)
+[SetKeepInteriorCornersSquare(Windows.UI.Xaml.Controls.ComboBox,System.Boolean)](comboboxhelper_setkeepinteriorcornerssquare_1061768560.md)
 
 ## -examples

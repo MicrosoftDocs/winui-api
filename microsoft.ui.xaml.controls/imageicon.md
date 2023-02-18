@@ -25,7 +25,7 @@ Only the first frame of a multi-frame image is used. To use animated icons, see 
 
 Due to the file types supported, `ImageIcon` ignores the [Foreground](iconelement_foreground.md) property, so you can't change the foreground color like you can on other [IconElement](iconelement.md) derived controls.
 
-`ImageIcon` is typically used with an [AppBarButton](appbarbutton.md), but it can be used wherever an `IconElement` can be used.
+`ImageIcon` is typically used with an [AppBarButton](/uwp/api/windows.ui.xaml.controls.appbarbutton), but it can be used wherever an `IconElement` can be used.
 
 ## -examples
 
@@ -40,7 +40,7 @@ Due to the file types supported, `ImageIcon` ignores the [Foreground](iconelemen
 >
 > You can also get the source code for both from [GitHub](https://github.com/Microsoft/WinUI-Gallery) (use the *main* branch for WinUI 3 and the *winui2* branch for WinUI 2).
 
-The following example shows an [AppBarButton](appbarbutton.md) with an `ImageIcon`. [Source](imageicon_source.md) specifies an image that's included in the app package.
+The following example shows an [AppBarButton](/uwp/api/windows.ui.xaml.controls.appbarbutton) with an `ImageIcon`. [Source](imageicon_source.md) specifies an image that's included in the app package.
 
 ```xaml
 <!--
@@ -66,4 +66,4 @@ var icon = new muxc.ImageIcon() { Source = bitmapSource };
 
 ## -see-also
 
-[IconElement](iconelement.md), [AppBarButton](appbarbutton.md), [Image](image.md), [Icons for UWP apps](/windows/uwp/style/icons)
+[IconElement](iconelement.md), [AppBarButton](/uwp/api/windows.ui.xaml.controls.appbarbutton), [Image](image.md), [Icons for UWP apps](/windows/uwp/style/icons)

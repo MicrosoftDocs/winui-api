@@ -22,10 +22,6 @@ The action button of the [InfoBar](infobar.md). The default is `null`.
 
 ## -remarks
 
-Foreground color of a [HyperlinkButton](hyperlinkbutton.md) is the same as the foreground color of plain text in the current theme.
-
 ## -see-also
 
 ## -examples
-
-
