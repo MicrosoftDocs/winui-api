@@ -24,11 +24,11 @@ You can set the property on the `AnimatedIcon` or on an ancestor in the XAML tre
 > [!IMPORTANT]
 > If you add an `AnimatedIcon` to the XAML tree and set the `State` property on an ancestor element, the `State` property must be set to an initial value before the animated icon is first loaded in order for the icon to animate. You typically set the initial state in XAML as shown in the Example section.
 
-For more info, see Remarks on the [AnimatedIcon](animatedicon.md#remarks) class page.
+For more info, see Remarks on the [AnimatedIcon](animatedicon.md#-remarks) class page.
 
 ## -see-also
 
-[Animated icon overview](/windows/apps/design/controls/animated-icon), [AnimatedIcon](animatedicon.md)
+[Animated icon overview](/windows/apps/design/controls/animated-icon)
 
 ## -examples
 

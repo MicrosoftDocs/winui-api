@@ -32,7 +32,7 @@ ImageIconSource is similar to [ImageIcon](imageicon.md). However, because it is 
 >
 > You can also get the source code for both from [GitHub](https://github.com/Microsoft/WinUI-Gallery) (use the *main* branch for WinUI 3 and the *winui2* branch for WinUI 2).
 
-The following example shows an [AppBarButton](appbarbutton.md) with an ImageIconSource. [ImageSource](../microsoft.ui.xaml.media/imagesource.md) specifies an image that's included in the app package.
+The following example shows an [AppBarButton](/uwp/api/windows.ui.xaml.controls.appbarbutton) with an ImageIconSource. [ImageSource](../microsoft.ui.xaml.media/imagesource.md) specifies an image that's included in the app package.
 
 ```xaml
 <!--
@@ -60,4 +60,4 @@ var icon = new muxc.ImageIconSource() { ImageSource = bitmapSource };
 
 ## -see-also
 
-[IconElement](iconelement.md), [AppBarButton](appbarbutton.md), [Image](image.md), [Icons for UWP apps](/windows/uwp/style/icons)
+[IconElement](iconelement.md), [AppBarButton](/uwp/api/windows.ui.xaml.controls.appbarbutton), [Image](image.md), [Icons for UWP apps](/windows/uwp/style/icons)

@@ -44,7 +44,7 @@ In order to support XAML processor access to the attached properties, and also t
 
 | Attached property | Description |
 | - | - |
-| `ApplyToRootOrPageBackground` | Applies the backdrop material to the root or background of the XAML content.<ul><li>Type: Bool</li><li>Identifier field: <a href="backdropmaterial_applytorootorpagebackgroundproperty.md">ApplyToRootOrPageBackgroundProperty</a></li><li>Accessor methods: <a href="backdropmaterial_getapplytorootorpagebackground_1267516499.md">GetApplyToRootOrPageBackground</a>, <a href="backdropmaterial_setapplytorootorpagebackground_816395559.md">SetApplyToRootOrPageBackground</a></li></ul> The `ApplyToRootOrPageBackground` property is a Boolean value that indicates whether the backdrop material is applied. |
+| `ApplyToRootOrPageBackground` | Applies the backdrop material to the root or background of the XAML content.<ul><li>Type: Bool</li><li>Identifier field: [ApplyToRootOrPageBackgroundProperty](backdropmaterial_applytorootorpagebackgroundproperty.md)</li><li>Accessor methods: [GetApplyToRootOrPageBackground(Windows.UI.Xaml.Controls.Control)](backdropmaterial_getapplytorootorpagebackground_1267516499.md), [SetApplyToRootOrPageBackground(Windows.UI.Xaml.Controls.Control,System.Boolean)](backdropmaterial_setapplytorootorpagebackground_816395559.md)</li></ul> The `ApplyToRootOrPageBackground` property is a Boolean value that indicates whether the backdrop material is applied. |
 
 ## -examples
 
