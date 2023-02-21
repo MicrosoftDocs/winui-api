@@ -32,7 +32,7 @@ The resources for this control are listed in the [ThemeDictionaries](/windows/ap
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Teaching tip](/windows/apps/design/controls/teaching-tip).
+> For more info, design guidance, and code examples, see [Teaching tip](/windows/apps/design/controls/dialogs-and-flyouts/teaching-tip).
 
 > [!div class="nextstepaction"]
 > [Open the WinUI 2 Gallery app and see TeachingTip in action](winui2gallery:/item/TeachingTip).

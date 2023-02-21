@@ -36,7 +36,7 @@ The resources for this control are listed in the [ThemeDictionaries](/windows/ap
 
 ## -see-also
 
-[Progress controls overview](/windows/uwp/controls-and-patterns/progress-controls), [ProgressBar](progressbar.md), [Controls list](/windows/apps/design/controls/), [Controls by function](/windows/apps/design/controls/controls-by-function)
+[Progress controls overview](/windows/uwp/controls-and-patterns/progress-controls), [ProgressBar](progressbar.md), [Controls list](/windows/apps/design/controls/)
 
 ## -examples
 

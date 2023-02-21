@@ -25,7 +25,7 @@ Represents an icon source that uses a bitmap as its content.
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Icons for Windows apps](/windows/apps/design/controls/icons).
+> For more info, design guidance, and code examples, see [Design guidelines for Windows app icons](/windows/apps/design/style/iconography/app-icon-design).
 
 > [!div class="nextstepaction"]
 > [Open the WinUI 2 Gallery app and see the IconElement in action](winui2gallery:/item/IconElement).

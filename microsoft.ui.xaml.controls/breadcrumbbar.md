@@ -38,7 +38,7 @@ The resources for this control are listed in the [ThemeDictionaries](/windows/ap
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Breadcrumb bar](/windows/apps/design/controls/breadcrumb-bar).
+> For more info, design guidance, and code examples, see [Breadcrumb bar](/windows/apps/design/controls/breadcrumbbar).
 
 > [!div class="nextstepaction"]
 > [Open the WinUI 2 Gallery app and see the BreadcrumbBar in action](winui2gallery:/item/BreadcrumbBar).

@@ -25,6 +25,6 @@ You can set the [MirroredWhenRightToLeft](animatedicon_mirroredwhenrighttoleft.m
 
 ## -see-also
 
-[FlowDirection](../microsoft.ui.xaml/flowdirection.md), [How to support bidirectional UI](/previous-versions/windows/apps/jj712703), [How to adjust layout and fonts for various languages, and support RTL layouts](/previous-versions/windows/apps/hh967760)
+[FlowDirection](../microsoft.ui.xaml/flowdirection.md), [Design your app for bidirectional text](/windows/apps/design/globalizing/design-for-bidi-text), [Adjust layout and fonts, and support RTL](/windows/apps/design/globalizing/adjust-layout-and-fonts--and-support-rtl)
 
 ## -examples

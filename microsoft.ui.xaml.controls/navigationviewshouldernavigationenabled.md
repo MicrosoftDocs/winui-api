@@ -18,7 +18,7 @@ Defines constants that specify when gamepad bumpers can be used to navigate the 
 
 ### -field WhenSelectionFollowsFocus:0
 
-Gamepad bumpers navigate the top-level navigation items when the [SelectionFollowsFocus](/uwp/api/windows.ui.xaml.controls.navigationview.selectionfollowfocus) property is **Enabled**.
+Gamepad bumpers navigate the top-level navigation items when the [NavigationView.SelectionFollowsFocus](navigationview_selectionfollowsfocus.md) property is **Enabled**.
 
 ### -field Never:2
 

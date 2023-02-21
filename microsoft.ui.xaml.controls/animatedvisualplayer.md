@@ -26,7 +26,7 @@ The AnimatedVisualPlayer hosts and controls playback of an animated [Visual](/uw
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Animated visual player](/windows/apps/design/controls/animated-visual-player).
+> For more info, design guidance, and code examples, see [Lottie](/windows/communitytoolkit/animations/lottie).
 
 > [!div class="nextstepaction"]
 > [Open the WinUI 2 Gallery app and see the AnimatedVisualPlayer in action](winui2gallery:/item/AnimatedVisualPlayer).
