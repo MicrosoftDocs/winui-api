@@ -11,7 +11,7 @@ public interface IAnimatedVisual : IClosable
 
 ## -description
 
-An animated [Composition.Visual](../microsoft.ui.composition/visual.md) that can be used by other objects, such as an [AnimatedVisualPlayer](animatedvisualplayer.md) or [AnimatedIcon](animatedicon.md).
+An animated  [Composition.Visual](/uwp/api/windows.ui.composition.visual) that can be used by other objects, such as an [AnimatedVisualPlayer](animatedvisualplayer.md) or [AnimatedIcon](animatedicon.md).
 
 **This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 

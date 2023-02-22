@@ -19,7 +19,7 @@ Attempts to create an instance of an `AnimatedGlobalNavigationButtonVisualSource
 
 ### -param compositor
 
-The [Compositor](../microsoft.ui.composition/compositor.md) used to create objects for the animated visual.
+The [Compositor](/uwp/api/windows.ui.composition.compositor) used to create objects for the animated visual.
 
 ### -param diagnostics
 

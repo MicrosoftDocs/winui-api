@@ -18,7 +18,7 @@ Gets or sets the orientation of the editing controls in the [ColorPicker](colorp
 
 ## -property-value
 
-The orientation of the editing controls in the ColorPicker. The default is [Vertical](orientation.md).
+The orientation of the editing controls in the ColorPicker. The default is [Vertical](/uwp/api/windows.ui.xaml.controls.orientation).
 
 ## -remarks
 
@@ -32,7 +32,7 @@ When in `Horizontal` mode and the text input fields are in use, there will be a 
 
 ## -see-also
 
-[ColorPicker](colorpicker.md), [Orientation](orientation.md), [ColorPicker overview](/windows/apps/design/controls/colorpicker)
+[ColorPicker](colorpicker.md), [Orientation](/uwp/api/windows.ui.xaml.controls.orientation), [ColorPicker overview](/windows/apps/design/controls/colorpicker)
 
 ## -examples
 

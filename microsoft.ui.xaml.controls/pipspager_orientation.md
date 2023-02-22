@@ -17,12 +17,12 @@ Gets or sets the orientation of the pips and navigation buttons in the [PipsPage
 
 ## -property-value
 
-The orientation of the pips and navigation buttons in the PipsPager. The default is [Horizontal](orientation.md).
+The orientation of the pips and navigation buttons in the PipsPager. The default is [Horizontal](/uwp/api/windows.ui.xaml.controls.orientation).
 
 ## -remarks
 
 ## -see-also
 
-[PipsPager](pipspager.md), [Orientation](orientation.md), [PipsPager overview](/windows/apps/design/controls/pipspager)
+[PipsPager](pipspager.md), [Orientation](/uwp/api/windows.ui.xaml.controls.orientation), [PipsPager overview](/windows/apps/design/controls/pipspager)
 
 ## -examples

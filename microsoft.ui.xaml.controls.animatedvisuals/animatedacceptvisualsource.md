@@ -13,7 +13,7 @@ public sealed class AnimatedAcceptVisualSource : Microsoft.UI.Xaml.Controls.IAni
 
 ## -remarks
 
-This can be used as the [Source](../microsoft.ui.xaml.controls/animatedicon_source.md) of an `AnimatedIcon`. It is used by the XAML [CheckBox](../microsoft.ui.xaml.controls/checkbox.md) control.
+This can be used as the [Source](../microsoft.ui.xaml.controls/animatedicon_source.md) of an `AnimatedIcon`.
 
 Supported [IAnimatedVisualSource2.Markers](../microsoft.ui.xaml.controls/ianimatedvisualsource2_markers.md) for [AnimatedIcon.State](../microsoft.ui.xaml.controls/animatedicon_state.md):
 
