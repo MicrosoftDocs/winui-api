@@ -60,4 +60,4 @@ var icon = new muxc.ImageIconSource() { ImageSource = bitmapSource };
 
 ## -see-also
 
-[IconElement](iconelement.md), [AppBarButton](/uwp/api/windows.ui.xaml.controls.appbarbutton), [Image](image.md), [Icons for UWP apps](/windows/uwp/style/icons)
+[IconSource](iconsource.md), [AppBarButton](/uwp/api/windows.ui.xaml.controls.appbarbutton), [Image](/uwp/api/windows.ui.xaml.controls.image), [Icons for UWP apps](/windows/uwp/style/icons)

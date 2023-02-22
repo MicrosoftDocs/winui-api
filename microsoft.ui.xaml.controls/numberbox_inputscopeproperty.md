@@ -12,13 +12,13 @@ public static Windows.UI.Xaml.DependencyProperty InputScopeProperty { get; }
 
 ## -description
 
-Identifies the [InputScope](numberbox_inputscope.md) dependency property.
+Identifies the InputScope dependency property. **(Not supported.)**
 
 **This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 ## -property-value
 
-The identifier for the [InputScope](numberbox_inputscope.md) dependency property.
+The identifier for the InputScope dependency property.
 
 ## -remarks
 
