@@ -57,7 +57,7 @@ You can set the property on the `AnimatedIcon` or on an ancestor in the XAML tre
 
 #### Use visual states
 
-You can add an `AnimatedIcon` to the `ControlTemplate` of a XAML control and use a [VisualStateManager](../microsoft.ui.xaml/visualstatemanager.md) to set its state. Some controls, such as [NavigationViewItem](navigationviewitem.md), automatically set the state for an `AnimatedIcon` that is set as its [Icon](navigationviewitem_icon.md).
+You can add an `AnimatedIcon` to the `ControlTemplate` of a XAML control and use a [VisualStateManager](/uwp/api/windows.ui.xaml.visualstatemanager) to set its state. Some controls, such as [NavigationViewItem](navigationviewitem.md), automatically set the state for an `AnimatedIcon` that is set as its [Icon](navigationviewitem_icon.md).
 
 To see an example that sets `AnimatedIcon.State` in a control template visual state, see [CheckBox_themeresources.xaml](https://github.com/microsoft/microsoft-ui-xaml/blob/main/dev/CommonStyles/CheckBox_themeresources.xaml) in the WinUI GitHub repo. The `CheckBox` control uses the [AnimatedAcceptVisualSource](../microsoft.ui.xaml.controls.animatedvisuals/animatedacceptvisualsource.md) for its check mark. The visual state setters look like this:
 
@@ -90,7 +90,7 @@ See the Examples section for sample code that demonstrates these event handlers.
 
 `AnimatedIcon` is the host service class for a [XAML attached property](/windows/uwp/xaml-platform/attached-properties-overview).
 
-In order to support XAML processor access to the attached properties, and also to expose equivalent *get* and *set* operations to code, each XAML attached property has a pair of Get and Set accessor methods. Another way to get or set the value in code is to use the dependency property system, calling either [GetValue](../microsoft.ui.xaml/dependencyobject_getvalue_229640130.md) or [SetValue](../microsoft.ui.xaml/dependencyobject_setvalue_1212521140.md) and passing the identifier field as the dependency property identifier.
+In order to support XAML processor access to the attached properties, and also to expose equivalent *get* and *set* operations to code, each XAML attached property has a pair of Get and Set accessor methods. Another way to get or set the value in code is to use the dependency property system, calling either [GetValue](/uwp/api/windows.ui.xaml.dependencyobject.getvalue) or [SetValue](/uwp/api/windows.ui.xaml.dependencyobject.setvalue) and passing the identifier field as the dependency property identifier.
 
 ## -examples
 
@@ -175,4 +175,4 @@ private void AppBarButton_PointerExited(object sender, PointerRoutedEventArgs e)
 
 ## -see-also
 
-[Animated icon overview](/windows/apps/design/controls/animated-icon), [AnimatedVisualPlayer](animatedvisualplayer.md), [VisualStateManager](../microsoft.ui.xaml/visualstatemanager.md), [Lottie-Windows](/windows/communitytoolkit/animations/lottie), [Interactive Segments on an Animation Timeline](/windows/communitytoolkit/animations/lottie-scenarios/segments) [IAnimatedVisual2](ianimatedvisual2.md)
+[Animated icon overview](/windows/apps/design/controls/animated-icon), [AnimatedVisualPlayer](animatedvisualplayer.md), [VisualStateManager](/uwp/api/windows.ui.xaml.visualstatemanager), [Lottie-Windows](/windows/communitytoolkit/animations/lottie), [Interactive Segments on an Animation Timeline](/windows/communitytoolkit/animations/lottie-scenarios/segments) [IAnimatedVisual2](ianimatedvisual2.md)

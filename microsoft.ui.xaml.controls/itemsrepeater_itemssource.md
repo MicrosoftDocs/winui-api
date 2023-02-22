@@ -46,11 +46,11 @@ This list shows available interfaces and when to consider using each one.
     **Warning**:
     Changes to the list/vector without implementing [INotifyCollectionChanged](/dotnet/api/system.collections.specialized.inotifycollectionchanged?view=dotnet-uwp-10.0&preserve-view=true) won't be reflected in the UI.
 
-- [INotifyCollectionChanged](../microsoft.ui.xaml.interop/inotifycollectionchanged.md)
+- [System.Collections.Specialized.INotifyCollectionChanged](/dotnet/api/system.collections.specialized.inotifycollectionchanged?view=dotnet-uwp-10.0&preserve-view=true)
 
   - Recommended to support change notification.
 
-    Enables the control to observe and react to changes in the data source and reflect those changes in the UI. Projected in .NET as [System.Collections.Specialized.INotifyCollectionChanged](/dotnet/api/system.collections.specialized.inotifycollectionchanged?view=dotnet-uwp-10.0&preserve-view=true).
+    Enables the control to observe and react to changes in the data source and reflect those changes in the UI.
 
 - [IObservableVector&lt;T&gt;](/uwp/api/windows.foundation.collections.iobservablevector_t_)
 

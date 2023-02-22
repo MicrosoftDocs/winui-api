@@ -123,19 +123,19 @@ The [TimePicker](/uwp/api/windows.ui.xaml.controls.timepicker) type.
 
 
 ### -field TimelineMarker:126
-The [TimelineMarker](../microsoft.ui.xaml.media/timelinemarker.md).
+The [TimelineMarker](/uwp/api/windows.ui.xaml.media.timelinemarker).
 
 ### -field TickBar:486
-The [TickBar](../microsoft.ui.xaml.controls.primitives/tickbar.md) type.
+The [TickBar](/uwp/api/windows.ui.xaml.controls.primitives.tickbar) type.
 
 ### -field Thumb:485
-The [Thumb](../microsoft.ui.xaml.controls.primitives/thumb.md) type.
+The [Thumb](/uwp/api/windows.ui.xaml.controls.primitives.thumb.md) type.
 
 ### -field TextBox:483
-The [TextBox](/uwp/api/windows.ui.xaml.controls.textbox) type.
+The  [TextBox](/uwp/api/windows.ui.xaml.controls.textbox) type.
 
 ### -field TextBlock:396
-The [TextBlock](../microsoft.ui.xaml.controls/textblock.md) type.
+The [TextBlock](/uwp/api/windows.ui.xaml.controls.textblock) type.
 
 
 

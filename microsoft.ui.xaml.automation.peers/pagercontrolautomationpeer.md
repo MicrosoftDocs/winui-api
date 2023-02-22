@@ -11,7 +11,7 @@ public class PagerControlAutomationPeer : Windows.UI.Xaml.Automation.Peers.Frame
 
 ## -description
 
-Exposes [PagerControl](../microsoft.ui.xaml.controls/pagercontrol.md) types to [Microsoft UI Automation](/windows/win32/winauto/entry-uiauto-win32).
+Exposes PagerControl types to [Microsoft UI Automation](/windows/win32/winauto/entry-uiauto-win32). **(Not supported.)**
 
 **This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 

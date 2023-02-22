@@ -17,7 +17,7 @@ Represents an animation for a magnifying glass that can be used as an animated i
 
 ## -remarks
 
-This can be used as the [Source](../microsoft.ui.xaml.controls/animatedicon_source.md) of an `AnimatedIcon`. It is used by the [AutoSuggestBox](../microsoft.ui.xaml.controls/autosuggestbox.md) control.
+This can be used as the [Source](../microsoft.ui.xaml.controls/animatedicon_source.md) of an `AnimatedIcon`.
 
 Supported [IAnimatedVisualSource2.Markers](../microsoft.ui.xaml.controls/ianimatedvisualsource2_markers.md) for [AnimatedIcon.State](../microsoft.ui.xaml.controls/animatedicon_state.md):
 

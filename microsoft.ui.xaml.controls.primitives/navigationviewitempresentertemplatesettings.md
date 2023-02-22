@@ -19,6 +19,4 @@ Provides calculated values that can be referenced as **TemplatedParent** sources
 
 ## -see-also
 
-[Microsoft.UI.Xaml.DependencyObject](../microsoft.ui.xaml/dependencyobject.md)
-
 ## -examples

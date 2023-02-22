@@ -11,7 +11,7 @@ public PagerControlAutomationPeer (Microsoft.UI.Xaml.Controls.PagerControl owner
 
 ## -description
 
-Initializes a new instance of the [PagerControlAutomationPeer](pagercontrolautomationpeer.md) class.
+Initializes a new instance of the [PagerControlAutomationPeer](pagercontrolautomationpeer.md) class. **(Not supported.)**
 
 **This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
@@ -19,7 +19,7 @@ Initializes a new instance of the [PagerControlAutomationPeer](pagercontrolautom
 
 ### -param owner
 
-The [PagerControl](../microsoft.ui.xaml.controls/pagercontrol.md) control instance to create the peer for.
+The PagerControl control instance to create the peer for.
 
 ## -remarks
 
