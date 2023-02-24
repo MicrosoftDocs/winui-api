@@ -129,7 +129,7 @@ The [TimelineMarker](/uwp/api/windows.ui.xaml.media.timelinemarker).
 The [TickBar](/uwp/api/windows.ui.xaml.controls.primitives.tickbar) type.
 
 ### -field Thumb:485
-The [Thumb](/uwp/api/windows.ui.xaml.controls.primitives.thumb.md) type.
+The [Thumb](/uwp/api/windows.ui.xaml.controls.primitives.thumb) type.
 
 ### -field TextBox:483
 The  [TextBox](/uwp/api/windows.ui.xaml.controls.textbox) type.
