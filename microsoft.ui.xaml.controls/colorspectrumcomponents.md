@@ -46,7 +46,7 @@ The order of the two components in each value indicates the X/Y axis when the sp
 
 ## -see-also
 
-[ColorPicker.ColorSpectrumComponents](colorpicker_colorspectrumcomponents.md), [ColorSpectrum.Components](../microsoft.ui.xaml.controls.primitives/colorspectrum_components.md), [Color picker](https://docs.microsoft.com/windows/uwp/controls-and-patterns/color-picker)
+[ColorPicker.ColorSpectrumComponents](colorpicker_colorspectrumcomponents.md), [ColorSpectrum.Components](../microsoft.ui.xaml.controls.primitives/colorspectrum_components.md), [Color picker](/windows/uwp/controls-and-patterns/color-picker)
 
 ## -examples
 

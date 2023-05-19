@@ -73,7 +73,7 @@ private void NavigationView_Loaded(object sender, RoutedEventArgs e)
 
 ### Specific keyboarding guidelines
 
-NavigationView supports hierarchy and nested items, which slightly changes the expected keyboarding behavior. For more information on keyboarding within a hierarchical NavigationView, see the [hierarchical NavigationView guidelines documentation](https://docs.microsoft.com/windows/uwp/design/controls-and-patterns/navigationview#hierarchical-navigation).
+NavigationView supports hierarchy and nested items, which slightly changes the expected keyboarding behavior. For more information on keyboarding within a hierarchical NavigationView, see the [hierarchical NavigationView guidelines documentation](/windows/uwp/design/controls-and-patterns/navigationview#hierarchical-navigation).
 
 ### Control style and template
 

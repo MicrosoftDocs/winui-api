@@ -24,7 +24,7 @@ The resources for this control are listed in the [ThemeDictionaries](/windows/ap
 
 ## -see-also
 
-[Person picture control](https://docs.microsoft.com/windows/apps/design/controls/person-picture)
+[Person picture control](/windows/apps/design/controls/person-picture)
 
 ## -examples
 

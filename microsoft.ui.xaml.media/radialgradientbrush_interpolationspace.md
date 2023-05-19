@@ -19,7 +19,7 @@ Gets or sets the color space used to interpolate the gradient's colors.
 The color space used to interpolate the gradient's colors. The default is `Auto`.
 
 ## -remarks
-For supported values, see [CompositionRadialGradientBrush.InterpolationSpace](https://docs.microsoft.com/uwp/api/windows.ui.composition.compositiongradientbrush.interpolationspace#Windows_UI_Composition_CompositionGradientBrush_InterpolationSpace).
+For supported values, see [CompositionRadialGradientBrush.InterpolationSpace](/uwp/api/windows.ui.composition.compositiongradientbrush.interpolationspace#Windows_UI_Composition_CompositionGradientBrush_InterpolationSpace).
 
 ## -see-also
 

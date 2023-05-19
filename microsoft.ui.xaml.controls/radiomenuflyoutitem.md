@@ -19,7 +19,7 @@ Represents a menu item that is mutually exclusive with other radio menu items in
 
 This control allows you to present users with menus containing multiple options, where a user would choose only one of these options at a given time.
 
-RadioMenuFlyoutItem can be used inside [MenuBarItem](https://docs.microsoft.com/uwp/api/windows.ui.xaml.controls.menubaritem), [MenuFlyout](https://docs.microsoft.com/uwp/api/windows.ui.xaml.controls.menuflyout) and [MenuFlyoutSubItem](https://docs.microsoft.com/uwp/api/windows.ui.xaml.controls.menuflyoutsubitem).
+RadioMenuFlyoutItem can be used inside [MenuBarItem](/uwp/api/windows.ui.xaml.controls.menubaritem), [MenuFlyout](/uwp/api/windows.ui.xaml.controls.menuflyout) and [MenuFlyoutSubItem](/uwp/api/windows.ui.xaml.controls.menuflyoutsubitem).
 
 ### Control style and template
 
