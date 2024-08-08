@@ -59,7 +59,7 @@ You can set the property on the `AnimatedIcon` or on an ancestor in the XAML tre
 
 You can add an `AnimatedIcon` to the `ControlTemplate` of a XAML control and use a [VisualStateManager](/uwp/api/windows.ui.xaml.visualstatemanager) to set its state. Some controls, such as [NavigationViewItem](navigationviewitem.md), automatically set the state for an `AnimatedIcon` that is set as its [Icon](navigationviewitem_icon.md).
 
-To see an example that sets `AnimatedIcon.State` in a control template visual state, see [CheckBox_themeresources.xaml](https://github.com/microsoft/microsoft-ui-xaml/blob/main/dev/CommonStyles/CheckBox_themeresources.xaml) in the WinUI GitHub repo. The `CheckBox` control uses the [AnimatedAcceptVisualSource](../microsoft.ui.xaml.controls.animatedvisuals/animatedacceptvisualsource.md) for its check mark. The visual state setters look like this:
+To see an example that sets `AnimatedIcon.State` in a control template visual state, see the default template for [CheckBox](checkbox.md#control-style-and-template). The `CheckBox` control uses the [AnimatedAcceptVisualSource](../microsoft.ui.xaml.controls.animatedvisuals/animatedacceptvisualsource.md) for its check mark. The visual state setters look like this:
 
 ```xaml
 <VisualState x:Name="CheckedPointerOver">
