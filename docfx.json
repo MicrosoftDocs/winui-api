@@ -65,29 +65,22 @@
       "api_location": ["microsoft.ui.xaml.dll"]  
     },
     "fileMetadata": {
+      "langs": {
+        "winui-api-build/**.yml": ["csharp", "vb", "fsharp","cppcx","cppwinrt","cpp"]
+      },
+      "feedback_product_url": 
+      {
+        "microsoft.ui*.yml": "https://github.com/microsoft/microsoft-ui-xaml/issues/new/choose" 
+      },
       "author":
       {
-        "microsoft.ui/*.md": "Karl-Bridge-Microsoft",
-        "microsoft.ui.xaml/*.md": "jwmsft",
-        "microsoft.ui.xaml.automation.peers/*.md": "Karl-Bridge-Microsoft",
-        "microsoft.ui.xaml.controls/*.md": "jwmsft",
-        "microsoft.ui.xaml.controls.animatedvisuals/*.md": "jwmsft",
-        "microsoft.ui.xaml.controls.primitives/*.md": "jwmsft",
-        "microsoft.ui.xaml.core.direct/*.md": "jwmsft",
-        "microsoft.ui.xaml.media/*.md": "jwmsft",
-        "microsoft.ui.xaml.xamltypeinfo/*.md": "Karl-Bridge-Microsoft"
+        "microsoft.ui*": "jwmsft",
+        "microsoft.ui.xaml.automation.peers*": "Karl-Bridge-Microsoft",
       },
       "ms.author":
       {
-        "microsoft.ui/*.md": "kbridge",
-        "microsoft.ui.xaml/*.md": "jimwalk",
-        "microsoft.ui.xaml.automation.peers/*.md": "kbridge",
-        "microsoft.ui.xaml.controls/*.md": "jimwalk",
-        "microsoft.ui.xaml.controls.animatedvisuals/*.md": "jimwalk",
-        "microsoft.ui.xaml.controls.primitives/*.md": "jimwalk",
-        "microsoft.ui.xaml.core.direct/*.md": "jimwalk",
-        "microsoft.ui.xaml.media/*.md": "jimwalk",
-        "microsoft.ui.xaml.xamltypeinfo/*.md": "kbridge"
+        "microsoft.ui*": "jimwalk",
+        "microsoft.ui.xaml.automation.peers*": "kbridge",
       }		 		 
     },
     "template": [],
