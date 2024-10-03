@@ -75,12 +75,12 @@
       "author":
       {
         "microsoft.ui*": "jwmsft",
-        "microsoft.ui.xaml.automation.peers*": "Karl-Bridge-Microsoft",
+        "microsoft.ui.xaml.automation.peers*": "Karl-Bridge-Microsoft"
       },
       "ms.author":
       {
         "microsoft.ui*": "jimwalk",
-        "microsoft.ui.xaml.automation.peers*": "kbridge",
+        "microsoft.ui.xaml.automation.peers*": "kbridge"
       }		 		 
     },
     "template": [],
