@@ -17,9 +17,14 @@ Gets or sets the object used to specify the formatting of [Value](numberbox_valu
 
 ## -property-value
 
+The object used to specify the formatting of [Value](numberbox_value.md).
+
 ## -remarks
+
+You can use the [number formatting](/uwp/api/windows.globalization.numberformatting) classes to enforce a specific format for numbers in the NumberBox, such as currencies, decimal numbers, or percent values. For more information and examples, see [Number box - Formatting input](/windows/apps/design/controls/number-box#formatting-input).
 
 ## -see-also
 
-## -examples
+[Number box](/windows/apps/design/controls/number-box)
 
+## -examples

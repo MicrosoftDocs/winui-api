@@ -17,11 +17,14 @@ Gets or sets the numeric value of a [NumberBox](numberbox.md).
 
 ## -property-value
 
+The numeric value of a [NumberBox](numberbox.md). The default is [Double.NaN](/dotnet/api/system.double.nan).
+
 ## -remarks
 
-[Text](numberbox_text.md) exists to faciliate getting the string representation of this property's numeric contents without the need for type conversion. Note the content of this property will overwrite the content of [Text](numberbox_text.md) in initial set up. After the initial set up, changes to one will be progrogated to the other, but consistently making programmatic changes through this property helps avoid any conceptual misunderstanding that [NumberBox](numberbox.md) will accept non-numeric characters through the [Text](numberbox_text.md) property.
+The [Text](numberbox_text.md) property exists to facilitate getting the string representation of this property's numeric contents without the need for type conversion. The content of this property will overwrite the content of [Text](numberbox_text.md) in initial set up. After the initial set up, changes to one will be propagated to the other, but consistently making programmatic changes through this property helps avoid any conceptual misunderstanding that [NumberBox](numberbox.md) will accept non-numeric characters through the [Text](numberbox_text.md) property.
 
 ## -see-also
 
-## -examples
+[Number box](/windows/apps/design/controls/number-box)
 
+## -examples

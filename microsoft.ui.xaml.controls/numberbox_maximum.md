@@ -13,14 +13,17 @@ public double Maximum { get; set; }
 
 Gets or sets the numerical maximum for [Value](numberbox_value.md).
 
-
 **This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 ## -property-value
 
+The numerical maximum for [Value](numberbox_value.md). The default is [Double.MaxValue](/dotnet/api/system.double.maxvalue) (1.7976931348623157E+308).
+
 ## -remarks
 
 ## -see-also
+
+[Number box](/windows/apps/design/controls/number-box)
 
 ## -examples
 

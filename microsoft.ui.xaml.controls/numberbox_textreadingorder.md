@@ -17,9 +17,12 @@ Gets or sets a value that indicates how the reading order is determined for the 
 
 ## -property-value
 
+A value of the enumeration that specifies how the reading order is determined for the [NumberBox](numberbox.md).
+
 ## -remarks
 
 ## -see-also
 
-## -examples
+[Number box](/windows/apps/design/controls/number-box)
 
+## -examples

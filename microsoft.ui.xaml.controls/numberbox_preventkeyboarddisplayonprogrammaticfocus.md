@@ -17,9 +17,12 @@ Gets or sets a value that indicates whether the on-screen keyboard is shown when
 
 ## -property-value
 
+`true` if the on-screen keyboard is shown when the control receives focus programmatically; otherwise, `false`. The default is `false`.
+
 ## -remarks
 
 ## -see-also
 
-## -examples
+[Number box](/windows/apps/design/controls/number-box)
 
+## -examples
