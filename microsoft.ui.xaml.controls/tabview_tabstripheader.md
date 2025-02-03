@@ -17,11 +17,11 @@ Gets or sets the content that is shown to the left of the tab strip.
 
 ## -property-value
 
-The element that is shown to the left of the tab strip.
+The element that is shown to the left of the tab strip, if there is one. The default is `null`.
 
 ## -remarks
 
-The TabStripHeader property takes a single element. This is typically a layout panel, such as Grid or StackPanel, that contains additional elements.
+The TabStripHeader property takes a single element. This is typically a layout panel, such as a `Grid` or `StackPanel`, that contains additional elements.
 
 ## -see-also
 

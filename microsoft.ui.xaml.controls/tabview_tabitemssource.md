@@ -17,6 +17,8 @@ Gets or sets an object source used to generate the tabs within the TabView.
 
 ## -property-value
 
+The data source used to generate the tabs within the TabView, if there is one. The default is `null`.
+
 ## -remarks
 
 ## -see-also

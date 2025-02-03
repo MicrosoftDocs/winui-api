@@ -17,6 +17,8 @@ Gets the TabViewItem that was selected for the drag action.
 
 ## -property-value
 
+The tab that was selected for the drag action.
+
 ## -remarks
 
 ## -see-also

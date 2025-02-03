@@ -17,6 +17,8 @@ Gets the data payload associated with a drag action.
 
 ## -property-value
 
+The data payload associated with a drag action.
+
 ## -remarks
 
 ## -see-also
