@@ -9,7 +9,6 @@
 public static Windows.UI.Xaml.DependencyProperty TextAlignmentProperty { get; }
 -->
 
-
 ## -description
 
 Identifies the [TextAlignment](numberbox_textalignment.md) dependency property.
@@ -25,5 +24,3 @@ The identifier for the [TextAlignment](numberbox_textalignment.md) dependency pr
 ## -see-also
 
 ## -examples
-
-

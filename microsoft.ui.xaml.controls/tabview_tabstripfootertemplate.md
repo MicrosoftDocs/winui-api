@@ -17,6 +17,8 @@ Gets or sets the DataTemplate used to display the content of the TabStripFooter.
 
 ## -property-value
 
+The DataTemplate used to display the content of the TabStripFooter, if there is one. The default is `null`.
+
 ## -remarks
 
 ## -see-also

@@ -16,10 +16,8 @@ Represents an _attached layout_ that arranges child elements into a single line 
 
 ## -remarks
 
-StackLayout is a virtualizing layout that can be used with element containers that support [Attached layouts](/windows/apps/design/layout/attached-layouts), such as [ItemsRepeater](itemsrepeater.md). Its behavior is similar to the [StackPanel](stackpanel.md) and [ItemsStackPanel](itemsstackpanel.md) controls.
+StackLayout is a virtualizing layout that can be used with element containers that support [Attached layouts](/windows/apps/design/layout/attached-layouts), such as [ItemsRepeater](itemsrepeater.md). Its behavior is similar to the [ItemsStackPanel](/uwp/api/windows.ui.xaml.controls.itemsstackpanel) control.
 
 ## -see-also
 
 ## -examples
-
-

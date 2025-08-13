@@ -11,17 +11,20 @@ public bool IsAddTabButtonVisible { get; set; }
 
 ## -description
 
-Gets or sets whether the add (+) tab button is visible. 
+Gets or sets a value that indicates whether the add tab button (+) is visible.
 
 **This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 ## -property-value
 
-Whether the add (+) tab button is visible. 
+`true` if the add tab button (+) is visible; otherwise, `false`.  The default is `true`.
 
 ## -remarks
 
+For more info, design guidance, and code examples, see [Tab view](/windows/apps/design/controls/tab-view).
+
 ## -see-also
 
-## -examples
+[AddTabButtonClick](tabview_addtabbuttonclick.md)
 
+## -examples

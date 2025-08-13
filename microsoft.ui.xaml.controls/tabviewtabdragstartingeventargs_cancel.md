@@ -17,6 +17,8 @@ Gets or sets a value that indicates whether the drag action should be cancelled.
 
 ## -property-value
 
+`true` if the drag action should be cancelled; otherwise, `false`. The default is `false`.
+
 ## -remarks
 
 ## -see-also

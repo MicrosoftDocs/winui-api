@@ -9,8 +9,6 @@
 public object LayoutState { get; set; }
 -->
 
-# Microsoft.UI.Xaml.Controls.LayoutContext.LayoutState
-
 ## -description
 
 Gets or sets an object that represents the state of a layout.

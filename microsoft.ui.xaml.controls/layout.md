@@ -19,7 +19,7 @@ Represents the base class for an object that sizes and arranges child elements f
 
 You should not use or inherit from the Layout class directly. Instead, inherit from its derived classes, [NonVirtualizingLayout](nonvirtualizinglayout.md) or [VirtualizingLayout](virtualizinglayout.md).
 
-Provided concrete layout classes are [FlowLayout](flowlayout.md), [StackLayout](stacklayout.md), and [UniformGridLayout](uniformgridlayout.md).
+Provided concrete layout classes are [StackLayout](stacklayout.md), and [UniformGridLayout](uniformgridlayout.md).
 
 ## -see-also
 

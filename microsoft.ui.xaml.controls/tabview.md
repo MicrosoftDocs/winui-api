@@ -13,25 +13,21 @@ public class TabView : Windows.UI.Xaml.Controls.Control
 
 The TabView control is a way to display a set of tabs and their respective content. Tab controls are useful for displaying several pages (or documents) of content while giving a user the capability to rearrange, open, or close new tabs.
 
-**Is this the right control?**
-
-Use a TabView to help the user manage multiple app pages or documents within the same window.
-
-Do not use a TabView to display a static set of tabs that the user cannot rearrange, open, or close. Use a [NavigationView](navigationview.md) ([NavigationViewPaneDisplayMode](navigationviewpanedisplaymode.md) of Top) instead.
-
 **This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
 ## -remarks
 
+For more info, design guidance, and code examples, see [Tab view](/windows/apps/design/controls/tab-view).
+
 ### Control style and template
 
-You can modify the default [Style](/uwp/api/windows.ui.xaml.frameworkelement.style) and [ControlTemplate](/uwp/api/windows.ui.xaml.controls.controltemplate) to give the control a unique appearance. For information about modifying a control's style and template, see [XAML styles](/windows/apps/design/style/xaml-styles). XAML also includes resources that you can use to modify the colors of a control in different visual states without modifying the control template. Modifying these resources is preferred to setting properties such as [Background](/uwp/api/windows.ui.xaml.controls.control.background) and [Foreground](/uwp/api/windows.ui.xaml.controls.control.foreground). For more info, see the [Light-weight styling](/windows/apps/design/style/xaml-styles#lightweight-styling) section of the [XAML styles](/windows/apps/design/style/xaml-styles) article.
+You can modify the default [Style](/uwp/api/windows.ui.xaml.frameworkelement.style) and [ControlTemplate](/uwp/api/windows.ui.xaml.controls.controltemplate) to give the control a unique appearance. For information about modifying a control's style and template, see [XAML styles](/windows/apps/design/style/xaml-styles). The default style, template, and resources that define the look of the control are included in the `generic.xaml` file. For design purposes, `generic.xaml` is installed with the WinUI (Microsoft.UI.Xaml) NuGet package. By default, this location is `\Users\<username>\.nuget\packages\microsoft.ui.xaml\<version>\lib\uap10.0\Microsoft.UI.Xaml\Themes\generic.xaml`. Styles and resources from different versions of WinUI might have different values.
 
-The resources for this control are listed in the [ThemeDictionaries](/windows/apps/design/style/xaml-theme-resources) section of the [TabView_themeresources.xaml](https://github.com/microsoft/microsoft-ui-xaml/blob/main/dev/TabView/TabView_themeresources.xaml) file on GitHub. The `ResourceKey` value for each `StaticResource` references a brush and color in the [Common_themeresources_any.xaml](https://github.com/microsoft/microsoft-ui-xaml/blob/main/dev/CommonStyles/Common_themeresources_any.xaml) file.
+XAML also includes resources that you can use to modify the colors of a control in different visual states without modifying the control template (modifying these resources is preferred to setting properties). For more info, see the [Light-weight styling](/windows/apps/design/style/xaml-styles#lightweight-styling) section of the [XAML styles](/windows/apps/design/style/xaml-styles) article.
 
 ## -see-also
 
-[TabViewItem](tabviewitem.md), [TabViewCloseButtonOverlayMode](tabviewclosebuttonoverlaymode.md), [Guidelines for TabView](/windows/apps/design/controls/tab-view)
+[TabViewItem](tabviewitem.md), [TabViewCloseButtonOverlayMode](tabviewclosebuttonoverlaymode.md), [Tab view](/windows/apps/design/controls/tab-view)
 
 ## -examples
 
@@ -43,33 +39,46 @@ The resources for this control are listed in the [ThemeDictionaries](/windows/ap
 
 > The **WinUI 2 Gallery** app includes interactive examples of most WinUI 2 controls, features, and functionality. Get the app from the [Microsoft Store](https://www.microsoft.com/store/productId/9MSVH128X2ZT) or get the source code on [GitHub](https://github.com/Microsoft/WinUI-Gallery/tree/winui2).
 
+This example creates a simple TabView along with event handlers to support opening and closing tabs. The _Home_ tab is defined in XAML and can't be closed. The `TabView_AddTabButtonClick` event handler shows how to add a new [TabViewItem](tabviewitem.md) in code.
 
-### Basic TabView Sample, similar to a Web Browser
+``` xaml
+<!-- xmlns:muxc="using:Microsoft.UI.Xaml.Controls" -->
 
-``` xml
-<TabView AddTabButtonClick="Tabs_AddTabButtonClick"
-         TabCloseRequested="Tabs_TabCloseRequested" />
+<muxc:TabView VerticalAlignment="Stretch"
+         AddTabButtonClick="TabView_AddTabButtonClick"
+         TabCloseRequested="TabView_TabCloseRequested">
+    <muxc:TabViewItem Header="Home" IsClosable="False">
+        <muxc:TabViewItem.IconSource>
+            <muxc:SymbolIconSource Symbol="Home" />
+        </muxc:TabViewItem.IconSource>
+        <muxc:TabViewItem.Content>
+            <StackPanel Padding="12">
+                <TextBlock Text="TabView content" 
+                           Style="{ThemeResource TitleTextBlockStyle}"/>
+            </StackPanel>
+        </muxc:TabViewItem.Content>
+    </muxc:TabViewItem>
+</muxc:TabView>
 ```
 
 ``` csharp
-// Add a new Tab to the TabView
-private void Tabs_AddTabButtonClick(TabView sender, TabViewAddTabButtonClickEventArgs e)
+private void TabView_AddTabButtonClick(TabView sender, object args)
 {
     var newTab = new TabViewItem();
-    newTab.IconSource = new SymbolIconSource() { Symbol = Symbol.Document };
-    newTab.Header = "New Document";
-
-    // The Content of a TabViewItem is often a frame which hosts a page.
-    Frame frame = new Frame();
-    newTab.Content = frame;
-    frame.Navigate(typeof(BaconIpsumPage));
-
+    newTab.Header = $"New Document {sender.TabItems.Count}";
+    newTab.IconSource = new Microsoft.UI.Xaml.Controls.SymbolIconSource() { Symbol = Symbol.Document };
+    newTab.Content = new TextBlock()
+    {
+        Text = $"Content for new tab {sender.TabItems.Count}.",
+        Padding = new Thickness(12)
+    };
     sender.TabItems.Add(newTab);
+    sender.SelectedItem = newTab;
 }
 
-// Remove the requested tab from the TabView
-private void Tabs_TabCloseRequested(TabView sender, TabViewTabCloseRequestedEventArgs args)
+private void TabView_TabCloseRequested(TabView sender, TabViewTabCloseRequestedEventArgs args)
 {
     sender.TabItems.Remove(args.Tab);
 }
+
 ```

@@ -28,7 +28,7 @@ The [ColorSpectrum](../microsoft.ui.xaml.controls.primitives/colorspectrum.md) c
 
 ## -see-also
 
-[ColorPicker.ColorSpectrumShape](colorpicker_colorspectrumshape.md), [ColorSpectrum.Shape](../microsoft.ui.xaml.controls.primitives/colorspectrum_shape.md), [Color picker](https://docs.microsoft.com/windows/uwp/controls-and-patterns/color-picker)
+[ColorPicker.ColorSpectrumShape](colorpicker_colorspectrumshape.md), [ColorSpectrum.Shape](../microsoft.ui.xaml.controls.primitives/colorspectrum_shape.md), [Color picker](/windows/uwp/controls-and-patterns/color-picker)
 
 ## -examples
 

@@ -9,6 +9,8 @@
 public static Windows.UI.Xaml.DependencyProperty RowSpacingProperty { get; }
 -->
 
+## -description
+
 Identifies the [RowSpacing](columnmajoruniformtolargestgridlayout_rowspacing.md) dependency property.
 
 ## -property-value

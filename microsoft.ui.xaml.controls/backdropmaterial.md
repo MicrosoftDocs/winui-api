@@ -40,16 +40,16 @@ The `BackdropMaterial` class lets you apply a backdrop material, [Mica](/windows
 
 `BackdropMaterial` is the host service class for the `ApplyToRootOrPageBackground` [XAML attached property](/windows/uwp/xaml-platform/attached-properties-overview).
 
-In order to support XAML processor access to the attached properties, and also to expose equivalent _get_ and _set_ operations to code, each XAML attached property has a pair of Get and Set accessor methods. Another way to get or set the value in code is to use the dependency property system, calling either [GetValue](/uwp/api/windows.ui.xaml.dependencyobject.getvalue(windows.ui.xaml.dependencyproperty)) or [SetValue](/uwp/api/windows.ui.xaml.dependencyobject.setvalue(windows.ui.xaml.dependencyproperty,system.object)) and passing the identifier field as the dependency property identifier.
+In order to support XAML processor access to the attached properties, and also to expose equivalent _get_ and _set_ operations to code, each XAML attached property has a pair of Get and Set accessor methods. Another way to get or set the value in code is to use the dependency property system, calling either [GetValue](/uwp/api/windows.ui.xaml.dependencyobject.getvalue) or [SetValue](/uwp/api/windows.ui.xaml.dependencyobject.setvalue) and passing the identifier field as the dependency property identifier.
 
 | Attached property | Description |
 | - | - |
-| `ApplyToRootOrPageBackground` | Applies the backdrop material to the root or background of the XAML content.<ul><li>Type: Bool</li><li>Identifier field: <a href="backdropmaterial_applytorootorpagebackgroundproperty.md">ApplyToRootOrPageBackgroundProperty</a></li><li>Accessor methods: <a href="backdropmaterial_getapplytorootorpagebackground_1267516499.md">GetApplyToRootOrPageBackground</a>, <a href="backdropmaterial_setapplytorootorpagebackground_816395559.md">SetApplyToRootOrPageBackground</a></li></ul> The `ApplyToRootOrPageBackground` property is a Boolean value that indicates whether the backdrop material is applied. |
+| `ApplyToRootOrPageBackground` | Applies the backdrop material to the root or background of the XAML content.<ul><li>Type: Bool</li><li>Identifier field: [ApplyToRootOrPageBackgroundProperty](backdropmaterial_applytorootorpagebackgroundproperty.md)</li><li>Accessor methods: [GetApplyToRootOrPageBackground(Windows.UI.Xaml.Controls.Control)](backdropmaterial_getapplytorootorpagebackground_1267516499.md), [SetApplyToRootOrPageBackground(Windows.UI.Xaml.Controls.Control,System.Boolean)](backdropmaterial_setapplytorootorpagebackground_816395559.md)</li></ul> The `ApplyToRootOrPageBackground` property is a Boolean value that indicates whether the backdrop material is applied. |
 
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Mica](/windows/uwp/design/style/mica.md).
+> For more info, design guidance, and code examples, see [Mica](/windows/apps/design/style/mica).
 >
 > The **WinUI 3 Gallery** and **WinUI 2 Gallery** apps include interactive examples of most WinUI 3 and WinUI 2 controls, features, and functionality.
 >

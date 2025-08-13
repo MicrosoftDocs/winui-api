@@ -23,7 +23,7 @@ The index of the item to retrieve.
 
 ## -returns
 
-The container for the item at the specified index within the item collection, if the item has a container; otherwise, null.
+The container for the item at the specified index within the item collection, if the item has a container; otherwise, `null`.
 
 ## -remarks
 

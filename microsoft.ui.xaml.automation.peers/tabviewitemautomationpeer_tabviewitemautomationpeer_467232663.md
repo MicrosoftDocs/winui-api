@@ -9,6 +9,8 @@
 public TabViewItemAutomationPeer (Microsoft.UI.Xaml.Controls.TabViewItem owner);
 -->
 
+## -description
+
 Initializes a new instance of the [TabViewItemAutomationPeer](tabviewitemautomationpeer.md) class.
 
 ## -parameters

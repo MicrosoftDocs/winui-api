@@ -11,7 +11,7 @@ public class ImageIcon : Windows.UI.Xaml.Controls.IconElement
 
 ## -description
 
-Represents an icon that uses an [Image](image.md) as its content.
+Represents an icon that uses an [Image](/uwp/api/windows.ui.xaml.controls.image) as its content.
 
 **This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 
@@ -23,9 +23,9 @@ The image should be solid on a transparent background.
 
 Only the first frame of a multi-frame image is used. To use animated icons, see [AnimatedIcon](animatedicon.md).
 
-Due to the file types supported, `ImageIcon` ignores the [Foreground](iconelement_foreground.md) property, so you can't change the foreground color like you can on other [IconElement](iconelement.md) derived controls.
+Due to the file types supported, `ImageIcon` ignores the [Foreground](iconsource_foreground.md) property, so you can't change the foreground color like you can on other [IconSource](iconsource.md) derived controls.
 
-`ImageIcon` is typically used with an [AppBarButton](appbarbutton.md), but it can be used wherever an `IconElement` can be used.
+`ImageIcon` is typically used with an [AppBarButton](/uwp/api/windows.ui.xaml.controls.appbarbutton), but it can be used wherever an `IconElement` can be used.
 
 ## -examples
 
@@ -40,7 +40,7 @@ Due to the file types supported, `ImageIcon` ignores the [Foreground](iconelemen
 >
 > You can also get the source code for both from [GitHub](https://github.com/Microsoft/WinUI-Gallery) (use the *main* branch for WinUI 3 and the *winui2* branch for WinUI 2).
 
-The following example shows an [AppBarButton](appbarbutton.md) with an `ImageIcon`. [Source](imageicon_source.md) specifies an image that's included in the app package.
+The following example shows an [AppBarButton](/uwp/api/windows.ui.xaml.controls.appbarbutton) with an `ImageIcon`. [Source](imageicon_source.md) specifies an image that's included in the app package.
 
 ```xaml
 <!--
@@ -66,4 +66,4 @@ var icon = new muxc.ImageIcon() { Source = bitmapSource };
 
 ## -see-also
 
-[IconElement](iconelement.md), [AppBarButton](appbarbutton.md), [Image](image.md), [Icons for UWP apps](/windows/uwp/style/icons)
+[IconSource](iconsource.md), [AppBarButton](/uwp/api/windows.ui.xaml.controls.appbarbutton), [Image](/uwp/api/windows.ui.xaml.controls.image), [Icons for UWP apps](/windows/uwp/style/icons)

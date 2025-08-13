@@ -11,7 +11,7 @@ public void SetColorProperty (string propertyName, Windows.UI.Color value);
 
 ## -description
 
-Sets the color of the animated visual for an [AnimatedIcon](AnimatedIcon.md).
+Sets the color of the animated visual for an [AnimatedIcon](../microsoft.ui.xaml.controls/animatedicon.md).
 
 **This documentation applies to WinUI 2 for UWP** (for [WinUI](/windows/apps/winui/winui3/) in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
 

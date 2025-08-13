@@ -7999,7 +7999,7 @@ The _MinWindowHeight_ property for the [AdaptiveTrigger](/uwp/api/windows.ui.xam
 
 
 ## -see-also
-[XamlDirect](xamldirect.md), [IXamlDirect](/uwp/api/windows.ui.xaml.core.direct.ixamldirect), [XamlTypeIndex](xamltypeindex.md), [XamlEventIndex](xamleventindex.md)
+[XamlDirect](xamldirect.md), [IXamlDirect](ixamldirect.md), [XamlTypeIndex](xamltypeindex.md), [XamlEventIndex](xamleventindex.md)
 
 
 ## -examples

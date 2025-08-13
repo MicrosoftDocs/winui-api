@@ -17,6 +17,8 @@ Gets the TabViewItem that was dropped outside of the TabStrip.
 
 ## -property-value
 
+The tab that was dropped outside of the TabStrip.
+
 ## -remarks
 
 ## -see-also

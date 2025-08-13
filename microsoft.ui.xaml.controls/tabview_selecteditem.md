@@ -17,7 +17,7 @@ Gets or sets the selected item.
 
 ## -property-value
 
-The selected item.
+The selected item, if any is selected. The default is `null`.
 
 ## -remarks
 

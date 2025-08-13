@@ -19,5 +19,6 @@ Occurs when a drag operation is initiated.
 
 ## -see-also
 
-## -examples
+[CanDragTabs](tabview_candragtabs.md), [CanReorderTabs](tabview_canreordertabs.md), [AllowDropTabs](tabview_allowdroptabs.md), [TabStripDragOver](tabview_tabstripdragover.md), [TabStripDrop](tabview_tabstripdrop.md), [TabDragCompleted](tabview_tabdragcompleted.md), [TabDroppedOutside](tabview_tabdroppedoutside.md)
 
+## -examples
