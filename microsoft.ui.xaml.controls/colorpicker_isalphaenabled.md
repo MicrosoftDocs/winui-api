@@ -23,14 +23,12 @@ Gets or sets a value that indicates whether the alpha channel can be modified.
 
 ## -remarks
 
-The **IsAlphaSliderVisible** and **IsAlphaTextInputVisible** properties are ignored if IsAlphaEnabled is **false**.
+The **IsAlphaSliderVisible** and **IsAlphaTextInputVisible** properties are ignored if **IsAlphaEnabled** is **false**.
 
 
 ## -see-also
 
-
 ## -examples
-
 
 ## -xaml-syntax
 
